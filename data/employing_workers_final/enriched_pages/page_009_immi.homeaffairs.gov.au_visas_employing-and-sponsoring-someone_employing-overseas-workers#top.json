@@ -1,0 +1,48 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers#top",
+  "title": "Employing overseas workers",
+  "content_type": "general_information",
+  "summary": "This page provides guidance for employers in Australia who are seeking to hire or sponsor overseas workers. It outlines key topics including visa options, worker rights, employer responsibilities, and how to check work rights.",
+  "structured_data": {
+    "topics": [
+      {
+        "title": "Explore options for employers",
+        "description": "Information on nominating an overseas worker and types of visas and sponsorship."
+      },
+      {
+        "title": "Hiring a visa holder",
+        "description": "Step-by-step guidance on hiring people already in Australia."
+      },
+      {
+        "title": "Sponsoring workers",
+        "description": "Details on filling skilled roles by sponsoring workers."
+      },
+      {
+        "title": "Check employee work rights",
+        "description": "Use the VEVO system to verify work permissions and restrictions."
+      },
+      {
+        "title": "Worker rights",
+        "description": "Information about employer responsibilities regarding worker pay and conditions."
+      },
+      {
+        "title": "Skilled occupation list",
+        "description": "Guidance on checking whether a job is on the skilled occupation list."
+      },
+      {
+        "title": "Employer responsibilities",
+        "description": "Outlines obligations of employers and steps to take if circumstances change."
+      },
+      {
+        "title": "Business and industry outreach",
+        "description": "Explains support provided by BIRO officers to businesses and industry."
+      },
+      {
+        "title": "Migrant worker protections",
+        "description": "Information about laws addressing migrant worker exploitation."
+      }
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+  "depth": 1
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/business-industry-and-regional-outreach",
+  "title": "Business, industry and regional outreach",
+  "content_type": "general_information",
+  "summary": "This page explains the role of the Department's Business, Industry and Regional Outreach (BIRO) officers, who provide information on migration to businesses, industry groups, government agencies, and regional stakeholders. It also clarifies that BIRO officers cannot provide individual migration advice and directs users to registered migration agents or legal practitioners for assistance.",
+  "structured_data": {
+    "biro_officer_audience": [
+      "business",
+      "industry including professional and industry associations and unions",
+      "government agencies at all levels",
+      "regional Australia stakeholders"
+    ],
+    "biro_officer_role": "Provide information on migration and visa pathway options to help employers fill vacant positions where Australian workers are unavailable.",
+    "outreach_events_contact_method": "contact form",
+    "migration_advice_policy": {
+      "biro_officers_provide_individual_advice": false,
+      "independent_advice_sources": [
+        "registered migration agent",
+        "legal practitioner"
+      ],
+      "who_can_charge_for_immigration_assistance": [
+        "registered migration agents",
+        "legal practitioners"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+  "depth": 1
+}

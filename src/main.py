@@ -217,6 +217,96 @@ async def _enrich_all(file_manager: FileManager):
 
 
 @cli.command()
+@click.argument("url")
+@click.option("--name", "-n", required=True, help="Job name for this scrape")
+@click.option("--depth", "-d", type=int, default=1, help="Maximum crawl depth (default: 1)")
+@click.option("--max-pages", "-m", type=int, default=50, help="Maximum pages to scrape (default: 50)")
+@click.option("--filter", "-f", type=click.Choice(["same_path", "same_domain", "all"]), default="same_path", help="Link filter strategy")
+@click.option("--no-synthesis", is_flag=True, help="Skip final LLM synthesis")
+@click.option("--no-individual", is_flag=True, help="Don't save individual page extractions")
+def scrape_generic(url: str, name: str, depth: int, max_pages: int, filter: str, no_synthesis: bool, no_individual: bool):
+    """Scrape any website with intelligent content extraction.
+
+    This command scrapes a website starting from URL, intelligently discovers
+    related pages, and uses LLM to extract structured data.
+
+    Example:
+      python -m src.main scrape-generic \\
+        "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times" \\
+        --name processing_times --depth 1
+    """
+    asyncio.run(_scrape_generic(url, name, depth, max_pages, filter, no_synthesis, no_individual))
+
+
+async def _scrape_generic(
+    url: str,
+    name: str,
+    depth: int,
+    max_pages: int,
+    filter: str,
+    no_synthesis: bool,
+    no_individual: bool
+):
+    """Execute generic scraping.
+
+    Args:
+        url: Starting URL
+        name: Job name
+        depth: Maximum crawl depth
+        max_pages: Maximum pages to scrape
+        filter: Link filter strategy
+        no_synthesis: Skip final synthesis
+        no_individual: Don't save individual pages
+    """
+    from src.models.generic import JobConfig, CrawlConfig
+    from src.generic_scraper import GenericScraper
+
+    logger.info(
+        "generic_scrape_started",
+        url=url,
+        name=name,
+        depth=depth,
+        max_pages=max_pages,
+        filter=filter
+    )
+
+    # Create job configuration
+    crawl_config = CrawlConfig(
+        depth=depth,
+        max_pages=max_pages,
+        link_filter=filter
+    )
+
+    job_config = JobConfig(
+        job_name=name,
+        start_url=url,
+        crawl_config=crawl_config,
+        save_individual_pages=not no_individual,
+        final_synthesis=not no_synthesis
+    )
+
+    # Run the scraper
+    try:
+        scraper = GenericScraper(settings)
+        result = await scraper.scrape(job_config)
+
+        # Display results
+        click.echo(f"\n[OK] Scraping completed!")
+        click.echo(f"   Job name: {name}")
+        click.echo(f"   Pages scraped: {result.crawl_metadata.get('total_pages', 0)}")
+        click.echo(f"   Duration: {result.crawl_metadata.get('duration_seconds', 0):.2f}s")
+        click.echo(f"   Output: {settings.DATA_DIR / name}")
+
+        if result.crawl_metadata.get('failed_urls'):
+            click.echo(f"   Failed URLs: {len(result.crawl_metadata['failed_urls'])}")
+
+    except Exception as e:
+        logger.error("generic_scrape_failed", error=str(e))
+        click.echo(f"\n[ERROR] Scraping failed: {e}")
+        raise
+
+
+@cli.command()
 @click.option(
     "--type",
     "file_type",

@@ -1,0 +1,59 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/explore-options-for-employers",
+  "title": "Explore options for employers",
+  "content_type": "visa_information",
+  "summary": "This page provides information for employers seeking to hire overseas workers when suitable Australian workers are not available. It outlines visa options, sponsorship requirements, steps to nominate workers, and the work rights associated with different visa types. The page also highlights specific categories such as sponsored visas, Temporary Graduate visas, and other visas with work rights.",
+  "structured_data": {
+    "employer_actions": {
+      "when_to_hire_overseas_workers": "If an Australian citizen or permanent resident cannot be found to fill a vacancy.",
+      "steps_to_nominate_worker": [
+        "Create an organisation ImmiAccount",
+        "Apply to become an approved sponsor",
+        "Nominate the role to be filled",
+        "Nominate the person to employ"
+      ],
+      "post_nomination_requirement": "The overseas worker must submit a visa application."
+    },
+    "verification_requirements": {
+      "check_work_rights_tool": "Visa Entitlement Verification Online (VEVO)",
+      "workplace_protections": "Visa holders are protected by Australian workplace laws."
+    },
+    "occupation_requirements": {
+      "skilled_occupation_list_required": true,
+      "alternative_if_not_on_list": "Negotiate a labour agreement"
+    },
+    "visa_categories": {
+      "sponsored_visas": {
+        "permanent_sponsorship_option": "Employer Nomination Scheme visa (subclass 186)",
+        "temporary_sponsorship_option": {
+          "visa_name": "Skills in Demand visa",
+          "subclass": "482",
+          "stay_duration": "2 to 5 years"
+        }
+      },
+      "temporary_graduate_visa": {
+        "rights": "Live, study and work temporarily after completing studies",
+        "stay_duration": "18 months to 3 years depending on qualification",
+        "benefits": [
+          "Australian-educated graduates",
+          "Qualifications often in high-demand skill areas",
+          "No sponsorship required",
+          "No work restrictions",
+          "Possible eligibility for longer-term stays through sponsorship or skilled migration"
+        ],
+        "notes": "Exceptions apply; see 'About this visa' tab for details"
+      },
+      "other_visas_with_work_rights": {
+        "description": "Some other visas allow work in Australia without sponsorship",
+        "examples": "Content truncated; incomplete list on provided page"
+      }
+    },
+    "use_of_immiaccount": [
+      "Apply to become an approved sponsor",
+      "Nominate a role",
+      "Nominate a worker"
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+  "depth": 1
+}

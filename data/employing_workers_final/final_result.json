@@ -1,0 +1,823 @@
+{
+  "job_name": "employing_workers_final",
+  "start_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+  "crawl_metadata": {
+    "total_pages": 10,
+    "successful_enrichments": 10,
+    "duration_seconds": 275.389206,
+    "visited_urls": [
+      "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+      "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/explore-options-for-employers",
+      "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/hire-someone-in-australia",
+      "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/sponsoring-workers/learn-about-sponsoring/how-to-sponsor-a-worker",
+      "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/worker-rights",
+      "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employer-responsibilities",
+      "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/business-industry-and-regional-outreach",
+      "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/migrant-worker-protections",
+      "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers#contentBox",
+      "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers#top"
+    ],
+    "failed_urls": []
+  },
+  "main_page": {
+    "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+    "title": "Employing overseas workers",
+    "content_type": "general_information",
+    "summary": "This page provides an overview of information and resources for employers looking to hire or sponsor overseas workers in Australia. It links to guidance on employer obligations, visa options, worker rights, skilled occupation lists, and checking visa work rights.",
+    "structured_data": {
+      "topics": [
+        {
+          "title": "Explore options for employers",
+          "description": "Information on nominating an overseas worker and available visa and sponsorship types."
+        },
+        {
+          "title": "Hiring a visa holder",
+          "description": "Step-by-step guidance on hiring people already in Australia on a visa."
+        },
+        {
+          "title": "Sponsoring workers",
+          "description": "Information on filling skilled roles by sponsoring overseas workers."
+        },
+        {
+          "title": "Check employee work rights",
+          "description": "Instructions for using VEVO to verify visa work rights and restrictions."
+        },
+        {
+          "title": "Worker rights",
+          "description": "Employer responsibilities regarding pay, conditions, and treatment of visa holders."
+        },
+        {
+          "title": "Skilled occupation list",
+          "description": "Information on whether a job is included on the skilled occupation list."
+        },
+        {
+          "title": "Employer responsibilities",
+          "description": "Overview of employer obligations and required actions if circumstances change."
+        },
+        {
+          "title": "Business and industry outreach",
+          "description": "Support provided by Business, Industry and Regional Outreach (BIRO) officers."
+        },
+        {
+          "title": "Migrant worker protections",
+          "description": "Information on laws introduced to prevent migrant worker exploitation."
+        }
+      ]
+    },
+    "parent_url": null,
+    "depth": 0
+  },
+  "child_pages": [
+    {
+      "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/explore-options-for-employers",
+      "title": "Explore options for employers",
+      "content_type": "visa_information",
+      "summary": "This page provides information for employers seeking to hire overseas workers when suitable Australian workers are not available. It outlines visa options, sponsorship requirements, steps to nominate workers, and the work rights associated with different visa types. The page also highlights specific categories such as sponsored visas, Temporary Graduate visas, and other visas with work rights.",
+      "structured_data": {
+        "employer_actions": {
+          "when_to_hire_overseas_workers": "If an Australian citizen or permanent resident cannot be found to fill a vacancy.",
+          "steps_to_nominate_worker": [
+            "Create an organisation ImmiAccount",
+            "Apply to become an approved sponsor",
+            "Nominate the role to be filled",
+            "Nominate the person to employ"
+          ],
+          "post_nomination_requirement": "The overseas worker must submit a visa application."
+        },
+        "verification_requirements": {
+          "check_work_rights_tool": "Visa Entitlement Verification Online (VEVO)",
+          "workplace_protections": "Visa holders are protected by Australian workplace laws."
+        },
+        "occupation_requirements": {
+          "skilled_occupation_list_required": true,
+          "alternative_if_not_on_list": "Negotiate a labour agreement"
+        },
+        "visa_categories": {
+          "sponsored_visas": {
+            "permanent_sponsorship_option": "Employer Nomination Scheme visa (subclass 186)",
+            "temporary_sponsorship_option": {
+              "visa_name": "Skills in Demand visa",
+              "subclass": "482",
+              "stay_duration": "2 to 5 years"
+            }
+          },
+          "temporary_graduate_visa": {
+            "rights": "Live, study and work temporarily after completing studies",
+            "stay_duration": "18 months to 3 years depending on qualification",
+            "benefits": [
+              "Australian-educated graduates",
+              "Qualifications often in high-demand skill areas",
+              "No sponsorship required",
+              "No work restrictions",
+              "Possible eligibility for longer-term stays through sponsorship or skilled migration"
+            ],
+            "notes": "Exceptions apply; see 'About this visa' tab for details"
+          },
+          "other_visas_with_work_rights": {
+            "description": "Some other visas allow work in Australia without sponsorship",
+            "examples": "Content truncated; incomplete list on provided page"
+          }
+        },
+        "use_of_immiaccount": [
+          "Apply to become an approved sponsor",
+          "Nominate a role",
+          "Nominate a worker"
+        ]
+      },
+      "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+      "depth": 1
+    },
+    {
+      "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/hire-someone-in-australia",
+      "title": "Hiring someone in Australia",
+      "content_type": "general_information",
+      "summary": "This page explains how employers in Australia must verify that a person is legally allowed to work before hiring them. It outlines steps for checking citizenship, permanent residency, and visa work entitlements using VEVO. It also details what is and is not acceptable evidence and provides guidance on ongoing visa checks.",
+      "structured_data": {
+        "legal_work_requirements": {
+          "can_work_unrestricted": [
+            "Australian citizens",
+            "Australian permanent residents"
+          ],
+          "visa_holders": {
+            "unrestricted": "Some visa holders can work without limits",
+            "restricted": "Some visa holders can only work limited hours",
+            "no_work": "Some visa holders cannot work at all"
+          },
+          "insufficient_evidence_for_work_rights": [
+            "Medicare card",
+            "Tax file number",
+            "Driver's licence"
+          ]
+        },
+        "hiring_steps": {
+          "step_1": "Check if the person is an Australian citizen.",
+          "step_2": {
+            "description": "If not a citizen, check if they are a permanent resident.",
+            "acceptable_evidence": [
+              "Overseas passport",
+              "Evidence of holding an Australian permanent visa"
+            ],
+            "verification_tool": "Visa Entitlement Verification Online (VEVO)"
+          },
+          "step_3": {
+            "description": "If not a citizen or permanent resident, verify their visa work entitlements.",
+            "how_to_check": [
+              "Ask the person to email their current visa details from VEVO",
+              "Use VEVO with the visa holder’s permission"
+            ],
+            "vevo_outputs": [
+              "Visa grant and expiry date",
+              "Work entitlements"
+            ],
+            "requirements_to_hire": [
+              "Visa is in effect",
+              "Conditions do not say 'No work'",
+              "No breach of other visa conditions",
+              "Visa not expired or cancelled",
+              "Visa permits the type of work"
+            ]
+          },
+          "step_4": {
+            "description": "Ensure the employee has valid work rights for the entire employment period.",
+            "ongoing_checks": [
+              "Check visa within 2 days of expiry",
+              "Check sooner if visa circumstances change",
+              "For bridging visas without an expiry date in VEVO, check every 3 months"
+            ],
+            "methods": [
+              "Ask employee to send VEVO details",
+              "Use VEVO with permission and travel documents"
+            ]
+          }
+        },
+        "referenced_links": {
+          "employing_or_sponsoring_workers": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone",
+          "employing_overseas_workers": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+          "existing_sponsors": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/existing-sponsors",
+          "labour_agreements": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/labour-agreements",
+          "employer_responsibilities": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employer-responsibilities"
+        }
+      },
+      "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+      "depth": 1
+    },
+    {
+      "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/sponsoring-workers/learn-about-sponsoring/how-to-sponsor-a-worker",
+      "title": "How to sponsor a worker",
+      "content_type": "visa_information",
+      "summary": "This page provides an overview of the steps employers must follow to sponsor a skilled worker in Australia. It outlines requirements such as labour market testing, selecting an eligible occupation, checking sponsor eligibility, nominating a position, and the worker completing a visa application. It also references additional resources and conditions depending on the visa type chosen.",
+      "structured_data": {
+        "sponsorship_process_steps": [
+          {
+            "step_number": 1,
+            "title": "Labour market testing",
+            "requirements": [
+              "Employer must show they cannot find a suitable person in Australia to fill the vacancy",
+              "Must provide evidence of labour market testing meeting formal requirements",
+              "Some occupations are exempt from labour market testing"
+            ]
+          },
+          {
+            "step_number": 2,
+            "title": "Occupation eligibility",
+            "requirements": [
+              "Occupation must be on the list of eligible skilled occupations",
+              "If not listed, employer may be able to negotiate a labour agreement",
+              "Some visa options exist for highly paid or specialist skilled applicants",
+              "Worker may need to provide qualifications, skills, and/or experience evidence",
+              "Employer must pay at least the applicable market salary rate",
+              "Nominated occupation determines applicable visa options"
+            ]
+          },
+          {
+            "step_number": 3,
+            "title": "Select a suitable visa",
+            "notes": [
+              "Employer should find a visa that suits both the employee and business needs",
+              "VEVO can be used to check the worker’s eligibility"
+            ]
+          },
+          {
+            "step_number": 4,
+            "title": "Check sponsor eligibility",
+            "notes": [
+              "Employer must ensure they and their business meet sponsorship eligibility requirements"
+            ]
+          },
+          {
+            "step_number": 5,
+            "title": "Apply to become a sponsor",
+            "requirements": [
+              "Employer must become an approved sponsor and/or nominator",
+              "May apply to be an accredited sponsor depending on visa type",
+              "Accredited sponsors receive priority processing",
+              "Additional information available under Becoming a sponsor or nominator"
+            ]
+          },
+          {
+            "step_number": 6,
+            "title": "Nominate the occupation",
+            "requirements": [
+              "Employer must nominate the occupation or position as required for the visa type",
+              "Must include details of the person to fill the role",
+              "Position must generally be on a relevant skilled occupation list"
+            ]
+          },
+          {
+            "step_number": 7,
+            "title": "Visa application",
+            "requirements": [
+              "The skilled worker is responsible for completing the visa application",
+              "Employer should ensure nominee meets eligibility criteria",
+              "Some workers may require a skills assessment from the correct assessing authority"
+            ]
+          }
+        ],
+        "key_links_referenced": [
+          "Labour market testing",
+          "Eligible skilled occupations list",
+          "Labour agreement",
+          "VEVO eligibility check",
+          "Visa options for sponsored skilled workers",
+          "Approved sponsor",
+          "Accredited sponsor",
+          "Becoming a sponsor or nominator"
+        ]
+      },
+      "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+      "depth": 1
+    },
+    {
+      "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/worker-rights",
+      "title": "Worker rights",
+      "content_type": "general_information",
+      "summary": "This page provides information about workplace rights for all workers in Australia, including overseas workers. It explains employer obligations, clarifies that only the Australian Government can cancel visas, and highlights required pay and workplace conditions.",
+      "structured_data": {
+        "worker_rights": {
+          "visa_protection": "Employers cannot cancel or change a worker's visa or visa conditions; only the Australian Government can do this.",
+          "workplace_protections_apply_to": [
+            "All workers in Australia",
+            "People from overseas working in Australia"
+          ]
+        },
+        "employer_obligations_for_overseas_workers": {
+          "minimum_requirements": [
+            "Provide at least the minimum wage or the relevant market salary rate (for sponsored visas)",
+            "Provide payslips, superannuation, and tax documents",
+            "Provide a safe workplace",
+            "Ensure legal pay rates, leave conditions, shift arrangements, and dismissal processes equivalent to Australian employees"
+          ]
+        },
+        "resources": {
+          "fair_work_ombudsman_information": [
+            "Pay rates",
+            "Shift calculations",
+            "Leave arrangements",
+            "Dismissal notices",
+            "Redundancy entitlements"
+          ],
+          "links": {
+            "fair_work_ombudsman": "Not provided explicitly in content",
+            "pay_and_conditions_tool": "Not provided explicitly in content",
+            "employing_or_sponsoring_workers": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone",
+            "employing_overseas_workers": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+            "existing_sponsors": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/existing-sponsors",
+            "labour_agreements": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/labour-agreements"
+          }
+        }
+      },
+      "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+      "depth": 1
+    },
+    {
+      "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employer-responsibilities",
+      "title": "Employer responsibilities",
+      "content_type": "general_information",
+      "summary": "This page outlines employer and sponsorship responsibilities under Australia’s immigration framework. It explains when sponsors must contact the Department of Home Affairs, consequences for failing to meet obligations, and the types of sanctions that may be imposed. It also provides information on how to pay infringement notices.",
+      "structured_data": {
+        "sponsorship_obligations_categories": [
+          "Standard business sponsors",
+          "Accredited sponsors",
+          "Temporary activities sponsors"
+        ],
+        "when_to_contact_department": [
+          "When business circumstances change",
+          "When there is a change relating to the sponsored person"
+        ],
+        "contact_methods": {
+          "email": "sponsor.notifications@abf.gov.au",
+          "online_form": "ImmiAccount"
+        },
+        "consequences_of_non_compliance": {
+          "general": [
+            "Cancellation of approval as a sponsor",
+            "Financial penalties"
+          ],
+          "detailed_sanctions": [
+            "Cancellation of approval as a sponsor",
+            "Being banned from sponsoring other workers",
+            "Being banned from making future applications for approval",
+            "Infringement notices with financial penalties (amount varies for individuals vs. body corporates and first vs. subsequent notices)",
+            "Civil penalties (up to $82,500 for corporations, $16,500 for individuals per failure)",
+            "Enforceable Undertaking (legally binding agreement)"
+          ],
+          "multiple_sanctions_possible": true
+        },
+        "infringement_notice_payment": {
+          "payment_method": "BPAY"
+        },
+        "referenced_links": {
+          "employing_or_sponsoring_workers": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone",
+          "employing_overseas_workers": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+          "existing_sponsors": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/existing-sponsors",
+          "labour_agreements": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/labour-agreements",
+          "employer_responsibilities": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employer-responsibilities",
+          "work_related_contraventions": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employer-responsibilities/work-related-contraventions",
+          "offshore_oil_and_gas_industry_management": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employer-responsibilities/managing-people-in-australias-offshore-oil-and-gas-industry",
+          "standard_business_sponsors": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/sponsoring-workers/becoming-a-sponsor/standard-business-sponsor",
+          "accredited_sponsors": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/sponsoring-workers/becoming-a-sponsor/accredited-sponsor",
+          "temporary_activities_sponsors": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/existing-sponsors/tas-sponsorship-obligations"
+        }
+      },
+      "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+      "depth": 1
+    },
+    {
+      "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/business-industry-and-regional-outreach",
+      "title": "Business, industry and regional outreach",
+      "content_type": "general_information",
+      "summary": "This page explains the role of the Department's Business, Industry and Regional Outreach (BIRO) officers, who provide information on migration to businesses, industry groups, government agencies, and regional stakeholders. It also clarifies that BIRO officers cannot provide individual migration advice and directs users to registered migration agents or legal practitioners for assistance.",
+      "structured_data": {
+        "biro_officer_audience": [
+          "business",
+          "industry including professional and industry associations and unions",
+          "government agencies at all levels",
+          "regional Australia stakeholders"
+        ],
+        "biro_officer_role": "Provide information on migration and visa pathway options to help employers fill vacant positions where Australian workers are unavailable.",
+        "outreach_events_contact_method": "contact form",
+        "migration_advice_policy": {
+          "biro_officers_provide_individual_advice": false,
+          "independent_advice_sources": [
+            "registered migration agent",
+            "legal practitioner"
+          ],
+          "who_can_charge_for_immigration_assistance": [
+            "registered migration agents",
+            "legal practitioners"
+          ]
+        }
+      },
+      "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+      "depth": 1
+    },
+    {
+      "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/migrant-worker-protections",
+      "title": "Migrant worker protections",
+      "content_type": "general_information",
+      "summary": "This page explains new Australian laws introduced under the Migration Amendment (Strengthening Employer Compliance) Act 2024, aimed at protecting migrant workers from exploitation. It outlines what constitutes exploitation, who is protected, penalties for non‑compliance, and the new prohibition declaration for employers. Resources such as videos, translated materials, and further information links are also provided.",
+      "structured_data": {
+        "legislation": {
+          "name": "Migration Amendment (Strengthening Employer Compliance) Act 2024",
+          "amends": "Migration Act 1958",
+          "start_date": "1 July 2024",
+          "purpose": [
+            "Reduce temporary migrant worker exploitation",
+            "Increase employer compliance",
+            "Improve workplace justice outcomes"
+          ]
+        },
+        "who_is_covered": {
+          "coverage": "All migrant workers regardless of visa status",
+          "examples": [
+            "Workers with visas that include work rights",
+            "Workers with expired visas",
+            "Workers breaching visa conditions",
+            "Backpackers",
+            "Students",
+            "PALM scheme workers"
+          ]
+        },
+        "examples_of_exploitation": [
+          "Underpaying a migrant worker",
+          "Pressuring a worker to exceed visa‑allowed work hours",
+          "Pressuring a worker to accept inadequate living conditions"
+        ],
+        "new_offences": [
+          "Coercing or pressuring a temporary visa holder to breach a work‑related visa condition"
+        ],
+        "penalties": {
+          "description": "People who deliberately, seriously or repeatedly break the laws can be fined or jailed.",
+          "additional_measures": "Some employers may be prevented from hiring additional migrant workers."
+        },
+        "prohibition_declaration": {
+          "description": "A measure that stops certain employers from hiring more migrant workers.",
+          "public_listing": "Names and ABNs of prohibited employers will be published on the Australian Border Force website."
+        },
+        "resources": {
+          "video_available": true,
+          "comic_available": true,
+          "translated_resources_link": "Translated resources",
+          "more_information_url": "homeaffairs.gov.au/migrant-worker-protections"
+        }
+      },
+      "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+      "depth": 1
+    },
+    {
+      "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers#contentBox",
+      "title": "Employing overseas workers",
+      "content_type": "general_information",
+      "summary": "This page provides an overview of information and resources for employers who want to hire or sponsor overseas workers in Australia. It links to guidance on visa sponsorship, checking work rights, employer responsibilities, migrant worker protections, and related support services.",
+      "structured_data": {
+        "topics": [
+          "Explore options for employers",
+          "Hiring a visa holder",
+          "Sponsoring workers",
+          "Check employee work rights (VEVO)",
+          "Worker rights",
+          "Skilled occupation list",
+          "Employer responsibilities",
+          "Business and industry outreach (BIRO)",
+          "Migrant worker protections"
+        ],
+        "key_functions": {
+          "visa_nomination_guidance": true,
+          "visa_holder_hiring_steps": true,
+          "sponsorship_information": true,
+          "work_rights_verification": "VEVO",
+          "employer_obligations_guidance": true,
+          "occupation_list_access": true,
+          "outreach_support": "Business, Industry and Regional Outreach (BIRO)",
+          "worker_protection_laws_overview": true
+        }
+      },
+      "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+      "depth": 1
+    },
+    {
+      "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers#top",
+      "title": "Employing overseas workers",
+      "content_type": "general_information",
+      "summary": "This page provides guidance for employers in Australia who are seeking to hire or sponsor overseas workers. It outlines key topics including visa options, worker rights, employer responsibilities, and how to check work rights.",
+      "structured_data": {
+        "topics": [
+          {
+            "title": "Explore options for employers",
+            "description": "Information on nominating an overseas worker and types of visas and sponsorship."
+          },
+          {
+            "title": "Hiring a visa holder",
+            "description": "Step-by-step guidance on hiring people already in Australia."
+          },
+          {
+            "title": "Sponsoring workers",
+            "description": "Details on filling skilled roles by sponsoring workers."
+          },
+          {
+            "title": "Check employee work rights",
+            "description": "Use the VEVO system to verify work permissions and restrictions."
+          },
+          {
+            "title": "Worker rights",
+            "description": "Information about employer responsibilities regarding worker pay and conditions."
+          },
+          {
+            "title": "Skilled occupation list",
+            "description": "Guidance on checking whether a job is on the skilled occupation list."
+          },
+          {
+            "title": "Employer responsibilities",
+            "description": "Outlines obligations of employers and steps to take if circumstances change."
+          },
+          {
+            "title": "Business and industry outreach",
+            "description": "Explains support provided by BIRO officers to businesses and industry."
+          },
+          {
+            "title": "Migrant worker protections",
+            "description": "Information about laws addressing migrant worker exploitation."
+          }
+        ]
+      },
+      "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+      "depth": 1
+    }
+  ],
+  "structured_data": {
+    "employing_overseas_workers": {
+      "overview": {
+        "description": "Guidance for employers in Australia who want to hire or sponsor overseas workers. Includes information on visa options, sponsorship, work rights verification, employer obligations, skilled occupation requirements, worker protections, and outreach support.",
+        "key_topics": [
+          "Explore options for employers",
+          "Hiring a visa holder",
+          "Sponsoring workers",
+          "Checking employee work rights (VEVO)",
+          "Worker rights",
+          "Skilled occupation list",
+          "Employer responsibilities",
+          "Business and Industry Outreach (BIRO)",
+          "Migrant worker protections"
+        ]
+      },
+      "employer_options": {
+        "when_to_hire_overseas_workers": "If an Australian citizen or permanent resident cannot be found to fill the vacancy.",
+        "steps_to_nominate_overseas_worker": [
+          "Create an organisation ImmiAccount",
+          "Apply to become an approved sponsor",
+          "Nominate the role to be filled",
+          "Nominate the person to employ"
+        ],
+        "post_nomination_requirement": "The overseas worker must submit a visa application.",
+        "occupation_requirements": {
+          "skilled_occupation_list_required": true,
+          "alternative_if_not_on_list": "Negotiate a labour agreement"
+        },
+        "use_of_immiaccount": [
+          "Apply to become an approved sponsor",
+          "Nominate a role",
+          "Nominate a worker"
+        ]
+      },
+      "hiring_in_australia": {
+        "work_rights_requirements": {
+          "can_work_unrestricted": [
+            "Australian citizens",
+            "Australian permanent residents"
+          ],
+          "visa_holders": {
+            "unrestricted": "Some visa holders can work without limits",
+            "restricted": "Some visa holders can only work limited hours",
+            "no_work": "Some visa holders cannot work at all"
+          },
+          "insufficient_evidence": [
+            "Medicare card",
+            "Tax file number",
+            "Driver's licence"
+          ]
+        },
+        "hiring_steps": {
+          "step_1": "Check if the person is an Australian citizen.",
+          "step_2": {
+            "description": "If not, check for permanent residency.",
+            "acceptable_evidence": [
+              "Overseas passport",
+              "Evidence of holding an Australian permanent visa"
+            ],
+            "verification_tool": "VEVO"
+          },
+          "step_3": {
+            "description": "Verify visa work entitlements.",
+            "how_to_check": [
+              "Ask the person to email VEVO details",
+              "Use VEVO with the visa holder’s permission"
+            ],
+            "requirements_to_hire": [
+              "Visa is valid",
+              "Conditions do not state 'No work'",
+              "Visa permits the type of work",
+              "No breach of other visa conditions"
+            ]
+          },
+          "step_4": {
+            "description": "Ensure ongoing valid work rights.",
+            "ongoing_checks": [
+              "Check visa within 2 days of expiry",
+              "Check sooner if circumstances change",
+              "For bridging visas with no expiry in VEVO, check every 3 months"
+            ]
+          }
+        }
+      },
+      "visa_categories": {
+        "sponsored_visas": {
+          "permanent": "Employer Nomination Scheme (subclass 186)",
+          "temporary": {
+            "visa_name": "Skills in Demand visa",
+            "subclass": "482",
+            "stay_duration": "2 to 5 years"
+          }
+        },
+        "temporary_graduate_visa": {
+          "rights": "Live, study, and work temporarily after completing studies",
+          "stay_duration": "18 months to 3 years depending on qualification",
+          "benefits": [
+            "Australian-educated graduates",
+            "Qualifications often in high-demand skill areas",
+            "No sponsorship required",
+            "No work restrictions",
+            "Possible eligibility for longer-term stays"
+          ]
+        },
+        "other_visas_with_work_rights": {
+          "description": "Some other visas allow work in Australia without sponsorship."
+        }
+      },
+      "sponsoring_workers": {
+        "process_steps": [
+          {
+            "step": "Labour market testing",
+            "requirements": [
+              "Show no suitable worker in Australia is available",
+              "Provide evidence that testing meets formal requirements",
+              "Some occupations are exempt"
+            ]
+          },
+          {
+            "step": "Occupation eligibility",
+            "requirements": [
+              "Occupation must be on relevant skilled list",
+              "If not, negotiate a labour agreement",
+              "Some visas available for highly paid or specialist applicants",
+              "Provide evidence of worker’s qualifications/skills",
+              "Pay at least market salary rate"
+            ]
+          },
+          {
+            "step": "Select a suitable visa",
+            "notes": [
+              "Visa should suit both employer and worker needs",
+              "VEVO may be used to check worker eligibility"
+            ]
+          },
+          {
+            "step": "Check sponsor eligibility"
+          },
+          {
+            "step": "Apply to become a sponsor",
+            "requirements": [
+              "Become an approved sponsor and/or nominator",
+              "Some may apply to be an accredited sponsor for priority processing"
+            ]
+          },
+          {
+            "step": "Nominate the occupation",
+            "requirements": [
+              "Nominate the occupation or position",
+              "Include nominee details",
+              "Occupation usually must be on a skilled list"
+            ]
+          },
+          {
+            "step": "Visa application",
+            "requirements": [
+              "The worker must apply for the visa",
+              "Ensure nominee meets criteria",
+              "Skills assessment may be required"
+            ]
+          }
+        ]
+      },
+      "checking_work_rights": {
+        "tool": "VEVO",
+        "outputs": [
+          "Visa grant and expiry date",
+          "Work entitlements"
+        ]
+      },
+      "worker_rights": {
+        "visa_protection": "Only the Australian Government can change or cancel visas.",
+        "workplace_protections_apply_to": [
+          "All workers in Australia",
+          "Overseas workers"
+        ],
+        "employer_obligations": [
+          "Provide minimum wage or market salary rate (for sponsored visas)",
+          "Provide payslips, superannuation, and tax documents",
+          "Provide a safe workplace",
+          "Ensure lawful pay, leave, shift, and dismissal conditions"
+        ],
+        "resources": {
+          "fair_work_ombudsman_information": [
+            "Pay rates",
+            "Shift calculations",
+            "Leave arrangements",
+            "Dismissal notices",
+            "Redundancy entitlements"
+          ]
+        }
+      },
+      "employer_responsibilities": {
+        "sponsorship_categories": [
+          "Standard business sponsors",
+          "Accredited sponsors",
+          "Temporary activities sponsors"
+        ],
+        "when_to_contact_home_affairs": [
+          "Business circumstances change",
+          "Changes relating to the sponsored person occur"
+        ],
+        "contact_methods": {
+          "email": "sponsor.notifications@abf.gov.au",
+          "online": "ImmiAccount"
+        },
+        "consequences_of_non_compliance": {
+          "sanctions": [
+            "Cancellation of sponsorship approval",
+            "Ban on sponsoring workers",
+            "Ban on future sponsorship applications",
+            "Infringement notices with financial penalties",
+            "Civil penalties (up to $82,500 for corporations, $16,500 for individuals)",
+            "Enforceable undertakings"
+          ],
+          "multiple_sanctions_possible": true
+        },
+        "infringement_payment": {
+          "method": "BPAY"
+        }
+      },
+      "biro_outreach": {
+        "audience": [
+          "Businesses",
+          "Industry groups",
+          "Government agencies",
+          "Regional stakeholders"
+        ],
+        "role": "Provide information about migration and visa pathways to help fill workforce shortages.",
+        "limitations": {
+          "provide_individual_advice": false,
+          "seek_advice_from": [
+            "Registered migration agent",
+            "Legal practitioner"
+          ]
+        }
+      },
+      "migrant_worker_protections": {
+        "legislation": {
+          "name": "Migration Amendment (Strengthening Employer Compliance) Act 2024",
+          "amends": "Migration Act 1958",
+          "start_date": "1 July 2024",
+          "purpose": [
+            "Reduce exploitation",
+            "Increase employer compliance",
+            "Improve workplace justice outcomes"
+          ]
+        },
+        "coverage": "All migrant workers regardless of visa status",
+        "examples_of_exploitation": [
+          "Underpayment",
+          "Pressuring workers to exceed visa hours",
+          "Pressuring workers to accept poor living conditions"
+        ],
+        "new_offences": [
+          "Coercing visa holders to breach work-related conditions"
+        ],
+        "penalties": {
+          "consequences": "Fines or imprisonment for serious, repeated, or deliberate breaches.",
+          "additional_measures": "Employers may be prevented from hiring migrant workers."
+        },
+        "prohibition_declaration": {
+          "description": "Prevents certain employers from hiring migrant workers.",
+          "public_listing": "Names and ABNs published on Australian Border Force website."
+        },
+        "resources": {
+          "video_available": true,
+          "comic_available": true,
+          "translated_resources": true,
+          "more_information_url": "homeaffairs.gov.au/migrant-worker-protections"
+        }
+      }
+    }
+  },
+  "crawled_at": "2026-01-03T23:00:27.119977"
+}

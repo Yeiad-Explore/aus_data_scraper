@@ -1,0 +1,53 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employer-responsibilities",
+  "title": "Employer responsibilities",
+  "content_type": "general_information",
+  "summary": "This page outlines employer and sponsorship responsibilities under Australia’s immigration framework. It explains when sponsors must contact the Department of Home Affairs, consequences for failing to meet obligations, and the types of sanctions that may be imposed. It also provides information on how to pay infringement notices.",
+  "structured_data": {
+    "sponsorship_obligations_categories": [
+      "Standard business sponsors",
+      "Accredited sponsors",
+      "Temporary activities sponsors"
+    ],
+    "when_to_contact_department": [
+      "When business circumstances change",
+      "When there is a change relating to the sponsored person"
+    ],
+    "contact_methods": {
+      "email": "sponsor.notifications@abf.gov.au",
+      "online_form": "ImmiAccount"
+    },
+    "consequences_of_non_compliance": {
+      "general": [
+        "Cancellation of approval as a sponsor",
+        "Financial penalties"
+      ],
+      "detailed_sanctions": [
+        "Cancellation of approval as a sponsor",
+        "Being banned from sponsoring other workers",
+        "Being banned from making future applications for approval",
+        "Infringement notices with financial penalties (amount varies for individuals vs. body corporates and first vs. subsequent notices)",
+        "Civil penalties (up to $82,500 for corporations, $16,500 for individuals per failure)",
+        "Enforceable Undertaking (legally binding agreement)"
+      ],
+      "multiple_sanctions_possible": true
+    },
+    "infringement_notice_payment": {
+      "payment_method": "BPAY"
+    },
+    "referenced_links": {
+      "employing_or_sponsoring_workers": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone",
+      "employing_overseas_workers": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+      "existing_sponsors": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/existing-sponsors",
+      "labour_agreements": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/labour-agreements",
+      "employer_responsibilities": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employer-responsibilities",
+      "work_related_contraventions": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employer-responsibilities/work-related-contraventions",
+      "offshore_oil_and_gas_industry_management": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employer-responsibilities/managing-people-in-australias-offshore-oil-and-gas-industry",
+      "standard_business_sponsors": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/sponsoring-workers/becoming-a-sponsor/standard-business-sponsor",
+      "accredited_sponsors": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/sponsoring-workers/becoming-a-sponsor/accredited-sponsor",
+      "temporary_activities_sponsors": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/existing-sponsors/tas-sponsorship-obligations"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+  "depth": 1
+}

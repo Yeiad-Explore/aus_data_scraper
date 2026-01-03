@@ -1,0 +1,53 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/migrant-worker-protections",
+  "title": "Migrant worker protections",
+  "content_type": "general_information",
+  "summary": "This page explains new Australian laws introduced under the Migration Amendment (Strengthening Employer Compliance) Act 2024, aimed at protecting migrant workers from exploitation. It outlines what constitutes exploitation, who is protected, penalties for non‑compliance, and the new prohibition declaration for employers. Resources such as videos, translated materials, and further information links are also provided.",
+  "structured_data": {
+    "legislation": {
+      "name": "Migration Amendment (Strengthening Employer Compliance) Act 2024",
+      "amends": "Migration Act 1958",
+      "start_date": "1 July 2024",
+      "purpose": [
+        "Reduce temporary migrant worker exploitation",
+        "Increase employer compliance",
+        "Improve workplace justice outcomes"
+      ]
+    },
+    "who_is_covered": {
+      "coverage": "All migrant workers regardless of visa status",
+      "examples": [
+        "Workers with visas that include work rights",
+        "Workers with expired visas",
+        "Workers breaching visa conditions",
+        "Backpackers",
+        "Students",
+        "PALM scheme workers"
+      ]
+    },
+    "examples_of_exploitation": [
+      "Underpaying a migrant worker",
+      "Pressuring a worker to exceed visa‑allowed work hours",
+      "Pressuring a worker to accept inadequate living conditions"
+    ],
+    "new_offences": [
+      "Coercing or pressuring a temporary visa holder to breach a work‑related visa condition"
+    ],
+    "penalties": {
+      "description": "People who deliberately, seriously or repeatedly break the laws can be fined or jailed.",
+      "additional_measures": "Some employers may be prevented from hiring additional migrant workers."
+    },
+    "prohibition_declaration": {
+      "description": "A measure that stops certain employers from hiring more migrant workers.",
+      "public_listing": "Names and ABNs of prohibited employers will be published on the Australian Border Force website."
+    },
+    "resources": {
+      "video_available": true,
+      "comic_available": true,
+      "translated_resources_link": "Translated resources",
+      "more_information_url": "homeaffairs.gov.au/migrant-worker-protections"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+  "depth": 1
+}

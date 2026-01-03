@@ -1,0 +1,31 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers#contentBox",
+  "title": "Employing overseas workers",
+  "content_type": "general_information",
+  "summary": "This page provides an overview of information and resources for employers who want to hire or sponsor overseas workers in Australia. It links to guidance on visa sponsorship, checking work rights, employer responsibilities, migrant worker protections, and related support services.",
+  "structured_data": {
+    "topics": [
+      "Explore options for employers",
+      "Hiring a visa holder",
+      "Sponsoring workers",
+      "Check employee work rights (VEVO)",
+      "Worker rights",
+      "Skilled occupation list",
+      "Employer responsibilities",
+      "Business and industry outreach (BIRO)",
+      "Migrant worker protections"
+    ],
+    "key_functions": {
+      "visa_nomination_guidance": true,
+      "visa_holder_hiring_steps": true,
+      "sponsorship_information": true,
+      "work_rights_verification": "VEVO",
+      "employer_obligations_guidance": true,
+      "occupation_list_access": true,
+      "outreach_support": "Business, Industry and Regional Outreach (BIRO)",
+      "worker_protection_laws_overview": true
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/employing-overseas-workers",
+  "depth": 1
+}
