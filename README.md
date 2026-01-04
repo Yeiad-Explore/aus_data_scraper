@@ -1,87 +1,307 @@
-# Australian Home Affairs Visa Scraper
+# 🌐 Generic Web Scraper
 
-A deterministic web scraper for extracting visa information from the Australian Department of Home Affairs website.
+A powerful, deterministic web scraper for extracting structured content from websites with optional LLM-powered enrichment. Submit jobs via REST API or a beautiful web interface.
 
-## Features
+## ✨ Features
 
-- **Deterministic Scraping**: Non-agent-based, predictable extraction
-- **Full-Site Coverage**: Crawls all visa listing categories and detail pages
-- **JavaScript Rendering**: Uses Playwright for dynamic content
-- **Structured Output**: Clean JSON schema with validation
-- **Resumability**: State tracking for interrupted scrapes
-- **LLM Enrichment**: Optional post-processing with Claude/OpenAI/Azure
-- **Anti-Blocking**: Configurable delays and single browser context
-- **Web Frontend**: Interactive web interface to browse visa data
+- **🖥️ Web Interface**: Beautiful, user-friendly frontend - no coding required
+- **🚀 REST API**: Programmatic access for automation and integration
+- **🔄 Smart Crawling**: Intelligent link discovery with depth control
+- **📱 JavaScript Support**: Full Playwright browser automation
+- **🤖 LLM Enrichment**: Optional content enhancement with Azure OpenAI, Anthropic, or OpenAI
+- **📊 Structured Output**: Clean, validated JSON with semantic classification
+- **⏸️ Resumable Jobs**: State tracking for interrupted scrapes
+- **🛡️ Anti-Blocking**: Configurable delays and realistic browsing patterns
+- **📈 Real-time Status**: Track scraping progress with live updates
 
-## Architecture
+## 🏗️ Architecture
 
 ```
-Playwright Crawler → DOM Parser → Clean JSON (ground truth)
-                                       ↓
-                            LLM Post-Processor (optional)
-                                       ↓
-                                 Enriched JSON
+Playwright Browser → Smart Crawler → DOM Parser → Clean JSON
+                                                        ↓
+                                             LLM Post-Processor (optional)
+                                                        ↓
+                                                  Enriched JSON
 ```
 
-## Installation
+## 🚀 Quick Start
 
-### Prerequisites
+### Installation
 
-- Python 3.11 or higher
-- pip or Poetry
+**Prerequisites:** Python 3.11+
 
-### Setup
-
-1. Clone the repository:
 ```bash
+# 1. Clone the repository
 git clone <repository-url>
 cd immi-scraper
-```
 
-2. Install dependencies:
-```bash
-# Using pip
-pip install -e .
+# 2. Install dependencies
+pip install -r requirements.txt
 
-# Or using Poetry
-poetry install
-```
-
-3. Install Playwright browsers:
-```bash
+# 3. Install Playwright browsers
 playwright install chromium
-```
 
-4. Configure environment (optional):
-```bash
+# 4. (Optional) Configure LLM enrichment
 cp .env.example .env
-# Edit .env with your settings
+# Edit .env with your Azure OpenAI credentials if you want LLM enrichment
 ```
 
-## Usage
-
-### Basic Scraping
-
-Scrape all visas (without LLM enrichment):
+### Start the API Server
 
 ```bash
-python -m src.main scrape --skip-enrichment
+python -m src.main api
 ```
 
-### Full Pipeline (with LLM)
+The API will start at `http://localhost:8000`
 
-Configure LLM API key in `.env`:
+### Open the Web Interface
+
+Simply open `web/index.html` in your browser:
+
+**Windows:**
+```
+f:\Work\Personal\immi scraper\web\index.html
+```
+
+**Mac/Linux:**
+```
+file:///path/to/immi-scraper/web/index.html
+```
+
+That's it! You can now submit scraping jobs through the web interface. 🎉
+
+## 📖 Usage Guide
+
+### Option 1: Web Interface (Recommended)
+
+The easiest way to use the scraper:
+
+1. **Start the API server:**
+   ```bash
+   python -m src.main api
+   ```
+
+2. **Open the web interface** in your browser:
+   - Windows: `f:\Work\Personal\immi scraper\web\index.html`
+   - Mac/Linux: `file:///path/to/immi-scraper/web/index.html`
+
+3. **Fill out the form:**
+   - Enter the URL to scrape
+   - Give your job a name
+   - Set crawl depth and max pages
+   - Choose link filter strategy
+   - Click "Start Scraping"
+
+4. **Monitor progress:**
+   - The interface automatically updates every 5 seconds
+   - View results when complete
+
+### Option 2: REST API
+
+For programmatic access or automation:
+
+**Submit a job:**
+```bash
+curl -X POST http://localhost:8000/scrape \
+  -H "Content-Type: application/json" \
+  -d '{
+    "url": "https://example.com",
+    "name": "my_job",
+    "depth": 1,
+    "max_pages": 10,
+    "filter": "same_path"
+  }'
+```
+
+**Check status:**
+```bash
+curl http://localhost:8000/jobs/{job_id}
+```
+
+**View all jobs:**
+```bash
+curl http://localhost:8000/jobs
+```
+
+See the [REST API](#rest-api) section for detailed documentation.
+
+### Option 3: Python Script
+
+```python
+import requests
+
+response = requests.post('http://localhost:8000/scrape', json={
+    "url": "https://example.com",
+    "name": "my_scrape",
+    "depth": 1,
+    "max_pages": 10,
+    "filter": "same_path"
+})
+
+job_id = response.json()['job_id']
+print(f"Job submitted: {job_id}")
+```
+
+See [example_api_usage.py](example_api_usage.py) for a complete example.
+
+## ⚙️ Configuration
+
+### LLM Enrichment (Optional)
+
+To enable AI-powered content classification, configure Azure OpenAI in `.env`:
 
 ```bash
-LLM_PROVIDER=anthropic  # or "openai"
-LLM_API_KEY=sk-ant-...  # your API key
+LLM_PROVIDER=azure
+LLM_API_KEY=your-api-key-here
+AZURE_OPENAI_ENDPOINT=https://your-resource.openai.azure.com/
+AZURE_OPENAI_DEPLOYMENT=gpt-4o
 ```
 
-Run full pipeline:
+**Alternative providers:**
+- **Anthropic**: Set `LLM_PROVIDER=anthropic` and `LLM_MODEL=claude-3-5-sonnet-20241022`
+- **OpenAI**: Set `LLM_PROVIDER=openai` and `LLM_MODEL=gpt-4o`
+
+### Environment Variables
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `HEADLESS` | `true` | Run browser in headless mode |
+| `MIN_DELAY_SECONDS` | `3.0` | Minimum delay between pages |
+| `MAX_DELAY_SECONDS` | `6.0` | Maximum delay between pages |
+| `PAGE_LOAD_TIMEOUT` | `30000` | Page load timeout (ms) |
+| `LLM_PROVIDER` | `azure` | LLM provider (`azure`, `anthropic`, or `openai`) |
+| `LLM_API_KEY` | - | API key for LLM enrichment |
+| `AZURE_OPENAI_ENDPOINT` | - | Azure endpoint (required if using Azure) |
+| `AZURE_OPENAI_DEPLOYMENT` | - | Deployment name (required if using Azure) |
+| `LLM_MODEL` | - | Model name (for Anthropic/OpenAI only) |
+
+See [.env.example](.env.example) for all available settings.
+
+### REST API
+
+The scraper provides a REST API for programmatic access. This is the recommended way to submit scraping jobs.
+
+#### Start the API Server
 
 ```bash
-python -m src.main scrape
+python -m src.main api
 ```
+
+Options:
+- `--host`: Host to bind to (default: `0.0.0.0`)
+- `--port`: Port number (default: `8000`)
+- `--reload`: Enable auto-reload for development
+
+The API will be available at `http://localhost:8000`
+- API documentation: `http://localhost:8000/docs`
+- Alternative docs: `http://localhost:8000/redoc`
+
+#### Submit a Scraping Job
+
+**POST** `/scrape`
+
+Request body:
+```json
+{
+  "url": "https://immi.homeaffairs.gov.au/entering-and-leaving-australia/entering-australia/overview",
+  "name": "entering_australia",
+  "depth": 1,
+  "max_pages": 10,
+  "filter": "same_path",
+  "save_individual_pages": true,
+  "final_synthesis": true
+}
+```
+
+Example with `curl`:
+```bash
+curl -X POST http://localhost:8000/scrape \
+  -H "Content-Type: application/json" \
+  -d '{
+    "url": "https://immi.homeaffairs.gov.au/entering-and-leaving-australia/entering-australia/overview",
+    "name": "entering_australia",
+    "depth": 1,
+    "max_pages": 10,
+    "filter": "same_path"
+  }'
+```
+
+Response:
+```json
+{
+  "status": "queued",
+  "message": "Scraping job has been queued and will start shortly",
+  "job_id": "123e4567-e89b-12d3-a456-426614174000",
+  "job_name": "entering_australia",
+  "url": "https://immi.homeaffairs.gov.au/..."
+}
+```
+
+#### Check Job Status
+
+**GET** `/jobs/{job_id}`
+
+```bash
+curl http://localhost:8000/jobs/123e4567-e89b-12d3-a456-426614174000
+```
+
+Response:
+```json
+{
+  "job_id": "123e4567-e89b-12d3-a456-426614174000",
+  "job_name": "entering_australia",
+  "url": "https://...",
+  "status": "completed",
+  "created_at": "2024-01-15T10:30:00",
+  "result": {
+    "pages_scraped": 10,
+    "duration_seconds": 45.2,
+    "output_path": "data/entering_australia",
+    "failed_urls": []
+  }
+}
+```
+
+#### List All Jobs
+
+**GET** `/jobs`
+
+```bash
+curl http://localhost:8000/jobs
+```
+
+#### Python Example
+
+See [example_api_usage.py](example_api_usage.py) for a complete Python example:
+
+```bash
+python example_api_usage.py
+```
+
+#### Web Frontend
+
+A user-friendly web interface is available for submitting scraping jobs:
+
+1. Start the API server:
+```bash
+python -m src.main api
+```
+
+2. Open the frontend in your browser:
+```
+file:///path/to/immi-scraper/web/index.html
+```
+
+Or on Windows:
+```
+f:\Work\Personal\immi scraper\web\index.html
+```
+
+The frontend provides:
+- Simple form to submit scraping jobs
+- Real-time status updates
+- Results display with scraping statistics
+- No curl commands needed!
 
 ### CLI Commands
 
@@ -97,11 +317,27 @@ python -m src.main scrape --skip-enrichment
 # Fresh start (ignore previous state)
 python -m src.main scrape --fresh
 
-# Limit for testing (scrape only 10 visas)
+# Limit for testing (scrape only 10 pages)
 python -m src.main scrape --skip-enrichment --limit 10
+
+# Filter links with pattern
+python -m src.main scrape --skip-enrichment --link-pattern "/category/"
 
 # Verbose logging
 python -m src.main --verbose scrape
+```
+
+#### Generic Scraper
+
+For one-off scraping jobs without modifying settings:
+
+```bash
+python -m src.main scrape-generic \
+  "https://example.com/start-page" \
+  --name my_scrape_job \
+  --depth 2 \
+  --max-pages 100 \
+  --filter same_domain
 ```
 
 #### Validate
@@ -132,43 +368,24 @@ Reset scraping state (keeps data files):
 python -m src.main reset
 ```
 
-## Configuration
-
-Configuration is managed via environment variables (`.env`) or settings defaults.
-
-### Key Settings
-
-| Variable | Default | Description |
-|----------|---------|-------------|
-| `HEADLESS` | `true` | Run browser in headless mode |
-| `MIN_DELAY_SECONDS` | `3.0` | Minimum delay between pages |
-| `MAX_DELAY_SECONDS` | `6.0` | Maximum delay between pages |
-| `PAGE_LOAD_TIMEOUT` | `30000` | Page load timeout (ms) |
-| `LLM_PROVIDER` | `anthropic` | LLM provider (`anthropic`, `openai`, or `azure`) |
-| `LLM_API_KEY` | - | API key for LLM enrichment |
-| `LLM_MODEL` | `claude-3-5-sonnet-20241022` | LLM model to use |
-
-See [.env.example](.env.example) for all available settings.
-
 ## Data Schema
 
-### Visa Data (Locked Schema)
+### Content Data Schema
 
-All visa data conforms to this schema:
+All scraped content conforms to this schema:
 
 ```json
 {
-  "visa_name": "Skilled Independent visa (subclass 189)",
-  "subclass": "189",
-  "category": "Work and skilled visas",
-  "summary": "This visa lets skilled workers live and work permanently...",
+  "title": "Product Name",
+  "category": "Electronics",
+  "summary": "Brief description of the product...",
   "sections": [
     {
-      "title": "Eligibility",
-      "content": "You must be invited to apply..."
+      "title": "Specifications",
+      "content": "Detailed specifications..."
     }
   ],
-  "source_url": "https://immi.homeaffairs.gov.au/visas/...",
+  "source_url": "https://example.com/products/...",
   "scraped_at": "2024-01-15T10:30:00Z"
 }
 ```
@@ -181,9 +398,9 @@ LLM enrichment adds `section_type` classification:
 {
   "sections": [
     {
-      "title": "Eligibility",
-      "content": "You must be invited to apply...",
-      "section_type": "eligibility"
+      "title": "Specifications",
+      "content": "Detailed specifications...",
+      "section_type": "requirements"
     }
   ]
 }
@@ -191,16 +408,19 @@ LLM enrichment adds `section_type` classification:
 
 **Canonical Section Types:**
 - `overview`
+- `requirements`
 - `eligibility`
 - `cost`
-- `processing_time`
+- `fees`
 - `duration`
-- `work_rights`
-- `study_rights`
-- `conditions`
-- `family`
+- `timeline`
+- `process`
 - `how_to_apply`
 - `documents`
+- `benefits`
+- `conditions`
+- `restrictions`
+- `related_info`
 - `other`
 
 ## Output Structure
@@ -208,18 +428,18 @@ LLM enrichment adds `section_type` classification:
 ```
 data/
 ├── raw/              # Raw HTML files
-│   └── visa_slug.html
+│   └── content_slug.html
 ├── parsed/           # Clean JSON (ground truth)
-│   └── visa_slug.json
+│   └── content_slug.json
 ├── enriched/         # LLM-enhanced JSON
-│   └── visa_slug.json
+│   └── content_slug.json
 └── state/            # Crawl state for resumability
     └── crawl_state.json
 ```
 
 ## Anti-Blocking Strategy
 
-- **Random Delays**: 3-6 seconds between requests
+- **Random Delays**: 3-6 seconds between requests (configurable)
 - **Single Context**: No parallel requests
 - **Realistic User-Agent**: Set automatically
 - **Retry Logic**: One retry on timeout
@@ -266,7 +486,7 @@ cat logs/scraper.log | jq '.'
 ### Project Structure
 
 ```
-immi-scraper/
+generic-scraper/
 ├── config/           # Configuration and logging
 ├── src/
 │   ├── models/       # Data models (Pydantic)
@@ -309,12 +529,13 @@ mypy src/
 
 ## Legal & Compliance
 
-This scraper is designed for informational use of publicly available government data.
+This scraper is designed for ethical web scraping of publicly available data.
 
 **Important:**
 - Always check and respect `robots.txt`
 - Store source URLs for attribution
 - Add disclaimers if making data public
+- Respect website terms of service
 - Consult legal counsel before commercial use
 
 ## Troubleshooting
@@ -351,9 +572,9 @@ python -m src.main scrape --skip-enrichment
 
 ## Performance
 
-- **Expected Runtime**: ~200 visas × 5 seconds = ~15-20 minutes
+- **Runtime**: Depends on number of pages and delay settings
 - **Bottleneck**: Intentional delays (anti-blocking)
-- **LLM Cost**: ~200 visas × 10 sections × $0.001 = ~$2 (Anthropic)
+- **LLM Cost**: Varies by provider and number of sections
 
 ## Contributing
 
@@ -369,7 +590,6 @@ python -m src.main scrape --skip-enrichment
 
 ## Acknowledgments
 
-- Australian Department of Home Affairs for public visa information
 - Playwright for reliable browser automation
 - Pydantic for robust data validation
 
@@ -381,4 +601,4 @@ For issues and questions:
 
 ---
 
-**Disclaimer**: This is an unofficial tool not affiliated with the Australian Department of Home Affairs. Always verify visa information on the official government website.
+**Disclaimer**: This tool is for educational and research purposes. Always respect website terms of service and use responsibly.

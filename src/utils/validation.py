@@ -4,16 +4,16 @@ from pathlib import Path
 
 import structlog
 
-from src.models.visa import VisaData
+from src.models.visa import ContentData
 
 logger = structlog.get_logger()
 
 
-def validate_visa_json(file_path: Path) -> bool:
-    """Validate visa JSON file against schema.
+def validate_content_json(file_path: Path) -> bool:
+    """Validate content JSON file against schema.
 
     Checks:
-    - JSON is valid and matches VisaData schema
+    - JSON is valid and matches ContentData schema
     - Required fields are non-empty
     - At least one section is extracted
     - Total text length exceeds minimum threshold
@@ -26,10 +26,10 @@ def validate_visa_json(file_path: Path) -> bool:
     """
     try:
         # Load and validate with Pydantic
-        visa = VisaData.from_json_file(file_path)
+        content = ContentData.from_json_file(file_path)
 
         # Check required fields
-        if not visa.source_url:
+        if not content.source_url:
             logger.warning(
                 "validation_failed",
                 file=file_path.name,
@@ -37,16 +37,16 @@ def validate_visa_json(file_path: Path) -> bool:
             )
             return False
 
-        if not visa.visa_name:
+        if not content.title:
             logger.warning(
                 "validation_failed",
                 file=file_path.name,
-                reason="missing_visa_name",
+                reason="missing_title",
             )
             return False
 
         # Check sections
-        if len(visa.sections) == 0:
+        if len(content.sections) == 0:
             logger.warning(
                 "validation_failed",
                 file=file_path.name,
@@ -55,7 +55,7 @@ def validate_visa_json(file_path: Path) -> bool:
             return False
 
         # Check total text length
-        total_text = sum(len(s.content) for s in visa.sections)
+        total_text = sum(len(s.content) for s in content.sections)
         if total_text < 100:
             logger.warning(
                 "validation_failed",
@@ -96,7 +96,7 @@ def validate_all_files(directory: Path) -> dict:
     }
 
     for file_path in json_files:
-        if validate_visa_json(file_path):
+        if validate_content_json(file_path):
             stats["valid"] += 1
         else:
             stats["invalid"] += 1

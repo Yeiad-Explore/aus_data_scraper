@@ -1,0 +1,69 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/entering-and-leaving-australia/leaving-australia#content-index-1",
+  "title": "Before and after you leave Australia",
+  "content_type": "general_information",
+  "summary": "The page provides guidance for people leaving Australia, including tax implications when selling property, steps to follow before departure, and how to access superannuation after leaving. It outlines eligibility requirements for the Departing Australia Superannuation Payment (DASP) and details the process for claiming it. It also highlights assistance programs and warnings about travelling to conflict zones.",
+  "structured_data": {
+    "selling_property_tax_rules": {
+      "foreign_residents_cgt_main_residence_exemption": "Foreign residents cannot claim the CGT main residence exemption when selling Australian residential property except in limited circumstances.",
+      "historical_rule_change_date": "Before 9 May 2017, former Australian residents could still claim the exemption."
+    },
+    "before_you_leave": {
+      "border_guidance": "See what to do when you cross the border.",
+      "assistance_programs": {
+        "return_and_reintegration_assistance_program": "Provides support to people needing help to leave Australia.",
+        "status_resolution_service": "Provides help to people with complex visa situations or difficult personal circumstances."
+      },
+      "conflict_zone_warning": {
+        "advice": "Avoid travelling to conflict zones.",
+        "legal_note": "It is an offence to intentionally enter or remain in a declared zone.",
+        "reference": "Declared zones listed on Australian National Security."
+      }
+    },
+    "after_you_leave": {
+      "superannuation_eligibility": {
+        "conditions_to_have_super": [
+          "18 years or older",
+          "Paid AUD450 or more before tax in a month"
+        ],
+        "eligibility_for_dasp": [
+          "Departed Australia",
+          "Not an Australian or New Zealand citizen or Australian permanent resident",
+          "Entered Australia on a temporary visa (excluding Subclass 405 or 410)",
+          "No Australian visas currently in effect, including tourist visas"
+        ],
+        "payment_name": "Departing Australia Superannuation Payment (DASP)"
+      },
+      "dasp_claim_process": {
+        "steps": [
+          {
+            "step": 1,
+            "title": "Check temporary visa status",
+            "details": "Verify visa expiry through VEVO."
+          },
+          {
+            "step": 2,
+            "title": "Cancel temporary visa",
+            "details": "May request cancellation of your temporary visa."
+          },
+          {
+            "step": 3,
+            "title": "Apply for DASP",
+            "options": {
+              "online_ato": "Use ATO’s DASP online system for free after visa expiry.",
+              "paper_form": {
+                "description": "Only if ATO online service cannot be used.",
+                "requirements": [
+                  "Submit the correct ATO paper form (fees may apply)",
+                  "Pre-pay AUD55 in ImmiAccount for paper application processing"
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/entering-and-leaving-australia/leaving-australia",
+  "depth": 1
+}

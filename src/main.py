@@ -1,4 +1,4 @@
-"""Main CLI orchestrator for the Australian Home Affairs Visa Scraper."""
+"""Main CLI orchestrator for the Generic Web Scraper."""
 
 import asyncio
 from pathlib import Path
@@ -24,9 +24,9 @@ logger = structlog.get_logger()
 @click.group()
 @click.option("--verbose", is_flag=True, help="Enable verbose logging")
 def cli(verbose: bool):
-    """Australian Home Affairs Visa Scraper.
+    """Generic Web Scraper.
 
-    A deterministic web scraper for Australian visa information.
+    A deterministic web scraper for extracting structured content from websites.
     """
     log_level = "DEBUG" if verbose else "INFO"
     log_file = settings.LOGS_DIR / "scraper.log"
@@ -36,19 +36,21 @@ def cli(verbose: bool):
 @cli.command()
 @click.option("--skip-enrichment", is_flag=True, help="Skip LLM enrichment phase")
 @click.option("--fresh", is_flag=True, help="Ignore state and start fresh")
-@click.option("--limit", type=int, default=None, help="Limit number of visas to scrape (for testing)")
-def scrape(skip_enrichment: bool, fresh: bool, limit: int | None):
+@click.option("--limit", type=int, default=None, help="Limit number of pages to scrape (for testing)")
+@click.option("--link-pattern", type=str, default=None, help="Regex pattern to filter links (e.g., '/visas/')")
+def scrape(skip_enrichment: bool, fresh: bool, limit: int | None, link_pattern: str | None):
     """Run the full scraping pipeline: crawl -> parse -> enrich."""
-    asyncio.run(_scrape(skip_enrichment, fresh, limit))
+    asyncio.run(_scrape(skip_enrichment, fresh, limit, link_pattern))
 
 
-async def _scrape(skip_enrichment: bool, fresh: bool, limit: int | None):
+async def _scrape(skip_enrichment: bool, fresh: bool, limit: int | None, link_pattern: str | None):
     """Execute the scraping pipeline.
 
     Args:
         skip_enrichment: Skip LLM enrichment phase
         fresh: Reset state and start from scratch
-        limit: Maximum number of visas to scrape (None for all)
+        limit: Maximum number of pages to scrape (None for all)
+        link_pattern: Regex pattern to filter links (None for all links)
     """
     logger.info(
         "scrape_started",
@@ -77,29 +79,29 @@ async def _scrape(skip_enrichment: bool, fresh: bool, limit: int | None):
         file_manager.save_raw_html(settings.ENTRY_URL, listing_html)
 
         # Parse listing page
-        listing_parser = ListingParser(settings.BASE_URL)
-        visa_listings = listing_parser.parse(listing_html)
+        listing_parser = ListingParser(settings.BASE_URL, link_pattern=link_pattern)
+        content_listings = listing_parser.parse(listing_html)
 
-        logger.info("visa_listings_found", count=len(visa_listings))
+        logger.info("content_listings_found", count=len(content_listings))
 
         # Apply limit if specified
         if limit:
-            visa_listings = visa_listings[:limit]
-            logger.info("limit_applied", scraping_count=len(visa_listings))
+            content_listings = content_listings[:limit]
+            logger.info("limit_applied", scraping_count=len(content_listings))
 
-        # Phase 2: Crawl and parse each visa detail page
-        logger.info("phase_2_crawl_visa_details", total=len(visa_listings))
+        # Phase 2: Crawl and parse each detail page
+        logger.info("phase_2_crawl_details", total=len(content_listings))
 
         detail_crawler = DetailCrawler(settings)
         detail_parser = DetailParser()
 
-        for i, listing in enumerate(visa_listings, 1):
+        for i, listing in enumerate(content_listings, 1):
             # Check if already completed
-            if state_manager.is_completed(listing.visa_url):
+            if state_manager.is_completed(listing.url):
                 logger.info(
                     "skipping_completed",
-                    url=listing.visa_url,
-                    progress=f"{i}/{len(visa_listings)}",
+                    url=listing.url,
+                    progress=f"{i}/{len(content_listings)}",
                 )
                 continue
 
@@ -111,37 +113,37 @@ async def _scrape(skip_enrichment: bool, fresh: bool, limit: int | None):
                         settings.MAX_DELAY_SECONDS,
                     )
 
-                # Crawl visa detail page
-                detail_html = await detail_crawler.crawl(page, listing.visa_url)
-                file_manager.save_raw_html(listing.visa_url, detail_html)
+                # Crawl detail page
+                detail_html = await detail_crawler.crawl(page, listing.url)
+                file_manager.save_raw_html(listing.url, detail_html)
 
-                # Parse visa detail page
-                visa_data = detail_parser.parse(
+                # Parse detail page
+                content_data = detail_parser.parse(
                     detail_html,
-                    listing.visa_url,
+                    listing.url,
                     listing.category,
                 )
-                file_manager.save_parsed_json(listing.visa_url, visa_data)
+                file_manager.save_parsed_json(listing.url, content_data)
 
                 # Mark as completed
-                state_manager.mark_completed(listing.visa_url)
+                state_manager.mark_completed(listing.url)
 
                 logger.info(
-                    "visa_processed",
-                    progress=f"{i}/{len(visa_listings)}",
-                    visa=listing.visa_name,
-                    url=listing.visa_url,
+                    "content_processed",
+                    progress=f"{i}/{len(content_listings)}",
+                    title=listing.title,
+                    url=listing.url,
                 )
 
             except Exception as e:
                 logger.error(
-                    "visa_processing_failed",
-                    url=listing.visa_url,
-                    visa=listing.visa_name,
+                    "content_processing_failed",
+                    url=listing.url,
+                    title=listing.title,
                     error=str(e),
-                    progress=f"{i}/{len(visa_listings)}",
+                    progress=f"{i}/{len(content_listings)}",
                 )
-                # Continue to next visa (fail loudly but don't abort)
+                # Continue to next page (fail loudly but don't abort)
                 continue
 
         await page.close()
@@ -158,11 +160,11 @@ async def _scrape(skip_enrichment: bool, fresh: bool, limit: int | None):
     logger.info(
         "scrape_completed",
         completed_count=stats["completed_count"],
-        total_visas=len(visa_listings),
+        total_pages=len(content_listings),
     )
 
     click.echo(f"\n[OK] Scraping completed!")
-    click.echo(f"   Visas processed: {stats['completed_count']}/{len(visa_listings)}")
+    click.echo(f"   Pages processed: {stats['completed_count']}/{len(content_listings)}")
     click.echo(f"   Raw HTML: {settings.RAW_DIR}")
     click.echo(f"   Parsed JSON: {settings.PARSED_DIR}")
     click.echo(f"   Logs: {settings.LOGS_DIR}")
@@ -175,30 +177,30 @@ async def _enrich_all(file_manager: FileManager):
         file_manager: FileManager instance
     """
     try:
-        from src.enrichment.enricher import VisaEnricher
+        from src.enrichment.enricher import ContentEnricher
         from src.enrichment.llm_client import LLMClient
 
         llm_client = LLMClient(settings)
-        enricher = VisaEnricher(llm_client)
+        enricher = ContentEnricher(llm_client)
 
         parsed_files = file_manager.get_all_parsed_files()
-        logger.info("enriching_visas", count=len(parsed_files))
+        logger.info("enriching_content", count=len(parsed_files))
 
         for i, file_path in enumerate(parsed_files, 1):
             try:
-                # Load parsed visa
-                visa_data = file_manager.load_parsed_json(file_path.stem)
+                # Load parsed content
+                content_data = file_manager.load_parsed_json(file_path.stem)
 
                 # Enrich with LLM
-                enriched_data = await enricher.enrich(visa_data)
+                enriched_data = await enricher.enrich(content_data)
 
                 # Save enriched data
-                file_manager.save_enriched_json(visa_data.source_url, enriched_data)
+                file_manager.save_enriched_json(content_data.source_url, enriched_data)
 
                 logger.info(
-                    "visa_enriched",
+                    "content_enriched",
                     progress=f"{i}/{len(parsed_files)}",
-                    visa=visa_data.visa_name,
+                    title=content_data.title,
                 )
 
             except Exception as e:
@@ -347,7 +349,7 @@ def stats():
     stats_data = state_manager.get_stats()
 
     click.echo(f"\nScraping Statistics:")
-    click.echo(f"   Completed visas: {stats_data['completed_count']}")
+    click.echo(f"   Completed pages: {stats_data['completed_count']}")
     click.echo(f"   State file: {stats_data['state_file']}")
     click.echo(f"   State exists: {stats_data['state_file_exists']}")
 
@@ -377,9 +379,47 @@ def reset():
 
 
 @cli.command()
+@click.option("--host", default="0.0.0.0", help="Host to bind the API server to")
+@click.option("--port", type=int, default=8000, help="Port to run the API server on")
+@click.option("--reload", is_flag=True, help="Enable auto-reload for development")
+def api(host: str, port: int, reload: bool):
+    """Start the REST API server for scraping.
+
+    The API accepts POST requests with JSON body containing scraping parameters.
+
+    Example POST request:
+    {
+        "url": "https://example.com",
+        "name": "my_scrape",
+        "depth": 1,
+        "max_pages": 10,
+        "filter": "same_path"
+    }
+    """
+    import uvicorn
+
+    click.echo(f"\n[OK] Starting API server...")
+    click.echo(f"   Host: {host}")
+    click.echo(f"   Port: {port}")
+    click.echo(f"   API docs: http://{host if host != '0.0.0.0' else 'localhost'}:{port}/docs")
+    click.echo(f"   Reload: {reload}\n")
+
+    try:
+        uvicorn.run(
+            "src.api:app",
+            host=host,
+            port=port,
+            reload=reload,
+            log_level="info"
+        )
+    except KeyboardInterrupt:
+        click.echo("\n\n[OK] API server stopped.")
+
+
+@cli.command()
 @click.option("--port", type=int, default=8000, help="Port to run the server on")
 def serve(port: int):
-    """Start the web server to view scraped visa data."""
+    """Start the web server to view scraped data."""
     import subprocess
     import sys
     from pathlib import Path

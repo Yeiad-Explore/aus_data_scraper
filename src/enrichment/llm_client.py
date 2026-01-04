@@ -10,10 +10,10 @@ logger = structlog.get_logger()
 
 
 class LLMClient:
-    """Unified LLM client for visa section classification.
+    """Unified LLM client for content section classification.
 
     Supports Anthropic Claude, OpenAI, and Azure OpenAI models for classifying
-    visa sections into canonical types.
+    content sections into canonical types.
     """
 
     def __init__(self, settings: Settings):
@@ -49,7 +49,7 @@ class LLMClient:
         logger.info("llm_client_initialized", provider=self.provider, model=settings.LLM_MODEL)
 
     async def classify_section(self, title: str, content: str) -> str:
-        """Classify a visa section into a canonical type.
+        """Classify a content section into a canonical type.
 
         This uses zero-temperature LLM inference to deterministically
         classify sections. The LLM never modifies content, only classifies.
@@ -148,7 +148,7 @@ class LLMClient:
         """
         canonical_types = ", ".join(CANONICAL_SECTION_TYPES)
 
-        return f"""Classify this visa information section into exactly ONE of these types:
+        return f"""Classify this content section into exactly ONE of these types:
 {canonical_types}
 
 Section Title: {title}
@@ -358,7 +358,7 @@ Section Type:"""
 {content}
 
 **Task:**
-1. Identify the content type (e.g., "visa_information", "processing_times", "course_details", "requirements", "general_information", etc.)
+1. Identify the content type (e.g., "requirements", "processing_times", "pricing", "eligibility", "general_information", etc.)
 2. Write a brief summary (2-3 sentences)
 3. Extract key structured data that would be useful (be intelligent about what makes sense for this content type)
 
@@ -369,9 +369,9 @@ Section Type:"""
   "summary": "brief summary of the page",
   "structured_data": {{
     // Extract relevant fields based on content
-    // For visa info: requirements, eligibility, costs, processing times, etc.
+    // For requirements: eligibility, costs, processing times, etc.
     // For courses: course_name, duration, fees, entry_requirements, etc.
-    // For processing times: visa_types and their processing times
+    // For pricing: fees, costs, payment options, etc.
     // Be creative and intelligent about what makes sense
   }}
 }}
@@ -425,9 +425,10 @@ Combine all this information into ONE cohesive, well-organized JSON structure th
 Return a JSON object that intelligently combines all this information. The structure should make sense for the content type.
 
 For example:
-- If these are different visa types, organize by visa category
+- If these are different categories, organize by category type
 - If these are processing times, create a structured table/list
-- If these are course pages, organize by course type or faculty
+- If these are course pages, organize by course type or department
+- If these are product pages, organize by product category
 - Be creative and logical based on the actual content
 
 **Important:**

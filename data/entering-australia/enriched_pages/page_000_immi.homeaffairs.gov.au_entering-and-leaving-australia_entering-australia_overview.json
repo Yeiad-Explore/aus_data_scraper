@@ -1,0 +1,37 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/entering-and-leaving-australia/entering-australia/overview",
+  "title": "Entering AustraliaEntering Australia",
+  "content_type": "general_information",
+  "summary": "The page provides an overview of what travellers should expect when entering Australia, including border processes, visa information, and rules on what can be brought into the country. It highlights biosecurity requirements, duty-free allowances, and resources for determining visa options.",
+  "structured_data": {
+    "topics": {
+      "border_expectations": "Information on what to expect when crossing the Australian border.",
+      "visa_information": "Guidance on visa requirements for visiting, studying or working.",
+      "crew_and_special_entry": "Information for air/sea crew, offshore workers, and military personnel.",
+      "biosecurity_and_restrictions": "Rules on what travellers can and cannot bring into Australia.",
+      "duty_free_allowances": "Details on duty-free limits for personal goods, alcohol, and tobacco."
+    },
+    "key_sections": [
+      "Overview",
+      "Can you go to Australia?",
+      "Crossing the border",
+      "Can you bring it in?",
+      "Duty free",
+      "Find the right visa"
+    ],
+    "links": {
+      "entering_australia": "https://immi.homeaffairs.gov.au/entering-and-leaving-australia/entering-australia",
+      "overview": "https://immi.homeaffairs.gov.au/entering-and-leaving-australia/entering-australia/overview",
+      "can_you_go_to_australia": "https://immi.homeaffairs.gov.au/entering-and-leaving-australia/entering-australia/can-i-go-to-australia",
+      "crossing_the_border": "https://immi.homeaffairs.gov.au/entering-and-leaving-australia/entering-australia/crossing-the-border",
+      "can_you_bring_it_in": "https://immi.homeaffairs.gov.au/entering-and-leaving-australia/entering-australia/can-i-bring-it-in",
+      "duty_free": "https://immi.homeaffairs.gov.au/entering-and-leaving-australia/entering-australia/duty-free"
+    },
+    "duty_free_information": {
+      "description": "Most personal luggage items are tax and duty free; limited amounts of general goods, alcohol, and tobacco can be brought in duty free."
+    },
+    "biosecurity_notes": "Australia enforces strict biosecurity rules restricting certain items from entry."
+  },
+  "parent_url": null,
+  "depth": 0
+}

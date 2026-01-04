@@ -1,4 +1,4 @@
-"""Parser for visa detail page DOM."""
+"""Parser for generic detail page DOM."""
 
 import re
 from typing import List
@@ -6,16 +6,16 @@ from typing import List
 import structlog
 from bs4 import BeautifulSoup, NavigableString
 
-from src.models.visa import VisaData, VisaSection
+from src.models.visa import ContentData, ContentSection
 
 logger = structlog.get_logger()
 
 
 class DetailParser:
-    """Parses visa detail page DOM to extract structured content.
+    """Parses detail page DOM to extract structured content.
 
     This parser removes navigation/junk elements and extracts the main
-    visa information preserving section structure.
+    content preserving section structure.
     """
 
     # Elements to remove from the DOM
@@ -37,16 +37,16 @@ class DetailParser:
         "#skip-link",
     ]
 
-    def parse(self, html: str, url: str, category: str = "") -> VisaData:
-        """Extract structured content from visa detail page.
+    def parse(self, html: str, url: str, category: str = "") -> ContentData:
+        """Extract structured content from detail page.
 
         Args:
             html: Raw HTML content
             url: Source URL
-            category: Visa category (from listing page)
+            category: Content category (from listing page)
 
         Returns:
-            VisaData object with extracted information
+            ContentData object with extracted information
         """
         soup = BeautifulSoup(html, "lxml")
 
@@ -54,14 +54,12 @@ class DetailParser:
         self._remove_junk(soup)
 
         # Extract key fields
-        visa_name = self._extract_visa_name(soup)
-        subclass = self._extract_subclass(soup, visa_name)
+        title = self._extract_title(soup)
         summary = self._extract_summary(soup)
         sections = self._extract_sections(soup)
 
-        visa = VisaData(
-            visa_name=visa_name,
-            subclass=subclass,
+        content = ContentData(
+            title=title,
             category=category,
             summary=summary,
             sections=sections,
@@ -71,12 +69,12 @@ class DetailParser:
         total_text = sum(len(s.content) for s in sections)
         logger.info(
             "detail_parsed",
-            visa_name=visa_name,
+            title=title,
             section_count=len(sections),
             total_text_length=total_text,
         )
 
-        return visa
+        return content
 
     def _remove_junk(self, soup: BeautifulSoup) -> None:
         """Remove navigation, footer, and other junk elements.
@@ -88,51 +86,18 @@ class DetailParser:
             for element in soup.select(selector):
                 element.decompose()
 
-    def _extract_visa_name(self, soup: BeautifulSoup) -> str:
-        """Extract visa name from h1 heading.
+    def _extract_title(self, soup: BeautifulSoup) -> str:
+        """Extract page title from h1 heading.
 
         Args:
             soup: BeautifulSoup object
 
         Returns:
-            Visa name or empty string
+            Page title or empty string
         """
         h1 = soup.find("h1")
         if h1:
             return self._clean_text(h1.get_text())
-        return ""
-
-    def _extract_subclass(self, soup: BeautifulSoup, visa_name: str) -> str:
-        """Extract visa subclass number.
-
-        Looks for patterns like "Subclass 482" or "(482)" in the page.
-
-        Args:
-            soup: BeautifulSoup object
-            visa_name: Visa name (to search within)
-
-        Returns:
-            Subclass number or empty string
-        """
-        # Check visa name first
-        match = re.search(r"\b(\d{3})\b", visa_name)
-        if match:
-            return match.group(1)
-
-        # Look in common locations
-        search_elements = [
-            soup.find("h1"),
-            soup.find(class_=re.compile(r"subclass", re.I)),
-            soup.find(text=re.compile(r"subclass\s*\d{3}", re.I)),
-        ]
-
-        for element in search_elements:
-            if element:
-                text = element.get_text() if hasattr(element, "get_text") else str(element)
-                match = re.search(r"\b(\d{3})\b", text)
-                if match:
-                    return match.group(1)
-
         return ""
 
     def _extract_summary(self, soup: BeautifulSoup) -> str:
@@ -169,14 +134,14 @@ class DetailParser:
 
         return ""
 
-    def _extract_sections(self, soup: BeautifulSoup) -> List[VisaSection]:
+    def _extract_sections(self, soup: BeautifulSoup) -> List[ContentSection]:
         """Extract all content sections with their headings.
 
         Args:
             soup: BeautifulSoup object
 
         Returns:
-            List of VisaSection objects
+            List of ContentSection objects
         """
         sections = []
 
@@ -202,7 +167,7 @@ class DetailParser:
                     content = self._join_content(current_section_content)
                     if content:  # Only add if content is not empty
                         sections.append(
-                            VisaSection(title=current_section_title, content=content)
+                            ContentSection(title=current_section_title, content=content)
                         )
 
                 # Start new section
@@ -219,7 +184,7 @@ class DetailParser:
         if current_section_title:
             content = self._join_content(current_section_content)
             if content:
-                sections.append(VisaSection(title=current_section_title, content=content))
+                sections.append(ContentSection(title=current_section_title, content=content))
 
         # If no sections were found, try a fallback approach
         if not sections:
@@ -227,14 +192,14 @@ class DetailParser:
 
         return sections
 
-    def _extract_sections_fallback(self, main_content) -> List[VisaSection]:
+    def _extract_sections_fallback(self, main_content) -> List[ContentSection]:
         """Fallback section extraction if primary method finds nothing.
 
         Args:
             main_content: Main content element
 
         Returns:
-            List of VisaSection objects
+            List of ContentSection objects
         """
         sections = []
 
@@ -259,7 +224,7 @@ class DetailParser:
 
             content = self._join_content(content_parts)
             if content:
-                sections.append(VisaSection(title=title, content=content))
+                sections.append(ContentSection(title=title, content=content))
 
         return sections
 

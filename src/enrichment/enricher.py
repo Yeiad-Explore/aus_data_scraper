@@ -1,15 +1,15 @@
-"""Visa data enricher using LLM classification."""
+"""Generic content data enricher using LLM classification."""
 
 import structlog
 
 from src.enrichment.llm_client import LLMClient
-from src.models.visa import EnrichedVisaData, EnrichedVisaSection, VisaData
+from src.models.visa import EnrichedContentData, EnrichedContentSection, ContentData
 
 logger = structlog.get_logger()
 
 
-class VisaEnricher:
-    """Post-processes parsed visa JSON with LLM section classification.
+class ContentEnricher:
+    """Post-processes parsed content JSON with LLM section classification.
 
     This enricher takes clean parsed JSON (ground truth) and adds
     semantic classification to sections using an LLM. The LLM never
@@ -24,39 +24,38 @@ class VisaEnricher:
         """
         self.llm = llm_client
 
-    async def enrich(self, visa: VisaData) -> EnrichedVisaData:
-        """Enrich visa data by classifying all sections.
+    async def enrich(self, content: ContentData) -> EnrichedContentData:
+        """Enrich content data by classifying all sections.
 
         Args:
-            visa: Clean visa data from parser
+            content: Clean content data from parser
 
         Returns:
-            Enriched visa data with classified sections
+            Enriched content data with classified sections
         """
-        logger.info("enriching_visa", visa_name=visa.visa_name, sections=len(visa.sections))
+        logger.info("enriching_content", title=content.title, sections=len(content.sections))
 
         enriched_sections = []
 
-        for section in visa.sections:
+        for section in content.sections:
             # Classify section using LLM
             section_type = await self.llm.classify_section(section.title, section.content)
 
             # Create enriched section
-            enriched_section = EnrichedVisaSection(
+            enriched_section = EnrichedContentSection(
                 title=section.title, content=section.content, section_type=section_type
             )
 
             enriched_sections.append(enriched_section)
 
-        # Create enriched visa data
-        enriched = EnrichedVisaData(
-            visa_name=visa.visa_name,
-            subclass=visa.subclass,
-            category=visa.category,
-            summary=visa.summary,
+        # Create enriched content data
+        enriched = EnrichedContentData(
+            title=content.title,
+            category=content.category,
+            summary=content.summary,
             sections=enriched_sections,
-            source_url=visa.source_url,
-            scraped_at=visa.scraped_at,
+            source_url=content.source_url,
+            scraped_at=content.scraped_at,
         )
 
         # Count section types for logging
@@ -67,8 +66,8 @@ class VisaEnricher:
             )
 
         logger.info(
-            "visa_enriched",
-            visa_name=visa.visa_name,
+            "content_enriched",
+            title=content.title,
             section_types=section_type_counts,
         )
 

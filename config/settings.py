@@ -7,9 +7,9 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 class Settings(BaseSettings):
     """Application settings with environment variable support."""
 
-    # URLs
-    BASE_URL: str = "https://immi.homeaffairs.gov.au"
-    ENTRY_URL: str = "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing"
+    # URLs (configurable via environment variables)
+    BASE_URL: str = ""
+    ENTRY_URL: str = ""
 
     # Delays (anti-blocking)
     MIN_DELAY_SECONDS: float = 3.0

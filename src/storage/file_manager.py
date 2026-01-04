@@ -5,7 +5,7 @@ from pathlib import Path
 import structlog
 
 from config.settings import Settings
-from src.models.visa import EnrichedVisaData, VisaData
+from src.models.visa import EnrichedContentData, ContentData
 from src.utils.url_utils import url_to_slug
 
 logger = structlog.get_logger()
@@ -62,12 +62,12 @@ class FileManager:
 
         return file_path
 
-    def save_parsed_json(self, url: str, visa: VisaData) -> Path:
+    def save_parsed_json(self, url: str, content: ContentData) -> Path:
         """Save parsed JSON data.
 
         Args:
             url: Source URL
-            visa: VisaData object
+            content: ContentData object
 
         Returns:
             Path to saved file
@@ -75,18 +75,18 @@ class FileManager:
         slug = url_to_slug(url)
         file_path = self.settings.PARSED_DIR / f"{slug}.json"
 
-        visa.to_json_file(file_path)
+        content.to_json_file(file_path)
 
         logger.debug("parsed_json_saved", slug=slug, path=str(file_path))
 
         return file_path
 
-    def save_enriched_json(self, url: str, enriched: EnrichedVisaData) -> Path:
+    def save_enriched_json(self, url: str, enriched: EnrichedContentData) -> Path:
         """Save enriched JSON data.
 
         Args:
             url: Source URL
-            enriched: EnrichedVisaData object
+            enriched: EnrichedContentData object
 
         Returns:
             Path to saved file
@@ -100,14 +100,14 @@ class FileManager:
 
         return file_path
 
-    def load_parsed_json(self, url: str) -> VisaData:
+    def load_parsed_json(self, url: str) -> ContentData:
         """Load parsed JSON for enrichment.
 
         Args:
             url: Source URL
 
         Returns:
-            VisaData object
+            ContentData object
 
         Raises:
             FileNotFoundError: If file doesn't exist
@@ -115,11 +115,11 @@ class FileManager:
         slug = url_to_slug(url)
         file_path = self.settings.PARSED_DIR / f"{slug}.json"
 
-        visa = VisaData.from_json_file(file_path)
+        content = ContentData.from_json_file(file_path)
 
         logger.debug("parsed_json_loaded", slug=slug, path=str(file_path))
 
-        return visa
+        return content
 
     def get_all_parsed_files(self) -> list[Path]:
         """Get all parsed JSON file paths.
@@ -129,21 +129,21 @@ class FileManager:
         """
         return list(self.settings.PARSED_DIR.glob("*.json"))
 
-    def load_parsed_json_from_path(self, file_path: Path) -> VisaData:
+    def load_parsed_json_from_path(self, file_path: Path) -> ContentData:
         """Load parsed JSON from a file path.
 
         Args:
             file_path: Path to the JSON file
 
         Returns:
-            VisaData object
+            ContentData object
 
         Raises:
             FileNotFoundError: If file doesn't exist
         """
-        visa = VisaData.from_json_file(file_path)
+        content = ContentData.from_json_file(file_path)
         logger.debug("parsed_json_loaded_from_path", path=str(file_path))
-        return visa
+        return content
 
     def file_exists(self, url: str, file_type: str = "parsed") -> bool:
         """Check if a file already exists for a URL.
