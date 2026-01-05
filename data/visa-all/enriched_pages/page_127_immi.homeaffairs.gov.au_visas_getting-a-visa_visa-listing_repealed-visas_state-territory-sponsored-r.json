@@ -1,0 +1,162 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/state-territory-sponsored-regional-established-business-in-australia-visa-subclass-846",
+  "title": "State/Territory Sponsored Regional Established Business in Australia visa (subclass 846)",
+  "content_type": "visa_information",
+  "summary": "This page provides details for applicants who previously applied for the State/Territory Sponsored Regional Established Business in Australia visa (subclass 846), which closed to new applications on 1 July 2012. It explains requirements, how to add family members, health and character checks, application processing steps, and the document checklist required for the visa decision process.",
+  "structured_data": {
+    "visa_information": {
+      "visa_name": "State/Territory Sponsored Regional Established Business in Australia visa",
+      "subclass": "846",
+      "status": "Closed to new applications",
+      "closure_date": "1 July 2012",
+      "applicant_location_requirement_on_decision": "Applicant must be in Australia when the visa is decided",
+      "alternative_information": "Information on other business visas available on the SkillSelect website"
+    },
+    "applicable_applicants": {
+      "description": "People who have already applied for the visa and are waiting for a decision"
+    },
+    "adding_family_members": {
+      "allowed_until": "Any time until visa is decided",
+      "eligible_family_members": [
+        "Spouse",
+        "De facto partner",
+        "Dependent children",
+        "Other dependent family members who meet requirements"
+      ],
+      "forms_required": [
+        {
+          "form_name": "Form 47BT",
+          "purpose": "Application for a Business Skills (provisional) visa",
+          "file_size": "579KB PDF"
+        }
+      ],
+      "requirements": [
+        "Family members must meet eligibility requirements",
+        "Provide documentary evidence of relationship",
+        "Must meet health and character requirements",
+        "May need to provide IELTS test results"
+      ]
+    },
+    "health_requirements": {
+      "general_requirement": "Must meet certain health requirements",
+      "notes": [
+        "Most applicants will not need additional examinations",
+        "Do not arrange a health examination until asked"
+      ]
+    },
+    "character_requirements": {
+      "general_requirement": "Must meet certain character requirements",
+      "required_documents": [
+        "Police certificate from each country lived in for 12 months or more in the past 10 years after turning 16"
+      ]
+    },
+    "debts_to_government": {
+      "requirement": "No outstanding debts to the Australian Government or must have arrangements to repay before visa can be granted"
+    },
+    "lodging_application": {
+      "instructions": "Lodge completed forms and documents in person, or by registered post, courier or fax",
+      "location": "Adelaide office in South Australia - Attention Client Services, Adelaide Business Skills Processing Centre",
+      "payment_methods": [
+        "Credit card",
+        "Money order",
+        "Bank cheque"
+      ],
+      "required_items": [
+        "Document checklist documents"
+      ]
+    },
+    "after_applying": {
+      "acknowledgement": "Applicant will receive confirmation of information received",
+      "bridging_visa_information": {
+        "eligibility": "Applicants applying in Australia may receive a Bridging visa",
+        "bridging_visa_b_travel_permission": "Can apply for Bridging Visa B to travel"
+      }
+    },
+    "providing_more_information": {
+      "allowed_until": "Any time until a decision is made",
+      "correction_form": {
+        "form_name": "Form 1023",
+        "description": "Notification of incorrect answer(s)",
+        "file_size": "168KB PDF"
+      },
+      "department_actions": [
+        "May ask for more information with a deadline",
+        "May conduct interviews",
+        "May request identity documents at interview"
+      ]
+    },
+    "changes_to_circumstances": {
+      "must_report": [
+        "Phone number, email, address or passport changes",
+        "Changes to relationship status",
+        "Birth of a child"
+      ],
+      "contact_method": "Must contact case officer",
+      "required_information_when_writing": [
+        "Business name",
+        "ABN or business identifier",
+        "Transaction Reference Number (TRN)"
+      ]
+    },
+    "withdrawing_application": {
+      "instructions": "Send a letter or email requesting withdrawal",
+      "required_information": [
+        "Full name",
+        "Date of birth",
+        "File reference number, client ID, or TRN"
+      ],
+      "signature_requirement": "All applicants aged 18 or older must sign"
+    },
+    "visa_decision": {
+      "if_granted": [
+        "Visa usage details",
+        "Visa grant number",
+        "Any visa conditions"
+      ],
+      "if_refused": [
+        "Reason for refusal",
+        "Review rights (if any)",
+        "Time limit to lodge an appeal"
+      ]
+    },
+    "document_checklist": {
+      "general_instructions": [
+        "Provide certified copies of original documents",
+        "Do not send originals unless asked",
+        "Police certificates must be originals",
+        "Documents not in English must have accredited translations"
+      ],
+      "forms": [
+        {
+          "form_name": "Form 47BU",
+          "purpose": "Application for a Business Skills (permanent) visa",
+          "file_size": "707KB PDF"
+        },
+        {
+          "form_name": "Form 47a",
+          "purpose": "Details of child or other dependent family member aged 18 years or over",
+          "file_size": "307KB PDF",
+          "applicability": "Family members aged 18 or older who are not the partner"
+        },
+        {
+          "form_name": "Form 80",
+          "purpose": "Personal particulars for assessment including character assessment",
+          "file_size": "596KB PDF",
+          "applicability": "Applicants aged 16 years or older"
+        }
+      ],
+      "identity_documents": [
+        "Certified copies of biographical passport pages for all applicants",
+        "Two recent passport-sized photographs of each applicant (45mm x 35mm)",
+        "Certified evidence of name change (if applicable)"
+      ],
+      "family_documents": [
+        "Certified birth certificates or family book showing parents' names",
+        "Certified adoption papers (if applicable)",
+        "Legal evidence of permission to bring a child under 18 to Australia if the other parent is not included (e.g., Form 1229 or statutory declaration)"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

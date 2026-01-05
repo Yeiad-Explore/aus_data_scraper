@@ -1,0 +1,61 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/business-owner-subclass-890-visa",
+  "title": "Business Owner (subclass 890) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Business Owner (subclass 890) visa, which permanently closed to new applications on 22 March 2025. It explains visa conditions, travel rights, obligations, and what visa holders must do if their circumstances change.",
+  "structured_data": {
+    "visa_name": "Business Owner visa",
+    "visa_subclass": "890",
+    "status": "closed_to_new_applications",
+    "closure_date": "22 March 2025",
+    "visa_description": "A permanent visa allowing holders to stay in Australia indefinitely and travel for 5 years from the date of grant.",
+    "visa_holders": {
+      "visa_type": "permanent",
+      "rights": [
+        "stay in Australia indefinitely",
+        "travel to and from Australia for 5 years from visa grant date",
+        "use VEVO to check visa details and entitlements"
+      ]
+    },
+    "visa_duration": {
+      "stay_duration": "indefinite",
+      "travel_facility_duration": "5 years from date of visa grant",
+      "travel_facility_conditions": [
+        "Unlimited travel to and from Australia within the 5-year travel facility validity",
+        "Must check VEVO to confirm travel facility end date"
+      ],
+      "after_travel_facility_expires": [
+        "Apply for and be granted a Resident Return visa to re-enter Australia as a permanent resident",
+        "Consider applying for Australian citizenship to re-enter Australia as a citizen"
+      ],
+      "citizenship_note": "Australian citizens do not require a visa to enter Australia. They must apply for an Australian passport to leave and re-enter the country."
+    },
+    "what_this_visa_lets_you_do": {
+      "rights_for_holder_and_dependents": [
+        "stay in Australia permanently",
+        "work and study in Australia",
+        "carry out business activity in Australia",
+        "enrol in Medicare",
+        "sponsor relatives to come to Australia",
+        "travel to and from Australia for 5 years",
+        "apply for Australian citizenship, if eligible"
+      ]
+    },
+    "obligations": {
+      "general_obligations": [
+        "meet all visa conditions",
+        "obey Australian laws"
+      ]
+    },
+    "change_of_details_requirements": {
+      "must_notify_changes": [
+        "changes to phone number, email, address or passport",
+        "changes to relationship status",
+        "birth of a child"
+      ],
+      "consequences_of_not_updating_passport": "Significant delays at the airport and possible denial of permission to board a plane."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

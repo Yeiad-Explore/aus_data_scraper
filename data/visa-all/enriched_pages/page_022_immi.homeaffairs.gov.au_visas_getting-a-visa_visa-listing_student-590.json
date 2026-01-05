@@ -1,0 +1,165 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-590",
+  "title": "Student Guardian visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Subclass 590 Student Guardian visa, which allows eligible relatives to travel to Australia to provide care and support for a student visa holder. It outlines eligibility criteria, costs, stay conditions, obligations, processing times, and application requirements.",
+  "structured_data": {
+    "visa_name": "Student Guardian visa",
+    "subclass": "590",
+    "description": "Temporary visa allowing a parent, custodian, or eligible relative to come to Australia to provide care and support for a student visa holder.",
+    "purpose": "Provide care and support for a student visa holder who is under 18 years old, or older in exceptional circumstances.",
+    "stay": {
+      "type": "temporary",
+      "length_determined_by": [
+        "student visa holder’s stay",
+        "student visa holder’s age"
+      ],
+      "details": "You can stay in Australia until the date specified on your visa grant letter, usually aligned with the student visa holder’s stay or when the student turns 18.",
+      "extend_stay": "You can apply for a further Student Guardian visa to stay longer."
+    },
+    "work_rights": {
+      "can_work": false,
+      "notes": "Work is not permitted on this visa."
+    },
+    "study_rights": {
+      "allowed_study": [
+        "ELICOS for less than 20 hours per week",
+        "Other study or training for up to 3 months"
+      ]
+    },
+    "include_family_rules": {
+      "general_rule": "You cannot include children under 6 years old unless exceptions apply.",
+      "exceptions": [
+        "Compelling and compassionate reasons",
+        "Granting the visa would significantly benefit the relationship between the Australian Government and the government of another country"
+      ],
+      "additional_conditions": [
+        "This applies even if the children under 6 years old are not travelling.",
+        "If granted, the visa is only valid until the child’s 6th birthday.",
+        "Children 6 and older must apply for their own Student visa.",
+        "You cannot add children under 6 after submitting your application."
+      ]
+    },
+    "costs": {
+      "base_cost": "From AUD 2,000.00",
+      "additional_costs": [
+        "health checks",
+        "police certificates",
+        "biometrics"
+      ],
+      "estimator_note": "Visa Pricing Estimator does not include additional costs.",
+      "pacific_exemption": {
+        "effective_date": "22 March 2025",
+        "description": "Lower visa cost for eligible Pacific Island and Timor-Leste citizens applying for Student or Student Guardian visas.",
+        "eligibility_basis": "Primary applicant’s valid passport from specified countries",
+        "eligible_countries": [
+          "Federated States of Micronesia",
+          "Fiji",
+          "Kiribati",
+          "Nauru",
+          "Palau",
+          "Papua New Guinea",
+          "Republic of the Marshall Islands",
+          "Samoa",
+          "Solomon Islands",
+          "Timor-Leste",
+          "Tonga",
+          "Tuvalu",
+          "Vanuatu"
+        ],
+        "family_eligibility": "Family members are eligible based on the primary applicant's passport."
+      }
+    },
+    "apply_from": {
+      "can_apply_from": [
+        "inside Australia",
+        "outside Australia"
+      ],
+      "conditions_if_inside_australia": "Must hold an eligible substantive visa.",
+      "reference": "See 'Have this visa if applying while in Australia' under Eligibility section."
+    },
+    "processing_times": {
+      "source": "visa processing time guide tool",
+      "notes": [
+        "Times are based on recently decided applications and not specific to individual cases.",
+        "Applications may take longer if incomplete, incorrect, missing documents, or require verification.",
+        "Application cannot be processed without correct visa application charge."
+      ]
+    },
+    "travel": {
+      "rights": "Unlimited travel in and out of Australia while visa is valid.",
+      "conditions": [
+        "You cannot leave Australia without the student unless alternative welfare arrangements are made.",
+        "Time spent outside Australia does not extend the visa."
+      ]
+    },
+    "financial_support": {
+      "requirements": [
+        "Must financially support yourself while in Australia.",
+        "Must financially support any accompanying family members."
+      ]
+    },
+    "visa_label": {
+      "note": "No physical visa label; visa is digitally linked to passport."
+    },
+    "eligibility": {
+      "eligibility_overview": "Must meet all criteria, provide support to the student, and satisfy visa conditions.",
+      "apply_in_australia_conditions": {
+        "must_hold_substantive_visa_except": [
+          "Temporary Work (International Relations) visa (subclass 403) – Domestic Worker stream",
+          "Domestic Worker (Temporary) Diplomatic and Consular visa (subclass 426)",
+          "Temporary Graduate visa (subclass 485)",
+          "Visitor visa (subclass 600)",
+          "Electronic Travel Authority (ETA) visa (subclass 601)",
+          "Medical Treatment visa (subclass 602)",
+          "eVisitor visa (subclass 651)",
+          "Transit visa (subclass 771)",
+          "Maritime Crew visa (subclass 988)",
+          "Diplomatic (Temporary) visa (subclass 995) – primary visa holder only"
+        ],
+        "additional_rules": [
+          "Family members of subclass 995 can apply for a Student visa in Australia.",
+          "If you do not hold an eligible substantive visa, you can apply within 28 days of either holding a student/special purpose/dependent diplomatic visa or being notified that your visa cancellation has been set aside."
+        ]
+      },
+      "relationship_requirements": {
+        "must_be": [
+          "parent of the student visa holder",
+          "person with custody of the student",
+          "a relative aged 21 or older nominated in writing by a parent or custodian"
+        ],
+        "care_requirements": [
+          "student visa holder under 18",
+          "student visa holder 18 or older who requires support due to exceptional circumstances"
+        ],
+        "definition_relative_includes": [
+          "parent or step-parent",
+          "grandparent or step-grandparent",
+          "sibling or step-sibling"
+        ]
+      },
+      "other_requirements": [
+        "Must have sufficient funds for self and student.",
+        "Must have adequate health insurance.",
+        "Must provide accommodation, welfare, and support.",
+        "Must hold an eligible substantive visa if applying in Australia."
+      ]
+    },
+    "with_this_visa_you_can": {
+      "allowed": [
+        "provide care and support for the student",
+        "care for more than one student"
+      ],
+      "restrictions": [
+        "cannot work"
+      ]
+    },
+    "key_points": [
+      "Must support a student visa holder who is under 18 or older in exceptional circumstances.",
+      "Financial, accommodation, and welfare responsibilities apply.",
+      "Children under 6 almost always cannot be included."
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

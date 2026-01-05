@@ -1,0 +1,82 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/guardian-visa-subclass-580",
+  "title": "Guardian visa (subclass 580)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for existing holders and pending applicants of the discontinued Student Guardian visa (subclass 580). It explains visa validity, rights, obligations, and requirements for alternative welfare arrangements. It also outlines important conditions such as 'no further stay' and reporting changes in personal circumstances.",
+  "structured_data": {
+    "visa_name": "Student Guardian visa",
+    "subclass": "580",
+    "application_status": "closed_to_new_applications",
+    "closure_date": "1 July 2016",
+    "post_closure_instructions": "If you need to extend your stay in Australia from 1 July 2016, you must apply for a Student Visa (subclass 590).",
+    "target_audience": [
+      "People who have already been granted a Student Guardian visa (subclass 580)",
+      "People who applied for the visa on or before 30 June 2016 and whose application is still pending"
+    ],
+    "visa_holder_tools": {
+      "vevo": "You can use Visa Entitlement Verification Online (VEVO) to check your visa details and conditions."
+    },
+    "visa_validity": {
+      "valid_until": "The expiry date provided at the time of visa grant."
+    },
+    "visa_entitlements": {
+      "allowed_activities": [
+        "Stay in Australia for the same length of time as the nominating student, or until the student turns 18 years of age.",
+        "Study up to 20 hours per week in an English Language Intensive Course for Overseas Students (ELICOS) if the application was lodged on or after 24 March 2012.",
+        "Study in a non-ELICOS course for up to three months."
+      ],
+      "travel_conditions": {
+        "general_permission": "You can enter and leave Australia during the term of the visa.",
+        "restriction": "You cannot leave Australia without the nominating student unless specific evidence is provided.",
+        "evidence_required": [
+          "Compelling compassionate circumstances for leaving without the student.",
+          "Proof of suitable alternative arrangements for the student’s accommodation, general welfare, and support until you return."
+        ]
+      }
+    },
+    "obligations": {
+      "work_restrictions": "You must not work while in Australia.",
+      "consequence_of_breach": "If you do not comply with visa conditions, your visa may be cancelled, and the nominating student’s visa may also be cancelled."
+    },
+    "alternative_welfare_arrangements": {
+      "approval_requirement": "Alternative arrangements must be approved by the Department and the student’s education provider.",
+      "instruction": "Discuss your circumstances with the education provider as soon as you know you need to travel.",
+      "methods": [
+        {
+          "method": "Nominate an alternative student guardian",
+          "conditions": "The guardian must be, except in limited circumstances, a parent or relative aged 21 years or over.",
+          "form": "Form 157N Nomination of a student guardian (291KB PDF)",
+          "submission_requirements": [
+            "Completed Form 157N",
+            "Approval from the education provider (letter or email)",
+            "Required documentation",
+            "All must be submitted before leaving Australia"
+          ]
+        },
+        {
+          "method": "Education provider assumes welfare responsibility",
+          "documentation": "A Confirmation of Appropriate Accommodation and Welfare (CAAW) letter",
+          "details": "The CAAW letter states start and end dates for the approved welfare arrangements."
+        }
+      ],
+      "approval_notification": "The Department will inform you if the alternative arrangements are approved.",
+      "rejection_consequence": "If arrangements are not approved, you cannot leave Australia without the nominating student."
+    },
+    "no_further_stay_condition": {
+      "description": "You cannot apply to stay in Australia beyond the date specified on your visa, except in certain circumstances."
+    },
+    "reporting_requirements": {
+      "changes_to_report": [
+        "Changes to phone number",
+        "Changes to email",
+        "Changes to address",
+        "Changes to passport",
+        "Changes to relationship status",
+        "Birth of a child"
+      ],
+      "reference": "See how to let us know if there is a change in your situation."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

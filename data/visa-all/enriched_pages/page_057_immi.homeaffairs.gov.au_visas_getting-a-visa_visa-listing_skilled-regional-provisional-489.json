@@ -1,0 +1,42 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-regional-provisional-489",
+  "title": "Skilled Regional (Provisional) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Skilled Regional (Provisional) visa (subclass 489) and its three pathways: Invited, Extended Stay, and Subsequent Entry. It outlines who each pathway is for, the costs, stay periods, and basic requirements. The visa is closed to new applications for the Invited pathway.",
+  "structured_data": {
+    "visa_name": "Skilled Regional (Provisional) visa",
+    "subclass": "489",
+    "general_description": "A temporary visa for skilled workers who want to live and work in regional Australia. Holders may be able to apply for the Skilled Regional (Permanent) visa (subclass 887).",
+    "pathways": {
+      "invited_pathway": {
+        "status": "closed to new applications",
+        "description": "Temporary visa for skilled workers who want to live and work in regional Australia.",
+        "stay_period": "4 years",
+        "cost_from_aud": 4770.0,
+        "processing_time_info": "Use the visa processing time guide tool for indicative processing times. It is a guide only and not specific to individual applications."
+      },
+      "extended_stay_pathway": {
+        "description": "Temporary visa for skilled workers who want to live and work in regional Australia.",
+        "requirements": {
+          "regional_requirement": "Must live, work and study in specified regional areas of Australia.",
+          "visa_requirement": "Must hold a subclass 475, 487, 495 or 496 visa."
+        },
+        "stay_period": "4 years from the date the current skilled visa was granted",
+        "cost_from_aud": 435.0,
+        "processing_time_info": "Use the visa processing time guide tool for indicative processing times. It is a guide only and not specific to individual applications."
+      },
+      "subsequent_entry_pathway": {
+        "description": "For members of the family unit of someone who holds a Skilled Regional (Provisional) visa (subclass 489) or a subclass 475, 487, 495 or 496 visa.",
+        "requirements": {
+          "regional_requirement": "Must live, work and study in specified regional areas of Australia.",
+          "family_requirement": "Must be a member of the family unit of a holder of a subclass 475, 487, 489, 495 or 496 visa."
+        },
+        "stay_period": "Until the visa that the family member holds ends",
+        "cost_from_aud": 4910.0,
+        "processing_time_info": "Use the visa processing time guide tool for indicative processing times. It is a guide only and not specific to individual applications."
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

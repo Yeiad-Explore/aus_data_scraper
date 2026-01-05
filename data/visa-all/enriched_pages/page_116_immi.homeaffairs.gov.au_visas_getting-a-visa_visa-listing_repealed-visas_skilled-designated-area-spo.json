@@ -1,0 +1,59 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/skilled-designated-area-sponsored-visa-subclass-496",
+  "title": "Skilled — Designated Area Sponsored visa (subclass 496)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the now‑closed Skilled — Designated Area Sponsored visa (subclass 496). It outlines what current visa holders and their families can do, how long the visa lasts, obligations, and what changes must be reported. It also suggests available alternative visas for eligible family members.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Skilled — Designated Area Sponsored visa",
+      "subclass": "496",
+      "status": "Closed to new applications",
+      "closure_date": "1 September 2007",
+      "validity_period": "4 years after first entry to Australia"
+    },
+    "alternative_visas": {
+      "skilled_regional_provisional_subclass_489": {
+        "description": "Family unit members might be able to apply if the primary holder already possesses a subclass 496 visa and they want to join them in Australia."
+      }
+    },
+    "applicant_information": {
+      "contact_for_updates": "Adelaide General Skilled Migration (GSM) processing centre"
+    },
+    "visa_holders_information": {
+      "vevo_access": "Visa Entitlement Verification Online (VEVO) can be used for free to check visa details and entitlements."
+    },
+    "visa_rights": {
+      "allowed_actions": [
+        "Live in Australia",
+        "Work in Australia",
+        "Study in Australia",
+        "Become eligible to apply for permanent residence",
+        "Travel to and from Australia any number of times while the visa is valid"
+      ],
+      "restrictions": [
+        "Cannot access Medicare",
+        "Cannot access family assistance",
+        "Cannot access social security benefits"
+      ]
+    },
+    "obligations": {
+      "general_obligations": [
+        "Comply with all visa conditions",
+        "Comply with all Australian laws"
+      ]
+    },
+    "change_notification_requirements": {
+      "changes_to_report": [
+        "Changes to phone number",
+        "Changes to email",
+        "Changes to address",
+        "Changes to passport",
+        "Changes to relationship status",
+        "Birth of a child"
+      ],
+      "consequences_of_not_reporting_passport_changes": "Significant delays at the airport and potential denial of permission to board a plane."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

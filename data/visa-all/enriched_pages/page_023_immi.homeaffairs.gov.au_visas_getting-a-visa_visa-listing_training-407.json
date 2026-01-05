@@ -1,0 +1,121 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/training-407",
+  "title": "Training visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Australian Training Visa (Subclass 407), a temporary visa that allows individuals to undertake workplace-based occupational training or professional development in Australia. It outlines visa features, eligibility criteria, costs, conditions, obligations, nomination types, family inclusion rules, and application procedures.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Training visa",
+      "subclass": "407",
+      "description": "This visa allows you to take part in workplace-based occupational training activities to improve your skills for your job, area of tertiary study, field of expertise, or in a professional development training program in Australia.",
+      "stay_period": "Up to 2 years",
+      "visa_type": "Temporary",
+      "travel_rights": "Multiple entries allowed while visa is valid",
+      "visa_label": "Digital only, no passport label"
+    },
+    "costs": {
+      "application_cost_main_applicant": "AUD 430.00",
+      "additional_applicant_costs": "Additional charge applies for each family member",
+      "other_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "pricing_estimator_note": "Visa Pricing Estimator does not include additional costs"
+    },
+    "processing_times": {
+      "tool_reference": "Visa processing time guide tool",
+      "notes": [
+        "Processing times shown are for recently decided applications",
+        "Times are indicative only",
+        "Applications may take longer if not completed correctly, documents are missing, more information is required, or verification is needed"
+      ],
+      "payment_requirement": "Application cannot be processed unless the correct visa application charge is paid"
+    },
+    "eligibility": {
+      "sponsor_requirements": [
+        "You must be sponsored",
+        "Sponsor must be an approved temporary activities sponsor"
+      ],
+      "nomination_requirements": [
+        "You must be nominated unless your sponsor is a Commonwealth Government agency"
+      ],
+      "invitation_requirement": "If your sponsor is a Commonwealth Government agency, you must be invited",
+      "age_requirement": "Generally must be 18 years or older at time of decision",
+      "visa_status_requirements": {
+        "if_applying_in_australia": {
+          "must_hold_valid_substantive_visa": true,
+          "excluded_visas": [
+            "Subclass 403 (Temporary Work International Relations – Domestic Worker stream)",
+            "Subclass 771 (Transit)",
+            "Special Purpose visa"
+          ],
+          "if_no_substantive_visa": "Last substantive visa must not have been one of the excluded visas and application must be lodged within 28 days of last substantive visa expiry or AAT notification"
+        }
+      }
+    },
+    "nomination_types": {
+      "description": "Nomination is the stage where the sponsor provides details about the nominee, the purpose or type of training, and how and where the training will be provided.",
+      "types": [
+        "Occupational training required for registration",
+        "Occupational training to improve skills in an eligible occupation",
+        "Occupational training for capacity building overseas (including overseas qualification, government support, or professional training)"
+      ]
+    },
+    "with_this_visa_you_can": [
+      "Visit Australia to complete workplace-based training to improve skills for your occupation, tertiary study area, or field of expertise",
+      "Participate in a professional development training program"
+    ],
+    "stay_information": {
+      "how_long_you_can_stay": "Up to 2 years",
+      "stay_longer": "You cannot extend this visa; you can apply for another visa",
+      "re_entry": "You can leave and re-enter Australia while the visa is valid"
+    },
+    "family_members": {
+      "can_include_family": true,
+      "requirements": [
+        "Family members must meet health and character requirements",
+        "If applying from outside Australia, non-travelling family members may also need to meet health requirements"
+      ],
+      "newborn_children": "Information available on what to do if a child is born after application or during visa validity",
+      "subsequent_entrants": {
+        "allowed": true,
+        "application_method": "Temporary Work and Activity Visa (Subsequent Entrant) (403, 407, 408) form in ImmiAccount",
+        "requirements": [
+          "Must be listed on the nomination form if the sponsor is not a Commonwealth Government agency",
+          "Must provide a letter from the primary applicant's sponsor confirming willingness to sponsor them"
+        ]
+      }
+    },
+    "application_information": {
+      "apply_from": "You can be in or outside Australia when you apply and when the application is decided",
+      "help_with_visa": "Applicants should check who is legally allowed to assist with their visa application before paying anyone"
+    },
+    "obligations": {
+      "general_obligations": [
+        "You and your family must obey all Australian laws"
+      ],
+      "financial_support": [
+        "You must be able to financially support yourself in Australia",
+        "You must be able to financially support any accompanying family members"
+      ]
+    },
+    "changing_sponsors": {
+      "requirements": [
+        "If you decide to train with another organisation, they must sponsor you",
+        "The new organisation must submit a new nomination",
+        "Once the nomination is approved, you may train with the new organisation for the remaining visa period"
+      ],
+      "need_new_visa": "You do not need a new visa unless the occupational training program itself changes",
+      "sponsor_ends_training": "You must notify the government and may attempt to find another sponsor"
+    },
+    "apply_for_new_visa": {
+      "requirements": [
+        "You will need continuing sponsorship to apply for another Training visa (subclass 407)",
+        "You may need to explain why you were unable to complete the initial training"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

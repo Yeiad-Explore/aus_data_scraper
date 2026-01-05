@@ -1,0 +1,90 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/business-short-stay-visa-subclass-456",
+  "title": "Business (Short Stay) visa (subclass 456)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the closed Business (Short Stay) visa (subclass 456). It explains when the visa was discontinued, which visas replaced it, and what rights and obligations applied to existing visa holders. It also outlines permitted activities, work restrictions, and requirements for updating changes in personal circumstances.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Business (Short Stay) visa",
+      "subclass": "456",
+      "status": "closed to new applications",
+      "closure_date": "23 March 2013",
+      "replacements": [
+        {
+          "visa_name": "Temporary Work (Short Stay Activity) visa",
+          "subclass": "400",
+          "replacement_date": "23 March 2013"
+        },
+        {
+          "visa_name": "Temporary Work (Short Stay Specialist) visa",
+          "subclass": "400",
+          "replacement_date": "19 November 2016"
+        }
+      ],
+      "alternative_for_business_visitors": {
+        "visa_name": "Visitor visa",
+        "stream": "Business Visitor stream",
+        "subclass": "600",
+        "purpose": "Short business visits without work intentions"
+      }
+    },
+    "visa_holders_information": {
+      "how_long_visa_lasts": {
+        "notification_method": "Specified in the Notification of Grant letter",
+        "extensions_allowed": false
+      },
+      "visa_permissions": {
+        "allowed_activities": [
+          "Short-term business purposes",
+          "Business-related meetings",
+          "Seminars",
+          "Conventions",
+          "Conferences",
+          "Networking"
+        ],
+        "length_of_stay": [
+          {
+            "type": "single visit",
+            "duration": "maximum of three months"
+          },
+          {
+            "type": "multiple visits",
+            "duration": "maximum of three months per visit"
+          }
+        ],
+        "work_permissions": {
+          "general_rule": "Work is usually not allowed",
+          "exceptions": [
+            "Highly specialised and non-ongoing work",
+            "Work usually less than six weeks for the life of the visa"
+          ]
+        },
+        "no_further_stay_condition": {
+          "applies": true,
+          "implications": "Cannot apply for any other visa while in Australia except for a Protection visa"
+        }
+      },
+      "obligations": {
+        "general_obligations": [
+          "Comply with all visa conditions and Australian laws",
+          "Not undertake formal study or training leading to a primary, secondary, or higher education qualification"
+        ],
+        "work_restrictions": [
+          "Not work in Australia except under very limited circumstances",
+          "Not perform work that can be done by an Australian citizen or Australian permanent resident",
+          "Not perform activities other than those stated in the visa application"
+        ]
+      },
+      "change_notification_requirements": {
+        "changes_to_report": [
+          "Changes to phone number, email, address, or passport",
+          "Changes to relationship status",
+          "Birth of a child"
+        ],
+        "consequences_of_not_reporting_new_passport": "Possible significant delays at the airport and potential denial of permission to board a plane"
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

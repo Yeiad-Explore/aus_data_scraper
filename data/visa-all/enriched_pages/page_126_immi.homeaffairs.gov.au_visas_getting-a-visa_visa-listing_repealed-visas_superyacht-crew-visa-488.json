@@ -1,0 +1,166 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/superyacht-crew-visa-488",
+  "title": "Superyacht Crew visa (subclass 488)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for holders and former sponsors of the now-closed Superyacht Crew visa (subclass 488). It explains visa conditions, work rights, obligations, what to do if employment changes, and sponsorship requirements. It also outlines transitional arrangements for moving to the Temporary Activity visa (subclass 408).",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Superyacht Crew visa",
+      "subclass": "488",
+      "status": "closed_to_new_applications",
+      "closed_date": "19 November 2016",
+      "alternative_visa_option": {
+        "visa_name": "Temporary Activity visa",
+        "subclass": "408"
+      },
+      "applicable_to": "people already granted a Superyacht Crew visa (subclass 488)"
+    },
+    "visa_duration": {
+      "typical_duration": "12 months",
+      "possible_shorter_durations": [
+        "3 months",
+        "6 months"
+      ],
+      "notes": "To apply for a further visa while in Australia as a superyacht crew member you must apply for a Temporary Activity visa (subclass 408) while holding a valid visa."
+    },
+    "what_visa_allows": {
+      "permissions": [
+        "Stay in Australia for up to 12 months (or 3/6 months depending on grant)",
+        "Enter Australia multiple times while visa is valid",
+        "Work on the sponsor's superyacht while in Australia"
+      ],
+      "work_restrictions": [
+        "Cannot perform work outside the usual day‑to‑day routine maintenance or business of the superyacht"
+      ]
+    },
+    "visa_holder_obligations": {
+      "general_obligations": [
+        "Comply with all visa conditions",
+        "Comply with all Australian laws"
+      ],
+      "work_obligations": [
+        "Work only as a superyacht crew member",
+        "Work only for the sponsoring employer",
+        "Cannot work for another person or for yourself",
+        "Cannot work for the sponsor or yacht owner beyond day‑to‑day routine business"
+      ]
+    },
+    "if_employment_changes": {
+      "if_employment_ceases": [
+        "Find another employer willing to sponsor you and apply for another subclass 488 visa",
+        "Apply for another substantive visa",
+        "Leave Australia within 28 days or before your visa ends"
+      ],
+      "changing_employer": "Requires new sponsorship and a new Superyacht Crew visa (subclass 488).",
+      "conditions_for_further_488_visa_application": [
+        "Must apply while holding a valid subclass 488 visa or another valid Australian visa"
+      ]
+    },
+    "change_notification_requirements": {
+      "changes_to_report": [
+        "Phone number",
+        "Email",
+        "Address",
+        "Passport details",
+        "Relationship status",
+        "Birth of a child"
+      ],
+      "notes": "Instructions provided for how to notify the department."
+    },
+    "sponsor_information": {
+      "applicable_to": "Approved sponsors for a Superyacht Crew visa (subclass 488)",
+      "vevo_access": "Sponsors can use VEVO for Organisations to check visa status and entitlements.",
+      "sponsorship_availability": "Cannot apply to sponsor new applicants because the visa is closed.",
+      "transitional_arrangements": {
+        "allowed_to_sponsor_subclass_408_until": "18 May 2017",
+        "condition": "Sponsor must have been approved before 19 November 2016",
+        "post_transition_requirement": "From 19 May 2017, sponsors must apply online for approval as a temporary activities sponsor"
+      },
+      "applications_lodged_before_closure": {
+        "assessment_rule": "Applications lodged before 19 November 2016 assessed under pre‑19 November 2016 legislation",
+        "validity_of_sponsorship": "Valid only for sponsoring new subclass 408 applicants until 18 May 2017"
+      }
+    },
+    "sponsorship_obligations": {
+      "list_of_obligations": [
+        "Cooperate with inspectors",
+        "Notify the department when certain events occur",
+        "Not recover, transfer, or charge certain costs to another person",
+        "Keep records",
+        "Provide records and information to the Minister",
+        "Pay costs to locate and remove an unlawful non‑citizen"
+      ],
+      "responsibility_note": "Sponsors remain responsible even if someone else (including a migration agent) acts on their behalf."
+    },
+    "cooperate_with_inspectors": {
+      "inspectors_appointed_under": "Migration Act 1958",
+      "purpose_of_investigation": [
+        "Compliance with sponsorship obligations",
+        "Illegal worker investigations",
+        "Other administrative action circumstances"
+      ],
+      "obligation_period": {
+        "starts": "On the day sponsorship is approved or work agreement commences",
+        "ends": "Five years after the approved sponsorship or work agreement ceases"
+      },
+      "examples_of_cooperation": [
+        "Providing access to premises",
+        "Producing documents within required timeframes",
+        "Not preventing access to persons with custody of records or documents",
+        "Providing officers access to interview any person on premises"
+      ]
+    },
+    "record_keeping_obligations": {
+      "requirements": [
+        "Keep records that show compliance with obligations",
+        "Records must be reproducible",
+        "Some records must be independently verifiable"
+      ],
+      "records_to_keep": [
+        "Any required notification made to the department",
+        "The date of notification",
+        "How and where the notification was made"
+      ],
+      "obligation_period": {
+        "starts": "On the day the sponsorship is approved",
+        "ends": "Two years after the sponsor is no longer approved AND no longer sponsoring anyone",
+        "maximum_required_retention": "Five years"
+      }
+    },
+    "provide_records_and_information": {
+      "requirements": [
+        "Provide records/information requested by a departmental officer",
+        "Information must relate to sponsorship obligations or circumstances permitting administrative action"
+      ],
+      "request_method": "Requests may be issued in writing",
+      "records_that_must_be_provided": [
+        "Records required under Commonwealth, state, or territory law",
+        "Records required to be kept as a sponsor"
+      ],
+      "obligation_period": {
+        "starts": "On the day the sponsorship is approved or work agreement commences",
+        "ends": "Two years after sponsorship/work agreement ceases and no sponsored visa holders remain"
+      }
+    },
+    "notification_of_events": {
+      "requirements": [
+        "Sponsors must notify the department in writing via registered post or email",
+        "Must notify within required timeframes"
+      ],
+      "events_to_report": [
+        "Changes to address or contact details in sponsor’s application",
+        "Cessation or expected cessation of a primary sponsored person's employment"
+      ],
+      "additional_conditions": [
+        "If cessation does not occur or occurs on a different date, sponsor must update the department"
+      ],
+      "obligation_period": {
+        "starts": "On approval of sponsorship or commencement of work agreement",
+        "ends": "Two years after sponsorship or work agreement ends AND no one is being sponsored"
+      },
+      "where_to_send": "Email or state/territory office (details truncated)"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

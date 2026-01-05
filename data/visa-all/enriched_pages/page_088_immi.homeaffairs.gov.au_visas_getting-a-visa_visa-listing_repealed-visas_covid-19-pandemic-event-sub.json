@@ -1,0 +1,136 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/covid-19-pandemic-event-subclass-408",
+  "title": "Temporary Activity visa (subclass 408) - Australian Government endorsed events (COVID-19 Pandemic event)",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Temporary Activity visa (subclass 408) – Australian Government endorsed events (COVID‑19 Pandemic event). The visa closed to new applications on 1 February 2024, but applications lodged before that date continue to be assessed. The content outlines what the visa allowed, eligibility rules based on application dates, obligations, and requirements for applicants.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Temporary Activity visa",
+      "subclass": "408",
+      "stream": "Australian Government endorsed events (COVID-19 Pandemic event)",
+      "status": "Closed to new applicants",
+      "closure_date": "1 February 2024",
+      "description": "Introduced in April 2020 to allow temporary visa holders to remain lawfully in Australia during border closures and support labour shortages in critical sectors.",
+      "reason_for_closure": "Borders reopened and temporary visa holder numbers returned to pre-COVID-19 levels."
+    },
+    "what_this_visa_lets_you_do": [
+      "Remain temporarily in Australia to work",
+      "Travel outside Australia and return while the visa is in effect"
+    ],
+    "cost": {
+      "application_fee_from": "AUD 405.00",
+      "additional_fees": [
+        "Charge applies for each family member added",
+        "Possible additional costs: health assessments, police certificates, other certificates or tests"
+      ],
+      "responsibility": "Applicants are responsible for arranging and paying for additional costs."
+    },
+    "eligibility": {
+      "applications_2_sept_2023_to_1_feb_2024": {
+        "eligibility_rules": [
+          "Applicant held a COVID-19 Pandemic event visa with 28 days or less remaining at lodgement",
+          "Applicant held a COVID-19 Pandemic event visa that ceased within 28 days before lodgement"
+        ],
+        "employment_requirements": {
+          "must_be_working_or_intending": true,
+          "must_provide_evidence": true,
+          "evidence_must_confirm": [
+            "Dates of employment",
+            "Sector of employment",
+            "Description of position and duties"
+          ],
+          "acceptable_evidence": [
+            "Payslips",
+            "Employment contract",
+            "Letter from employer"
+          ]
+        },
+        "ineligibility_consequence": "If the applicant did not hold a COVID-19 Pandemic event visa at lodgement, the application is refused and may result in adverse consequences.",
+        "advice_if_ineligible": [
+          "Explore other visa options",
+          "Make arrangements to depart Australia",
+          "Check requirements if current visa is expiring or expired"
+        ]
+      },
+      "applications_21_feb_2022_to_2_sept_2023": {
+        "note": "Government changes announced on 2 September 2023 do not affect undecided applications lodged during this period.",
+        "status": "Applications continue to be assessed"
+      },
+      "applications_before_21_feb_2022": {
+        "note": "Government changes announced on 2 March 2022 or 2 September 2023 do not affect undecided applications lodged before this date.",
+        "status": "Applications continue to be assessed"
+      },
+      "general_requirements": {
+        "support_yourself": "Must have sufficient funds to support yourself and any dependants.",
+        "health_requirements": "Applicant and included family members must meet health requirements; may require a health check.",
+        "character_requirements": "Applicants aged 16+ must meet character requirements; others may also be requested.",
+        "health_insurance": "Must maintain adequate health insurance for entire stay.",
+        "genuine_temporary_entrant": {
+          "description": "Must intend to stay temporarily and not use the program for ongoing residence.",
+          "assessment_factors": [
+            "Situation in Australia and home country",
+            "Immigration history",
+            "Compliance with visa conditions",
+            "Other relevant matters"
+          ]
+        },
+        "debt_to_government": "Must have no outstanding debts or have arranged repayment."
+      }
+    },
+    "visa_applicants_information": {
+      "application_closure": "Closed to all applications on 1 February 2024",
+      "actions_after_applying": [
+        "Check application status in ImmiAccount",
+        "Upload new information or respond to requests",
+        "Processing may take longer if health/character checks are required or if application is incomplete"
+      ]
+    },
+    "travel_information": {
+      "requirements_if_travelling": [
+        "Hold a visa that allows return to Australia if departing before decision",
+        "Check visa conditions and expiry in VEVO"
+      ]
+    },
+    "health_exams": {
+      "note": "Applicants will be notified if health examinations are required."
+    },
+    "health_insurance": {
+      "note": "Adequate health insurance must be maintained throughout stay."
+    },
+    "providing_information": {
+      "attach_more_information": "Documents can be uploaded in ImmiAccount; additional information may be requested."
+    },
+    "stay_lawful": {
+      "requirement": "Must hold a valid visa while application is processed.",
+      "bridging_visas": {
+        "bva": "Granted if applicant held a substantive visa at time of application",
+        "bvc": "Granted if applicant did not hold a substantive visa at application",
+        "conditions": [
+          "Bridging visas come into effect when current visa expires",
+          "Cannot re-enter Australia on BVA or BVC",
+          "No right of return; visas cease on departure"
+        ]
+      }
+    },
+    "newborn_children": {
+      "note": "If a child is born after applying, additional steps are required."
+    },
+    "correcting_mistakes": {
+      "instruction": "Submit Form 1023 (Notification of incorrect answers) and attach it in ImmiAccount."
+    },
+    "help_with_application": {
+      "authorised_recipient": "Form 956a required to appoint or withdraw",
+      "immigration_advice": "Form 956 required for migration agent/exempt person",
+      "acting_on_behalf": "Notify in writing by uploading advice to ImmiAccount"
+    },
+    "changes_to_circumstances": {
+      "information_to_update": [
+        "Phone number, email, address, passport",
+        "Marital or de facto status",
+        "Birth of a child"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

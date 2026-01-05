@@ -1,0 +1,70 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/temporary-graduate-replacement-stream-visa-subclass-485",
+  "title": "Temporary Graduate (Replacement stream) visa (subclass 485)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for people who already hold, or who applied before 1 July 2024 for, the Temporary Graduate (Replacement stream) visa (subclass 485). The visa is closed to new primary applicants. The page explains current visa holder rights, obligations, family member rules, and reporting requirements.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Temporary Graduate (Replacement stream) visa",
+      "subclass": "485",
+      "application_status": "closed_to_new_applications",
+      "closure_date": "1 July 2024",
+      "who_this_information_is_for": [
+        "People already granted a Temporary Graduate (Replacement stream) visa (subclass 485)",
+        "People who applied on or before 30 June 2024 and whose application is still undecided"
+      ]
+    },
+    "visa_validity": {
+      "validity_information": "If you already hold the visa, it remains valid until the expiry date granted."
+    },
+    "visa_entitlements": {
+      "activities_allowed": [
+        "Live in Australia temporarily",
+        "Study in Australia",
+        "Work in Australia",
+        "Have eligible dependant family members apply to join you in Australia"
+      ]
+    },
+    "visa_holder_obligations": {
+      "requirements": [
+        "Comply with all visa conditions and Australian laws",
+        "Maintain adequate health insurance while in Australia",
+        "Continue to meet the requirements of the visa stream under which the visa was granted",
+        "Leave Australia when the visa ends unless granted another visa"
+      ]
+    },
+    "family_members": {
+      "subsequent_entrant_rules": "Dependant family members who did not apply initially may apply as subsequent entrants from inside or outside Australia while the primary visa remains valid.",
+      "when_visa_ends": "Family members must leave Australia when the primary visa holder's visa ends.",
+      "family_obligations": [
+        "Intend to remain members of the family unit",
+        "Maintain adequate health insurance while in Australia"
+      ],
+      "family_entitlements": [
+        "Live in Australia",
+        "Travel in Australia",
+        "Work in Australia",
+        "Study in Australia"
+      ],
+      "additional_conditions_notice": "The department will advise if there are any other conditions family members must comply with upon visa grant."
+    },
+    "reporting_changes": {
+      "instruction": "Visa holders must report changes in circumstances.",
+      "examples_of_changes": [
+        "New residential address",
+        "New passport",
+        "Pregnancy",
+        "Birth in the family",
+        "Death in the family"
+      ],
+      "related_links": [
+        "Changes in your situation"
+      ]
+    },
+    "tools_and_resources": {
+      "vevo": "Visa holders can use Visa Entitlement Verification Online (VEVO) for free to check visa details and entitlements."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

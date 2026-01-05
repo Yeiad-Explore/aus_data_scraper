@@ -1,0 +1,80 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa",
+  "title": "Immigration and citizenship",
+  "content_type": "general_information",
+  "summary": "This page is a general landing page for the Department of Home Affairs focused on immigration and citizenship. It provides links to visa information, citizenship services, travel guidance, support for people affected by international conflicts, and access to online services. It also highlights recent news updates and contact options.",
+  "structured_data": {
+    "page_title": "Immigration and citizenship",
+    "main_sections": [
+      "Entering and leaving Australia",
+      "Visas",
+      "Australian citizenship",
+      "What we do",
+      "Settling in Australia",
+      "Help and support"
+    ],
+    "conflict_support_information": {
+      "palestine_israel_conflict": {
+        "description": "Information for people impacted by conflict in Palestine or Israel.",
+        "link_text": "Hamas-Israel Conflict: Visa Support and financial assistance"
+      },
+      "ukraine_conflict": {
+        "description": "Information for people impacted by the situation in Ukraine.",
+        "link_text": "Offer of a Resolution of Status Visa to Ukrainian Temporary Humanitarian Concern (subclass 786) visa holders"
+      }
+    },
+    "page_customization": {
+      "options": [
+        "Show me more...",
+        "Show me more..."
+      ]
+    },
+    "services_and_guidance": {
+      "visa_application": "Applying for a visa",
+      "citizenship": "Australian citizenship",
+      "travel": "Entering or leaving Australia",
+      "employing_or_sponsoring_workers": "Employing or sponsoring workers",
+      "existing_visa_holders": "I already have a visa",
+      "new_zealand_citizens": "New Zealand citizens",
+      "permanent_residence": "Permanent residence (PR)"
+    },
+    "reset_option": "Reset",
+    "featured_topics": {
+      "employ_people_from_overseas": "See how to bring someone into Australia to work for you",
+      "hamas_israel_conflict_support": "Find visa information to support those impacted by the Hamas-Israel conflict and surrounding areas",
+      "explore_visa_options": "Answer a few questions to identify which visas might be suitable for you and your family",
+      "online_forms_and_services": "Apply, notify us of changes, check status or withdraw an application. Use ImmiAccount or VEVO.",
+      "become_a_citizen": "See if you are eligible and how to apply",
+      "visa_expiry_guidance": "See what your options are and what you need to do if your visa is expiring or has expired",
+      "changes_to_situation": "Information about what to do if your situation has changed (moving, new baby, new passport, plan changes)",
+      "visa_conditions": "Find out what you can and can't do under your visa conditions",
+      "report_suspicious_activities": "Report suspicious or illegal immigration, citizenship, customs and trade activity"
+    },
+    "news": [
+      {
+        "date": "12 Dec 2025",
+        "title": "From Backpacks to Bonds",
+        "description": "50 years of Australia’s Working Holiday Maker Program"
+      },
+      {
+        "date": "02 Dec 2025",
+        "title": "Australian Immi App is now available in 34 countries",
+        "description": "Travelling to Australia is simpler with this new mobile phone app."
+      },
+      {
+        "date": "24 Nov 2025",
+        "title": "Systems maintenance 28 November – 29 November 2025",
+        "description": "Systems maintenance from 8:30 pm (AEDT) Friday 28 November 2025 to 12 noon (AEDT) Saturday 29 November 2025."
+      }
+    ],
+    "contact_information": {
+      "general_inquiries": "General inquiries, feedback or complaints",
+      "popular_questions": "Popular questions",
+      "contact_us": "Contact us",
+      "report_suspicious_activities": "Report suspicious activities",
+      "national_security_hotline": "National Security Hotline"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

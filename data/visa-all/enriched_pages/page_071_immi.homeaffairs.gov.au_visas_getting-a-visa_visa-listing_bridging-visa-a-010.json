@@ -1,0 +1,134 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/bridging-visa-a-010",
+  "title": "Bridging visa A (BVA)",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Bridging visa A (subclass 010), including what it allows, eligibility, conditions, validity rules, and how it interacts with substantive visa applications and judicial review processes. It also explains work permissions, when the visa comes into effect, when it ends, and who can be included in an application.",
+  "structured_data": {
+    "visa_name": "Bridging visa A",
+    "subclass": "010",
+    "visa_type": "temporary",
+    "description": "This temporary visa generally allows a person to stay in Australia after their current substantive visa ceases and while their new substantive visa application is being processed.",
+    "key_updates": [
+      {
+        "date": "1 August 2022",
+        "change": "Applications for Bridging visa A (BVA), B (BVB), and C (BVC) can no longer be lodged in-person or via paper forms and must be submitted online through ImmiAccount or the online webform."
+      }
+    ],
+    "stay": "Temporarily",
+    "cost": "Free",
+    "processing_times": "No processing times available",
+    "what_you_can_do": [
+      "Stay lawfully in Australia until the substantive visa application is finally determined or, if granted in association with judicial review, until those proceedings are completed",
+      "Work if meeting requirements for work"
+    ],
+    "eligibility": {
+      "must_be_in_australia_when_applying": true,
+      "must_be_in_australia_at_time_of_grant": true,
+      "additional_notes": [
+        "Eligibility depends on meeting all requirements at the time of application."
+      ]
+    },
+    "application_information": {
+      "automatic_application_notes": [
+        "Nearly all bridging visas are applied for automatically when applying for a substantive visa.",
+        "A separate BVA application may be required if the substantive visa application did not constitute a BVA application, a previous BVA/BVB has ceased and requirements for another BVA are met, the applicant seeks a BVA without work restrictions, or the applicant has applied for judicial review."
+      ],
+      "methods": [
+        "Online via ImmiAccount",
+        "Online webform (required for judicial review-related BVA applications)"
+      ]
+    },
+    "restrictions": {
+      "cannot_use_for_citizenship_waiting_period": true,
+      "travel": "BVA does not permit return travel to Australia."
+    },
+    "when_visa_comes_into_effect": [
+      "When it is granted (if the substantive visa has already ceased or the BVA is more beneficial than the current bridging visa)",
+      "When the current substantive visa ceases",
+      "When a more beneficial bridging visa ceases"
+    ],
+    "visa_conditions": {
+      "must_comply_with": [
+        "Conditions imposed on the BVA when granted",
+        "Conditions of substantive visa if still in effect"
+      ],
+      "notification": "Grant letter will specify conditions."
+    },
+    "work_rights": {
+      "work_allowed_depends_on_conditions": true,
+      "checking_work_rights": "Via VEVO",
+      "if_work_not_allowed_or_restricted": [
+        "Applicant may apply for another BVA that allows work",
+        "Usually must demonstrate financial hardship"
+      ],
+      "assessment": "Based on individual circumstances and the need to work.",
+      "cannot_be_granted_bva_with_work_rights_if": [
+        "Current BVA prevents or restricts work and was granted because of a judicial review application",
+        "The applicant has applied for a protection visa"
+      ]
+    },
+    "judicial_review_information": {
+      "maintaining_lawful_status": "A bridging visa is required to remain lawful during judicial review after a merits review tribunal upholds a refusal.",
+      "application_method_during_judicial_review": "Only via webform"
+    },
+    "when_bva_ends": {
+      "immediate_end": [
+        "Leaving Australia while BVA is in effect",
+        "Grant of the substantive visa applied for",
+        "Grant of another bridging visa associated with the same substantive visa (e.g., BVB)",
+        "Cancellation of either the BVA or the substantive visa held at time of grant"
+      ],
+      "other_end_conditions": [
+        "Substantive visa application refused",
+        "Merits or judicial review decided",
+        "Withdrawal of substantive visa application or review applications",
+        "Merit review tribunal declares no jurisdiction"
+      ],
+      "checking_end_date": "VEVO can be used to check exact stay period once an outcome is notified."
+    },
+    "bva_validity_rules": {
+      "granted_on_or_after_19_nov_2016": {
+        "ceases_35_days_after": [
+          "Refusal decision or AAT decision regarding associated substantive visa",
+          "Determination that substantive visa or AAT review application is invalid",
+          "Withdrawal of substantive visa application or AAT review application"
+        ],
+        "ceases_28_days_after": [
+          "Judicial review body upholds refusal of substantive visa",
+          "Withdrawal of judicial review application"
+        ]
+      },
+      "granted_before_19_nov_2016": {
+        "ceases_28_days_after_any_of": [
+          "Notification that substantive visa application is invalid",
+          "Notification of substantive visa refusal",
+          "Withdrawal of substantive visa application",
+          "Tribunal upholds refusal",
+          "Tribunal states it has no jurisdiction",
+          "Withdrawal of merits or judicial review application",
+          "Judicial review body upholds refusal"
+        ]
+      }
+    },
+    "stay_longer": {
+      "can_extend": false,
+      "instructions": "Must apply for a new visa to stay longer"
+    },
+    "family_members": {
+      "automatic_application_if_applied_together": true,
+      "check_existing_bva_in_vevo": true,
+      "including_family_in_bva_application": "Possible if they are included in the substantive visa application",
+      "assessment": "Each family member is assessed individually to determine which bridging visa they can be granted"
+    },
+    "apply_from": {
+      "location_requirement": "Applicant and included family must be in Australia at both submission and grant"
+    },
+    "obligations": [
+      "Comply with all Australian laws",
+      "Comply with conditions of current visa",
+      "Comply with conditions of BVA once it comes into effect"
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

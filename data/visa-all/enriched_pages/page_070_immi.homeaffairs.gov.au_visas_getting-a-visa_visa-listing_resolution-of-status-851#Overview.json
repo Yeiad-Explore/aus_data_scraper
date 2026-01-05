@@ -1,0 +1,111 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/resolution-of-status-851#Overview",
+  "title": "Resolution of Status",
+  "content_type": "visa_information",
+  "summary": "This page provides comprehensive information about the Resolution of Status (RoS) visa, Subclass 851, which offers permanent residence to certain TPV and SHEV visa holders who arrived in Australia before 14 February 2023. It outlines eligibility, application processes, requirements, benefits, and special conditions for current visa holders and those with existing applications.",
+  "structured_data": {
+    "visa_name": "Resolution of Status",
+    "visa_subclass": "851",
+    "description": "A permanent visa allowing TPV and SHEV holders who arrived in Australia before 14 February 2023 to obtain permanent residency.",
+    "key_points": [
+      "Provides permanent residence to eligible TPV and SHEV holders.",
+      "Free visa application assistance is available.",
+      "No fee charged by the Department of Home Affairs; fast‑tracking services are scams.",
+      "Applications must be submitted before TPV or SHEV expiry.",
+      "Permanent residency enables access to services and pathways to citizenship."
+    ],
+    "important_dates": {
+      "eligibility_cutoff_date": "14 February 2023"
+    },
+    "stay": {
+      "type": "permanent",
+      "details": "Stay in Australia indefinitely",
+      "citizenship_residency_start": "Date visa is granted"
+    },
+    "cost": {
+      "application_fee": "Nil"
+    },
+    "processing_times": {
+      "availability": "Unavailable"
+    },
+    "benefits": [
+      "Live, work and study in Australia permanently",
+      "Access Services Australia benefits and Medicare",
+      "Access Centrelink services",
+      "Access short-term counselling for torture and trauma",
+      "Sponsor eligible family members for permanent residence",
+      "Travel to and from Australia for 5 years",
+      "Become an Australian citizen if eligible",
+      "Attend English language classes for free"
+    ],
+    "eligibility": {
+      "must_be_in_australia_at_application": true,
+      "must_be_in_australia_at_grant": true,
+      "must_meet_requirements": [
+        "Health requirements",
+        "Character requirements",
+        "Security requirements"
+      ],
+      "additional_notes": [
+        "Specialist community legal service providers can advise on eligibility.",
+        "Status Resolution Service is available for assistance."
+      ]
+    },
+    "requirements": {
+      "general_requirements": [
+        "Meet health, character and security requirements",
+        "Applicants aged 18 or over must sign the Australian Values Statement",
+        "May be asked to provide additional identity information or attend an interview if needed"
+      ]
+    },
+    "application_information": {
+      "must_apply_before_tpv_shev_expires": true,
+      "application_methods": {
+        "online": "ImmiAccount",
+        "paper_form": "Only in limited, authorised circumstances such as verified ImmiAccount issues"
+      },
+      "technical_support": [
+        "Technical help resources for ImmiAccount",
+        "Global Service Centre",
+        "State and territory legal service providers (see factsheet)"
+      ],
+      "scam_warning": "No fast‑track fee; paid fast‑tracking offers are scams."
+    },
+    "converted_applications": {
+      "automatic_conversion": true,
+      "details": "Any initial or subsequent TPV or SHEV application submitted before 14 February 2023 and not finally determined is automatically converted to a RoS visa application.",
+      "department_notifications": "The Department will notify applicants if a RoS visa is granted."
+    },
+    "current_tpv_shev_holders": {
+      "with_no_existing_application": {
+        "can_apply": true,
+        "conditions": [
+          "Must apply before current TPV or SHEV ceases",
+          "Must apply online via ImmiAccount",
+          "Includes notification of application bar lift for unauthorised maritime arrivals"
+        ]
+      }
+    },
+    "extending_tpv_shev": {
+      "policy": "The Department will extend TPV/SHEV for current holders who lodge a valid RoS application.",
+      "requirement": "Application must occur before TPV/SHEV ceases to ensure lawful status."
+    },
+    "unlawful_non_citizens": {
+      "eligibility": "Those whose TPV or SHEV expired before 14 February 2023 may apply for a RoS visa.",
+      "bridging_visa": "A RoS visa application is also an application for a bridging visa."
+    },
+    "family_members": {
+      "can_apply_together": true,
+      "requirements": "Each family member must meet their own eligibility criteria."
+    },
+    "contact_information": {
+      "legal_service_providers": "Available in each state/territory (see RoS visa factsheet)",
+      "status_resolution_service": "Provides assistance to applicants with concerns or questions"
+    },
+    "related_links": {
+      "ros_visa_factsheet": "Referenced in text (200KB PDF)"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

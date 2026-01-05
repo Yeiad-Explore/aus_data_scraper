@@ -1,0 +1,119 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/adoption-102",
+  "title": "Adoption visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Adoption visa (subclass 102), a permanent visa allowing a child adopted outside Australia to live in Australia with their adoptive parent. It outlines eligibility criteria, costs, processing times, obligations, and key rules for travel, application, and intercountry adoption.",
+  "structured_data": {
+    "visa_name": "Adoption visa",
+    "visa_subclass": "102",
+    "visa_type": "Permanent",
+    "description": "This visa lets children adopted outside Australia live in Australia with their adoptive parent.",
+    "key_updates": [
+      {
+        "date": "23 July 2025",
+        "details": "Applicants for Child visa subclasses 101, 102, 802, 445, 117 and 837 can import their paper application into ImmiAccount."
+      },
+      {
+        "note": "Some applications lodged outside Australia before 1 April 2020 cannot be imported into ImmiAccount."
+      }
+    ],
+    "stay_and_travel_rights": {
+      "stay": "Indefinitely in Australia as a permanent resident",
+      "travel_facility": "5 years from date of visa grant",
+      "after_travel_facility_expires": [
+        "Apply for a Resident Return Visa (RRV) to re-enter Australia",
+        "Consider Australian citizenship; Australian citizens do not require a visa to enter and must use an Australian passport"
+      ]
+    },
+    "benefits": [
+      "Live in Australia indefinitely",
+      "Work and study in Australia",
+      "Enrol in Medicare",
+      "Sponsor relatives to come to Australia",
+      "Attend free English classes through the Adult Migrant English Program (if eligible)",
+      "Apply for Australian citizenship (if eligible)"
+    ],
+    "eligibility": {
+      "age_requirements": "Child must be under 18 at adoption, when applying, and when decision is made",
+      "location_requirements": "Child must be outside Australia when applying and when decision is made",
+      "adoption_requirements": [
+        "Child must have been adopted or be in the process of being adopted by their sponsor parent"
+      ],
+      "covid_concessions": "Child may be eligible for COVID-19 visa concessions",
+      "detailed_adoption_criteria": {
+        "accepted_adoption_types": [
+          "Intercountry adoption involving an Australian state or territory central authority",
+          "Intercountry adoption between two Hague Convention countries",
+          "Expatriate adoption with no involvement of Australian state or territory central authority"
+        ],
+        "sponsor_requirements": [
+          "Sponsor must be an Australian citizen, eligible New Zealand citizen, or Australian permanent visa holder",
+          "Sponsor must have resided outside Australia for more than 12 months before lodging the application"
+        ]
+      }
+    },
+    "intercountry_adoption_notes": {
+      "government_role": [
+        "Australian government cannot arrange adoptions",
+        "Australian government does not issue letters of no objection",
+        "Their role is to assess and decide visa applications"
+      ],
+      "country_restrictions": [
+        "Adoption visa applications cannot be accepted for children adopted in Pakistan"
+      ],
+      "external_resources": [
+        "Intercountry Adoptions Australia"
+      ]
+    },
+    "including_other_children": {
+      "siblings": "Separate applications must be lodged for each sibling",
+      "dependent_children": [
+        "Child’s dependent children may be included when applying or added before a decision",
+        "Dependent children must meet health requirements",
+        "Non-migrating family members may also need to meet health requirements"
+      ]
+    },
+    "costs": {
+      "primary_applicant_fee": "AUD 3,235.00",
+      "additional_costs": [
+        "Additional charge for dependent children",
+        "Health examinations",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "tools": [
+        "Visa Pricing Estimator (does not include additional costs)"
+      ]
+    },
+    "application_rules": {
+      "apply_from": "Child must be outside Australia at time of application",
+      "acknowledgment_time": "Approximately 1 month after lodgement",
+      "processing_times": {
+        "note": "Use the visa processing time guide tool for recent processing times",
+        "factors_that_delay_processing": [
+          "Incorrectly completed application",
+          "Missing documents",
+          "Time needed to verify information",
+          "Incomplete payment or payment of incorrect visa charge"
+        ]
+      }
+    },
+    "obligations": {
+      "first_entry_requirement": "Child must enter Australia before the date specified in the grant letter (generally within 12 months of visa grant)",
+      "legal_requirements": [
+        "Must comply with all visa conditions",
+        "Must obey Australian laws"
+      ]
+    },
+    "visa_label": {
+      "label_status": "No physical visa label issued",
+      "linking_method": "Visa is digitally linked to child’s passport"
+    },
+    "other_information": {
+      "help_with_visa": "Applicants should read information about who can assist with visa applications before paying anyone",
+      "checking_travel_facility": "Use VEVO"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

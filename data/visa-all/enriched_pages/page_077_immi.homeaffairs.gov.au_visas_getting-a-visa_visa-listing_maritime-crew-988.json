@@ -1,0 +1,101 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/maritime-crew-988",
+  "title": "Maritime Crew visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Maritime Crew visa (Subclass 988), which allows foreign crew members of eligible ships and their accompanying family members to enter Australia by sea. It outlines eligibility, permitted activities, ship eligibility, visa conditions, costs, processing times, and rules for staying, traveling, and including family members.",
+  "structured_data": {
+    "visa_name": "Maritime Crew visa",
+    "visa_subclass": "Subclass 988",
+    "description": "This visa allows foreign crew on a Maritime Crew visa (MCV) eligible ship to enter Australia by sea during an international voyage. It is also available to the partner or dependent child of a foreign crew member when travelling on the same ship.",
+    "stay": {
+      "general_rule": "You can stay in Australia as long as you are a crew member of a Maritime Crew Visa eligible ship that is in Australia.",
+      "maximum_duration": "Visa lasts for 3 years unless ceased earlier.",
+      "reasons_for_visa_ceasing": [
+        "Attempting to enter or work in Australia on an ineligible ship",
+        "Performing work not related to normal operational duties of the ship",
+        "Arriving by air and failing to sign on to your ship within 5 days or before another visa ceases",
+        "Signing off your ship and failing to leave Australia, obtain another visa, or join another eligible ship within 5 days (or another specified period)",
+        "Ship imported for sale and not registered, or registration ceases, and crew does not leave Australia or join another eligible ship within 5 days",
+        "Leaving a vessel after arrival in Australia without being immigration‑cleared",
+        "Holding another visa that is cancelled for a reason other than character grounds",
+        "The department determining it is undesirable for the applicant to continue holding an MCV"
+      ]
+    },
+    "cost": "Free",
+    "processing_times": {
+      "note": "Processing times are available through the visa processing time guide tool and are indicative only."
+    },
+    "with_this_visa_you_can": [
+      "Arrive and depart Australia by sea as a crew member of an MCV eligible ship",
+      "Stay in Australia for as long as you are signed on as a crew member of an MCV eligible ship",
+      "Sign off a ship to join another MCV eligible ship or to leave Australia",
+      "Perform only work that meets the normal operational duties of a crew member"
+    ],
+    "with_this_visa_you_cannot": [
+      "Enter Australia by air using only this visa",
+      "Enter Australia by sea on an ineligible ship",
+      "Stay as a visitor, tourist, or permanent resident solely on this visa",
+      "Work in Australia in tasks unrelated to the operational duties of the ship",
+      "Bypass Australia's health and quarantine requirements"
+    ],
+    "eligibility": {
+      "requirements": [
+        "Must be outside Australia when applying",
+        "Must comply with Australia’s health and quarantine requirements",
+        "Must be a crew member, or have an offer to be a crew member, on an MCV eligible ship on an international voyage",
+        "Must not be a crew member on ineligible ships such as most fishing vessels, yachts, private research vessels, or superyachts",
+        "Must not be an Australian citizen or permanent visa holder"
+      ]
+    },
+    "eligible_ships": [
+      "Cargo ships carrying goods between Australia and overseas ports",
+      "International cruise ships with paying passengers",
+      "Foreign government owned and operated research ships",
+      "Ships with Public Vessel Status from the Australian Department of Foreign Affairs and Trade",
+      "Ships imported under the Australian Customs Act 1901 and registered on the Australian International Shipping Register"
+    ],
+    "ineligible_ships": [
+      "Small marine craft, yachts, and superyachts",
+      "Petroleum export tankers that visit both offshore resource areas and an Australian port on the same trip",
+      "Trawlers and cable-laying vessels",
+      "Most fishing vessels",
+      "Foreign research vessels not owned and operated by a foreign government"
+    ],
+    "apply_from": {
+      "application_location": "Must be outside Australia when applying",
+      "decision_location": "Can be inside or outside Australia when the visa is decided",
+      "travel_warning": "Must not travel to Australia without a visa"
+    },
+    "stay_longer": {
+      "rule": "You cannot apply for a new Maritime Crew visa while in Australia.",
+      "requirement": "Must apply for another visa before the current one ceases."
+    },
+    "include_family": {
+      "who_can_apply": "Members of the family unit travelling on the same ship with permission from the vessel master",
+      "application_requirements": "Each family member must lodge a separate application",
+      "visa_ceases_if": [
+        "The primary applicant’s MCV ceases",
+        "Family enters Australia without the primary applicant and holds no other valid visa",
+        "Family stops travelling with the crew member and does not leave Australia or obtain another visa"
+      ],
+      "work_restrictions": "Family members are not permitted to work in Australia"
+    },
+    "travel": {
+      "allowed": "Can enter Australia by sea as many times as the visa remains valid",
+      "not_allowed": "Cannot enter Australia by air using only the Maritime Crew visa"
+    },
+    "your_obligations": {
+      "general": "Must meet all visa conditions and obey Australian laws"
+    },
+    "health_insurance": {
+      "liability": "Applicants are personally liable for all healthcare costs in Australia",
+      "recommendation": "Medical insurance is recommended",
+      "reciprocal_healthcare": "Some countries have reciprocal healthcare agreements with Australia"
+    },
+    "visa_label": {
+      "note": "Visa is digitally linked to the applicant's passport"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

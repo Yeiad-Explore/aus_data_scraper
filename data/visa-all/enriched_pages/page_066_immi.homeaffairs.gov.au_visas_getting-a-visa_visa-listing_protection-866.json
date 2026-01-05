@@ -1,0 +1,160 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/protection-866",
+  "title": "Protection visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Subclass 866 Protection visa for people who legally arrived in Australia and seek asylum. It outlines eligibility, costs, processing, family inclusion rules, obligations, travel conditions, and rights granted by the visa. The visa allows permanent stay if Australia’s protection obligations are engaged.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Protection visa",
+      "subclass": "866",
+      "description": "Permanent visa for people who arrived in Australia on a valid visa and seek asylum. Grants permanent stay if Australia’s protection obligations are engaged.",
+      "purpose": "Protection for genuine asylum seekers who arrived legally in Australia."
+    },
+    "key_messages": {
+      "warnings": [
+        "Big changes are here to stop people misusing protection visas.",
+        "Protection visas are for genuine asylum seekers."
+      ],
+      "support_links": [
+        "Free legal advice available",
+        "Online tool to check if the Protection visa is appropriate"
+      ]
+    },
+    "benefits_with_this_visa": [
+      "Live, work and study in Australia permanently",
+      "Access government services such as Medicare and Centrelink",
+      "Sponsor eligible family members for permanent residence through the offshore Humanitarian Program",
+      "Travel to and from Australia for 5 years from visa grant date",
+      "Become an Australian citizen if eligible",
+      "Attend free English language classes if eligible"
+    ],
+    "cost": {
+      "application_fee_aud": "AUD50.00"
+    },
+    "processing_times": {
+      "availability": "Unavailable",
+      "notes": [
+        "Processing is complex and may take some time.",
+        "Applicants can assist by responding quickly to information requests."
+      ],
+      "factors_that_delay_processing": [
+        "Incomplete application forms",
+        "Missing documents",
+        "Additional information required",
+        "Slow response times to department requests",
+        "Time required to verify information"
+      ]
+    },
+    "eligibility": {
+      "main_requirements": [
+        "Must engage Australia’s protection obligations (or be a member of the same family unit of someone who does).",
+        "Must have arrived legally in Australia holding a valid visa.",
+        "Must meet health, character and security requirements."
+      ],
+      "arrival_requirements": {
+        "must_have": [
+          "Arrived holding a visa that was in effect",
+          "Been immigration cleared upon arrival"
+        ],
+        "legal_reference": "Immigration clearance is defined in section 172 of the Migration Act 1958."
+      }
+    },
+    "duration_and_residency": {
+      "type": "Permanent visa",
+      "stay_length": "Indefinite",
+      "permanent_residence_start_date": "Date visa is granted",
+      "citizenship_residency_start_date": "Date visa is granted"
+    },
+    "family_members": {
+      "can_apply_together": true,
+      "requirements": [
+        "All family members must be in Australia at time of application",
+        "All must be eligible to apply"
+      ],
+      "definition_of_family_unit": {
+        "family_head": "Can be the applicant or another member of the family applying.",
+        "members": [
+          "Spouse or de facto partner of the family head",
+          "Dependent child or step-child of the family head",
+          "Dependent child or step-child of the partner",
+          "Other dependent relatives"
+        ]
+      },
+      "dependent_child_definition": {
+        "age_under_18": "Automatically considered dependent",
+        "age_18_or_over_if": [
+          "Incapacitated for work due to loss of bodily or mental functions",
+          "Wholly or substantially reliant on parent/step-parent for financial, psychological, or physical support"
+        ],
+        "not_considered_dependent_if": [
+          "Married",
+          "Engaged",
+          "In a de facto relationship"
+        ]
+      },
+      "other_dependent_relatives": [
+        "Parent",
+        "Brother/sister",
+        "Grandparent/grandchild",
+        "Aunt/uncle",
+        "Cousin",
+        "Niece/nephew",
+        "Step-equivalent relatives"
+      ],
+      "dependent_relative_criteria": [
+        "Must not have a spouse or de facto partner",
+        "Usually lives with the family head",
+        "Wholly or substantially reliant on the family head for support"
+      ],
+      "health_character_security_requirements": true,
+      "newborn_child_rules": {
+        "included_if_born_after_application": true,
+        "required_actions": [
+          "Complete Form 1022 Notification of change of circumstances",
+          "Provide clear color copy of original birth certificate",
+          "Attach documents in ImmiAccount or send by post"
+        ],
+        "notes": [
+          "Certified copy required if sent by post.",
+          "Child born in Australia automatically receives same visa as parents unless one parent is an Australian citizen or permanent resident, in which case child may be an Australian citizen by birth."
+        ]
+      }
+    },
+    "application_requirements": {
+      "apply_from": "Must be in Australia at time of application",
+      "help_with_visa": [
+        "Information available on who can help with visa applications",
+        "Free legal help available for Protection visa applicants"
+      ]
+    },
+    "obligations": [
+      "You and your family members must obey all Australian laws."
+    ],
+    "travel_conditions": {
+      "travel_rights": [
+        "Travel to and from Australia for 5 years from visa grant date",
+        "After 5 years, must apply for Resident Return visa (subclass 155 or 157) to re-enter Australia"
+      ],
+      "recommendations": [
+        "Do not use passport or travel document issued by home country, as it may lead to visa cancellation"
+      ],
+      "condition_8559": {
+        "description": "Must not enter the country from which protection was granted without written approval.",
+        "approval_requirements": [
+          "Approval must be granted in writing before travel",
+          "Only given for compassionate or compelling circumstances"
+        ],
+        "consequences_of_breach": [
+          "Visa cancellation",
+          "Possible cancellation of visas of family members"
+        ]
+      }
+    },
+    "visa_label": {
+      "digital_linking": true,
+      "notes": "No physical visa label placed in travel document."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

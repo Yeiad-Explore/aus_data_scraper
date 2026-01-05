@@ -1,0 +1,101 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/skilled-regional-sponsored-visa-subclass-475",
+  "title": "Skilled – Regional Sponsored visa (subclass 475)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Skilled – Regional Sponsored visa (subclass 475), which is now closed to new applications and subject to the 22 September 2015 Cap and Cease arrangement. It outlines visa validity, rights, obligations for visa holders and sponsors, and pathways to permanent residency.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Skilled – Regional Sponsored visa",
+      "subclass": "475",
+      "status": "closed_to_new_applications",
+      "cap_and_cease": {
+        "applied": true,
+        "effective_date": "22 September 2015",
+        "description": "Any visa application not decided before this date is taken not to have been made."
+      },
+      "alternatives": {
+        "eligible_family_members_may_apply_for": "Skilled - Regional (Provisional) visa (subclass 489)"
+      }
+    },
+    "visa_validity": {
+      "duration": "3 years",
+      "valid_from": {
+        "applied_in_australia": "date visa is granted",
+        "applied_outside_australia": "date of first entry into Australia"
+      }
+    },
+    "visa_rights": {
+      "allowed_activities": [
+        "remain in Australia for up to three years",
+        "live in a specified regional area in Australia",
+        "bring eligible family members",
+        "work or study in a specified regional area of Australia",
+        "become eligible to apply for permanent residency"
+      ]
+    },
+    "pathway_to_permanent_residency": {
+      "requirements": [
+        "lived in a specified regional area of Australia for two years",
+        "worked for at least 12 months in a specified regional area of Australia"
+      ],
+      "permanent_residency_visa": "Skilled – Regional visa (subclass 887)"
+    },
+    "obligations_for_visa_holders": {
+      "general_obligations": [
+        "comply with all visa conditions",
+        "comply with Australian laws"
+      ],
+      "if_nominated_by_state_or_territory": {
+        "must": [
+          "live, study and work in regional Australia or a low population growth metropolitan area",
+          "comply with any residential conditions specified in nomination"
+        ],
+        "note": "Proof of residence required when applying for subclass 887 permanent residency."
+      },
+      "if_sponsored_by_family_member": {
+        "must": [
+          "live, study and work in a designated area",
+          "prove time spent in that area when applying for permanent residence"
+        ]
+      },
+      "non_compliance_consequences": {
+        "visa_may_be_cancelled": true,
+        "family_visa_may_be_cancelled": true,
+        "cannot_reapply_for_similar_visa_while_in_australia": true
+      }
+    },
+    "change_notification_requirements": {
+      "must_notify_changes_to": [
+        "phone number",
+        "email address",
+        "postal or residential address",
+        "passport",
+        "relationship status",
+        "birth of a child"
+      ],
+      "important_note": "Failure to update passport details may cause delays at the airport or denial of boarding."
+    },
+    "sponsor_information": {
+      "applies_to": "Sponsors of Skilled – Regional Sponsored visa (subclass 475) holders",
+      "visa_status": {
+        "closed_to_new_applications": true,
+        "cap_and_cease_date": "22 September 2015"
+      },
+      "verification_tool": "Visa Entitlement Verification Online (VEVO for Organisations)",
+      "sponsorship_validity": {
+        "duration": "2 years",
+        "starts_from": "date the visa holder first enters Australia"
+      },
+      "sponsor_obligations": {
+        "duration": "2 years from visa grant date",
+        "obligations": [
+          "provide adequate accommodation and financial assistance",
+          "provide support such as child care to help relatives attend English classes",
+          "give information and advice to help relatives settle in Australia, including employment information"
+        ]
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

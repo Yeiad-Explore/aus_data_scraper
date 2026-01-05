@@ -1,0 +1,154 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/temporary-work-entertainment-visa-subclass-420",
+  "title": "Temporary Work (Entertainment) visa (subclass 420)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for current holders and sponsors of the Temporary Work (Entertainment) visa (subclass 420), which is closed to new applications. It explains visa validity, obligations for visa holders and their families, and sponsorship requirements and duties.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Temporary Work (Entertainment) visa",
+      "subclass": "420",
+      "status": "Closed to new applications",
+      "replacement_visa": "Temporary Activity visa (subclass 408)",
+      "validity": "Valid for the duration of the nominated position or two years, whichever is earlier"
+    },
+    "visa_holder_information": {
+      "rights_and_obligations": {
+        "general_obligations": [
+          "Comply with all visa conditions and Australian laws",
+          "Maintain adequate health insurance while in Australia",
+          "Leave Australia when the visa ends unless granted another visa",
+          "Only engage in work or activities for the employer identified in the nomination",
+          "Only engage in work or activities consistent with the nominated position",
+          "Request permission from the Entertainment Visa Centre (NSW) for any itinerary changes, including new events, changes in times, or new venues"
+        ],
+        "employment_change_requirements": [
+          "If the sponsor ceases employment or activity, the holder must find another employer willing to sponsor them (new nomination required, no new visa if existing visa is still valid)",
+          "Leave Australia within 28 days or apply for another visa, unless a 'no further stay' condition applies"
+        ]
+      },
+      "family_members": {
+        "conditions": [
+          "Family cannot enter Australia before the primary visa holder",
+          "Family must leave Australia when the visa ends",
+          "Family must remain members of the family unit",
+          "Family must maintain adequate health insurance while in Australia"
+        ],
+        "rights": [
+          "Family can work or study in Australia while their visa is valid"
+        ],
+        "additional_conditions_note": "Other conditions may apply and will be explained when the visa is granted"
+      },
+      "reporting_requirements": {
+        "check_visa_details": "Visa Entitlement Verification Online (VEVO) can be used for free to check visa details and entitlements"
+      }
+    },
+    "sponsor_information": {
+      "sponsorship_validity": {
+        "duration": "Up to three years",
+        "extension": "Approved Entertainment sponsors can apply to vary (extend) sponsorship before it expires",
+        "expiry_consequence": "If sponsorship expires, the sponsor must reapply to be approved before nominating further applicants"
+      },
+      "report_changes_in_circumstances": {
+        "requirements": [
+          "Contact the Entertainment Visa Centre to report any changes that could affect application processing"
+        ],
+        "required_information_in_correspondence": [
+          "Name of organisation",
+          "ABN or other identifier",
+          "Sponsorship application ID number"
+        ]
+      },
+      "sponsorship_obligations": {
+        "obligations_list": [
+          "Cooperate with inspectors",
+          "Keep records",
+          "Provide records and information to the Minister",
+          "Notify the department when certain events occur",
+          "Not recover, transfer or charge certain costs to another person",
+          "Pay costs to locate and remove an unlawful non-citizen",
+          "Ensure visa holder participates in the nominated occupation, program or activity",
+          "Secure an offer of reasonable accommodation"
+        ],
+        "responsibility_note": "Sponsors remain responsible for obligations even when authorising another party to act on their behalf"
+      },
+      "inspection_cooperation": {
+        "investigation_scope": [
+          "Compliance with sponsorship obligations",
+          "Whether an illegal worker has been hired",
+          "Other grounds for administrative action"
+        ],
+        "obligation_duration": {
+          "start": "Day sponsorship is approved or work agreement begins",
+          "end": "Five years after the sponsorship ends or work agreement ceases"
+        },
+        "examples_of_cooperation": [
+          "Providing access to premises",
+          "Producing and providing requested documents within the requested timeframe",
+          "Not preventing access to persons with custody of records",
+          "Providing officers access to interview any person on premises"
+        ]
+      },
+      "record_keeping": {
+        "requirements": [
+          "Keep records in a reproducible format",
+          "Ensure some records can be independently verified",
+          "Keep records of notifications made to the department, including date and method of notification"
+        ],
+        "obligation_duration": {
+          "start": "Day sponsorship is approved",
+          "end": "Two years after sponsor is no longer approved and no longer sponsoring anyone",
+          "maximum_record_duration": "Five years"
+        }
+      },
+      "providing_records_to_minister": {
+        "requirements": [
+          "Provide requested records or information relating to sponsorship obligations or other matters relevant to administrative action"
+        ],
+        "records_must_include": [
+          "Records required under Commonwealth, state or territory law",
+          "Records required as part of sponsorship obligations"
+        ],
+        "obligation_duration": {
+          "start": "Day sponsorship is approved or work agreement begins",
+          "end": "Two years after sponsorship or work agreement ends and the sponsor is no longer sponsoring anyone"
+        }
+      },
+      "notification_of_events": {
+        "requirements": [
+          "Notify the department in writing by registered post or email within specified timeframes"
+        ],
+        "events_to_report": [
+          "Primary sponsored person fails to participate in nominated activity",
+          "Cessation of participation in a film or television production",
+          "Early cessation of work prior to the approved nomination cessation date (except performers in film/television)",
+          "Sponsor ceases to hold a required licence",
+          "Changes to sponsor’s address or contact details",
+          "If the sponsor is an Australian organisation, the legal entity ceases to exist"
+        ],
+        "obligation_duration": {
+          "start": "Day standard business sponsorship is approved or work agreement commences",
+          "end": "Two years after sponsorship or work agreement ends and no individuals are being sponsored"
+        }
+      },
+      "contact_information": {
+        "email_preferred": "sponsor.notifications@border.gov.au",
+        "postal_addresses": [
+          {
+            "region": "Australian Capital Territory",
+            "address": "Sponsor Monitoring, GPO Box 717, Canberra ACT 2601"
+          },
+          {
+            "region": "New South Wales",
+            "address": "Sponsor Monitoring, GPO Box 9984, Sydney NSW 2001"
+          },
+          {
+            "region": "Queensland",
+            "address": "Sponsor Monitoring, GPO Box 9984, Brisbane QLD"
+          }
+        ]
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

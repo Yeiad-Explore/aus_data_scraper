@@ -1,0 +1,20 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/business-innovation-and-investment-188",
+  "title": "Business Innovation and Investment (Provisional) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Business Innovation and Investment (Provisional) visa, Subclass 188. It explains that the visa allows individuals to own or manage a business, conduct investment activities, or undertake entrepreneurial activities in Australia. It also outlines the basic eligibility requirements for applying.",
+  "structured_data": {
+    "visa_name": "Business Innovation and Investment (Provisional) visa",
+    "subclass": "188",
+    "description": "This visa allows you to own and manage a business in Australia, conduct business and investment activity in Australia, or undertake an entrepreneurial activity in Australia.",
+    "eligibility": {
+      "basic_eligibility_requirements": [
+        "Submit expression of interest (EOI) in SkillSelect",
+        "Nominated by a State or Territory government agency or Austrade",
+        "Invited to apply for the visa"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

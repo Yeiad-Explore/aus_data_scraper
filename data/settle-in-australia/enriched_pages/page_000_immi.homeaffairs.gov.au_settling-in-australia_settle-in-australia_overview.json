@@ -1,0 +1,39 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview",
+  "title": "Settle in AustraliaSettle in Australia",
+  "content_type": "general_information",
+  "summary": "This page provides general information about helping new migrants and refugees settle in Australia. It highlights key settlement topics, language services, and tools available to support new arrivals. It also promotes the MyAus App as a multilingual resource for navigating life in Australia.",
+  "structured_data": {
+    "overview": "Australia has a long tradition of resettling migrants, refugees, and people in humanitarian need. With the right support, new arrivals can successfully contribute to Australian society.",
+    "key_settlement_topics": {
+      "description": "Information relevant to skilled migrants, family migrants, refugees, and humanitarian entrants to help them settle in Australia.",
+      "topics": [
+        "Employment",
+        "Education and training",
+        "Health and wellbeing",
+        "Managing your finances",
+        "Housing",
+        "Transport",
+        "Civic participation"
+      ]
+    },
+    "language_services": {
+      "description": "Language services help people with limited or no English access essential services and programs.",
+      "services": [
+        "Free Interpreting Service",
+        "Free Translating Service",
+        "TIS National",
+        "National Interpreter symbol"
+      ]
+    },
+    "my_aus_app": {
+      "description": "The MyAus App provides useful information about settling in Australia.",
+      "features": [
+        "Available in multiple languages",
+        "Designed to help migrants and the broader community navigate systems and services in Australia"
+      ]
+    }
+  },
+  "parent_url": null,
+  "depth": 0
+}

@@ -1,0 +1,135 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/visting-academic-visa-subclass-419",
+  "title": "Visiting Academic visa (subclass 419)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Visiting Academic visa (subclass 419), which closed to new applications in 2012. It outlines the rights and obligations of current visa holders and explains obligations for organisations approved as sponsors. It also includes details on family applications, reporting changes, and sponsor responsibilities under Australian migration law.",
+  "structured_data": {
+    "visa": {
+      "visa_name": "Visiting Academic visa",
+      "subclass": "419",
+      "status": "Closed to new applications",
+      "closure_date": "24 November 2012",
+      "replacement_visa_option": "Temporary Activity visa (subclass 408)",
+      "applicable_to": "Existing visa holders only",
+      "what_you_can_do": [
+        "Enter Australia at any time after visa grant",
+        "Stay in Australia",
+        "Conduct research or the activity specified in the visa application",
+        "Bring eligible family members"
+      ],
+      "visa_holder_obligations": {
+        "general_obligations": [
+          "Comply with all visa conditions and Australian laws",
+          "Maintain adequate health insurance while in Australia"
+        ],
+        "work_restrictions": [
+          "Work only in the position for which the visa was granted",
+          "Engage only in activities consistent with the visa application",
+          "Work only for the sponsoring employer",
+          "Not become unemployed",
+          "Not work for a different employer or take a second job",
+          "Not receive a salary without Secretary approval"
+        ],
+        "if_employment_ceases": [
+          "Find another training and research sponsor or visiting academic sponsor",
+          "Find an employer willing to sponsor you"
+        ]
+      },
+      "family_members": {
+        "family_application_process": "Family can apply to join the visa holder by lodging an application for a Training and Research visa (subclass 402)",
+        "required_document": "Letter from the visa holder's sponsor agreeing to sponsor the family"
+      },
+      "notify_changes": {
+        "changes_to_report": [
+          "Changes to phone number, email, address, or passport",
+          "Changes to relationship status",
+          "Birth of a child"
+        ],
+        "instructions_reference": "See how to let us know if there is a change in your situation"
+      }
+    },
+    "sponsors": {
+      "eligible_sponsors": "Organisations already approved as visiting academic sponsors under subclass 419 before 24 November 2012",
+      "new_sponsor_applications": "Not accepted",
+      "use_of_existing_approval": "May be used to sponsor Training and Research visa (subclass 402) applicants until approval expires",
+      "post_expiry_requirement": "Must apply as a Training and Research sponsor or Professional Development sponsor under subclass 402",
+      "recommended_application_timeframe": "At least 2 to 3 months before existing sponsorship approval ends",
+      "sponsorship_duration": "Valid for up to 3 years from approval date",
+      "sponsor_obligations": [
+        "Cooperate with inspectors",
+        "Notify the department when certain events occur",
+        "Keep required records",
+        "Provide records and information to the Minister when requested",
+        "Not recover, transfer, or charge certain costs to another person",
+        "Ensure visa holder works in the nominated occupation, program, or activity",
+        "Pay travel costs for sponsored people to leave Australia",
+        "Pay costs to locate and remove an unlawful non-citizen",
+        "Secure reasonable accommodation for sponsored individuals"
+      ],
+      "cooperate_with_inspectors": {
+        "investigation_scope": [
+          "Compliance with sponsorship obligations",
+          "Employment of illegal workers",
+          "Other circumstances enabling administrative action"
+        ],
+        "obligation_start": "Day sponsorship is approved or work agreement commences",
+        "obligation_end": "Five years after sponsorship ends or work agreement ceases",
+        "forms_of_cooperation": [
+          "Providing access to premises",
+          "Producing documents within requested timeframe",
+          "Not preventing access to persons with custody of records",
+          "Providing access for interviews with persons on the premises"
+        ]
+      },
+      "record_keeping": {
+        "required_records": [
+          "Any required notifications made to the department",
+          "Date of notification and method/location of submission"
+        ],
+        "record_requirements": "Records must be in reproducible format and some must be independently verifiable",
+        "obligation_start": "Day sponsorship is approved",
+        "obligation_end": "Two years after the sponsor is no longer approved AND no longer sponsoring anyone",
+        "maximum_duration": "No records required to be kept longer than five years"
+      },
+      "provide_records_to_minister": {
+        "when_required": [
+          "To determine if obligations are being or have been met",
+          "To assess circumstances in which administrative action may be taken"
+        ],
+        "record_types": [
+          "Records required under Commonwealth, state, or territory law",
+          "Records required as a sponsor"
+        ],
+        "obligation_start": "Day sponsorship is approved or work agreement commences",
+        "obligation_end": "Two years after sponsorship or work agreement ceases AND no sponsored visa holder remains"
+      },
+      "mandatory_notifications": {
+        "events_to_notify": [
+          "Primary sponsored person fails to participate in the nominated activity",
+          "Changes to sponsor’s address or contact details"
+        ],
+        "notification_method": [
+          "Registered post",
+          "Electronic mail"
+        ],
+        "obligation_start": "Day sponsorship is approved or work agreement commences",
+        "obligation_end": "Two years after sponsorship or work agreement ends AND no sponsored persons remain"
+      },
+      "notification_addresses": {
+        "email_preferred": "sponsor.notifications@homeaffairs.gov.au",
+        "postal_addresses": {
+          "ACT": "GPO Box 717 Canberra ACT 2601",
+          "NSW": "GPO Box 9984 Sydney NSW 2001",
+          "QLD": "GPO Box 9984 Brisbane QLD 4001",
+          "NT": "GPO Box 864 Darwin NT 0801",
+          "SA": "GPO Box 2399 Adelaide SA 5001",
+          "TAS": "GPO Box 794 Hobart TAS 7001",
+          "VIC": "GPO Box 241 Melbourne VIC 3001",
+          "WA": "Locked Bag 7 Northbridge WA 6865"
+        }
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

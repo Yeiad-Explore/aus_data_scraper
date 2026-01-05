@@ -1,0 +1,138 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/remaining-relative-115",
+  "title": "Remaining Relative visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Subclass 115 Remaining Relative visa, a permanent visa for people whose only close family are in Australia. It outlines eligibility requirements, costs, application process, conditions, and obligations associated with the visa. The page also includes updates about ImmiAccount services starting from 23 July 2025.",
+  "structured_data": {
+    "visa_name": "Remaining Relative visa",
+    "subclass": "115",
+    "visa_type": "permanent",
+    "description": "This permanent visa lets people move to Australia to be with their only close family members.",
+    "important_updates": {
+      "immiaccount_import_available_from": "23 July 2025",
+      "affects_subclasses": [
+        "114",
+        "115",
+        "116",
+        "835",
+        "836",
+        "838"
+      ],
+      "exceptions": "Some applications lodged outside Australia before 25 June 2020 cannot be imported into ImmiAccount."
+    },
+    "benefits": [
+      "Stay in Australia indefinitely",
+      "Work and study in Australia",
+      "Enrol in Medicare",
+      "Sponsor relatives to come to Australia",
+      "Attend free English classes through the Adult Migrant English Program (if eligible)",
+      "Apply for Australian citizenship (if eligible)",
+      "Travel to and from Australia for 5 years from visa grant"
+    ],
+    "travel_conditions": {
+      "initial_travel_validity": "5 years from date of visa grant",
+      "after_5_years": [
+        "Apply for a Resident Return Visa (RRV) to re-enter as a permanent resident",
+        "Consider applying for Australian citizenship"
+      ],
+      "check_travel_validity_tool": "VEVO"
+    },
+    "eligibility": {
+      "must_be_outside_australia_when": [
+        "Applying for the visa",
+        "The visa decision is made"
+      ],
+      "remaining_relative_requirement": "Applicant must be a remaining relative of an Australian citizen, permanent resident, or eligible New Zealand citizen.",
+      "sponsor_requirements": {
+        "eligible_sponsors": [
+          "Parent or step-parent",
+          "Sibling or step-sibling",
+          "Eligible partner of the applicant's relative"
+        ],
+        "must_be_approved": true
+      },
+      "not_have_other_near_relatives": {
+        "conditions": [
+          "Applicant or partner must not have a near relative living outside Australia",
+          "Applicant or partner must not have a near relative living in Australia on a temporary visa (unless an eligible New Zealand citizen)",
+          "Near relatives living unlawfully in Australia also count"
+        ],
+        "note": "Temporary visas include bridging visas."
+      },
+      "assurance_of_support": {
+        "required": true,
+        "description": "Ensures the applicant will not rely on government assistance after arriving in Australia."
+      }
+    },
+    "stay_details": {
+      "type": "permanent",
+      "citizenship_residency_rule": [
+        "Permanent residency starts when the applicant enters Australia on this visa",
+        "If previously a permanent visa holder in Australia before last departure, permanent residency begins at time of visa grant"
+      ]
+    },
+    "family_inclusion": {
+      "can_include_family_members": true,
+      "when_they_can_be_added": "Any time before the visa decision",
+      "requirements_for_family_members": [
+        "Must meet health and character requirements",
+        "Non-migrating family members may also need to meet health and character requirements"
+      ],
+      "newborn_child": "Guidance available on what to do if a child is born after applying"
+    },
+    "costs": {
+      "base_visa_cost": "From AUD 5,280.00",
+      "additional_charges": "Each additional family member incurs an extra charge",
+      "payment_structure": {
+        "instalments": 2,
+        "description": "First instalment paid on application, second instalment paid when requested"
+      },
+      "possible_extra_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "tools": {
+        "visa_pricing_estimator": "Does not include second instalment or additional costs"
+      }
+    },
+    "application_process": {
+      "apply_from": "Must be outside Australia",
+      "decision_location_requirement": "Must be outside Australia when the decision is made",
+      "help_with_visa_warning": "Check who is legally allowed to assist before paying anyone"
+    },
+    "processing_times": {
+      "general_notes": [
+        "Demand for Other Family visas exceeds available places",
+        "Processing times can be lengthy",
+        "Processing time guide tool shows recent decisions only"
+      ],
+      "delays_if": [
+        "Application is incomplete",
+        "Documents are missing",
+        "More information is required",
+        "Information takes longer to verify"
+      ],
+      "payment_requirement": "Application cannot be processed without correct visa application charge",
+      "capping_and_queueing": true,
+      "reference_links": [
+        "Other Family visa queue information",
+        "Reports on Migration Programs"
+      ]
+    },
+    "obligations": {
+      "first_entry_date_requirement": "Must enter Australia before the date specified in the grant letter (generally within 12 months of grant)",
+      "must_comply_with": [
+        "All visa conditions",
+        "All Australian laws"
+      ],
+      "visa_conditions_reference": "See visa conditions page"
+    },
+    "visa_label": {
+      "digital_link_only": true,
+      "passport_label_provided": false
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,185 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651",
+  "title": "eVisitor",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the eVisitor visa (subclass 651), which allows eligible passport holders to visit Australia for tourism or business activities for up to 3 months per entry within a 12‑month validity period. It outlines visa conditions, eligibility requirements, obligations, processing times, costs, and what applicants can and cannot do with this visa.",
+  "structured_data": {
+    "visa_name": "eVisitor",
+    "visa_subclass": "651",
+    "visa_type": "temporary",
+    "description": "Visit Australia as often as you wish in a 12‑month period. Stay up to 3 months each time you enter Australia.",
+    "cost": {
+      "application_cost": "Free"
+    },
+    "validity_and_stay": {
+      "visa_validity": "12 months from date of grant",
+      "multiple_entry": true,
+      "max_stay_per_entry": "3 months",
+      "notes": [
+        "Round trip cruise time counts as time in Australia and does not reset stay period",
+        "Frequent or long stays may trigger questioning of genuine visitor status"
+      ]
+    },
+    "what_you_can_do": {
+      "tourism_and_family": [
+        "Visit family or friends",
+        "Cruise or have a holiday"
+      ],
+      "business_visitor_activities": [
+        "Make general business or employment enquiries",
+        "Investigate, negotiate, enter into or review a business contract",
+        "Conduct activities as part of an official government visit",
+        "Take part in a conference, trade fair or seminar (without payment from organisers)"
+      ],
+      "study": "Study or train for up to 3 months in total",
+      "study_limitations": [
+        "If main purpose is study, a student visa is more appropriate",
+        "Applicants training at childcare centres or entering health/hospital environments should apply for Visitor visa (subclass 600)"
+      ]
+    },
+    "what_you_cannot_do": {
+      "work_restrictions": [
+        "Cannot work for or provide services to an Australian organisation",
+        "Cannot sell goods or services to the public",
+        "Cannot perform paid work for an Australian employer"
+      ],
+      "warnings": [
+        "Visa may be cancelled if applicant works or intends to work in Australia",
+        "May be refused entry if attempting to work"
+      ]
+    },
+    "cruise_information": {
+      "visa_requirement": "You will need a visa if you enter Australia during a cruise.",
+      "round_trip_cruise_rules": [
+        "Time spent on cruise counts as time in Australia",
+        "Round trip does not reset stay period"
+      ]
+    },
+    "stay_longer": {
+      "can_extend": false,
+      "instructions": [
+        "Must apply for another visa to stay longer",
+        "For further short stays or holidays, Visitor visa (subclass 600) Tourist stream may be suitable",
+        "Remaining in Australia after visa expiry results in unlawful non‑citizen status"
+      ]
+    },
+    "family_inclusion": {
+      "can_include_family": false,
+      "notes": [
+        "Each family member must submit a separate application"
+      ]
+    },
+    "apply_from": {
+      "must_apply_outside_australia": true,
+      "must_be_outside_at_decision": true,
+      "travel_arrangements_warning": "Do not arrange travel until written confirmation of visa grant is received."
+    },
+    "processing_times": {
+      "25_percent": "Less than 1 day",
+      "50_percent": "Less than 1 day",
+      "75_percent": "Less than 1 day",
+      "90_percent": "Less than 1 day",
+      "note": "Processing times shown in the visa processing time guide tool are indicative only."
+    },
+    "obligations": [
+      "Must meet all visa conditions",
+      "Must obey Australian laws"
+    ],
+    "health_insurance": {
+      "recommendation": "Take out health insurance for unexpected medical treatment",
+      "liability": "Applicant is personally liable for all healthcare costs",
+      "additional_info": [
+        "Australia has reciprocal healthcare agreements with some countries",
+        "More information is available from Services Australia"
+      ]
+    },
+    "travel": {
+      "multiple_travel": "Can travel outside and re‑enter Australia as many times as desired while visa is valid"
+    },
+    "visa_label": {
+      "digital_link": true,
+      "note": "Visa is digitally linked to passport; no physical label is issued."
+    },
+    "eligibility": {
+      "ineligible_applicants": [
+        "Australian citizens"
+      ],
+      "must_apply_from_outside_australia": true,
+      "passport_requirements": {
+        "must_hold_passport_from": [
+          "Andorra",
+          "Austria",
+          "Belgium",
+          "Bulgaria",
+          "Croatia",
+          "Cyprus",
+          "Czech Republic",
+          "Denmark",
+          "Estonia",
+          "Finland",
+          "France",
+          "Germany",
+          "Greece",
+          "Hungary",
+          "Iceland",
+          "Ireland",
+          "Italy",
+          "Latvia",
+          "Liechtenstein",
+          "Lithuania",
+          "Luxembourg",
+          "Malta",
+          "Monaco",
+          "The Netherlands",
+          "Norway",
+          "Poland",
+          "Portugal",
+          "Romania",
+          "Republic of San Marino",
+          "Slovakia",
+          "Slovenia",
+          "Spain",
+          "Sweden",
+          "Switzerland",
+          "United Kingdom – British Citizen",
+          "Vatican City (passport must indicate nationality of the Vatican City)"
+        ],
+        "cannot_apply_with": [
+          "Non‑citizen passports",
+          "Certificate of identity",
+          "Titre de Voyage",
+          "British National Overseas passport",
+          "British Dependent Territories Citizen passport",
+          "British Overseas Citizen passport",
+          "British Protected Person passport",
+          "British Subject passport"
+        ]
+      },
+      "health_requirement": {
+        "must_meet_health_requirement": true,
+        "note": "Applicants who previously failed the health requirement should apply for Visitor visa (subclass 600)"
+      },
+      "character_requirement": {
+        "must_meet_character_requirement": true,
+        "instructions": "Applicants with criminal convictions should apply for Visitor visa (subclass 600)",
+        "warning": "Arriving on an eVisitor with a criminal conviction may result in refusal of entry"
+      },
+      "debt_to_australian_government": {
+        "must_not_owe_or_must_have_arrangements": true
+      },
+      "genuine_visitor_requirement": [
+        "Must intend to stay temporarily",
+        "Must obey all visa conditions and stay periods"
+      ],
+      "financial_requirements": {
+        "must_have_enough_money": [
+          "To support yourself in Australia",
+          "To leave Australia at the end of your stay"
+        ]
+      },
+      "best_interests_of_child": "Visa might not be granted if not in the best interests of an applicant under 18."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

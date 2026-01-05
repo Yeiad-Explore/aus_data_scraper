@@ -38,10 +38,13 @@ class GenericEnricher:
         """
         logger.info(f"Enriching page: {page_data.title}")
 
-        # Combine all content for LLM processing
-        full_content = self._combine_content(page_data)
+        # Use raw_text if available (preferred), otherwise fall back to combining content
+        if page_data.raw_text:
+            full_content = page_data.raw_text
+        else:
+            full_content = self._combine_content(page_data)
 
-        # Extract structured data using LLM
+        # Extract structured data using LLM from plain text
         extraction_result = await self.llm.extract_structured_data(
             page_title=page_data.title,
             content=full_content

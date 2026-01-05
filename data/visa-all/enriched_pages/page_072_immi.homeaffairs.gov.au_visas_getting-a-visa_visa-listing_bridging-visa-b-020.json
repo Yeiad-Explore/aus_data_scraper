@@ -1,0 +1,149 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/bridging-visa-b-020",
+  "title": "Bridging visa B (BVB)",
+  "content_type": "visa_information",
+  "summary": "This page provides comprehensive information about the Bridging visa B (BVB), subclass 020, which allows eligible applicants to leave and return to Australia during a defined travel period while their substantive visa application is being processed. It explains eligibility, conditions, validity, costs, application requirements, travel rights, work permissions, and how long the visa remains in effect.",
+  "structured_data": {
+    "visa_name": "Bridging visa B",
+    "subclass": "020",
+    "type": "Temporary visa",
+    "description": "Allows holders to leave and return to Australia within a specified travel period while waiting for a substantive visa decision.",
+    "important_notices": [
+      {
+        "date": "1 August 2022",
+        "notice": "Applications for Bridging visa A, B, or C can no longer be made in-person or via paper form. All applications must be submitted online via ImmiAccount or the online webform."
+      }
+    ],
+    "stay": {
+      "type": "Temporary",
+      "purpose": "Stay lawfully in Australia until the substantive visa application is determined or judicial review proceedings are completed.",
+      "additional_rights": [
+        "Leave and return to Australia within the defined travel period while the substantive visa application is being processed",
+        "Work if the visa permits, depending on conditions of current or applied-for substantive visas"
+      ]
+    },
+    "cost": {
+      "application_fee_aud": 190.0
+    },
+    "processing_times": {
+      "available": false,
+      "note": "There are no processing times available for this visa."
+    },
+    "eligibility": {
+      "must_be": [
+        "In Australia when applying",
+        "A holder of a BVA or BVB",
+        "An applicant in Australia for a substantive visa that can be granted while in Australia",
+        "In Australia at the time of visa grant, if all requirements are met"
+      ]
+    },
+    "application_information": {
+      "must_apply_online": true,
+      "application_platforms": [
+        "ImmiAccount",
+        "online webform"
+      ],
+      "apply_from": "Must be in Australia when applying and when the visa is granted",
+      "paper_or_in_person_application": "No longer available after 1 August 2022"
+    },
+    "about_this_visa": {
+      "travel_facility": {
+        "travel_type": "Single or multiple travel",
+        "validity": "Valid until a specified date",
+        "note": "A new BVB is required if the travel facility expires or is insufficient for planned travel."
+      },
+      "additional_notes": [
+        "A separate BVB application may be needed if applying for judicial review.",
+        "Conditions on a BVB cannot be changed; a BVA must be applied for to change conditions.",
+        "Bridging visas cannot be used while awaiting a citizenship decision."
+      ]
+    },
+    "visa_effect": {
+      "comes_into_effect_when": [
+        "The visa is granted if the substantive visa has ceased since applying for the BVB or if the BVB is more beneficial than the current bridging visa",
+        "The current substantive visa ceases"
+      ],
+      "conditions": "Visa holders must comply with all conditions imposed. If holding a substantive visa at grant, they must continue following its conditions until it ceases."
+    },
+    "work_rights": {
+      "allowed_to_work_if": [
+        "The previous substantive visa permits work",
+        "The applied-for substantive visa permits work"
+      ],
+      "restrictions": [
+        "If both previous and applied-for visas have work restrictions, the BVB will not permit work"
+      ],
+      "work_condition_change": "If the BVB does not permit work, the applicant must apply for a BVA and show financial hardship."
+    },
+    "judicial_review": {
+      "requirement": "A new bridging visa is required to stay lawful during judicial review proceedings.",
+      "application_method": "Only via online webform",
+      "relevant_scenarios": [
+        "Merits review tribunal upholds refusal and judicial review is sought"
+      ]
+    },
+    "rights_with_this_visa": [
+      "Stay lawfully in Australia until substantive visa decision or judicial review outcome",
+      "Leave and return to Australia within travel period"
+    ],
+    "visa_cease_conditions": {
+      "general_outcomes": [
+        "Substantive visa application is refused",
+        "Merits or judicial review is decided",
+        "Application for substantive visa, merits review, or judicial review is withdrawn",
+        "Merits review tribunal finds it has no jurisdiction",
+        "Substantive visa is granted",
+        "BVB or associated substantive visa is cancelled"
+      ],
+      "checking_status": "Visa holders can check remaining stay time in VEVO once notified of an outcome."
+    },
+    "cease_rules_after_19_nov_2016": {
+      "ends_35_days_after": [
+        "Refusal decision or AAT decision on substantive visa application",
+        "Determination that the substantive visa application or AAT review application is invalid",
+        "Withdrawal of substantive visa application or AAT review application"
+      ],
+      "ends_28_days_after": [
+        "Judicial review body upholds refusal decision",
+        "Withdrawal of judicial review application"
+      ]
+    },
+    "cease_rules_before_19_nov_2016": {
+      "ends_28_days_after_any": [
+        "Notification of invalid substantive visa application",
+        "Notification of refusal of substantive visa application",
+        "Withdrawal of substantive visa application",
+        "Merits review tribunal upholds refusal decision",
+        "Merits review tribunal states no jurisdiction",
+        "Withdrawal of merits or judicial review application",
+        "Judicial review body upholds refusal decision"
+      ]
+    },
+    "stay_longer": {
+      "can_extend": false,
+      "instructions": "Must apply for a new visa to stay longer"
+    },
+    "include_family": {
+      "conditions": [
+        "Family can be included if they applied together for a substantive visa in Australia and are members of the family unit",
+        "Only one application form and one visa charge for the whole family"
+      ],
+      "requirements": [
+        "Each family member must meet BVB requirements individually",
+        "Only family members needing to travel should be included"
+      ],
+      "note": "Family members not travelling can remain in Australia on their current bridging visas."
+    },
+    "obligations": [
+      "Comply with all Australian laws",
+      "Comply with conditions of the current visa",
+      "Comply with BVB conditions when it takes effect",
+      "Check conditions in grant letter or VEVO"
+    ],
+    "travel_information": {
+      "note": "Details truncated in provided text"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

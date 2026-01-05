@@ -1,0 +1,95 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/schools-sector-571",
+  "title": "Schools Sector visa (subclass 571)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for existing holders or pending applicants of the Schools Sector visa (subclass 571), which closed to new applications on 1 July 2016. It explains current rights, obligations, visa validity, work conditions, education provider transfers, welfare requirements for minors, and reporting obligations.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Schools Sector visa",
+      "subclass": "571",
+      "status": "closed_to_new_applications",
+      "closure_date": "1 July 2016",
+      "replacement_visa_for_extensions": "Student Visa (subclass 500)",
+      "applicable_applicants": [
+        "Current holders of subclass 571",
+        "Applicants who lodged on or before 30 June 2016 and whose application is still undecided"
+      ],
+      "vevo_usage": "Visa Entitlement Verification Online (VEVO) can be used to check visa details and conditions"
+    },
+    "visa_validity": {
+      "valid_until": "The expiry date given at grant of visa"
+    },
+    "visa_rights": {
+      "study_rights": "You can study in Australia",
+      "work_rights": {
+        "during_course_session": "Up to 40 hours per fortnight",
+        "during_scheduled_breaks": "Unlimited hours",
+        "workplace_laws": "Must comply with State and Territory workplace laws"
+      }
+    },
+    "obligations": {
+      "general": [
+        "Must comply with all visa conditions",
+        "Must comply with Australian laws"
+      ],
+      "changing_course_sector": {
+        "requirement": "Must apply for a new Student Visa (subclass 500)",
+        "example": "Changing from high school to a Diploma course"
+      },
+      "streamlined_visa_processing_svp": {
+        "requirement": "Must continue to satisfy SVP requirements",
+        "visa_cancellation_risk": "Visa may be considered for cancellation if transferring to a non-eligible provider (before 1 July 2016)",
+        "conditions_applying_if": [
+          "Within the first 12 months of visa grant",
+          "Not from a country that was Assessment Level 1 before 1 July 2016"
+        ]
+      },
+      "checking_conditions": "Conditions can be checked via VEVO or visa grant letter"
+    },
+    "changing_education_provider": {
+      "requirements": [
+        "Must comply with visa conditions",
+        "Must comply with ESOS National Code rules"
+      ],
+      "six_month_rule": "If principal course (main course of study) has not been completed for six months, transfer requirements apply",
+      "permission_requirement": "Usually requires permission from current education provider unless special circumstances apply",
+      "provider_responsibilities": [
+        "Must assess or consider transfer request",
+        "Must have documented transfer policy"
+      ],
+      "student_responsibilities": [
+        "Understand education provider's transfer policy",
+        "Review written agreement obligations before attempting to enrol with another provider"
+      ],
+      "appeals_process": {
+        "internal_appeal": "If permission to transfer is denied, student must first access provider's internal appeal process",
+        "external_appeal": "If still dissatisfied, can appeal to external body such as State/Territory Ombudsman or Overseas Student Ombudsman"
+      }
+    },
+    "students_under_18": {
+      "welfare_requirements": [
+        "Must maintain adequate accommodation, support, and welfare arrangements until visa expires or until turning 18"
+      ],
+      "travel_requirement": "Cannot travel to Australia until welfare arrangements commence",
+      "welfare_start_date_definition": "The date nominated on the Confirmation of Appropriate Accommodation/Welfare Arrangements (CAAW) letter",
+      "guardian_leaving_australia_requirement": "Alternative welfare arrangements must be approved before guardian leaves Australia; otherwise visa could be cancelled"
+    },
+    "no_further_stay_condition": {
+      "description": "Some visas include a 'no further stay' condition",
+      "effect": "Cannot apply to remain in Australia beyond the specified date except in certain circumstances"
+    },
+    "notification_requirements": {
+      "must_notify_changes": [
+        "Phone number",
+        "Email",
+        "Address",
+        "Passport",
+        "Relationship status",
+        "Birth of a child"
+      ],
+      "instructions_reference": "See guidance on how to report changes in situation"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

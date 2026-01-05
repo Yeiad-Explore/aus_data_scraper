@@ -1,0 +1,117 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/higher-education-sector-573",
+  "title": "Higher Education Sector visa (subclass 573)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for people who currently hold or applied before 30 June 2016 for the Higher Education Sector visa (subclass 573), which is now closed to new applicants. It explains visa validity, rights, obligations, work conditions, family member conditions, and rules for changing education providers or welfare arrangements for minors.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Higher Education Sector visa",
+      "subclass": "573",
+      "status": "closed_to_new_applications",
+      "closure_date": "1 July 2016",
+      "current_application_path": "Student Visa (subclass 500)"
+    },
+    "applicability": {
+      "who_this_information_is_for": [
+        "People who already hold a Higher Education Sector visa (subclass 573)",
+        "People who applied for the visa on or before 30 June 2016 and are awaiting a decision"
+      ]
+    },
+    "visa_validity": {
+      "valid_until": "expiry_date_given_when_granted"
+    },
+    "permissions": {
+      "study": "allowed",
+      "dependant_family_members": {
+        "can_accompany": true,
+        "conditions": [
+          "Must accompany the holder after the course has commenced"
+        ]
+      },
+      "work_rights_holder": {
+        "work_limit_while_studying": "40 hours per fortnight",
+        "work_limit_during_breaks": "unlimited",
+        "must_comply_with_state_territory_laws": true
+      },
+      "work_rights_family_members": {
+        "general_limit": "40 hours per fortnight once visa holder has commenced study",
+        "postgraduate_exception": "Unlimited hours if the visa holder is studying a Masters degree and has commenced the course"
+      },
+      "family_study_rights": {
+        "allowed_study_period": "up to 3 months",
+        "longer_study_requirement": "must apply for own student visa (application can be made in Australia)"
+      }
+    },
+    "obligations": {
+      "holder_obligations": [
+        "Comply with visa conditions",
+        "Comply with Australian laws",
+        "Apply for a Student Visa (subclass 500) if changing to a course in a different education sector"
+      ],
+      "svp_conditions": {
+        "must_continue_to_satisfy_svp_requirements": true,
+        "risk_of_cancellation_conditions": [
+          "Seeking to transfer to a non-eligible education provider (before 1 July 2016)",
+          "Transfer requested within first 12 months of visa grant",
+          "Holder is not from a country that was Assessment Level 1 before 1 July 2016"
+        ]
+      },
+      "checking_conditions": "Check via VEVO or visa grant letter"
+    },
+    "changing_education_provider": {
+      "requirements": [
+        "Must comply with visa conditions",
+        "Must meet ESOS National Code requirements"
+      ],
+      "six_month_rule": "If less than six months of the principal course completed, permission from current provider is usually required",
+      "provider_requirements": [
+        "Must assess transfer request",
+        "Must have documented transfer policy"
+      ],
+      "appeal_process": {
+        "step_1": "Internal appeal with education provider",
+        "step_2": "If unsatisfied, appeal to State or Territory Ombudsman or Overseas Student Ombudsman"
+      }
+    },
+    "students_under_18": {
+      "must_maintain": [
+        "adequate accommodation",
+        "support",
+        "general welfare arrangements"
+      ],
+      "travel_restriction": "Cannot travel to Australia until welfare arrangements commence",
+      "welfare_start_date": "date nominated on Confirmation of Appropriate Accommodation/Welfare Arrangements (CAAW) letter",
+      "guardian_leaving_australia_requirement": "alternative welfare arrangements must be approved before guardian leaves, otherwise visa may be cancelled"
+    },
+    "no_further_stay_condition": {
+      "description": "Some visas include this condition",
+      "restriction": "Cannot apply to stay beyond the specified date except in certain circumstances"
+    },
+    "reporting_changes": {
+      "must_report": [
+        "changes to phone number",
+        "changes to email",
+        "changes to address",
+        "changes to passport",
+        "changes to relationship status",
+        "birth of a child"
+      ]
+    },
+    "family_member_obligations": {
+      "must": [
+        "remain a member of the holder's family",
+        "have adequate financial support",
+        "maintain adequate health cover",
+        "work no more than 40 hours per fortnight (unless exception applies)",
+        "attend school if of school age"
+      ],
+      "exception": "Family members of Masters students can work unlimited hours once the student starts their main course",
+      "consequence_of_breach": "visa may be cancelled and departure from Australia may be required"
+    },
+    "tools_and_resources": {
+      "vevo": "Visa Entitlement Verification Online (VEVO) allows checking of visa details and conditions"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

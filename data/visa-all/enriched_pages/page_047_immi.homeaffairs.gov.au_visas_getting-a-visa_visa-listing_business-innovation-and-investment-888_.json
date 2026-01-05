@@ -1,0 +1,19 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/business-innovation-and-investment-888/",
+  "title": "Business Innovation and Investment (Permanent) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Subclass 888 Business Innovation and Investment (Permanent) visa. It outlines the purpose of the visa and its basic eligibility criteria for entrepreneurs, investors, and business owners continuing their activities in Australia.",
+  "structured_data": {
+    "visa_name": "Business Innovation and Investment (Permanent) visa",
+    "subclass": "888",
+    "description": "A permanent visa for entrepreneurs, investors and business owners to continue their activity in Australia.",
+    "eligibility": {
+      "basic_eligibility": [
+        "Hold a relevant stream of the subclass 188 visa",
+        "For applications in the Business Innovation stream: hold a relevant stream of the subclass 188 visa, or a subclass 444 (Special Category) visa, or a subclass 457 (Business (Long Stay)) visa granted in certain circumstances"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-work-regional-provisional-491",
+  "title": "Skilled Work Regional (Provisional) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Skilled Work Regional (Provisional) visa (subclass 491), including eligibility requirements, conditions, costs, and processing time details. It covers both main applicants and subsequent entrants who are family members of a current subclass 491 visa holder.",
+  "structured_data": {
+    "visa_name": "Skilled Work Regional (Provisional) visa",
+    "subclass": "491",
+    "description": "A provisional visa for skilled people nominated by a state or territory government or sponsored by an eligible relative to live and work in regional Australia.",
+    "basic_eligibility": {
+      "requirements": [
+        "Be nominated to apply by a state or territory government agency, or be sponsored by an eligible relative",
+        "Have an occupation on a relevant skilled occupation list",
+        "Have a suitable skills assessment for the occupation",
+        "Be invited to apply",
+        "Satisfy the points test"
+      ]
+    },
+    "main_applicant_stream": {
+      "visa_type": "Main applicant",
+      "purpose": "For skilled workers who want to live and work in regional Australia",
+      "benefits": [
+        "Stay in Australia for 5 years",
+        "Live, work and study in a designated regional area of Australia",
+        "Travel to and from Australia as many times as desired while the visa is valid",
+        "Apply for permanent residence after 3 years from the visa grant date"
+      ],
+      "stay_duration": "5 years",
+      "cost": "From AUD4,910.00",
+      "processing_time_information": "Use the visa processing time guide tool to view indicative processing times for recently decided applications. The displayed times are a guide only and not specific to individual applications."
+    },
+    "subsequent_entrant_stream": {
+      "visa_type": "Subsequent entrant",
+      "description": "For members of the family unit of a person who holds a subclass 491 visa granted under the primary criteria.",
+      "eligibility": [
+        "Must be a member of the family unit of a person who holds a subclass 491 visa granted on the basis of meeting primary criteria"
+      ],
+      "stay_duration": "Until the visa held by the family member ends",
+      "cost": "From AUD4,910.00",
+      "processing_time_information": "Use the visa processing time guide tool to view indicative processing times for recently decided applications. The displayed times are a guide only and not specific to individual applications."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

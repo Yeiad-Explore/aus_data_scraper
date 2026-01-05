@@ -1,0 +1,158 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/media-film-staff-423",
+  "title": "Media and Film Staff visa (subclass 423)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Media and Film Staff visa (subclass 423), which closed to new applications on 24 November 2012. It outlines the rights and obligations of current visa holders and the responsibilities of approved sponsors. It also suggests alternative visa options for prospective applicants.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Media and Film Staff visa",
+      "subclass": "423",
+      "status": "closed_to_new_applications",
+      "closure_date": "24 November 2012",
+      "alternative_visas": [
+        {
+          "visa_name": "Temporary Activity visa",
+          "subclass": "408",
+          "purpose": "for people who want to come to Australia to make a documentary or commercial"
+        },
+        {
+          "visa_name": "Temporary Work (Short Stay Specialist) visa",
+          "subclass": "400",
+          "purpose": "for short stays up to three months",
+          "allowed_activities": [
+            "make a documentary or commercial shown outside Australia (not intended for Australian viewing)",
+            "short-term non-ongoing work as a journalist or foreign correspondent"
+          ]
+        }
+      ]
+    },
+    "visa_holder_information": {
+      "vevo_available": true,
+      "visa_validity": {
+        "duration": "period of nominated position",
+        "maximum_duration": "2 years"
+      },
+      "visa_entitlements": [
+        "undertake media work in Australia for an Australian-based company or production house",
+        "stay in Australia for the period of the nominated position (up to 2 years)",
+        "bring family members who can work and study",
+        "travel multiple times in and out of Australia while visa is valid"
+      ],
+      "obligations": [
+        "comply with all visa conditions and Australian laws",
+        "maintain adequate health insurance while in Australia"
+      ],
+      "work_restrictions": [
+        "must not stop working for sponsoring employer",
+        "must not engage in work inconsistent with nominated position",
+        "must not work for another person or for themselves while working for sponsor"
+      ],
+      "if_employment_ceases": {
+        "requirements": [
+          "apply for a different visa",
+          "leave Australia before visa expiry"
+        ]
+      },
+      "changing_sponsor": {
+        "allowed": false,
+        "instructions": "must apply for another visa if changing position or employer"
+      },
+      "family_obligations": {
+        "entry_restrictions": "family cannot enter Australia before primary visa holder",
+        "departure_requirements": "family must leave Australia when the visa ends",
+        "ongoing_obligations": [
+          "intend to remain a member of the family unit",
+          "maintain adequate health insurance"
+        ],
+        "family_entitlements": [
+          "family can work or study while visa is valid"
+        ]
+      },
+      "change_notifications": [
+        "changes to phone number, email, address or passport",
+        "changes to relationship status",
+        "birth of a child"
+      ]
+    },
+    "sponsor_information": {
+      "note": "Sponsorship for this visa is closed; no new sponsorships allowed.",
+      "sponsorship_validity": "up to 3 years",
+      "nomination_validity_conditions": [
+        "date written withdrawal of nomination is received",
+        "12 months after nomination approval date",
+        "3 months after sponsor approval ceases (if nomination was granted to that sponsor)",
+        "date sponsor approval is cancelled (if nomination was granted to that sponsor)",
+        "date visa is granted based on the nomination"
+      ],
+      "sponsor_obligations": [
+        "cooperate with inspectors",
+        "notify the department when certain events occur",
+        "keep records",
+        "provide records and information to the Minister when requested",
+        "not recover, transfer, or charge certain costs to another person",
+        "pay costs to locate and remove an unlawful non-citizen",
+        "ensure visa holder works in nominated occupation, program or activity"
+      ],
+      "cooperate_with_inspectors": {
+        "investigation_topics": [
+          "compliance with sponsorship obligations",
+          "whether illegal workers are hired",
+          "other circumstances allowing administrative action"
+        ],
+        "obligation_period": {
+          "start": "day sponsorship is approved or work agreement commences",
+          "end": "5 years after sponsorship ends or work agreement ceases"
+        },
+        "required_actions": [
+          "provide access to premises",
+          "produce and provide documents within requested timeframe",
+          "not prevent access to persons with custody of records",
+          "provide officers with access to interview persons on premises"
+        ]
+      },
+      "record_keeping": {
+        "requirements": [
+          "keep records showing compliance with obligations",
+          "keep all records in a reproducible format",
+          "some records must be independently verifiable",
+          "keep notifications made to the department, including date, method, and location of submission"
+        ],
+        "obligation_period": {
+          "start": "day sponsorship is approved",
+          "end": "2 years after sponsor is no longer approved AND no longer sponsoring anyone",
+          "maximum_retention": "no more than 5 years"
+        }
+      },
+      "provide_records": {
+        "when_required": [
+          "to determine compliance with sponsorship obligations",
+          "to determine other circumstances for administrative action"
+        ],
+        "must_provide_if": [
+          "record is required under Commonwealth/state/territory law",
+          "record is required to be kept as a sponsor"
+        ],
+        "obligation_period": {
+          "start": "day sponsorship is approved or work agreement starts",
+          "end": "2 years after sponsorship or work agreement ceases AND no sponsored visa holders remain"
+        }
+      },
+      "notification_requirements": {
+        "events_to_report": [
+          "primary sponsored person fails to participate in nominated activity",
+          "cessation of participation in film or television production",
+          "primary sponsored person (except performers) ceases before approved cessation date",
+          "sponsor ceases to hold required licence",
+          "changes to sponsor’s address or contact details",
+          "sponsor’s legal entity ceases to exist (if an Australian organisation)"
+        ],
+        "method": [
+          "submit information in writing",
+          "send by registered post or electronic mail"
+        ]
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

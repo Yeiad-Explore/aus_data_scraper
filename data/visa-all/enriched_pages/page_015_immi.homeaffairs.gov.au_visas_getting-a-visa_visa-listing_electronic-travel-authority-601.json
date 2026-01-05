@@ -1,0 +1,122 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601",
+  "title": "Electronic Travel Authority",
+  "content_type": "visa_information",
+  "summary": "This page provides official information about the Electronic Travel Authority (ETA), subclass 601, for short-term travel to Australia. It explains eligibility, conditions, costs, application methods, stay periods, obligations, and restrictions for ETA holders.",
+  "structured_data": {
+    "visa_name": "Electronic Travel Authority",
+    "subclass": "601",
+    "description": "Allows eligible passport holders to visit Australia multiple times within 12 months, staying up to 3 months each visit.",
+    "key_points": [
+      "Must apply using the Australian ETA app unless ineligible to use it.",
+      "Valid for 12 months or until passport expiry, whichever is sooner.",
+      "Multiple entry visa with max 3-month stay per visit."
+    ],
+    "stay": {
+      "max_stay_per_entry": "3 months",
+      "visa_validity": "12 months or until passport expires, whichever is shorter",
+      "multiple_entry": true,
+      "round_trip_cruise_policy": "Time on a round trip cruise counts as time in Australia and does not reset stay period."
+    },
+    "cost": {
+      "visa_application_charge": "None",
+      "eta_app_service_fee": "AUD 20"
+    },
+    "processing_times": {
+      "typical_processing_time": "Immediate in most cases",
+      "possible_delays": [
+        "Incorrect application completion",
+        "Need for further information",
+        "Hard-to-verify information",
+        "Criminal convictions"
+      ],
+      "advice": "Do not make travel arrangements until the ETA is granted."
+    },
+    "eligibility": {
+      "must_apply_from_outside_australia": true,
+      "passport_requirements": "Must hold an ETA‑eligible passport",
+      "application_method": "Must use the Australian ETA app",
+      "australian_citizens_ineligible": true,
+      "european_passport_holders_note": "May be eligible for an eVisitor (subclass 651)",
+      "video_guides_available": true
+    },
+    "with_this_visa_you_can": {
+      "tourism": [
+        "Visit family or friends",
+        "Go on a cruise",
+        "Have a holiday"
+      ],
+      "business_visitor_activities_allowed": [
+        "Make general business or employment inquiries",
+        "Investigate, negotiate, enter into, or review a business contract",
+        "Conduct activities as part of an official government visit",
+        "Take part in conferences, trade fairs, or seminars (no payment allowed)"
+      ],
+      "study": "Study or train for up to 3 months total."
+    },
+    "with_this_visa_you_cannot": {
+      "work_restrictions": [
+        "Cannot work for an Australian employer",
+        "Cannot provide services to an Australian business or organization",
+        "Cannot sell goods or services directly to the public"
+      ],
+      "eta_is_not_work_visa": true
+    },
+    "study_health_requirements": {
+      "must_apply_for_subclass_600_if": [
+        "Training at a childcare centre",
+        "Studying to be a doctor, dentist, nurse, or paramedic",
+        "Entering health care or hospital environments"
+      ]
+    },
+    "cruise_rules": {
+      "visa_required_if_enter_australia_during_cruise": true,
+      "round_trip_cruise_definition_note": "Ask cruise operator or travel agent whether cruise is considered round trip."
+    },
+    "stay_longer": {
+      "extension": "Not permitted",
+      "must_apply_for_new_visa": true,
+      "unlawful_consequences": "Becoming an unlawful non-citizen and possible removal from Australia"
+    },
+    "including_family": {
+      "can_include_family_members": false,
+      "note": "Each family member, including those listed on your passport, must submit a separate application."
+    },
+    "apply_from": {
+      "must_be_outside_australia_when_applying": true,
+      "must_be_outside_australia_when_granted": true
+    },
+    "obligations": {
+      "must_obey_australian_laws": true,
+      "must_meet_all_visa_conditions": true
+    },
+    "health_insurance": {
+      "recommendation": "Strongly recommended to obtain health insurance",
+      "responsibility": "Traveller is personally liable for all healthcare costs",
+      "reciprocal_healthcare_agreements": "Some countries have agreements; see Services Australia"
+    },
+    "travel": {
+      "multiple_travel": "Allowed as many times as desired while visa is valid"
+    },
+    "visa_label": {
+      "digital_link": true,
+      "no_passport_label": true,
+      "passport_change_effect": "ETA ceases when passport expires or new passport issued; must apply for new ETA"
+    },
+    "other_visas_interaction": {
+      "maritime_crew_or_special_purpose": {
+        "hold_both_visas_concurrently": true,
+        "enter_on_both": true,
+        "stay_for_longer_period": true,
+        "eta_ceases_if_longer_period_exceeds_3_months": true
+      },
+      "other_substantive_visa": {
+        "entry_on_other_visa_first": true,
+        "eta_comes_into_effect_when_other_visa_ceases": true,
+        "eta_3_month_stay_starts_at_entry": true
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

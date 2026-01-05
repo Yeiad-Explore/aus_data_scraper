@@ -1,0 +1,58 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/electronic-travel-authority-visitor-subclass-976",
+  "title": "Electronic Travel Authority (Visitor) (subclass 976)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the discontinued Electronic Travel Authority (Visitor) (subclass 976) visa. It explains that new applications are no longer accepted and provides details for existing visa holders about validity, conditions, rights, and obligations.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Electronic Travel Authority (Visitor)",
+      "subclass": "976",
+      "status": "closed_to_new_applications",
+      "closure_date": "22 March 2013",
+      "alternative_visa_option": "Electronic Travel Authority (subclass 601)",
+      "description": "Information for people who have already been granted this visa, including rights and obligations."
+    },
+    "validity": {
+      "valid_from": "date_of_grant",
+      "valid_until": {
+        "earliest_of": [
+          "life_of_current_passport",
+          "12 months"
+        ]
+      }
+    },
+    "entitlements": {
+      "allowed_actions": [
+        "enter Australia as many times as you want while the visa is valid",
+        "stay in Australia for up to three months on each visit"
+      ]
+    },
+    "obligations": {
+      "general_requirements": [
+        "comply with all electronic travel authority conditions",
+        "comply with all Australian laws"
+      ],
+      "specific_requirements": [
+        "be free from tuberculosis when you travel to and enter Australia",
+        "not work while in Australia",
+        "volunteer work is allowed only if an Australian resident would not otherwise be paid to do the work; reimbursement for out-of-pocket expenses such as meals and accommodation is allowed",
+        "not study or train for more than three months",
+        "not have one or more criminal convictions for which you were sentenced to more than a total of 12 months (regardless of imprisonment)"
+      ]
+    },
+    "notification_requirements": {
+      "description": "Visa holders must notify the department of certain personal changes.",
+      "must_notify": [
+        "changes to phone number, email, address, or passport",
+        "changes to relationship status",
+        "the birth of a child"
+      ],
+      "consequences_of_not_updating_passport": "significant delays at the airport and possible denial of permission to board a plane"
+    },
+    "tools_and_resources": {
+      "vevo": "Visa Entitlement Verification Online (VEVO) can be used to check visa status and entitlements."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

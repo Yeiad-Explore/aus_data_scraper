@@ -1,0 +1,175 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "title": "Visa list",
+  "content_type": "visa_list",
+  "summary": "This page provides a comprehensive list of Australian visas grouped by category. It includes current visas, other specialized visas, and repealed visas with their corresponding subclasses. The page serves as a catalogue to help users find visa types before using the Visa Finder tool.",
+  "structured_data": {
+    "visa_categories": [
+      {
+        "category_name": "Visitor visas",
+        "visas": [
+          "Electronic Travel Authority (subclass 601)",
+          "eVisitor (subclass 651)",
+          "Transit visa (subclass 771)",
+          "Visitor (subclass 600)",
+          "Work and Holiday visa (subclass 462)",
+          "Working Holiday visa (subclass 417)"
+        ]
+      },
+      {
+        "category_name": "Studying and training visas",
+        "visas": [
+          "Student visa (subclass 500)",
+          "Student Guardian visa (subclass 590)",
+          "Training visa (subclass 407)"
+        ]
+      },
+      {
+        "category_name": "Family and partner visas",
+        "visas": [
+          "Adoption visa (subclass 102)",
+          "Aged Dependent Relative visa (subclass 114)",
+          "Aged Dependent Relative visa (subclass 838)",
+          "Aged Parent visa (subclass 804)",
+          "Carer visa (subclass 836)",
+          "Carer visa (subclass 116)",
+          "Child visa (subclass 101)",
+          "Child visa (subclass 802)",
+          "Contributory Aged Parent (Temporary) visa (subclass 884)",
+          "Contributory Aged Parent visa (subclass 864)",
+          "Contributory Parent (Temporary) visa (subclass 173)",
+          "Contributory Parent visa (subclass 143)",
+          "Dependent Child visa (subclass 445)",
+          "New Zealand Citizen Family Relationship (temporary) visa (subclass 461)",
+          "Orphan Relative (subclass 117)",
+          "Orphan Relative (subclass 837)",
+          "Parent visa (subclass 103)",
+          "Partner (Provisional and Migrant) visa (subclass 309 100)",
+          "Partner visa (subclass 820 801)",
+          "Prospective Marriage visa (subclass 300)",
+          "Remaining Relative visa (subclass 115)",
+          "Remaining Relative visa (subclass 835)",
+          "Sponsored Parent (Temporary) visa (subclass 870)"
+        ]
+      },
+      {
+        "category_name": "Working and skilled visas",
+        "visas": [
+          "Business Innovation and Investment (permanent) visa (subclass 888)",
+          "Business Innovation and Investment (provisional) visa (subclass 188)",
+          "National Innovation visa (subclass 858)",
+          "Employer Nomination Scheme (subclass 186)",
+          "Permanent Residence (Skilled Regional) visa (subclass 191)",
+          "Pacific Engagement Visa (subclass 192)",
+          "Regional Sponsored Migration Scheme (subclass 187)",
+          "Skilled Employer Sponsored Regional (provisional) visa (subclass 494)",
+          "Skilled Independent visa (subclass 189)",
+          "Skilled Nominated visa (subclass 190)",
+          "Skilled Regional (provisional) visa (subclass 489)",
+          "Skilled Regional visa (subclass 887)",
+          "Skilled Work Regional (Provisional) visa (subclass 491)",
+          "Temporary Activity visa (subclass 408)",
+          "Temporary Graduate visa (subclass 485)",
+          "Temporary Work (International Relations) visa (subclass 403)",
+          "Temporary Work (Short Stay Specialist) visa (subclass 400)",
+          "Skills in Demand (subclass 482)"
+        ]
+      },
+      {
+        "category_name": "Refugee and humanitarian visas",
+        "visas": [
+          "Global Special Humanitarian (subclass 202)",
+          "Protection visa (subclass 866)",
+          "Refugee visas (subclass 200, 201, 203 and 204)",
+          "Temporary Protection visa (subclass 785)",
+          "Safe Haven Enterprise visa (subclass 790)",
+          "Resolution of Status visa (subclass 851)"
+        ]
+      },
+      {
+        "category_name": "Other visas",
+        "visas": [
+          "Bridging visa A – BVA - (subclass 010)",
+          "Bridging visa B – BVB – (subclass 020)",
+          "Bridging visa C – BVC – (subclass 030)",
+          "Bridging visa E – BVE – (subclass 050 and 051)",
+          "Crew Travel Authority visa (subclass 942)",
+          "Former Resident visa (subclass 151)",
+          "Maritime Crew visa (subclass 988)",
+          "Medical Treatment visa (subclass 602)",
+          "Resident Return visa (subclass 155 157)",
+          "Special Category visa (subclass 444)",
+          "Special Purpose visa",
+          "Special Purpose Travel Authority (subclass 945)",
+          "Investor Retirement visa (subclass 405)"
+        ]
+      },
+      {
+        "category_name": "Repealed visas",
+        "visas": [
+          "Business Owner (subclass 890) visa",
+          "Investor (subclass 891) visa",
+          "State or Territory Sponsored Business Owner (subclass 892) visa",
+          "State or Territory Sponsored Investor (subclass 893) visa",
+          "Confirmatory (Residence) visa (subclass 808)",
+          "Temporary Activity visa (subclass 408) - Australian Government endorsed events (COVID-19 Pandemic event)",
+          "Temporary Skill Shortage (Short-term) visa (subclass 482)",
+          "Temporary Skill Shortage (Medium-term) visa (subclass 482)",
+          "Temporary Skill Shortage (Labour agreement) visa (subclass 482)",
+          "Temporary Graduate (Replacement stream) visa (subclass 485)",
+          "Skilled-Recognised Graduate visa (subclass 476)",
+          "Business (Short Stay) visa (subclass 456)",
+          "Business Skills (Provisional) visa (subclass 160 and 165)",
+          "Business Talent (Permanent) visa (subclass 132)",
+          "Distinguished Talent visa (subclass 124)",
+          "Domestic Worker (Temporary) Diplomatic and Consular visa (subclass 426)",
+          "Domestic Worker (Temporary) Executive visa (subclass 427)",
+          "Electronic Travel Authority (Business Entrant) visa (subclass 956 and 977)",
+          "Electronic Travel Authority (Visitor) visa (subclass 976)",
+          "Employer Nomination Scheme (subclass 121 and 856)",
+          "Established Business in Australia visa (subclass 845)",
+          "Exchange visa (subclass 411)",
+          "Foreign Government Agency (subclass 415)",
+          "Government Agreement visa (subclass 406)",
+          "Labour Agreement visa (subclass 120)",
+          "Labour Agreement visa (subclass 855)",
+          "Media and Film Staff visa (subclass 423)",
+          "Medical Practitioner visa (subclass 422)",
+          "Medical Treatment (Short Stay) visa (subclass 675)",
+          "Medical Treatment Long Stay visa (subclass 685)",
+          "Regional Sponsor Migration Scheme (subclass 119 and 857)",
+          "Religious Worker visa (subclass 428)",
+          "Retirement visa (subclass 410)",
+          "Skilled Designated Area Sponsored visa (subclass 496)",
+          "Skilled Independent Regional (Provisional) visa (subclass 495)",
+          "Skilled Independent visa (subclass 175)",
+          "Skilled Independent visa (subclass 885)",
+          "Skilled Regional Sponsored visa (subclass 475)",
+          "Skilled Regional Sponsored (subclass 487)",
+          "Skilled Sponsored visa (subclass 176)",
+          "Special Program visa (subclass 416)",
+          "Sponsored visa (subclass 886)",
+          "Sport visa (subclass 421)",
+          "Superyacht Crew visa (subclass 488)",
+          "State or Territory Sponsored Regional Established Business in Australia visa (subclass 846)",
+          "Temporary Work (Entertainment) visa (subclass 420)",
+          "Temporary Work (Skilled) visa (subclass 457)",
+          "Tourist visa (subclass 676)",
+          "Temporary Work (Long Stay Activity) visa (subclass 401)",
+          "Training and Research visa (subclass 402)",
+          "Visiting Academic visa (subclass 419)",
+          "Foreign Affairs or Defence sector visa (subclass 576)",
+          "Higher Education Sector visa (subclass 573)",
+          "Independent ELICOS Sector visa (subclass 570)",
+          "Non Award Sector visa (subclass 575)",
+          "Postgraduate Research Sector visa (subclass 574)",
+          "School Sector visa (subclass 571)",
+          "Student Guardian visa (subclass 580)",
+          "Vocational Education and Training Sector visa (subclass 572)"
+        ]
+      }
+    ]
+  },
+  "parent_url": null,
+  "depth": 0
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/government-agreement-visa-subclass-406",
+  "title": "Government Agreement visa (subclass 406)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for existing holders of the Government Agreement visa (subclass 406), which closed to new applications in 2012. It explains what the visa allows, obligations for visa holders and their families, and what changes must be reported to the government.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Government Agreement visa",
+      "subclass": "406",
+      "status": "closed_to_new_applications",
+      "closure_date": "24 November 2012",
+      "alternative_visa_option": "Temporary Work (International Relations) visa (subclass 403)",
+      "applicant_availability": "only available to existing visa holders"
+    },
+    "purpose_and_entitlements": {
+      "description": "Visa for people entering Australia under bilateral agreements to direct operations of specific cultural organisations.",
+      "allowed_activities": [
+        "Enter Australia at any time",
+        "Do the work or activity specified in the relevant government agreement",
+        "Direct operations of a listed organisation (if applicable)",
+        "Bring family members to Australia",
+        "Enter and leave Australia multiple times while the visa is valid"
+      ],
+      "organisations_listed": [
+        "British Council",
+        "Alliance Française",
+        "Goethe-Institut",
+        "Italian Cultural Institute"
+      ]
+    },
+    "rights_and_obligations": {
+      "general_obligations": [
+        "Comply with all visa conditions and Australian laws",
+        "Maintain adequate health insurance",
+        "Continue to meet requirements of the granted visa",
+        "Meet Australian taxation obligations if working in Australia"
+      ],
+      "work_conditions": [
+        "Do not stop performing the listed work or activity",
+        "Do not work in a position or activity inconsistent with the visa purpose",
+        "Only work for the employer listed in the application",
+        "Do not work for yourself"
+      ],
+      "family_member_obligations": [
+        "Remain part of the visa holder's family unit",
+        "Enter Australia at the same time or after the visa holder",
+        "Leave Australia at the same time or before the visa holder"
+      ]
+    },
+    "change_notification_requirements": {
+      "changes_to_report": [
+        "Change to phone number",
+        "Change to email address",
+        "Change to residential address",
+        "Change to passport",
+        "Change to relationship status",
+        "Birth of a child"
+      ],
+      "additional_information": "Visa holders must notify the Department of any of the above changes. Guidance is available on how to report these changes."
+    },
+    "verification_services": {
+      "service_name": "Visa Entitlement Verification Online (VEVO)",
+      "availability": "free",
+      "purpose": "Check visa details and entitlements"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

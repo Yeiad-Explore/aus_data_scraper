@@ -1,0 +1,57 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/partner-offshore",
+  "title": "Partner visas (apply overseas)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Partner visa subclasses 309 (temporary) and 100 (permanent) for applicants applying from outside Australia. It outlines eligibility requirements, visa descriptions, costs, and processing time guidance. The temporary subclass 309 visa is the first step toward obtaining the permanent subclass 100 visa.",
+  "structured_data": {
+    "visa_categories": [
+      {
+        "visa_name": "Partner (Provisional) visa",
+        "subclass": "309",
+        "description": "This visa lets the de facto partner or spouse of an Australian citizen, Australian permanent resident or eligible New Zealand citizen live in Australia temporarily. It is the first step toward the permanent Partner visa (subclass 100).",
+        "key_points": [
+          "It is a temporary visa",
+          "It leads directly to the permanent Partner visa",
+          "You must be outside Australia when you apply"
+        ],
+        "eligibility": {
+          "basic_eligibility": [
+            "Must be in a genuine relationship with a spouse or de facto partner who is an Australian citizen, Australian permanent resident, or eligible New Zealand citizen"
+          ]
+        },
+        "stay": "Temporarily until the permanent Partner visa (subclass 100) application is finalised or withdrawn",
+        "cost": "From AUD 9,365.00",
+        "processing_time": {
+          "description": "Processing times can be checked using the visa processing time guide tool. These are indicative only and not specific to individual applications.",
+          "notes": [
+            "The Department continues to prioritise aged, and compassionate and compelling applications",
+            "This prioritisation is reflected in current processing times"
+          ]
+        }
+      },
+      {
+        "visa_name": "Partner (Migrant) visa",
+        "subclass": "100",
+        "description": "This visa lets the de facto partner or spouse of an Australian citizen, Australian permanent resident or eligible New Zealand citizen live in Australia permanently. It is usually granted to holders of a temporary Partner visa (subclass 309).",
+        "key_points": [
+          "This is a permanent visa",
+          "You must hold a temporary Partner visa (subclass 309)"
+        ],
+        "stay": "Permanently",
+        "cost": "No additional cost; payment was made when applying for both the temporary (subclass 309) and permanent (subclass 100) visas",
+        "processing_time": {
+          "description": "Processing times can be checked using the visa processing time guide tool. These are indicative only and not specific to individual applications.",
+          "eligibility_timing": "Processing time starts from the date of eligibility, which is 2 years after applying for the temporary and permanent Partner visas"
+        }
+      }
+    ],
+    "general_information": {
+      "overall_visa_purpose": "Allows the partner or spouse of an Australian citizen, Australian permanent resident or eligible New Zealand citizen to live in Australia.",
+      "application_notes": [
+        "Applicants apply for the temporary subclass 309 and the permanent subclass 100 visas together."
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,51 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/skilled-independent-subclass-175",
+  "title": "Skilled — Independent (subclass 175)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Skilled–Independent visa (subclass 175), which closed to new applications on 1 July 2012 and was later affected by the cap and cease arrangement on 22 September 2015. It explains what happened to undecided applications, what the visa allowed for existing visa holders, and their obligations.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Skilled–Independent visa",
+      "subclass": "175",
+      "status": "closed_to_new_applications",
+      "closure_date": "1 July 2012",
+      "cap_and_cease_arrangement_date": "22 September 2015",
+      "undecided_applications_outcome": "Applications not decided by 22 September 2015 are taken not to have been made.",
+      "description": "A points-tested visa that allowed skilled individuals with competent English and valuable skills to migrate to Australia."
+    },
+    "additional_information": {
+      "visa_finder_tool": "A visa finder function is available to identify current skilled migration visa subclasses based on personal circumstances."
+    },
+    "visa_holders_information": {
+      "purpose": "Information for people who have already been granted a Skilled-Independent visa (subclass 175), outlining rights and obligations.",
+      "vevo_access": "Visa holders can use VEVO for free to check visa details and entitlements."
+    },
+    "rights_and_benefits": {
+      "visa_type": "permanent_residence_visa",
+      "benefits": [
+        "stay in Australia indefinitely",
+        "work and study in Australia",
+        "enrol in Medicare",
+        "apply for Australian citizenship (if eligible)",
+        "sponsor eligible relatives for permanent residence",
+        "travel to and from Australia for five years from the date the visa is granted (after five years, a resident return visa or another visa is required)"
+      ]
+    },
+    "obligations": {
+      "general_obligations": [
+        "comply with all visa conditions",
+        "comply with all Australian laws"
+      ]
+    },
+    "notification_requirements": {
+      "changes_to_report": [
+        "changes to phone number, email, address or passport",
+        "changes to relationship status",
+        "birth of a child"
+      ],
+      "consequences_of_not_reporting_new_passport": "Significant delays at the airport and potential denial of permission to board a plane."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

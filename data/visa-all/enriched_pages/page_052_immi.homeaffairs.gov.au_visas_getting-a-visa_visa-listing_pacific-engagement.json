@@ -1,0 +1,40 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/pacific-engagement",
+  "title": "Pacific Engagement visa (subclass 192)Pacific Engagement",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Pacific Engagement visa (subclass 192), which allows eligible nationals of Pacific Island countries, Timor-Leste, and Tuvalu to live and work in Australia permanently. It explains the two streams of the visa and provides key dates for the 2025–26 ballot periods.",
+  "structured_data": {
+    "visa_name": "Pacific Engagement visa",
+    "subclass": "192",
+    "description": "A permanent visa allowing people of Pacific Island countries and Timor-Leste to live and work in Australia.",
+    "streams": [
+      {
+        "stream_name": "Pacific Engagement stream",
+        "description": "Known as the ‘Pacific Engagement visa’, this stream is for eligible Pacific Island and Timor-Leste nationals.",
+        "ballot_information": {
+          "ballot_status": "closed",
+          "ballot_close_date": "25 August 2025"
+        }
+      },
+      {
+        "stream_name": "Treaty stream",
+        "description": "This stream is for Tuvaluan nationals only and implements Australia’s obligations under the Australia‑Tuvalu Falepili Union treaty.",
+        "ballot_information": {
+          "ballot_status": "closed",
+          "ballot_close_date": "18 July 2025"
+        }
+      }
+    ],
+    "key_points": [
+      "From 1 May 2025, the Pacific Engagement visa (subclass 192) consists of two streams: the Pacific Engagement stream and the Treaty stream.",
+      "Ballots for the 2025–26 period are specific to each visa stream."
+    ],
+    "important_dates": [
+      "1 May 2025 – Introduction of two separate visa streams",
+      "18 July 2025 – Treaty stream ballot closed",
+      "25 August 2025 – Pacific Engagement stream ballot closed"
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

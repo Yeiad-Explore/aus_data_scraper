@@ -1,0 +1,138 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/medical-treatment-602",
+  "title": "Medical Treatment visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Medical Treatment visa (Subclass 602), a temporary Australian visa for individuals seeking medical treatment, organ donation, or supporting someone undergoing treatment. It outlines visa conditions, eligibility criteria, costs, stay periods, obligations, and application requirements.",
+  "structured_data": {
+    "visa_name": "Medical Treatment visa",
+    "subclass": "602",
+    "description": "A temporary visa for people to travel to or remain longer in Australia for medical treatment, to donate an organ, or to support someone receiving medical treatment or donating an organ.",
+    "stay": {
+      "type": "temporary",
+      "duration_determination": "Determined on a case-by-case basis depending on treatment plan",
+      "extendable": false,
+      "stay_longer_information": "Must apply for another visa if more time is needed"
+    },
+    "cost": {
+      "outside_australia": "Free",
+      "in_australia": "A fee applies",
+      "foreign_government_representatives": "Free",
+      "other_possible_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ]
+    },
+    "application_location": {
+      "apply_from": "In or outside Australia",
+      "location_at_grant_if_applied_in_australia": "Must be in Australia",
+      "location_at_grant_if_applied_outside_australia": "Must be outside Australia"
+    },
+    "processing_times": {
+      "information_source": "Visa processing time guide tool",
+      "notes": [
+        "Times shown are based on recently decided applications",
+        "Times are indicative only and not specific to an individual application"
+      ],
+      "factors_that_delay_processing": [
+        "Incorrect application",
+        "Missing documents",
+        "Need for additional information",
+        "Time required to verify information",
+        "Non-payment of the correct visa application charge"
+      ]
+    },
+    "what_you_can_do": [
+      "Have medical treatment or consultation",
+      "Donate an organ",
+      "Support someone who holds this visa who is an organ donor or receiving medical treatment",
+      "Be granted single or multiple entry depending on situation",
+      "Study for up to 3 months (or longer if meeting exemption criteria)"
+    ],
+    "what_you_cannot_do": [
+      "Work, except under limited circumstances"
+    ],
+    "eligibility": {
+      "situational_requirements": [
+        "Intend to have medical treatment or consultation in Australia",
+        "Intend to donate an organ to someone in Australia",
+        "Intend to support a patient or organ donor who holds this visa",
+        "Intend to receive an organ from someone traveling to Australia with the applicant",
+        "Intend to come under arrangements between the Western Province of Papua New Guinea and the Queensland Department of Health",
+        "Be in Australia, aged 50 or older, refused a permanent visa on health grounds only, and be unfit to depart Australia"
+      ],
+      "health_threat_restriction": "Must not have a medical condition that could be a threat to public health or endanger the community",
+      "visa_holding_restriction": {
+        "must_not_hold": "Temporary Work (International Relations) visa (subclass 403) in the Domestic Worker (Diplomatic or Consular) stream",
+        "last_substantive_visa_restriction": true,
+        "exceptions": "Applicants aged 50+ assessed as unfit to depart after permanent visa refusal on health grounds"
+      },
+      "financial_capacity": {
+        "requirement": "Must have adequate means to support oneself in Australia",
+        "must_cover": [
+          "Travel to Australia",
+          "Medical treatment",
+          "Other expenses related to stay",
+          "Expenses of accompanying persons, including organ donors"
+        ]
+      },
+      "age_requirement": "No age restrictions",
+      "health_requirement": "Must meet Australian health requirements",
+      "character_requirement": "Must meet Australian character requirements",
+      "genuine_visitor_requirement": {
+        "must_intend_to": [
+          "Stay temporarily in Australia",
+          "Only undertake activities allowed on this visa"
+        ],
+        "exceptions": [
+          "Applicants in Australia aged 50 or older, refused a permanent visa for health reasons, and unfit to depart"
+        ]
+      },
+      "debt_to_government": {
+        "requirement": "Must have repaid or arranged repayment of debts to the Australian Government"
+      },
+      "medical_payment_arrangement": {
+        "requirement": "In most cases, must pre-arrange payment of medical costs"
+      }
+    },
+    "support_persons": {
+      "definition": "A family member or another person such as a friend who applies to support the visa applicant",
+      "requirements": [
+        "Must file a separate application unless included in applicant’s passport",
+        "Applications can be processed together",
+        "Applicant’s visa must be granted before support person's visa"
+      ]
+    },
+    "obligations": [
+      "Comply with all visa conditions",
+      "Obey Australian laws"
+    ],
+    "health_insurance": {
+      "recommendation": "Strongly recommended to obtain health insurance for unforeseen medical treatment",
+      "liability": "Applicant is personally liable for all healthcare costs",
+      "adequate_insurance_reference": "Information available on what counts as adequate insurance",
+      "reciprocal_healthcare": "Some countries have reciprocal agreements; information available via Services Australia"
+    },
+    "travel_conditions": {
+      "entry_type": "Single or multiple entry",
+      "requirements": [
+        "Must arrive before visa expiry"
+      ],
+      "multiple_entry": "Can leave and re-enter as many times as desired",
+      "single_entry": {
+        "if_granted_outside_australia": "Can enter Australia once; cannot return if departing",
+        "if_granted_in_australia": "Can leave and return once; cannot return after second departure"
+      },
+      "verification": "Entry type can be checked in VEVO or visa grant letter"
+    },
+    "visa_label": {
+      "label_status": "No physical label",
+      "description": "Visa is digitally linked to passport"
+    },
+    "additional_information": {
+      "help_with_visa": "Applicants should read about who can help with visa applications before paying anyone"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

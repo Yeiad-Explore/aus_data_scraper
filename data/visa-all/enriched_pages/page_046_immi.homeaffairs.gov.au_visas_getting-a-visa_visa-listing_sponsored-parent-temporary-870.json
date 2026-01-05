@@ -1,0 +1,134 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/sponsored-parent-temporary-870",
+  "title": "Sponsored Parent (Temporary) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Sponsored Parent (Temporary) visa (subclass 870), which allows parents of Australian citizens, permanent residents, and eligible New Zealand citizens to stay in Australia for 3 or 5 years. It outlines eligibility rules, costs, conditions, how to apply, sponsorship requirements, and limitations such as the inability to work or seek permanent parent visas while holding this visa.",
+  "structured_data": {
+    "visa_name": "Sponsored Parent (Temporary) visa",
+    "subclass": "870",
+    "visa_type": "temporary",
+    "description": "This temporary visa lets a parent of an Australian citizen, Australian permanent resident, or eligible New Zealand citizen visit Australia for up to 3 or 5 years.",
+    "important_dates": {
+      "parent_sponsor_applications_opened": "17 April 2019",
+      "visa_applications_opened": "1 July 2019"
+    },
+    "stay_details": {
+      "stay_options": [
+        "Up to 3 years",
+        "Up to 5 years"
+      ],
+      "maximum_cumulative_stay": "10 years",
+      "temporary_visa_note": "This visa does not lead to permanent residence.",
+      "cannot_apply_for_while_holding_this_visa": [
+        "Permanent parent visa",
+        "Temporary parent visa"
+      ],
+      "covid_concession_extension": {
+        "automatic_extension": "18 months",
+        "eligibility": "Holders outside Australia on 1 July 2021",
+        "note": "The extra 18 months does not count toward the 10-year cumulative stay."
+      },
+      "visa_end_conditions": [
+        "Date specified on visa grant letter",
+        "If the visa is cancelled",
+        "If sponsor withdraws and no new sponsor is found",
+        "If sponsorship is cancelled"
+      ]
+    },
+    "cost": {
+      "visa_costs": {
+        "up_to_3_years": "AUD 6,070.00",
+        "up_to_5_years": "AUD 12,140.00"
+      },
+      "payment_structure": {
+        "instalments": 2,
+        "first_instalment": "Paid at application",
+        "second_instalment": "Paid when requested"
+      },
+      "possible_additional_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "tools": {
+        "visa_pricing_estimator": "Does not include second instalment or other costs"
+      }
+    },
+    "processing_times": {
+      "guide_tool_note": "Processing times available via the visa processing time guide tool and are only an indication.",
+      "factors_that_may_delay_processing": [
+        "Incorrectly completed application",
+        "Missing documents",
+        "Additional information required",
+        "Verification delays"
+      ]
+    },
+    "eligibility": {
+      "general_requirements": [
+        "Must have an approved Parent Sponsor before lodging application",
+        "Must apply online",
+        "Must lodge within 6 months of sponsorship approval unless permission granted to apply in Australia",
+        "Must check if medical examinations or chest x-rays are required"
+      ],
+      "relationship_requirement": "Must be the biological, legal (including adoptive) parent of the sponsor (content truncated before completion)"
+    },
+    "sponsorship": {
+      "requirement": "Applicants must have an approved Parent Sponsor.",
+      "household_limits": {
+        "one_sponsorship_at_a_time": true,
+        "maximum_supported_parents_per_household": 2
+      },
+      "restrictions": [
+        "Sponsor cannot lodge a new sponsorship application until the current one ends"
+      ]
+    },
+    "with_this_visa_you_can": [
+      "Reunite with children",
+      "Visit Australia for 3 or 5 years per visa",
+      "Re-apply for further visas up to the 10-year maximum stay",
+      "Travel to and from Australia multiple times while visa is valid"
+    ],
+    "with_this_visa_you_cannot": [
+      "Work in Australia"
+    ],
+    "application_requirements": {
+      "where_to_apply": {
+        "default": "Outside Australia",
+        "exception": "Permission to Apply in Australia (not in immigration clearance) may be granted in exceptional circumstances"
+      },
+      "exceptional_circumstances_examples": [
+        "Accident or serious illness preventing departure (must provide medical evidence)",
+        "Natural disaster preventing return to home country"
+      ],
+      "decision_location": "Can be in or outside Australia, but not in immigration clearance"
+    },
+    "applying_for_another_visa": {
+      "must_apply_from_outside_australia": true,
+      "exception": "Permission to Apply in Australia may be issued (not in immigration clearance)",
+      "90_day_rule": {
+        "eligibility_requirement": "Must have been outside Australia for at least 90 consecutive days since relevant departure day",
+        "relevant_departure_day_rules": {
+          "if_in_australia_when_last_visa_ceased": "First day you left Australia after your visa ceased",
+          "if_outside_australia_when_last_visa_ceased": "Last day you left Australia while the visa was in effect"
+        }
+      },
+      "10_year_limit_note": "If cumulative 10-year stay reached, a further Sponsored Parent (Temporary) visa cannot be granted."
+    },
+    "family_inclusion": {
+      "can_include_family_members": false
+    },
+    "travel": {
+      "permission": "Unlimited travel to and from Australia while visa is valid"
+    },
+    "obligations": [
+      "Obey Australian laws",
+      "Meet all visa conditions"
+    ],
+    "visa_label": {
+      "policy": "Visa is digitally linked to passport",
+      "passport_label_issued": false
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

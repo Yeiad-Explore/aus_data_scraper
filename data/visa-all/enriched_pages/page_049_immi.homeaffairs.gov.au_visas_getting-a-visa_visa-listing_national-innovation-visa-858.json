@@ -1,0 +1,124 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/national-innovation-visa-858",
+  "title": "National Innovation visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the National Innovation visa (subclass 858), which replaces the discontinued Global Talent visa. It outlines eligibility requirements, costs, conditions, application steps, and obligations for applicants and their families.",
+  "structured_data": {
+    "visa_name": "National Innovation visa",
+    "subclass": "858",
+    "visa_type": "Permanent",
+    "replaced_visa": "Global Talent visa (closed to new applications as of 6 December 2024)",
+    "description": "A permanent visa for exceptionally talented migrants with an internationally recognised record of exceptional and outstanding achievement in eligible fields.",
+    "purpose": "To attract high-calibre global talent to contribute to Australia’s future prosperity, create jobs, and drive productivity growth.",
+    "eligible_fields": [
+      "profession",
+      "sport",
+      "arts",
+      "academia and research"
+    ],
+    "target_profiles": [
+      "global researchers",
+      "entrepreneurs",
+      "innovative investors",
+      "athletes",
+      "creatives"
+    ],
+    "ministerial_direction": "Ministerial Direction 112 (processing order and indicators of exceptional and outstanding talent)",
+    "stay_conditions": {
+      "type": "Permanent",
+      "details": [
+        "Stay in Australia indefinitely",
+        "Permanent residency starts on the date of visa grant (if in Australia)",
+        "If outside Australia, permanent residency starts on the date of entry with this visa"
+      ]
+    },
+    "benefits": [
+      "Stay in Australia permanently",
+      "Work and study in Australia",
+      "Enrol in Medicare",
+      "Sponsor relatives",
+      "Travel to and from Australia for 5 years",
+      "Apply for Australian citizenship if eligible",
+      "Attend free Adult Migrant English Program classes (if eligible)"
+    ],
+    "new_arrival_waiting_periods": "Newly arrived residents may have waits before accessing certain government benefits.",
+    "eligibility": {
+      "invitation_requirement": "You must be invited to apply and lodge within 60 days of invitation.",
+      "expression_of_interest": "Applicants must submit an Expression of Interest (EOI) to be considered for invitation.",
+      "location_requirements": [
+        "Must be in or outside Australia, but not in immigration clearance, when applying and when the visa is granted"
+      ],
+      "achievement_requirement": "Internationally recognised record of exceptional and outstanding achievement in an eligible field.",
+      "nominator_requirements": {
+        "description": "A nominator with a national reputation in the applicant's area of talent.",
+        "eligible_nominators": [
+          "Australian citizen",
+          "Australian permanent resident",
+          "Eligible New Zealand citizen",
+          "Australian organisation"
+        ]
+      }
+    },
+    "application_process": {
+      "invitation_process": {
+        "description": "Department must invite the applicant before they can apply.",
+        "steps": [
+          "Submit an Expression of Interest (EOI)",
+          "If successful, receive a unique reference and identifier by email",
+          "Use these details to apply for the subclass 858 visa"
+        ]
+      },
+      "application_platform": "ImmiAccount",
+      "apply_from": "Inside or outside Australia, but not in immigration clearance"
+    },
+    "family_inclusion": {
+      "allowed_family_members": "Members of the family unit",
+      "age_restriction_for_minors": "Applicants under 18 can only include parents and family unit members of that parent",
+      "requirements": [
+        "All family members must meet health and character requirements, regardless of whether they are accompanying"
+      ],
+      "missing_family_member_explanation": "Applicants must explain why a partner or dependent child is not included"
+    },
+    "costs": {
+      "base_cost": "From AUD 4,985.00",
+      "additional_family_member_charge": "Extra charge applies for each accompanying family member",
+      "second_instalment_charge": {
+        "description": "Applies to applicants aged 18 or older with less than functional English",
+        "payment_timing": "Department will notify when payment is required"
+      },
+      "pricing_tools": {
+        "visa_pricing_estimator": "Does not include second instalment or additional costs"
+      },
+      "additional_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ]
+    },
+    "processing_times": {
+      "guide_tool": "Visa processing time guide tool shows recent processing times",
+      "note": "Times are indicative only and not specific to individual applications",
+      "factors_affecting_times": [
+        "Whether the application is complete with required documents",
+        "Speed of applicant responses to information requests",
+        "Time to perform checks on supporting information",
+        "Time needed for external agency checks (health, character, national security)",
+        "Migration program place availability",
+        "Alignment with Ministerial Direction 112 and skilled visa processing priorities"
+      ]
+    },
+    "obligations": [
+      "Obey Australian laws",
+      "Contribute to Australia in your area of expertise"
+    ],
+    "travel_conditions": {
+      "travel_validity": "5 years from the visa grant date",
+      "after_5_years": "Resident Return visa (subclass 155 or 157) required for re-entry",
+      "check_travel_validity": "VEVO"
+    },
+    "visa_label": "Visa is digitally linked to passport; no physical label provided",
+    "help_with_visa": "Applicants are advised to read 'Who can help with your visa application' before paying for assistance"
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

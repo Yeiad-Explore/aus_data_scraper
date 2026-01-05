@@ -1,0 +1,129 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/aged-parent-804",
+  "title": "Aged Parent visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Aged Parent visa (subclass 804), a permanent visa for aged parents of settled Australian citizens, permanent residents, or eligible New Zealand citizens. It outlines eligibility requirements, costs, processing times, conditions, travel rights, and application procedures.",
+  "structured_data": {
+    "visa_name": "Aged Parent visa",
+    "subclass": "804",
+    "visa_type": "Permanent",
+    "description": "This visa allows an aged parent of a settled Australian citizen, Australian permanent resident, or eligible New Zealand citizen to live in Australia permanently.",
+    "key_features": [
+      "Stay in Australia indefinitely",
+      "Work and study in Australia",
+      "Enrol in Medicare",
+      "Sponsor eligible family members",
+      "Travel to and from Australia for 5 years",
+      "Attend free English language classes if eligible",
+      "Apply for Australian citizenship if eligible"
+    ],
+    "stay_conditions": {
+      "length_of_stay": "Indefinitely",
+      "citizenship_note": "Permanent residence for citizenship purposes starts on the date the visa is granted"
+    },
+    "travel_facility": {
+      "travel_period": "5 years from the date of grant",
+      "conditions": [
+        "Unlimited travel as long as the travel facility is valid",
+        "After 5 years, a Resident Return Visa (RRV) is required for re-entry",
+        "Australian citizenship removes the need for a visa to re-enter Australia"
+      ],
+      "check_travel_facility": "Use VEVO to check travel facility expiry"
+    },
+    "eligibility": {
+      "must_have_an_eligible_child": "Child must be a settled Australian citizen, permanent resident, or eligible New Zealand citizen",
+      "age_requirement": "Must be old enough to receive the age pension in Australia",
+      "not_have_this_visa": "Must not have already applied for or hold a Sponsored Parent (Temporary) visa (subclass 870)",
+      "sponsor_requirement": {
+        "sponsor_must_be": "Eligible sponsor, usually an eligible child",
+        "if_child_under_18": "Sponsor can be an eligible relative or community organisation",
+        "sponsorship_approval": "Sponsorship must be approved"
+      },
+      "assurance_of_support": {
+        "requirement": "Applicant must obtain an assurance of support",
+        "purpose": "Ensures the applicant will not rely on government assistance during the assurance period",
+        "covers": "Applicant and any accompanying family members"
+      }
+    },
+    "costs": {
+      "base_cost": "AUD 7,345.00 for a single applicant, paid in two instalments",
+      "instalments": [
+        "First instalment paid at application",
+        "Second instalment paid when requested"
+      ],
+      "additional_costs": [
+        "Additional charges for each accompanying family member",
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "references": [
+        "Fees and charges for other services",
+        "Current visa pricing"
+      ]
+    },
+    "processing_times": {
+      "note": "Processing times are lengthy due to high demand and limited places",
+      "queueing": "Applications are subject to capping and queueing and processed in date order",
+      "two_stage_assessment": [
+        "Initial assessment to check eligibility and place in queue or refuse",
+        "Final assessment when a place becomes available"
+      ],
+      "possible_delays_due_to": [
+        "Incorrectly completed application",
+        "Missing documents",
+        "Long verification times"
+      ],
+      "payment_note": "Application won’t be processed if the correct visa fee is not paid",
+      "reference_links": [
+        "Parent visa queue release dates",
+        "Family visa processing priorities",
+        "Reports on Migration Programs"
+      ]
+    },
+    "application_requirements": {
+      "apply_from": "Must be in Australia, but not in immigration clearance, at time of application",
+      "family_members": "Family members included in the application must also be in Australia and not in immigration clearance",
+      "obligations": [
+        "Meet all visa conditions",
+        "Obey Australian laws"
+      ]
+    },
+    "family_inclusion": {
+      "can_include": "Members of the family unit at the time of application",
+      "must_list_all_family_members": "Must list all family members, whether migrating or not",
+      "health_and_character_requirements": "All included and some non-migrating family members may be required to meet health and character requirements",
+      "newborn_child_note": "Applicants must follow procedures if a child is born after application"
+    },
+    "visa_label": {
+      "label_status": "No physical visa label will be placed in the passport",
+      "digital_link": "Visa linked digitally to passport"
+    },
+    "related_visas": [
+      {
+        "name": "Contributory Aged Parent visa",
+        "subclass": "864",
+        "notes": "Permanent visa; faster processing but higher cost than subclass 804"
+      },
+      {
+        "name": "Contributory Aged Parent (Temporary) visa",
+        "subclass": "884",
+        "notes": "Temporary visa leading to subclass 864; faster but more expensive overall, cost spread over two visas"
+      },
+      {
+        "name": "Sponsored Parent (Temporary) visa",
+        "subclass": "870",
+        "notes": "Temporary visa allowing parents to stay for up to 3 or 5 years at a time, max cumulative 10 years"
+      }
+    ],
+    "important_warnings": [
+      "Do not make permanent stay arrangements until visa approval is confirmed",
+      "Application may be returned if incorrect fees are paid"
+    ],
+    "help_information": {
+      "help_with_application": "Applicants should verify who is legally allowed to provide immigration assistance before paying for help"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

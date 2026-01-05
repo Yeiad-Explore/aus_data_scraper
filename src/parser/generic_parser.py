@@ -34,16 +34,17 @@ class GenericParser:
         "[role='complementary']",
     ]
 
-    def __init__(self, url: str, link_filter: str = "same_path"):
+    def __init__(self, url: str, link_filter: str = "same_path", follow_all_links: bool = False):
         """
         Initialize parser.
 
         Args:
             url: The URL being parsed
             link_filter: Link filtering strategy
+            follow_all_links: If True, follow all links not just structural ones
         """
         self.url = url
-        self.section_detector = SectionDetector(url, link_filter)
+        self.section_detector = SectionDetector(url, link_filter, follow_all_links)
 
     def parse(
         self,
@@ -82,10 +83,13 @@ class GenericParser:
             if content_area:
                 soup = content_area
 
+        # Extract FULL plain text first (for LLM processing later)
+        raw_text = self._extract_full_plain_text(soup)
+
         # Extract interactive sections (tabs, accordions)
         interactive_sections = self._extract_interactive_sections(soup)
 
-        # Extract main content
+        # Extract main content (structured)
         main_content = self._extract_main_content(soup)
 
         # Convert referenced_links to ReferencedLink objects
@@ -96,6 +100,7 @@ class GenericParser:
         return GenericPageData(
             url=self.url,
             title=title,
+            raw_text=raw_text,
             main_content=main_content,
             interactive_sections=interactive_sections,
             referenced_links=ref_link_objects,
@@ -103,6 +108,56 @@ class GenericParser:
             parent_url=parent_url,
             depth=depth,
         )
+
+    def _extract_full_plain_text(self, soup: BeautifulSoup) -> str:
+        """
+        Extract ALL text content from the page as plain text.
+
+        This captures everything for LLM processing later.
+
+        Args:
+            soup: BeautifulSoup object
+
+        Returns:
+            Full plain text content
+        """
+        # Find main content area (try multiple selectors)
+        main = soup.find("main")
+        if not main:
+            main = soup.find("article")
+        if not main:
+            main = soup.find(id="content")
+        if not main:
+            main = soup.find(class_="content")
+        if not main:
+            main = soup.find("body")
+        if not main:
+            main = soup
+
+        # Get all text, preserving some structure
+        text_parts = []
+
+        for element in main.descendants:
+            if isinstance(element, NavigableString):
+                text = str(element).strip()
+                if text and len(text) > 1:
+                    text_parts.append(text)
+            elif isinstance(element, Tag):
+                # Add newlines for block elements
+                if element.name in ['p', 'div', 'section', 'article', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'tr', 'br']:
+                    if text_parts and not text_parts[-1].endswith('\n'):
+                        text_parts.append('\n')
+
+        # Join and clean up
+        raw_text = ' '.join(text_parts)
+
+        # Clean up excessive whitespace
+        import re
+        raw_text = re.sub(r'\s+', ' ', raw_text)
+        raw_text = re.sub(r'\n\s*\n', '\n\n', raw_text)
+        raw_text = raw_text.strip()
+
+        return raw_text
 
     def _remove_junk(self, soup: BeautifulSoup):
         """Remove unwanted elements from the soup."""

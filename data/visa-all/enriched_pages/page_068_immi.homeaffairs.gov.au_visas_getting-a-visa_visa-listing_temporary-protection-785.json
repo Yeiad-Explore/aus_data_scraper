@@ -1,0 +1,147 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-protection-785",
+  "title": "Temporary Protection visa",
+  "content_type": "visa_information",
+  "summary": "This page provides comprehensive information about the Subclass 785 Temporary Protection visa, which allows certain asylum seekers who arrived in Australia without a visa to stay temporarily. It outlines eligibility requirements, conditions, travel restrictions, costs, processing expectations, obligations, and family inclusion rules.",
+  "structured_data": {
+    "visa_name": "Temporary Protection visa",
+    "subclass": "785",
+    "description": "A temporary visa for people who arrived in Australia without a visa and seek asylum. Allows temporary stay if Australia’s protection obligations are engaged and other requirements are met.",
+    "overview": {
+      "stay_duration": "3 years",
+      "cost": "AUD50.00",
+      "processing_times": "Unavailable"
+    },
+    "benefits": [
+      "Stay in Australia temporarily for 3 years",
+      "Work and study",
+      "Access government services such as Centrelink, Workforce Australia and Medicare",
+      "Access short‑term counselling for torture and trauma",
+      "Attend English language classes for free if eligible",
+      "Travel overseas (not to home country) with written approval for compassionate or compelling reasons"
+    ],
+    "eligibility": {
+      "core_requirements": [
+        "Must engage Australia’s protection obligations or be a member of the same family unit of a person who does",
+        "Meet health, character, identity and security requirements"
+      ],
+      "arrival_requirement": "Must have arrived in Australia without a valid visa or not been immigration cleared on arrival"
+    },
+    "application_information": {
+      "apply_from": "Applicants must be in Australia when applying.",
+      "include_family_members": {
+        "allowed": true,
+        "requirements": [
+          "Family members must be in Australia",
+          "Family members must be eligible for the visa"
+        ],
+        "family_unit_definition": {
+          "members": [
+            "Spouse or de facto partner of family head",
+            "Dependent child or step-child",
+            "Dependent child or step-child of partner",
+            "Other dependent relatives"
+          ],
+          "dependent_child_definition": {
+            "under_18": "Automatically considered dependent",
+            "18_or_over": [
+              "Incapacitated for work due to loss of bodily or mental functions",
+              "Wholly or substantially reliant on parent/step-parent for financial, psychological or physical support"
+            ],
+            "not_dependent_if": "Married, engaged, or in a de facto relationship"
+          },
+          "other_dependent_relatives_may_include": [
+            "Parent",
+            "Brother/sister",
+            "Grandparent/grandchild",
+            "Aunt/uncle",
+            "Cousin",
+            "Niece/nephew",
+            "Step equivalents"
+          ],
+          "other_dependent_relative_conditions": [
+            "Must not have spouse or de facto partner",
+            "Usually lives with family head",
+            "Wholly or substantially reliant on the family head"
+          ]
+        }
+      },
+      "newborn_child": {
+        "automatic_inclusion": "Newborn is included in application if born after application submission and before decision.",
+        "notification_requirements": [
+          "Form 1022 Notification of change of circumstances",
+          "Clear colour copy of original birth certificate",
+          "Attach via ImmiAccount or send certified copy by post"
+        ],
+        "citizenship_note": "If a child is born in Australia, they receive the same visa as the parents unless one parent is an Australian citizen or PR, in which case the child may be an Australian citizen by birth."
+      }
+    },
+    "stay_longer": {
+      "subsequent_visa_options": [
+        "Temporary Protection visa (TPV)",
+        "Safe Haven Enterprise visa (SHEV)"
+      ],
+      "conditions": [
+        "Available only if applicant arrived on or after 14 February 2023",
+        "Must still need Australia’s protection",
+        "Must not be subject to application bars"
+      ],
+      "other_pathways": [
+        "Certain TPV holders may be eligible for the permanent Resolution of Status (RoS) visa (subclass 851)"
+      ]
+    },
+    "processing_times": {
+      "notes": [
+        "Processing times unavailable",
+        "Applications are complex and may take time"
+      ],
+      "may_take_longer_if": [
+        "Application is incomplete",
+        "Documents are missing",
+        "Department requests further information",
+        "Applicant does not respond promptly",
+        "Verification of information is required"
+      ]
+    },
+    "review_rights": {
+      "if_refused": "Applicants may apply for merits review by the Administrative Review Tribunal (ART).",
+      "details": "Refusal letter will provide information on review rights and timeframes."
+    },
+    "obligations": {
+      "general": [
+        "Must meet all visa conditions",
+        "Must obey Australian laws"
+      ]
+    },
+    "travel_conditions": {
+      "while_application_pending": "Leaving Australia before decision causes bridging visa to expire; applicant cannot re-enter unless holding a valid visa.",
+      "if_visa_granted": {
+        "condition_8570": {
+          "name": "Restricted travel",
+          "rules": [
+            "Cannot travel to home country under any circumstances",
+            "May travel to other countries only with written approval on compassionate or compelling grounds",
+            "Travelling without approval may result in visa cancellation for applicant and family members"
+          ]
+        }
+      }
+    },
+    "visa_label": {
+      "information": "Visa is digitally linked to travel document or ImmiCard. No physical label is issued."
+    },
+    "withdraw_application": {
+      "effects": [
+        "If holding a bridging visa, withdrawing before decision may prevent future TPV or SHEV applications",
+        "Bridging visa expires 35 days after withdrawal"
+      ],
+      "requirements_for_withdrawal": [
+        "Full name",
+        "Date of birth",
+        "Details of application",
+        "Signatures from all applicants aged 18 or older"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

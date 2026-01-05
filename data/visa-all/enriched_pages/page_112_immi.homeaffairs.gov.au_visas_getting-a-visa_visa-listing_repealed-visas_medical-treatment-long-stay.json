@@ -1,0 +1,90 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/medical-treatment-long-stay-visa-subclass-685",
+  "title": "Medical Treatment Long Stay Visa (subclass 685)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for people who currently hold, or previously applied for, the Medical Treatment Long Stay Visa (subclass 685), which closed to new applications on 23 March 2013. It explains visa validity, rights, obligations, and options for extending stay or having others join the visa holder. The page also outlines requirements for notifying the department of changes in personal circumstances.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Medical Treatment Long Stay Visa",
+      "subclass": "685",
+      "status": "closed_to_new_applications",
+      "closure_date": "23 March 2013",
+      "replacement_visa_option": "Medical Treatment visa (subclass 602)",
+      "validity_information": "Valid until the expiry date given when the visa was granted"
+    },
+    "applicant_scope": {
+      "description": "Information is for people who already hold the visa or applied before closure and have not yet received a decision",
+      "rights_and_obligations_covered": true
+    },
+    "checking_visa_details": {
+      "service": "Visa Entitlement Verification Online (VEVO)",
+      "cost": "free"
+    },
+    "visa_validity": {
+      "duration": "Until the date provided in the grant notification",
+      "purpose_of_duration": "To give time for medical treatment"
+    },
+    "extending_stay": {
+      "eligible_reasons": [
+        "Medical treatment continues beyond visa expiry",
+        "Holiday",
+        "Sightseeing",
+        "Visiting friends or relatives",
+        "Other purposes"
+      ],
+      "requirement": "Must apply for and be granted the next visa before current visa ends"
+    },
+    "visa_entitlements": {
+      "allowed_activities": [
+        "Stay in Australia for medical treatment",
+        "Study for up to three months"
+      ],
+      "study_exceptions": "Longer than three months allowed if under 18 and circumstances change with compelling and compassionate reasons"
+    },
+    "support_persons": {
+      "eligible_support_persons": [
+        "Someone who wants to come to provide emotional and other support during treatment"
+      ],
+      "visa_required": "Medical Treatment visa (subclass 602)",
+      "application_methods": {
+        "form": "Form 48ME Application to visit Australia for medical treatment",
+        "in_australia": {
+          "lodgement": "Post or fax to the Canberra office in Australian Capital Territory",
+          "attention": "Specialist Temporary Entry Centre",
+          "payment_methods": [
+            "Credit card",
+            "Debit card",
+            "Bank cheque",
+            "Money order payable to the Department of Home Affairs"
+          ]
+        },
+        "outside_australia": {
+          "lodgement": "Immigration office outside Australia"
+        }
+      }
+    },
+    "obligations": {
+      "requirements": [
+        "Comply with all visa conditions",
+        "Comply with Australian laws"
+      ],
+      "work_restrictions": "Cannot work except under limited circumstances",
+      "study_restrictions": "Can study for up to three months unless exceptions apply"
+    },
+    "departure_requirements": {
+      "expectation": "Leave Australia before visa ends",
+      "possibility_of_another_visa": "Might be able to apply for another visa if more medical treatment is needed",
+      "notes": "Medical Treatment visas are usually granted for a short time only"
+    },
+    "change_notification": {
+      "changes_to_report": [
+        "Changes to phone number, email, address, or passport",
+        "Changes to relationship status",
+        "Birth of a child"
+      ],
+      "consequences_of_not_reporting_passport_changes": "May cause significant delays at the airport and possible denial of permission to board a plane"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

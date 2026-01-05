@@ -1,0 +1,138 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/contributory-parent-143",
+  "title": "Contributory Parent visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Contributory Parent visa (subclass 143), a permanent visa that allows eligible parents of settled Australian citizens, permanent residents, or eligible New Zealand citizens to migrate to Australia. It outlines visa benefits, eligibility requirements, costs, application procedures, processing times, and conditions.",
+  "structured_data": {
+    "visa_name": "Contributory Parent visa",
+    "subclass": "143",
+    "visa_type": "Permanent parent migration visa",
+    "description": "This permanent visa lets a parent of a settled Australian citizen, Australian permanent resident, or eligible New Zealand citizen move to Australia.",
+    "important_updates": [
+      {
+        "effective_from": "2 April 2025",
+        "details": "Applicants for Parent visa subclasses 143, 173, 804, 864 and 884 will be able to import their paper application into ImmiAccount after lodgement. Parent visa (subclass 103) applications lodged after November 2018 can also be imported."
+      }
+    ],
+    "stay": "Permanently",
+    "visa_conditions": [
+      "Stay in Australia indefinitely",
+      "Work and study in Australia",
+      "Enrol in Medicare",
+      "Sponsor family members to come to Australia",
+      "Travel to and from Australia for 5 years",
+      "Attend free Adult Migrant English Program classes (if eligible)",
+      "Apply for Australian citizenship (if eligible)"
+    ],
+    "eligibility": {
+      "main_requirements": [
+        "Have an eligible child who is a settled Australian citizen, permanent resident, or eligible New Zealand citizen",
+        "Meet all applicable visa conditions",
+        "Follow Australian law",
+        "Must not have already applied for or hold a Sponsored Parent (Temporary) (subclass 870) visa when applying"
+      ],
+      "retiree_exemptions": [
+        "Do not need to meet the balance of family test",
+        "Do not need a sponsor",
+        "Do not need an assurance of support"
+      ]
+    },
+    "travel_conditions": {
+      "initial_travel_facility": "5 years from date of visa grant",
+      "after_5_years": [
+        "Apply for a Resident Return visa (RRV) to re-enter Australia as a permanent resident",
+        "Consider applying for Australian citizenship, after which no visa is required to enter Australia"
+      ],
+      "check_travel_facility": "VEVO"
+    },
+    "pathways": {
+      "via_subclass_173": {
+        "description": "Temporary Contributory Parent visa holders (subclass 173) can apply for subclass 143 as part of a 2-step process.",
+        "benefits": "Allows the cost to be spread over several years.",
+        "notes": "Balance of family test already met if applying from subclass 173."
+      }
+    },
+    "length_of_stay": {
+      "type": "Permanent visa",
+      "citizenship_residency_start": {
+        "if_in_australia": "On the date the visa is granted",
+        "if_outside_australia": "On the date the holder enters Australia on this visa"
+      }
+    },
+    "family_members": {
+      "general_rules": [
+        "Can include members of the family unit in the application",
+        "Must include details of all family members whether migrating or not",
+        "Family members applying must meet health and character requirements",
+        "Non-migrating family members may also need to meet health and character requirements"
+      ],
+      "retiree_rules": {
+        "can_include": "Partner (if also a retiree)",
+        "cannot_include": "Children"
+      },
+      "newborn_child": "Special instructions apply if a child is born after application lodgement."
+    },
+    "cost": {
+      "base_cost_single_applicant": "From AUD 48,640.00",
+      "payment_structure": [
+        "First instalment payable at lodgement",
+        "Second instalment payable when requested by the Department"
+      ],
+      "additional_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "links": [
+        "Fees and charges for other services",
+        "Current visa pricing",
+        "Visa fees and charges"
+      ]
+    },
+    "apply_from": {
+      "locations_allowed": "Inside or outside Australia",
+      "conditions": [
+        "If applying in Australia, all included family members must also be in Australia and not in immigration clearance",
+        "If applying outside Australia, family members must also be outside Australia",
+        "Retiree applicants must be in Australia (not in immigration clearance) when applying",
+        "Applicants may be either in or outside Australia at the time of decision"
+      ]
+    },
+    "processing_times": {
+      "notes": [
+        "Demand for Parent visas is greater than the number of available places each year",
+        "Processing times are lengthy",
+        "Applications are capped and queued and processed in order of receipt"
+      ],
+      "delays_possible_if": [
+        "Application is not completed correctly",
+        "Required documents are missing",
+        "Additional information is needed",
+        "Information takes a long time to verify"
+      ],
+      "payment_requirement": "Application cannot be processed if the correct visa application charge is not paid",
+      "assessment_stages": [
+        "Initial assessment for eligibility and queuing or refusal",
+        "Final assessment once a place becomes available"
+      ],
+      "important_note": "Applicants should not arrange permanent stay in Australia until visa grant",
+      "links": [
+        "Parent visa queue release dates",
+        "Family visa processing priorities",
+        "Reports on Migration Programs Assessment"
+      ]
+    },
+    "other_parent_visa_options": [
+      {
+        "name": "Contributory Parent (Temporary) visa",
+        "subclass": "173",
+        "notes": "Can be followed by a permanent Contributory Parent visa (subclass 143)"
+      }
+    ],
+    "help_with_visa": {
+      "guidance": "Read information on who can help with your visa application before paying someone for assistance"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

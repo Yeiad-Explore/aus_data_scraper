@@ -1,0 +1,22 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189",
+  "title": "Skilled independent visa",
+  "content_type": "visa_information",
+  "summary": "This page provides a brief overview of the Subclass 189 Skilled Independent visa. It states who the visa is intended for and notes that applicants must meet basic eligibility requirements. The page also directs users to see the relevant stream for more details.",
+  "structured_data": {
+    "visa_name": "Skilled Independent Visa",
+    "subclass": "189",
+    "description": "A permanent visa for invited workers, eligible New Zealand citizens, and eligible Hong Kong or British National (Overseas) passport holders with skills needed in Australia to live and work permanently anywhere in the country.",
+    "eligible_applicants": [
+      "Invited workers",
+      "Eligible New Zealand citizens",
+      "Eligible Hong Kong passport holders",
+      "Eligible British National (Overseas) passport holders"
+    ],
+    "eligibility_information": {
+      "basic_eligibility_note": "See the relevant stream"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

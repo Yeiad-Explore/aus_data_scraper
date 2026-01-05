@@ -1,0 +1,118 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/child-802",
+  "title": "Child visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Subclass 802 Child visa, which allows an eligible child to stay in Australia permanently with their parent. It outlines eligibility requirements, costs, application steps, processing times, rights and obligations, and related conditions for applicants.",
+  "structured_data": {
+    "visa_name": "Child visa",
+    "visa_subclass": "802",
+    "visa_type": "Permanent",
+    "description": "This visa allows a child to stay in Australia permanently and live with their parents.",
+    "important_updates": {
+      "from_23_july_2025": "Applicants for Child visa subclasses 101, 102, 802, 445, 117 and 837 can import their paper application into ImmiAccount.",
+      "cannot_import_note": "Some existing applications made outside Australia before 1 April 2020 cannot be imported into ImmiAccount.",
+      "reference_link": "Update to ImmiAccount — new online services for paper-based Child, Other Family, Former Residents, and New Zealand Citizen Family Relationship visa applications"
+    },
+    "stay_details": {
+      "length_of_stay": "Indefinitely",
+      "permanent_residency_grant_date": "The day the visa is granted",
+      "travel_facility": {
+        "validity": "5 years from visa grant",
+        "conditions": [
+          "Unlimited travel to and from Australia during the 5-year period",
+          "After 5 years, the child must apply for a Resident Return Visa to re-enter Australia as a permanent resident",
+          "Australian citizenship removes the need for a visa to re-enter Australia"
+        ]
+      }
+    },
+    "what_the_visa_allows": [
+      "Stay in Australia indefinitely",
+      "Work and study in Australia",
+      "Enrol in Australia's public healthcare scheme, Medicare",
+      "Sponsor relatives to come to Australia",
+      "Attend free English language classes through the Adult Migrant English Program (if eligible)",
+      "Apply for Australian citizenship (if eligible)"
+    ],
+    "eligibility": {
+      "dependency_requirement": {
+        "parent_status": [
+          "Australian citizen",
+          "Eligible New Zealand citizen",
+          "Australian permanent visa holder"
+        ],
+        "child_relationship_types": [
+          "Biological child",
+          "Adopted child",
+          "Stepchild (only from a former partner)"
+        ],
+        "stepchild_exclusion": "A child does not meet the dependency requirement if the stepparent is the current spouse or de facto partner of the child’s biological or adopted parent."
+      },
+      "age_and_status": [
+        "Under 18 years old",
+        "A full-time student aged over 18 and under 25",
+        "Over 18 and unable to work due to a disability"
+      ],
+      "marital_status": "Must be single and dependent on the parent",
+      "location_requirements": [
+        "Must be in Australia when the application is made and when the decision is made",
+        "Cannot be in immigration clearance"
+      ],
+      "visa_condition_restriction": "Cannot apply if holding a visa with a 'no further stay' condition",
+      "adoption_requirements": {
+        "general_rule": "Adoption must be finalised before the child turns 18.",
+        "adoption_timing": [
+          "Adoption may occur before or after the parent becomes an Australian citizen, permanent resident or eligible New Zealand citizen."
+        ],
+        "if_adopted_after_parent_became_eligible": [
+          "Must be through intercountry adoption involving an Australian state or territory central authority",
+          "Or through intercountry adoption between two Hague Convention countries",
+          "Or through expatriate adoption by an eligible Australian or NZ citizen/permanent resident living overseas, with conditions not fully shown due to truncated text"
+        ]
+      }
+    },
+    "including_family": {
+      "applying_siblings": "Each sibling must submit a separate application.",
+      "dependent_children_of_child": {
+        "can_be_included": "Dependent children can be included at application or before decision.",
+        "health_requirements": "Dependants applying must meet health requirements; non-migrating family members may also need to meet health requirements."
+      }
+    },
+    "costs": {
+      "base_application_fee": "AUD 3,235.00",
+      "additional_charges": [
+        "Additional charge for each dependent child applying",
+        "Costs for health examinations",
+        "Costs for police certificates",
+        "Costs for biometrics"
+      ],
+      "pricing_estimator_note": "The Visa Pricing Estimator does not include additional costs."
+    },
+    "apply_from": {
+      "location_requirement": "The child must be in Australia but not in immigration clearance.",
+      "restrictions": "The child cannot apply if holding a visa with a no further stay condition."
+    },
+    "processing_times": {
+      "guide_tool_reference": "Processing time guide tool shows recent processing times, not specific to your application.",
+      "factors_that_may_delay_application": [
+        "Application not filled correctly",
+        "Missing documents or need for more information",
+        "Time required to verify information",
+        "Incomplete payment at lodgement"
+      ],
+      "payment_requirement": "Application cannot be processed without the correct visa application charge.",
+      "acknowledgement_timeline": "Approximately 1 month after lodgement",
+      "contact_method": "Department will contact using authorised communication method"
+    },
+    "obligations": {
+      "general_obligations": "The child and any dependants must obey all Australian laws."
+    },
+    "visa_label": {
+      "note": "Visa is digitally linked to the child's passport; no physical label provided."
+    },
+    "help_with_application": {
+      "guidance_note": "Before paying someone for help, applicants should read information on who can assist with visa applications."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

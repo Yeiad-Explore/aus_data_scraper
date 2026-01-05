@@ -1,0 +1,125 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/contributory-aged-parent-temporary-884",
+  "title": "Contributory Aged Parent (Temporary) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Contributory Aged Parent (Temporary) Visa (Subclass 884). It explains eligibility requirements, costs, processing times, conditions, and how to apply for or transition to the permanent Subclass 864 visa. It also outlines obligations, travel rights, family inclusion rules, and recent updates to application processes via ImmiAccount.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Contributory Aged Parent (Temporary) visa",
+      "subclass": "884",
+      "visa_type": "temporary",
+      "description": "This temporary visa lets the aged parent of a settled Australian citizen, Australian permanent resident or eligible New Zealand citizen stay temporarily in Australia.",
+      "stay_duration": "2 years",
+      "travel_rights": "Multiple entry for 2 years from the date of grant",
+      "work_study_rights": "Work and study permitted, but without government support",
+      "pathway_to_permanent_visa": {
+        "permanent_visa_name": "Contributory Aged Parent visa",
+        "subclass": "864",
+        "notes": "Subclass 884 followed by subclass 864 allows cost to be spread over several years."
+      }
+    },
+    "important_updates": [
+      {
+        "effective_date": "2 April 2025",
+        "details": "Applicants for Parent visa subclasses 143, 173, 804, 864 and 884 can import their paper application into ImmiAccount after lodgement. Subclass 103 applications lodged after November 2018 can also be imported."
+      }
+    ],
+    "eligibility": {
+      "must_have": [
+        "An eligible child who is a settled Australian citizen, Australian permanent resident or eligible New Zealand citizen",
+        "Be old enough to receive the age pension in Australia"
+      ],
+      "must_not_have": [
+        "Already applied for or hold a Sponsored Parent (Temporary) (Subclass 870) visa"
+      ],
+      "sponsor_requirements": {
+        "sponsor_status": "Must be an eligible sponsor",
+        "note": "Usually the sponsor is an eligible child of the applicant"
+      }
+    },
+    "application_process": {
+      "apply_from": "Must be in Australia, but not in immigration clearance, when applying and when the decision is made",
+      "family_members_location_requirement": "Family members applying with the applicant must also be in Australia and not in immigration clearance",
+      "no_further_stay_condition": "If holding a temporary visa with a no further stay condition, application is invalid unless a waiver is granted",
+      "assessment_stages": [
+        "Initial assessment to check eligibility and queue placement or refusal",
+        "Final assessment when places become available"
+      ],
+      "queueing": "Applications are subject to capping and queueing in order received"
+    },
+    "visa_conditions": {
+      "obligations": [
+        "Must meet all visa conditions",
+        "Must obey Australian laws"
+      ],
+      "visa_label": "Visa is digitally linked to passport; no physical label provided"
+    },
+    "family_inclusion": {
+      "can_include_family": true,
+      "requirements": [
+        "Must include details of all family members whether migrating or not",
+        "Family applying must meet health and character requirements",
+        "Non-migrating family members might also need to meet health and character requirements"
+      ],
+      "newborn_child": "Information available on what to do if child is born after lodging the application"
+    },
+    "costs": {
+      "base_cost": "From AUD 34,170.00 for a single applicant",
+      "payment_structure": "Paid in 2 instalments; first at application, second when requested",
+      "additional_costs": [
+        "Additional charges for each family member included",
+        "Costs for health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "links": [
+        "Fees and charges for other services",
+        "Current visa pricing",
+        "Visa fees and charges information"
+      ]
+    },
+    "processing_times": {
+      "general_statement": "Demand is greater than available places; processing times are lengthy",
+      "queueing": "Applications processed in order received",
+      "factors_delaying_processing": [
+        "Incorrect or incomplete application",
+        "Missing documents",
+        "Verification delays",
+        "Non-payment or incorrect payment of visa charge"
+      ],
+      "reference": "Parent visa queue release dates"
+    },
+    "stay_information": {
+      "stay_longer": "Cannot extend or reapply for this visa; must apply for a different visa",
+      "permanent_residence_warning": "Do not arrange to stay permanently until visa is granted"
+    },
+    "comparative_visa_options": [
+      {
+        "visa_name": "Contributory Aged Parent visa",
+        "subclass": "864",
+        "notes": "Permanent visa; may be processed faster but costs more"
+      },
+      {
+        "visa_name": "Contributory Aged Parent visa (Temporary)",
+        "subclass": "884",
+        "notes": "Two-step process with subclass 864; costs more overall but spread out"
+      },
+      {
+        "visa_name": "Sponsored Parent (Temporary) visa",
+        "subclass": "870",
+        "notes": "Allows parents to visit for up to 3 or 5 years per stay, maximum 10 years cumulative"
+      }
+    ],
+    "help_with_visa": {
+      "advice": "Review information on who can help with your visa application before paying anyone"
+    },
+    "related_links": [
+      "Update to ImmiAccount — new online services for paper-based Parent visa applications",
+      "Parent visa queue release dates",
+      "Visa conditions page",
+      "Visa list page"
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

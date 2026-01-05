@@ -1,0 +1,79 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/medical-treatment-short-stay-visa-subclass-675",
+  "title": "Medical Treatment (Short Stay) visa (subclass 675)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the discontinued Medical Treatment (Short Stay) visa (subclass 675) and guidance for current visa holders. It explains rights, obligations, allowed activities, extending stay options, and circumstances for applying for another visa, particularly the Medical Treatment visa (subclass 602).",
+  "structured_data": {
+    "visa_name": "Medical Treatment (Short Stay) visa",
+    "subclass": "675",
+    "status": "Closed to new applications",
+    "closure_date": "23 March 2013",
+    "alternative_visa": {
+      "visa_name": "Medical Treatment visa",
+      "subclass": "602",
+      "when_applicable": "If you want to come to Australia for medical treatment or consultations, or if you need to join a subclass 675 visa holder for support."
+    },
+    "validity_for_existing_holders": "Valid until the expiry date given when the visa was granted",
+    "audience": "People who have already been granted a Medical Treatment (Short Stay) visa (subclass 675)",
+    "rights_and_obligations": {
+      "can_do": [
+        "Stay in Australia for medical treatment",
+        "Stay for medical treatment on one or more visits for a period no longer than three months at a time",
+        "Study for up to three months",
+        "Study for more than three months if under 18 years of age and with written permission from the Minister, provided there are compelling and compassionate reasons due to a change in circumstances"
+      ],
+      "cannot_do": [
+        "Work in Australia, except under limited circumstances"
+      ],
+      "must_do": [
+        "Comply with all visa conditions and Australian laws",
+        "Leave Australia before the visa ends unless granted another visa"
+      ]
+    },
+    "vevo_information": {
+      "description": "Visa holders can use VEVO to check visa details and entitlements",
+      "cost": "Free"
+    },
+    "extending_stay": {
+      "allowed_reasons_for_new_visa": [
+        "If medical treatment will continue after the current visa ends",
+        "For holiday, sightseeing, visiting friends or relatives, or other purposes"
+      ],
+      "requirement": "The next visa must be applied for and granted before the current visa expires"
+    },
+    "support_persons": {
+      "who_can_apply": "Someone who wants to accompany the visa holder to provide emotional and other support during treatment",
+      "visa_type_to_apply_for": "Medical Treatment visa (subclass 602)",
+      "application_methods": {
+        "in_australia": {
+          "lodgement_method": "Post or fax",
+          "destination": "Canberra office in Australian Capital Territory - attention Specialist Temporary Entry Centre",
+          "payment_methods": [
+            "Credit card",
+            "Debit card",
+            "Bank cheque",
+            "Money order payable to the Department of Home Affairs"
+          ]
+        },
+        "outside_australia": {
+          "lodgement_method": "Lodge at one of the immigration offices outside Australia"
+        }
+      }
+    },
+    "leaving_australia": {
+      "expectation": "You are expected to leave Australia before your visa ends",
+      "possibility_of_another_visa": "You can apply for another visa in Australia if more medical treatment is required and you have a medical treatment plan",
+      "note": "Medical Treatment visas are usually granted for a short time, and returning to your home country is expected"
+    },
+    "change_notification_requirements": {
+      "things_to_notify": [
+        "Changes to phone number, email, address or passport",
+        "Changes to relationship status",
+        "Birth of a child"
+      ],
+      "consequence_of_not_updating_passport": "You may experience significant delays at the airport and possibly be denied permission to board your plane"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

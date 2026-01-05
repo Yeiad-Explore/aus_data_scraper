@@ -1,0 +1,192 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/business-skills-provisional-visas-subclasses-160-165",
+  "title": "Business Skills (provisional) visas (subclasses 160-165)",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the closed Business Skills (Provisional) visas (subclasses 160–165). It explains who can still apply, how family members can be added, associated costs, application instructions, and conditions after applying. Health, character, document, and post‑lodgement requirements are also outlined.",
+  "structured_data": {
+    "visa_program": {
+      "name": "Business Skills (Provisional) visas",
+      "status": "closed_to_new_applications",
+      "subclasses": [
+        {
+          "name": "Business Owner (Provisional)",
+          "subclass": 160
+        },
+        {
+          "name": "Senior Executive (Provisional)",
+          "subclass": 161
+        },
+        {
+          "name": "Investor (Provisional)",
+          "subclass": 162
+        },
+        {
+          "name": "State/Territory Sponsored Business Owner (Provisional)",
+          "subclass": 163
+        },
+        {
+          "name": "State/Territory Sponsored Senior Executive (Provisional)",
+          "subclass": 164
+        },
+        {
+          "name": "State/Territory Sponsored Investor (Provisional)",
+          "subclass": 165
+        }
+      ],
+      "who_can_still_apply": [
+        "Family members of people who already hold one of the visas",
+        "Family members of applicants who lodged an undecided application"
+      ],
+      "visa_grant_location_rules": {
+        "general_rule": "Applicant must be outside Australia when the visa is granted",
+        "exception": "Applicants who held a student visa at the time of application may be in or outside Australia when granted"
+      }
+    },
+    "adding_family_members": {
+      "allowed": true,
+      "applicable_to": "Dependent children can be added until the visa application is decided",
+      "dependent_children_definition": [
+        "Children under 18 years of age",
+        "Children 18 or older who cannot work due to incapacity",
+        "Children not married, not engaged, and without a de facto partner"
+      ],
+      "required_form": {
+        "form_name": "Form 47BT",
+        "description": "Application for a Business Skills (provisional) visa",
+        "file_size": "579KB PDF"
+      },
+      "required_documents": "Documents listed in the document checklist"
+    },
+    "applying_as_family_member": {
+      "eligible_family_members": [
+        "Partner (married or de facto)",
+        "Dependent children or partner’s dependent children",
+        "Other dependent relatives"
+      ],
+      "requirements": [
+        "Provide documentary evidence of relationship",
+        "Meet health and character requirements",
+        "IELTS test may be required to demonstrate English ability"
+      ],
+      "required_form": {
+        "form_name": "Form 47BT",
+        "file_size": "579KB PDF"
+      },
+      "payment_methods": [
+        "Credit card",
+        "Money order",
+        "Bank cheque"
+      ]
+    },
+    "health_requirements": {
+      "must_meet_health_requirements": true,
+      "notes": "Most applicants will not need additional health examinations",
+      "instruction": "Do not arrange a health examination until requested"
+    },
+    "character_requirements": {
+      "must_meet_character_requirements": true,
+      "police_certificate_requirement": "Police certificate required for each country lived in for 12 months or more during the past 10 years after turning 16"
+    },
+    "debts_to_government": {
+      "requirement": "Applicant must have no outstanding debts or must arrange repayment before visa grant"
+    },
+    "costs": {
+      "additional_applicant_charges": [
+        {
+          "visa_subclass": 160,
+          "over_18": "AUD 2,340",
+          "under_18": "AUD 1,170"
+        },
+        {
+          "visa_subclass": 161,
+          "over_18": "AUD 2,340",
+          "under_18": "AUD 1,170"
+        },
+        {
+          "visa_subclass": 162,
+          "over_18": "AUD 2,340",
+          "under_18": "AUD 1,170"
+        },
+        {
+          "visa_subclass": 163,
+          "over_18": "AUD 2,340",
+          "under_18": "AUD 1,170"
+        },
+        {
+          "visa_subclass": 164,
+          "over_18": "AUD 2,340",
+          "under_18": "AUD 1,170"
+        },
+        {
+          "visa_subclass": 165,
+          "over_18": "AUD 2,340",
+          "under_18": "AUD 1,170"
+        }
+      ]
+    },
+    "where_to_lodge_application": {
+      "if_in_prc_hong_kong_macau_taiwan": "Send documents to the Australian Consulate-General Hong Kong",
+      "if_elsewhere": "Send documents by registered post to Adelaide office, Client Services, Adelaide Business Skills Processing Centre"
+    },
+    "after_applying": {
+      "acknowledgement": "Applicant will receive confirmation of receipt",
+      "waiting_for_decision": {
+        "factors_that_cause_delays": [
+          "Need for character or health checks",
+          "Need for chest x-rays",
+          "Incomplete application",
+          "Requests for additional information"
+        ],
+        "travel_warning": "Applicants outside Australia should not arrange travel until written grant notification"
+      },
+      "providing_more_information": {
+        "can_provide_any_time": true,
+        "form_for_corrections": {
+          "form_name": "Form 1023",
+          "description": "Notification of incorrect answer(s)",
+          "file_size": "168KB PDF"
+        },
+        "interview_notes": "Applicants may be interviewed and must bring identification and requested documents"
+      },
+      "obligation_to_report_changes": {
+        "examples": [
+          "Changes to phone number, email, address or passport",
+          "Changes to relationship status",
+          "Birth of a child"
+        ],
+        "consequence_of_not_updating_passport": "May cause delays at airport or boarding denial"
+      },
+      "withdrawing_application": "Applicants may withdraw their application"
+    },
+    "visa_decision": {
+      "if_granted": [
+        "When visa can be used",
+        "Visa grant number",
+        "Any conditions attached"
+      ],
+      "if_refused": [
+        "Reason for refusal",
+        "Review rights (if any)",
+        "Time limit for appeal",
+        "Sponsor may request review if applicable"
+      ]
+    },
+    "document_checklist": {
+      "notes": [
+        "Provide certified copies of original documents",
+        "Provide original police certificates",
+        "Provide accredited English translations for non-English documents"
+      ],
+      "forms": [
+        {
+          "form_name": "Form 80",
+          "description": "Personal particulars for assessment including character assessment",
+          "file_size": "596KB PDF",
+          "applicable_to": "Any family unit member 18 or older included in the application"
+        }
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,176 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/skilled-regional-sponsored-visa-subclass-487",
+  "title": "Skilled — Regional Sponsored visa (subclass 487)",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information for people who have already applied for the Skilled – Regional Sponsored visa (subclass 487), which is now closed to new applications. It explains what applicants can do after applying, how to add family members, obligations for visa holders, and pathways to permanent residency. It also outlines conditions for sponsors and steps required if circumstances change.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Skilled – Regional Sponsored visa",
+      "subclass": "487",
+      "status": "Closed to new applications",
+      "closure_date": "1 January 2013",
+      "description": "A provisional visa for skilled applicants sponsored by a state/territory government or eligible family member to live and work in a Specified Regional Area.",
+      "replacement_visa_options": [
+        "Skilled – Regional (Provisional) (subclass 489)"
+      ]
+    },
+    "applicants_information": {
+      "who_is_this_for": "People who have already applied for the Skilled – Regional Sponsored visa (subclass 487)",
+      "adding_family_members": {
+        "allowed": "Dependent children only",
+        "not_allowed": "Spouse or other family members",
+        "when_allowed": "Any time until a visa decision is made",
+        "requirements": [
+          "Notify the department in writing",
+          "Fee payable unless the child is a newborn"
+        ],
+        "forms": {
+          "newborn_children": {
+            "form_name": "Form 1022 - Notification of changes in circumstances",
+            "file_size": "172KB PDF"
+          },
+          "other_dependent_children": {
+            "form_name": "Form 1436 - Adding an additional applicant after lodgement",
+            "file_size": "481KB PDF"
+          }
+        },
+        "lodgement_methods": [
+          "ImmiAccount",
+          "Mail or courier to Adelaide office (Attention: Adelaide General Skilled Migration)"
+        ],
+        "english_language_requirement": "Dependent children over 18 may need to provide evidence of English language skills to determine second instalment payment requirements."
+      },
+      "points_test": {
+        "partner_points": "If your partner lodged a combined application and meets skilled migration threshold requirements, their evidence might be used to award you points."
+      }
+    },
+    "after_applying": {
+      "acknowledgment": "The department will acknowledge receipt of your application and documents.",
+      "waiting_for_decision": {
+        "factors_delaying_processing": [
+          "Character checks",
+          "Health checks including chest x-rays",
+          "Requests for additional information",
+          "Incomplete applications"
+        ],
+        "outside_australia": "Do not make travel arrangements until written confirmation of visa grant.",
+        "in_australia": {
+          "bridging_visa": "You might be eligible for a Bridging visa.",
+          "bridging_visa_b": "If you hold a Bridging visa A, you can apply for a Bridging visa B to travel while awaiting the decision."
+        }
+      },
+      "providing_more_information": {
+        "allowed_until": "Any time before a visa decision is made",
+        "correction_form": {
+          "form_name": "Form 1023 - Notification of incorrect answer(s)",
+          "file_size": "99KB PDF"
+        },
+        "department_requests": "If the department requests further information, you must respond by the set date.",
+        "third_party_information": "If another person provides information that may affect your application, you will usually have an opportunity to respond.",
+        "interview_requirements": [
+          "Bring passport or identification",
+          "Bring any requested documents"
+        ]
+      },
+      "reporting_changes": {
+        "required_changes": [
+          "New address",
+          "New passport",
+          "Pregnancy, birth",
+          "Divorce or separation",
+          "Marriage",
+          "De facto relationship",
+          "Death in family"
+        ],
+        "preferred_method": "ImmiAccount",
+        "alternative_forms": [
+          {
+            "form_name": "Form 1446 - Withdrawal of a visa application",
+            "file_size": "338KB PDF",
+            "use": "If you move to a new address or change your passport"
+          },
+          {
+            "form_name": "Form 1022 - Notification of changes in circumstances",
+            "file_size": "172KB PDF",
+            "use": "Other changes in circumstances"
+          }
+        ],
+        "passport_warning": "Failure to provide details of a new passport may cause delays at airports or denial of boarding."
+      },
+      "withdrawing_application": {
+        "allowed_until": "Any time before the visa is granted or refused",
+        "method": [
+          "Form 1446",
+          "Letter or email requesting withdrawal"
+        ],
+        "required_information": [
+          "Full name",
+          "Date of birth",
+          "File reference number, client ID, or Transaction Reference Number (if known)"
+        ],
+        "signature_requirement": "All applicants aged 18 or older who wish to withdraw must sign the request."
+      }
+    },
+    "visa_decision": {
+      "if_granted": [
+        "When you can use the visa",
+        "Visa grant number",
+        "Visa conditions"
+      ],
+      "if_refused": [
+        "Reasons for refusal",
+        "Review rights (if any)",
+        "Time limit for lodging appeal",
+        "Sponsor review rights (where applicable)"
+      ]
+    },
+    "visa_holders": {
+      "visa_length": "Valid until the date stated in your grant letter.",
+      "visa_permissions": [
+        "Remain in Australia in a Specified Regional Area",
+        "Bring family members",
+        "Work or study in a Specified Regional Area",
+        "Apply for permanent residency if eligible"
+      ],
+      "pathway_to_permanent_residency": {
+        "requirements": [
+          "Live in a Specified Regional Area for two years",
+          "Work for at least 12 months in a Specified Regional Area"
+        ],
+        "eligible_visa": "Skilled – Regional visa (subclass 887)"
+      },
+      "obligations": [
+        "Comply with all visa conditions",
+        "Comply with Australian laws"
+      ],
+      "state_or_territory_nomination_conditions": {
+        "requirements": [
+          "Live, study, and work in regional Australia or a low population growth metropolitan area"
+        ],
+        "notes": "Additional residential conditions may apply based on nomination requirements."
+      },
+      "family_sponsorship_conditions": {
+        "requirements": [
+          "Live, study, and work in a designated area",
+          "Provide proof of time spent in that area when applying for permanent residence"
+        ]
+      },
+      "non_compliance_consequences": [
+        "Visa cancellation for you and your family",
+        "Ineligibility to apply for a similar visa while in Australia"
+      ],
+      "ongoing_reporting_requirements": [
+        "Changes to contact details",
+        "Changes to relationship status",
+        "Birth of a child",
+        "Passport updates"
+      ],
+      "passport_warning": "Not providing details of a new passport could lead to airport delays or denial of boarding."
+    },
+    "sponsors": {
+      "information": "Content truncated; sponsorship details not fully provided."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

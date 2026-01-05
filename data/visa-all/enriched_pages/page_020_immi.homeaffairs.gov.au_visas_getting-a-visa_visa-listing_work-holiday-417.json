@@ -1,0 +1,88 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417",
+  "title": "Working Holiday visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Australian Working Holiday visa (subclass 417), including its first, second, and third visa options. It outlines eligibility criteria, work requirements, costs, and important conditions applicants must follow. The content also highlights requirements regarding applicant location, passport eligibility, and factors that may affect visa continuity.",
+  "structured_data": {
+    "visa_program": {
+      "visa_name": "Working Holiday visa",
+      "subclass": "417",
+      "description": "For young adults who want an extended holiday in Australia and work to fund their stay.",
+      "general_eligibility": {
+        "age_requirement": "18 to 30 years old (or 35 years old for some countries)",
+        "passport_requirement": "Must have a passport from an eligible country or jurisdiction",
+        "dependent_children": "Must not be accompanied by dependent children",
+        "visa_continuity_warning": [
+          "If you hold a Working Holiday Maker (WHM) visa (subclass 417 or 462) and another visa is granted, your WHM visa will end.",
+          "Visas such as eVisitor (subclass 651) or Transit (subclass 771) will cause the WHM visa to cease on the date the new visa is granted.",
+          "Losing WHM visa status may stop you from working in Australia and affect your ability to apply for another WHM visa."
+        ],
+        "location_declaration": "Applicants must correctly declare their current location on the visa application form; incorrect location may prevent visa grant."
+      }
+    },
+    "visa_variants": [
+      {
+        "visa_type": "First Working Holiday visa",
+        "subclass": "417",
+        "description": "Allows eligible young adults to have their first extended holiday in Australia and work to fund their stay.",
+        "eligibility": [
+          "Must be 18 to 30 years old (or 35 years old for some countries)",
+          "Must have a passport from an eligible country or jurisdiction"
+        ],
+        "rights_and_conditions": [
+          "You can work while you are in Australia",
+          "You can apply for a second Working Holiday visa if eligibility criteria are met"
+        ],
+        "stay_duration": "12 months",
+        "cost": "AUD 670.00",
+        "processing_time_note": "Processing times can be checked using the visa processing time guide tool. Times shown are indicative and may vary due to application volumes. Applicants should not arrange travel until visa grant is confirmed.",
+        "links": {
+          "details": "Details section referenced in the text (no URL provided)"
+        }
+      },
+      {
+        "visa_type": "Second Working Holiday visa",
+        "subclass": "417",
+        "description": "Allows previous Working Holiday visa holders to have a second working holiday in Australia.",
+        "eligibility": [
+          "Must be 18 to 30 years old (or 35 years old for some countries)",
+          "Must have a passport from an eligible country or jurisdiction",
+          "Must have completed 3 months of specified subclass 417 work",
+          "If applying in Australia, must hold a substantive visa OR last substantive visa must have expired less than 28 days ago"
+        ],
+        "rights_and_conditions": [
+          "You can do any kind of work while in Australia",
+          "You can apply for a third Working Holiday visa if eligibility criteria are met"
+        ],
+        "stay_duration": "12 months",
+        "cost": "AUD 670.00",
+        "processing_time_note": "Processing times can be checked using the visa processing time guide tool. Times shown are indicative and may vary due to application volumes. Applicants should not arrange travel until visa grant is confirmed.",
+        "links": {
+          "details": "Details section referenced in the text (no URL provided)"
+        }
+      },
+      {
+        "visa_type": "Third Working Holiday visa",
+        "subclass": "417",
+        "description": "Allows eligible applicants who have held a second Working Holiday visa to have a third working holiday in Australia.",
+        "eligibility": [
+          "Must be 18 to 30 years old (or 35 years old for some countries)",
+          "Must have a passport from an eligible country or jurisdiction",
+          "Must have completed 6 months of specified subclass 417 work",
+          "If applying in Australia, must hold a substantive visa OR last substantive visa must have expired less than 28 days ago"
+        ],
+        "rights_and_conditions": [
+          "You can do any kind of work while in Australia"
+        ],
+        "stay_duration": "12 months",
+        "cost": "AUD 670.00",
+        "processing_time_note": "Processing times can be checked using the visa processing time guide tool. Times shown are indicative and may vary due to application volumes. Applicants should not arrange travel until visa grant is confirmed.",
+        "links": {
+          "details": "Details section referenced in the text (no URL provided)"
+        }
+      }
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

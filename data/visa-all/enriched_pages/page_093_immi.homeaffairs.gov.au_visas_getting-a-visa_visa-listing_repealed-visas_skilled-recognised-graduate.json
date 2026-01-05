@@ -1,0 +1,59 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/skilled-recognised-graduate-visa-subclass-476",
+  "title": "Skilled-Recognised Graduate visa (subclass 476)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for existing holders of the Skilled‑Recognised Graduate visa (subclass 476). The visa has been permanently closed to new applications, but current visa holders can review their rights, obligations, and important conditions. It also explains validity, travel rights, and requirements for reporting changes in circumstances.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Skilled‑Recognised Graduate visa",
+      "subclass": "476",
+      "status": "closed_to_new_applications",
+      "closure_details": {
+        "cap_placed_on": "22 December 2023",
+        "permanently_closed_from": "1 July 2024"
+      },
+      "applicability": "Information applies only to people who have already been granted this visa."
+    },
+    "visa_validity": {
+      "valid_until": "expiry_date_given_at_grant"
+    },
+    "visa_entitlements": {
+      "actions_permitted": [
+        "live in Australia temporarily",
+        "study in Australia",
+        "work in Australia",
+        "travel in and out of Australia any number of times while the visa is valid"
+      ]
+    },
+    "obligations": {
+      "general_obligations": [
+        "comply with all visa conditions",
+        "comply with all Australian laws"
+      ],
+      "during_stay_requirements": [
+        "maintain adequate health insurance while in Australia",
+        "continue to meet the requirements under which the visa was granted",
+        "leave Australia when the visa ends unless granted another visa"
+      ]
+    },
+    "family_members": {
+      "subsequent_entrant_applications": "cannot_be_lodged_from_1_July_2024"
+    },
+    "reporting_requirements": {
+      "report_changes_in_circumstances": true,
+      "examples_of_changes_to_report": [
+        "new residential address",
+        "new passport",
+        "pregnancy",
+        "birth in the family",
+        "death in the family"
+      ],
+      "related_link": "Changes in your situation"
+    },
+    "tools_and_resources": {
+      "vevo_usage": "Visa holders can use Visa Entitlement Verification Online (VEVO) for free to check visa details and entitlements."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,50 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/labour-agreement-visa-(subclass-120)",
+  "title": "Labour Agreement visa (subclass 120)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Labour Agreement visa (subclass 120), which permanently closed to new applications on 1 July 2012. It outlines what the visa allowed, as well as obligations for visa holders and employers, and suggests an alternative visa option.",
+  "structured_data": {
+    "visa_name": "Labour Agreement visa",
+    "subclass": "120",
+    "status": {
+      "is_closed": true,
+      "closure_date": "1 July 2012",
+      "notes": "This visa is closed to new applications."
+    },
+    "alternative_options": [
+      "Employer Nomination Scheme (subclass 186)"
+    ],
+    "visa_description": "A permanent residence visa that was previously available under a labour agreement.",
+    "what_the_visa_lets_you_do": {
+      "visa_type": "permanent_residence",
+      "permissions": [
+        "stay in Australia indefinitely",
+        "work and study in Australia",
+        "enrol in Medicare",
+        "apply for Australian citizenship if eligible",
+        "sponsor eligible relatives for permanent residence",
+        "travel to and from Australia for five years from the grant date (resident return visa or another visa required afterward)"
+      ]
+    },
+    "visa_holder_obligations": {
+      "entry_requirement": "Must enter Australia by the date specified in the notification of grant letter.",
+      "employment_conditions": [
+        "Do not have to work for the nominating employer",
+        "Must comply with employment contract obligations",
+        "Must comply with industrial laws requiring appropriate notice periods before stopping work"
+      ]
+    },
+    "employer_obligations": {
+      "requirements": [
+        "provide a full-time position",
+        "meet any additional requirements of the Labour Agreement",
+        "comply with all relevant Australian standards and workplace legislation for wages and working conditions"
+      ]
+    },
+    "workplace_rights": {
+      "reference": "Workplace rights for all visa holders working in Australia"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

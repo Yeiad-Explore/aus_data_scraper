@@ -1,0 +1,132 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/bridging-visa-c-030",
+  "title": "Bridging visa C (BVC)",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Bridging visa C (Subclass 030), a temporary visa that allows applicants to remain lawfully in Australia while their substantive visa application or related review processes are underway. It outlines eligibility, work rights, duration, obligations, costs, and circumstances that may affect visa validity.",
+  "structured_data": {
+    "visa_name": "Bridging visa C",
+    "subclass": "030",
+    "visa_type": "Temporary",
+    "description": "This visa allows applicants to stay lawfully in Australia after their current substantive visa ends and while a new substantive visa application or judicial review is being processed. It does not allow travel outside Australia.",
+    "stay": {
+      "type": "Temporary",
+      "allowed_until": [
+        "Substantive visa application is finally determined",
+        "Judicial review proceedings are completed (if granted in association with review)"
+      ]
+    },
+    "cost": "Free",
+    "processing_times": "Unavailable",
+    "eligibility": {
+      "must_be_in_australia_when_applying": true,
+      "must_be_in_australia_at_time_of_grant": true,
+      "valid_application_for_substantive_visa_required": true,
+      "conditions_for_separate_bvc_application": [
+        "Seeking further BVC without work restrictions",
+        "Applying for judicial review"
+      ],
+      "cannot_use_for_citizenship_waiting_period": true
+    },
+    "visa_effect": {
+      "comes_into_effect_when": [
+        "It is granted",
+        "Current substantive visa ceases",
+        "Another more beneficial bridging visa ceases"
+      ],
+      "visa_holders_must": [
+        "Comply with conditions of the substantive visa until it ceases",
+        "Comply with BVC conditions once the substantive visa ceases"
+      ],
+      "travel_restrictions": "Visa does not allow return travel to Australia"
+    },
+    "judicial_review_information": {
+      "must_apply_for_bvc_to_remain_lawful": true,
+      "application_method": "Webform only",
+      "applies_to": "Applicants seeking judicial review after a merits review tribunal upholds refusal"
+    },
+    "work_rights": {
+      "initial_bvc_work_rights": "Initial BVC generally does not allow work unless the applied substantive visa is listed.",
+      "substantive_visas_that_allow_work_on_initial_bvc": [
+        "Business Talent visa (subclass 132)",
+        "Employer Nomination Scheme visa (subclass 186)",
+        "Regional Sponsored Migration Scheme visa (subclass 187)",
+        "Business Innovation and Investment (Provisional) visa (subclass 188)",
+        "Skilled — Independent visa (subclass 189)",
+        "Skilled — Nominated visa (subclass 190)",
+        "Skilled — Regional (Provisional) visa (subclass 489)",
+        "Skilled Work Regional (Provisional) visa (subclass 491)",
+        "Skilled Employer Sponsored Regional (Provisional) visa (subclass 494)",
+        "Business Innovation and Investment (Permanent) visa (subclass 888)"
+      ],
+      "applying_for_work_rights": {
+        "allowed": true,
+        "requires_financial_hardship": true,
+        "assessment": "Department assesses financial hardship claims"
+      },
+      "judicial_review_work_rules": {
+        "protection_visa_applicants": "Can only be granted new BVC with work rights if previous BVC allowed work",
+        "non_protection_visa_applicants": "Will be granted BVC without work rights even if previous BVC allowed work"
+      }
+    },
+    "visa_end_conditions": {
+      "immediate_end_when": [
+        "Leaving Australia",
+        "Grant of associated substantive visa",
+        "Grant of another bridging visa for same substantive application",
+        "Cancellation of BVC or associated substantive visa"
+      ],
+      "general_end_conditions": [
+        "Substantive visa application refused or invalid",
+        "Merits or judicial review decided",
+        "Withdrawal of substantive visa application or review application",
+        "Merits review tribunal declares no jurisdiction"
+      ]
+    },
+    "bvc_cease_rules": {
+      "bvc_granted_on_or_after_19_nov_2016": {
+        "ceases_35_days_after": [
+          "Refusal decision by Department or AAT",
+          "Determination that substantive visa application or AAT review is invalid",
+          "Withdrawal of substantive visa application or AAT review application"
+        ],
+        "ceases_28_days_after": [
+          "Judicial review body upholds refusal",
+          "Withdrawal of judicial review application"
+        ]
+      },
+      "bvc_granted_before_19_nov_2016": {
+        "ceases_28_days_after_any_of": [
+          "Notification that application is invalid",
+          "Notification that application is refused",
+          "Withdrawal of substantive visa application",
+          "Merits review tribunal upholds refusal",
+          "Merits review tribunal states it has no jurisdiction",
+          "Withdrawal of merits or judicial review application",
+          "Judicial review body upholds refusal"
+        ]
+      }
+    },
+    "stay_longer": {
+      "allowed": false,
+      "instruction": "Must apply for a new visa"
+    },
+    "include_family": {
+      "applied_together": "If family applied together for substantive visa, they may have applied together for BVC",
+      "check_existing_bvc": "Use VEVO",
+      "apply_separately": "Can include family members only if included in substantive visa application",
+      "assessment": "Each family member assessed individually"
+    },
+    "apply_from": {
+      "location_requirement": "Applicant and included family must be in Australia at application and grant"
+    },
+    "obligations": [
+      "Comply with all Australian laws",
+      "Comply with current visa conditions",
+      "Comply with BVC conditions once in effect"
+    ],
+    "travel": "If you leave Australia while the BVC is in effect, you cannot return on it.",
+    "help_with_visa": "Applicants seeking help with their visa should review information on who can assist with visa applications."
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

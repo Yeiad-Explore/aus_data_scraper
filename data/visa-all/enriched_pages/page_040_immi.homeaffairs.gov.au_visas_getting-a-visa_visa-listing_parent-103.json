@@ -1,0 +1,137 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/parent-103",
+  "title": "Parent visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Parent visa (subclass 103), a permanent visa allowing parents of settled Australian citizens, permanent residents, or eligible New Zealand citizens to migrate to Australia. It covers eligibility, costs, processing times, application conditions, travel rights, and special rules for retirees.",
+  "structured_data": {
+    "visa_name": "Parent visa",
+    "subclass": "103",
+    "visa_type": "Permanent",
+    "description": "This visa lets a parent of a settled Australian citizen, Australian permanent resident, or eligible New Zealand citizen move to Australia permanently.",
+    "important_updates": [
+      {
+        "effective_date": "2 April 2025",
+        "details": "Applicants for Parent visa subclasses 143, 173, 804, 864 and 884 can import their paper application into ImmiAccount after lodgement. Parent visa (subclass 103) applications lodged after November 2018 can also be imported."
+      },
+      {
+        "link_reference": "Update to ImmiAccount — new online services for paper-based Parent visa applications"
+      }
+    ],
+    "benefits": [
+      "Stay in Australia indefinitely",
+      "Work and study in Australia",
+      "Enroll in Medicare",
+      "Sponsor family members to come to Australia",
+      "Travel to and from Australia for 5 years",
+      "Attend free English language classes through the Adult Migrant English Program (if eligible)",
+      "Apply for Australian citizenship (if eligible)"
+    ],
+    "travel_conditions": {
+      "travel_facility_duration": "5 years from date of visa grant",
+      "notes": [
+        "Unlimited travel during the 5-year facility as long as it remains valid",
+        "After 5 years, permanent residents must apply for a Resident Return Visa (RRV) to re-enter Australia",
+        "Australian citizenship removes need for a visa to return",
+        "Use VEVO to check travel facility expiry"
+      ]
+    },
+    "eligibility": {
+      "general": [
+        "Must have an eligible child who is a settled Australian citizen, Australian permanent resident, or eligible New Zealand citizen",
+        "Must meet all applicable visa conditions and follow Australian law",
+        "Must not have already applied for or hold a Sponsored Parent (Temporary) visa (subclass 870)"
+      ],
+      "retiree_exemptions": [
+        "Do not need to meet the balance of family test",
+        "Do not need to have a sponsor",
+        "Do not need to have an assurance of support"
+      ]
+    },
+    "stay_conditions": {
+      "visa_type": "Permanent",
+      "residency_start_date_rules": [
+        "If in Australia at grant: permanent residency starts on grant date",
+        "If outside Australia: permanent residency starts on entry to Australia using this visa"
+      ]
+    },
+    "family_inclusion": {
+      "rules": [
+        "Can include members of the family unit when applying",
+        "Must include details of all family members regardless of migration intentions",
+        "Applicants must meet health and character requirements",
+        "Non-migrating family members may also be required to meet health and character requirements"
+      ],
+      "retiree_rules": [
+        "Can include partner if they are also retired",
+        "Cannot include children"
+      ],
+      "newborn_child_information": "Instructions available on what to do if a child is born after application submission"
+    },
+    "costs": {
+      "base_cost_single_applicant": "From AUD 7,345.00",
+      "payment_structure": "2 instalments",
+      "payment_timing": {
+        "first_instalment": "Paid at time of application",
+        "second_instalment": "Paid when requested by the department"
+      },
+      "additional_costs": [
+        "Additional charges apply for each family member",
+        "Possible extra costs for health checks, police certificates, and biometrics"
+      ],
+      "related_links": [
+        "Fees and charges for other services",
+        "Current visa pricing",
+        "Visa fees and charges"
+      ]
+    },
+    "apply_from": {
+      "general_rules": [
+        "Can be in or outside Australia when applying, but not in immigration clearance",
+        "Family members applying together must be in the same location (inside or outside Australia) at time of application"
+      ],
+      "retiree_rules": [
+        "Must be in Australia but not in immigration clearance when applying"
+      ],
+      "decision_location": "Can be in or outside Australia when the decision is made"
+    },
+    "processing_times": {
+      "notes": [
+        "Demand is greater than available places each year, causing lengthy processing times",
+        "Applications are subject to capping and queueing",
+        "Processed in order of receipt"
+      ],
+      "delays_caused_by": [
+        "Incorrect or incomplete application",
+        "Missing documents or need for additional information",
+        "Long verification times",
+        "Incorrect visa application charge"
+      ],
+      "queue_information_link": "Parent visa queue release dates",
+      "priority_information_link": "Family visa processing priorities",
+      "processing_stages": [
+        "Initial assessment to check eligibility and add to queue or refuse",
+        "Final assessment when a place becomes available"
+      ],
+      "advice": "Do not arrange travel to Australia until visa is granted"
+    },
+    "obligations": "Must comply with all visa conditions and Australian laws.",
+    "visa_label": "Visa labels are generally not required.",
+    "related_visas": [
+      {
+        "name": "Contributory Parent visa",
+        "subclass": "143",
+        "notes": "Permanent visa; may be processed faster but costs more than subclass 103."
+      },
+      {
+        "name": "Contributory Parent (Temporary) visa",
+        "subclass": "173",
+        "notes": "Part of a 2-step process followed by subclass 143; faster but more expensive than subclass 103."
+      }
+    ],
+    "help_with_visa": {
+      "advice": "Read information on who can help with your visa application before paying someone."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

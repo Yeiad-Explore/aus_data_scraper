@@ -1,0 +1,134 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/contributory-parent-temporary-173",
+  "title": "Contributory Parent (Temporary) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Contributory Parent (Temporary) visa (subclass 173), a temporary visa allowing eligible parents of settled Australian citizens, permanent residents, or eligible New Zealand citizens to stay in Australia for up to two years. It outlines eligibility requirements, costs, conditions, application procedures, and related visa options.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Contributory Parent (Temporary) visa",
+      "subclass": "173",
+      "description": "A temporary visa that allows a parent of a settled Australian citizen, Australian permanent resident, or eligible New Zealand citizen to stay temporarily in Australia.",
+      "stay_period": "2 years",
+      "entry_conditions": "Multiple entries permitted within the 2-year visa period",
+      "notes": [
+        "From 2 April 2025, applicants for Parent visa subclasses 143, 173, 804, 864 and 884 can import their paper applications into ImmiAccount after lodgement.",
+        "Parent visa (subclass 103) applications lodged after November 2018 can also be imported."
+      ]
+    },
+    "what_you_can_do": [
+      "Live in Australia for up to 2 years",
+      "Work and study in Australia (government support not provided)",
+      "Enrol in Medicare",
+      "Apply for a permanent Contributory Parent visa (subclass 143)"
+    ],
+    "eligibility": {
+      "must_have": [
+        "An eligible child who is a settled Australian citizen, permanent resident, or eligible New Zealand citizen",
+        "Compliance with all applicable visa conditions and Australian law"
+      ],
+      "cannot_have": [
+        "Previously applied for or currently hold a Sponsored Parent (Temporary) visa (subclass 870)"
+      ],
+      "additional_notes": [
+        "Family members included must meet health and character requirements.",
+        "Non-migrating family members may also be required to meet health and character requirements."
+      ]
+    },
+    "costs": {
+      "base_cost_single_applicant": "From AUD32,525.00",
+      "payment_structure": "2 instalments",
+      "additional_costs": [
+        "Additional charges for each family member applying",
+        "Costs for health checks",
+        "Costs for police certificates",
+        "Costs for biometrics"
+      ],
+      "payment_timing": {
+        "first_instalment": "Paid at application",
+        "second_instalment": "Paid when requested"
+      },
+      "references": [
+        "See Fees and charges for other services",
+        "See current visa pricing"
+      ]
+    },
+    "application_process": {
+      "apply_from": {
+        "in_australia": "Applicant and any applying family members must be in Australia, but not in immigration clearance.",
+        "outside_australia": "Applicant and any applying family members must be outside Australia.",
+        "no_further_stay_condition": "If applying while holding a visa with this condition, the application is invalid unless a waiver is granted."
+      },
+      "processing_times": {
+        "general_note": "Demand is greater than available places; processing is lengthy.",
+        "queueing": "Applications are subject to capping and queueing and are processed in order of receipt.",
+        "delays_possible_if": [
+          "Application is incomplete or incorrectly filled",
+          "Documents missing or additional information is required",
+          "Information takes long to verify"
+        ],
+        "payment_requirement": "Application cannot be processed without correct visa application charge."
+      },
+      "assessment_stages": [
+        "Initial assessment to check eligibility and queue placement or refusal",
+        "Final assessment when a place becomes available"
+      ],
+      "instructions": [
+        "Do not arrange permanent stay until visa is granted.",
+        "Decision will be provided in writing."
+      ]
+    },
+    "stay_and_travel": {
+      "stay_duration": "2 years",
+      "travel_conditions": "Unlimited travel in and out of Australia during the 2-year visa period"
+    },
+    "family_members": {
+      "can_include": "Members of the family unit",
+      "requirements": [
+        "All family members must be listed whether migrating or not",
+        "Health and character requirements apply"
+      ],
+      "newborn_child_policy": "Specific instructions apply if a child is born after application"
+    },
+    "obligations": {
+      "entry_requirement": "Must enter Australia before the date specified in the grant letter",
+      "legal_requirements": "Must obey Australian laws and meet all visa conditions"
+    },
+    "visa_label": {
+      "label_policy": "No physical label provided",
+      "linking": "Visa digitally linked to passport"
+    },
+    "related_visas": [
+      {
+        "visa_name": "Contributory Parent visa",
+        "subclass": "143",
+        "type": "Permanent",
+        "notes": [
+          "May be processed faster but costs more."
+        ]
+      },
+      {
+        "visa_name": "Contributory Parent (Temporary) visa",
+        "subclass": "173",
+        "type": "Temporary leading to permanent 143",
+        "notes": [
+          "Costs more than Parent visa (subclass 103)",
+          "Costs more than applying directly for subclass 143, but cost is spread over time"
+        ]
+      },
+      {
+        "visa_name": "Sponsored Parent (Temporary) visa",
+        "subclass": "870",
+        "type": "Temporary",
+        "notes": [
+          "Allows stays up to 3 or 5 years at a time",
+          "Maximum cumulative stay of 10 years"
+        ]
+      }
+    ],
+    "important_updates": [
+      "From 2 April 2025, certain Parent visa subclasses can import paper applications into ImmiAccount."
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

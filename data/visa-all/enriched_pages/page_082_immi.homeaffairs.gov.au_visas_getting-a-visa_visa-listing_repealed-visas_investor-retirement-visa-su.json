@@ -1,0 +1,152 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/investor-retirement-visa-subclass-405",
+  "title": "Investor Retirement visa (subclass 405)",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Investor Retirement visa (subclass 405), which is a temporary visa for self‑funded retirees. The visa is closed to new applicants but includes a pathway to permanent residence for eligible holders. It outlines requirements, eligibility criteria, costs, sponsorship details, documents, and obligations for current and former visa holders.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Investor Retirement visa",
+      "subclass": "405",
+      "status": "Closed to new applicants",
+      "type": "Temporary visa",
+      "description": "For self-funded retirees with no dependents who wish to live in Australia during retirement.",
+      "pathway_to_permanent_residence_start_date": "17 November 2018",
+      "what_this_visa_lets_you_do": [
+        "Work in Australia for up to 40 hours per fortnight",
+        "Travel to and remain in Australia for four years from the grant date (renewal required after expiry)",
+        "Have an eligible partner accompany you if they are also granted this visa"
+      ]
+    },
+    "eligibility": {
+      "who_can_apply": [
+        "Existing Investor Retirement visa (subclass 405) holders",
+        "Former subclass 405 holders who have not held another substantive visa since last entering Australia"
+      ]
+    },
+    "costs": {
+      "base_application_charge_from": "AUD 505.00",
+      "second_visa_application_charge": "Payable per applicant, required for each grant including renewals",
+      "additional_costs": [
+        "Additional applicant 18 and over",
+        "Additional applicant under 18"
+      ],
+      "other_costs": [
+        "Health assessments",
+        "Police certificates",
+        "Other certificates or tests"
+      ]
+    },
+    "sponsorship": {
+      "requirement": "Must be sponsored by an Australian state or territory government agency (excluding Australian Capital Territory)",
+      "state_territory_links": [
+        "New South Wales",
+        "Northern Territory",
+        "Queensland",
+        "South Australia",
+        "Tasmania",
+        "Victoria",
+        "Western Australia"
+      ]
+    },
+    "designated_investment": {
+      "requirement": "Must be maintained for the duration of the visa",
+      "reapplication_rules": [
+        "Amount decreases by AUD 250,000 the first time you reapply and then remains constant",
+        "If reapplying, designated investment of AUD 500,000 must be made and maintained",
+        "If living in regional Australia, designated investment of AUD 250,000 must be maintained"
+      ]
+    },
+    "income_requirements": {
+      "minimum_net_income_general": "AUD 65,000 per year (individual or combined with partner)",
+      "minimum_net_income_regional": "AUD 50,000 per year (individual or combined with partner)",
+      "notes": [
+        "Income test applies at each visa application",
+        "Applicants must show continuing ability to meet income thresholds when reapplying"
+      ]
+    },
+    "health_requirements": {
+      "general_rules": [
+        "Must meet health requirements",
+        "Health examination results valid for 12 months",
+        "Applies to applicant and any dependent family members",
+        "Health examinations can be arranged before lodging"
+      ]
+    },
+    "character_requirements": {
+      "general_rules": [
+        "Must meet character requirements",
+        "Applicants aged 16+ may need to provide police certificates from each country lived in for 12+ months in the past 10 years",
+        "Applicants must wait for instruction before arranging police certificates"
+      ]
+    },
+    "health_insurance": {
+      "requirement": "Must provide evidence of adequate health insurance for applicant and partner",
+      "adequacy_criteria": [
+        "Fully comprehensive",
+        "Coverage equivalent to Medicare",
+        "85% coverage for hospital, emergency, and GP services",
+        "Coverage for pharmaceuticals"
+      ],
+      "insurer_notes": [
+        "Preferably with an Australian insurer",
+        "Overseas insurers may be accepted but require detailed individual assessment and may delay processing",
+        "Failure to maintain adequate insurance may result in refusal of future visas"
+      ]
+    },
+    "biometrics": {
+      "requirement": "Applicants may be asked to provide biometrics"
+    },
+    "compelling_and_compassionate_circumstances": {
+      "effective_date": "1 July 2017",
+      "purpose": "Provides alternative requirements for applicants in Australia applying for a further subclass 405 visa who cannot meet certain criteria",
+      "examples": [
+        "Hardship due to ailments associated with ageing",
+        "Difficulties following the death of a partner"
+      ],
+      "process": "Department may request additional information after application lodgement"
+    },
+    "debts_to_government": {
+      "requirement": "Applicants must have no outstanding debts to the Australian Government or must have arranged repayment"
+    },
+    "passport_information": {
+      "rules": [
+        "Applicant and partner must have valid passports",
+        "New passports should be obtained before applying",
+        "If a new passport is issued after lodging, details must be provided to the Department"
+      ]
+    },
+    "documents_required": {
+      "general_notes": [
+        "Provide certified copies of original documents unless originals are specifically requested",
+        "Police certificates must be originals",
+        "Documents not in English must include accredited English translations"
+      ],
+      "forms": [
+        {
+          "form_name": "Form 1383",
+          "description": "Application for a temporary visa for retirees"
+        },
+        {
+          "form_name": "Form 1249",
+          "description": "State/territory sponsorship – Investor retirement visa"
+        }
+      ],
+      "assistance_forms": [
+        {
+          "form_name": "Form 956",
+          "description": "Advice by a migration agent/exempt person of providing immigration assistance"
+        },
+        {
+          "form_name": "Form 956A",
+          "description": "Appointment or withdrawal of an authorised recipient"
+        }
+      ],
+      "identity_documents": [
+        "Certified copies of biographical passport pages for all applicants",
+        "Two recent passport-sized photographs (45 mm x 35 mm) for each applicant"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

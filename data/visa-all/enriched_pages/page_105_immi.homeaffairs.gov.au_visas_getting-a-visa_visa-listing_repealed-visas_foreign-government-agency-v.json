@@ -1,0 +1,149 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/foreign-government-agency-visa-subclass-415",
+  "title": "Foreign Government Agency visa (subclass 415)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the now-closed Foreign Government Agency visa (subclass 415) for both visa holders and sponsors. It outlines rights, obligations, work conditions, reporting requirements, and sponsorship responsibilities. It also directs users to the Temporary Work (International Relations) visa (subclass 403) as an alternative for new applications.",
+  "structured_data": {
+    "visa_information": {
+      "visa_name": "Foreign Government Agency visa",
+      "subclass": "415",
+      "status": "closed_to_new_applications",
+      "alternative_visa": "Temporary Work (International Relations) visa (subclass 403)",
+      "purpose": "For people who have already been granted a Foreign Government Agency visa to understand their rights and obligations."
+    },
+    "visa_holders": {
+      "general_obligations": [
+        "Comply with all visa conditions and Australian laws",
+        "Maintain adequate health insurance while in Australia",
+        "Meet Australian taxation obligations if working in Australia"
+      ],
+      "work_conditions": {
+        "prohibited_actions": [
+          "Stopping work for the sponsoring employer",
+          "Working in a position or occupation not nominated in the visa application",
+          "Working for another person or for yourself while employed by the sponsoring employer"
+        ],
+        "if_employment_ends": [
+          "Find another employer willing to sponsor you",
+          "Leave Australia within 28 days or before visa expiry, whichever is earlier"
+        ]
+      },
+      "family_member_conditions": [
+        "Family members included on the visa must enter Australia with or after the primary visa holder",
+        "They must leave Australia with or before the primary visa holder",
+        "They must continue to be a member of the family unit"
+      ],
+      "notification_requirements": {
+        "must_notify_changes": [
+          "Changes to phone number, email, address or passport",
+          "Changes to relationship status",
+          "Birth of a child"
+        ]
+      },
+      "tools": {
+        "vevo": "Visa Entitlement Verification Online (VEVO) can be used to check visa details and entitlements"
+      }
+    },
+    "sponsors": {
+      "general_information": {
+        "visa_status": "closed_to_new_applications",
+        "note": "You cannot apply to sponsor someone for this visa",
+        "vevo_for_organisations": "Visa Entitlement Verification Online (VEVO for Organisations) allows checking visa details of sponsored persons"
+      },
+      "sponsorship_period": "3 years",
+      "relation_to_subclass_403": "New applications for the Temporary Work (International Relations) visa (subclass 403) do not require sponsorship",
+      "sponsor_obligations": {
+        "list_of_obligations": [
+          "Cooperate with inspectors",
+          "Tell Home Affairs when certain events occur",
+          "Keep records",
+          "Provide records and information to the Minister",
+          "Not recover, transfer or charge certain costs to another person",
+          "Pay costs to locate and remove an unlawful non-citizen",
+          "Ensure the visa holder participates in the nominated occupation, program or activity"
+        ],
+        "responsibility_note": "Sponsors are responsible for meeting all obligations, even when using an authorised representative"
+      },
+      "obligation_details": {
+        "cooperate_with_inspectors": {
+          "investigation_scope": [
+            "Whether sponsorship obligations are being or have been complied with",
+            "Whether an illegal worker has been hired",
+            "Other circumstances where administrative action could be taken"
+          ],
+          "obligation_period": {
+            "starts": "day the sponsorship is approved or work agreement commences",
+            "ends": "five years after the day the approved sponsorship ends or work agreement ceases"
+          },
+          "examples_of_cooperation": [
+            "Providing access to premises",
+            "Producing and providing documents within the requested timeframe",
+            "Not preventing access to persons with custody of required records",
+            "Providing officers access to interview persons on premises"
+          ]
+        },
+        "keep_records": {
+          "requirements": [
+            "Records must be reproducible",
+            "Some records must be independently verifiable"
+          ],
+          "records_to_keep": [
+            "Any required notification to Home Affairs",
+            "Date, method and location of notifications"
+          ],
+          "obligation_period": {
+            "starts": "day the sponsorship is approved",
+            "ends": "two years after the sponsor is no longer approved AND no longer sponsoring anyone",
+            "maximum_record_time": "five years"
+          }
+        },
+        "provide_records_and_information": {
+          "requirements": [
+            "Provide records or information requested by departmental officers",
+            "Records requested may relate to sponsorship obligations or other matters relevant to administrative action"
+          ],
+          "must_provide_if": [
+            "Required under Commonwealth, state or territory law",
+            "Required to be kept as a sponsor"
+          ],
+          "obligation_period": {
+            "starts": "day the sponsorship is approved or work agreement commences",
+            "ends": "two years after sponsorship/work agreement ceases AND no sponsored visa holder remains"
+          }
+        },
+        "notify_events": {
+          "must_notify_events": [
+            "Cessation or expected cessation of a primary sponsored person's employment",
+            "Any changes to sponsor's address or contact details in the original sponsorship application"
+          ],
+          "additional_notes": [
+            "If expected cessation does not occur or date changes, the sponsor must notify Home Affairs"
+          ],
+          "obligation_period": {
+            "starts": "day the sponsorship or work agreement is approved",
+            "ends": "two years after sponsorship/work agreement ends AND no one is being sponsored"
+          },
+          "where_to_send_notifications": {
+            "email_preferred": "sponsor.notifications@homeaffairs.gov.au",
+            "postal_addresses": {
+              "ACT": "GPO Box 717 Canberra ACT 2601",
+              "NSW": "GPO Box 9984 Sydney NSW 2001",
+              "QLD": "GPO Box 9984 Brisbane Qld 4001",
+              "NT": "GPO Box 864 Darwin NT 0801",
+              "SA": "GPO Box 2399 Adelaide SA 5001",
+              "TAS": "GPO Box 794 Hobart Tas. 7001",
+              "VIC": "GPO Box 241 Melbourne Vic. 3001",
+              "WA": "Locked Bag 7 Northbridge WA 6865"
+            }
+          }
+        },
+        "ensure_participation_in_nominated_activity": {
+          "requirement": "Sponsor must ensure visa holder only participates in the nominated occupation, program or activity",
+          "changes": "A new nomination application is required if the visa holder is to be engaged in a different occupation, program or activity"
+        }
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

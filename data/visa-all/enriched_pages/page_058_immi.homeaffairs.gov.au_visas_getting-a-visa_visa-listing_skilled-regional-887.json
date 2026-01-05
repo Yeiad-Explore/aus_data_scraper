@@ -1,0 +1,135 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-regional-887",
+  "title": "Skilled Regional visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Subclass 887 Skilled Regional visa, a permanent visa for individuals who have lived and worked in regional Australia on an eligible provisional visa. It covers eligibility requirements, costs, application rules, COVID-19 concessions, family inclusion, travel rights, and obligations.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Skilled Regional visa",
+      "subclass": "887",
+      "description": "This visa is for people who have lived and worked in specified areas of regional Australia on a previous, eligible visa.",
+      "stay_duration": "Permanently; indefinite stay",
+      "travel_component": "5 years from date of visa grant",
+      "citizenship_residence_start": {
+        "inside_australia": "Day the visa is granted",
+        "outside_australia": "Day the visa holder enters Australia on this visa"
+      }
+    },
+    "benefits": [
+      "Work and study anywhere in Australia",
+      "Sponsor eligible relatives for permanent residence",
+      "Apply for Australian citizenship, if eligible",
+      "Attend free English classes through the Adult Migrant English Program, if eligible",
+      "Enrol in Medicare",
+      "Travel to and from Australia for 5 years"
+    ],
+    "eligibility": {
+      "general_requirements": [
+        "Hold an eligible visa or have held an eligible visa that expired outside Australia during the concession period",
+        "Have lived for at least 2 years in a specified regional area unless COVID-19 concessions apply",
+        "Have worked full time for at least 1 year in a specified regional area unless COVID-19 concessions apply",
+        "Have complied with the conditions of the eligible visa held or previously held"
+      ],
+      "covid_19_concessions": {
+        "applicants_outside_australia": {
+          "can_apply_outside_australia": true,
+          "benefits": [
+            "Shorter employment requirement",
+            "Shorter residence requirement"
+          ],
+          "required_evidence": {
+            "full_time_work": "At least 9 months in a specified regional area (or Minister-specified shorter period)",
+            "residence": "At least 18 months in a specified regional area (or Minister-specified shorter period)"
+          }
+        },
+        "applicants_inside_australia": {
+          "shorter_employment_requirement": "At least 9 months full‑time work in a specified regional area",
+          "residence_requirement": "2 years of residence in a specified regional area"
+        },
+        "concession_summary": [
+          {
+            "location": "Onshore lodgement",
+            "employment_concession": true,
+            "residence_concession": false
+          },
+          {
+            "location": "Offshore lodgement",
+            "employment_concession": true,
+            "residence_concession": true
+          }
+        ]
+      },
+      "eligible_visas": [
+        "Subclass 489",
+        "Subclass 495",
+        "Subclass 496",
+        "Subclass 475",
+        "Subclass 487",
+        "Bridging Visa A or B after a valid application for subclass 489, 495, or 487",
+        "Expired eligible visas during concession period (offshore applicants)"
+      ]
+    },
+    "application": {
+      "apply_from": "All applicants must be in Australia and hold an eligible visa at time of application unless COVID-19 concessions apply.",
+      "requirements": [
+        "Submit complete application with supporting documents",
+        "Meet health and character requirements",
+        "Respond promptly to requests for information"
+      ]
+    },
+    "family": {
+      "inclusion_rules": [
+        "Family members must currently hold an eligible visa",
+        "All eligible members must be included at time of application",
+        "Family cannot be added after application is submitted",
+        "Family who no longer meet standard definition (e.g., child over 23) can be included if holding an eligible visa granted based on previous family unit status"
+      ],
+      "requirements": [
+        "All included family must meet health and character requirements",
+        "Non‑accompanying family may also need to meet these requirements"
+      ],
+      "newborn_children": [
+        "Must notify the department before lodging application",
+        "Cannot lodge online if child’s visa is not linked to their passport"
+      ]
+    },
+    "costs": {
+      "base_cost": "AUD505.00",
+      "additional_family_member_costs": "Additional charge per family member applying",
+      "second_instalment_charge": {
+        "amount": "AUD4,890",
+        "applies_to": "Family unit applicants 18 or older with less than functional English",
+        "payment_condition": "Paid only when requested, only if visa is to be granted"
+      },
+      "other_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "pricing_tool_note": "Visa Pricing Estimator does not include second instalment or other costs"
+    },
+    "processing_times": {
+      "note": "Use the visa processing time guide tool for indicative processing times; not specific to individual applications.",
+      "factors_affecting_processing": [
+        "Completeness of application and documents",
+        "Speed of applicant responses to requests",
+        "Time required for checks on information provided",
+        "External agency response times (health, character, national security)",
+        "Number of places available in the migration program"
+      ]
+    },
+    "obligations": [
+      "Visa holder and family must follow Australian laws"
+    ],
+    "travel": {
+      "travel_rights": "Unlimited travel in and out of Australia for 5 years from visa grant",
+      "after_5_years": "Resident Return Visa (RRV) required to re-enter Australia as a permanent resident"
+    },
+    "visa_label": {
+      "status": "Digital only",
+      "note": "Visa is digitally linked to passport; no physical label provided"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

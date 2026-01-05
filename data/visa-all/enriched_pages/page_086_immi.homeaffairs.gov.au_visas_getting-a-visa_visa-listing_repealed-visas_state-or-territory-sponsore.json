@@ -1,0 +1,63 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/state-or-territory-sponsored-investor-subclass-893-visa",
+  "title": "State or Territory Sponsored Investor (subclass 893) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the State or Territory Sponsored Investor (subclass 893) visa, which closed to new applications on 22 March 2025. It outlines what the visa allows, how long it lasts, obligations for visa holders, and what changes must be reported to the authorities.",
+  "structured_data": {
+    "visa_name": "State or Territory Sponsored Investor visa",
+    "visa_subclass": "893",
+    "application_status": "closed",
+    "application_closed_date": "22 March 2025",
+    "visa_type": "permanent",
+    "description": "A permanent visa for state or territory sponsored investors, allowing holders to stay indefinitely in Australia.",
+    "visa_holder_information": {
+      "entitlements": [
+        "Stay in Australia indefinitely",
+        "Travel to and from Australia for 5 years from the grant date",
+        "Use VEVO for free to check visa details and entitlements"
+      ]
+    },
+    "visa_duration": {
+      "stay_duration": "indefinite",
+      "travel_facility_duration": "5 years from visa grant date",
+      "travel_conditions": [
+        "Unlimited travel to and from Australia for 5 years while travel facility is valid"
+      ],
+      "after_travel_facility_expires": [
+        "Apply for and be granted a Resident Return visa to re-enter Australia as a permanent resident",
+        "Consider becoming an Australian citizen to avoid needing a visa to re-enter Australia"
+      ],
+      "citizenship_notes": [
+        "Australian citizens must use an Australian passport when leaving and re-entering Australia",
+        "Eligibility requirements and processing times for citizenship apply"
+      ]
+    },
+    "visa_rights": {
+      "rights_for_holder_and_dependents": [
+        "Stay in Australia permanently",
+        "Work and study in Australia",
+        "Carry out business and investment activity in Australia",
+        "Enrol in Medicare (Australia’s public health care scheme)",
+        "Sponsor relatives to come to Australia",
+        "Travel to and from Australia for 5 years",
+        "Apply for Australian citizenship, if eligible"
+      ]
+    },
+    "obligations": {
+      "general_obligations": [
+        "Meet all visa conditions",
+        "Obey Australian laws"
+      ]
+    },
+    "change_notification_requirements": {
+      "changes_to_report": [
+        "Changes to phone number, email, address, or passport",
+        "Changes to relationship status",
+        "Birth of a child"
+      ],
+      "consequences_of_not_reporting_passport_changes": "Significant delays at the airport and possible denial of permission to board a plane"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

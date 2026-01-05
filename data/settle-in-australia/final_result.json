@@ -1,0 +1,181 @@
+{
+  "job_name": "settle-in-australia",
+  "start_url": "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview",
+  "crawl_metadata": {
+    "total_pages": 3,
+    "successful_enrichments": 3,
+    "duration_seconds": 56.177591,
+    "visited_urls": [
+      "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview",
+      "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview#contentBox",
+      "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview#top"
+    ],
+    "failed_urls": []
+  },
+  "main_page": {
+    "url": "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview",
+    "title": "Settle in AustraliaSettle in Australia",
+    "content_type": "general_information",
+    "summary": "This page provides general information about helping new migrants and refugees settle in Australia. It highlights key settlement topics, language services, and tools available to support new arrivals. It also promotes the MyAus App as a multilingual resource for navigating life in Australia.",
+    "structured_data": {
+      "overview": "Australia has a long tradition of resettling migrants, refugees, and people in humanitarian need. With the right support, new arrivals can successfully contribute to Australian society.",
+      "key_settlement_topics": {
+        "description": "Information relevant to skilled migrants, family migrants, refugees, and humanitarian entrants to help them settle in Australia.",
+        "topics": [
+          "Employment",
+          "Education and training",
+          "Health and wellbeing",
+          "Managing your finances",
+          "Housing",
+          "Transport",
+          "Civic participation"
+        ]
+      },
+      "language_services": {
+        "description": "Language services help people with limited or no English access essential services and programs.",
+        "services": [
+          "Free Interpreting Service",
+          "Free Translating Service",
+          "TIS National",
+          "National Interpreter symbol"
+        ]
+      },
+      "my_aus_app": {
+        "description": "The MyAus App provides useful information about settling in Australia.",
+        "features": [
+          "Available in multiple languages",
+          "Designed to help migrants and the broader community navigate systems and services in Australia"
+        ]
+      }
+    },
+    "parent_url": null,
+    "depth": 0
+  },
+  "child_pages": [
+    {
+      "url": "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview#contentBox",
+      "title": "Settle in AustraliaSettle in Australia",
+      "content_type": "general_information",
+      "summary": "This page provides an overview of how migrants, refugees, and humanitarian entrants can be supported as they settle in Australia. It outlines key settlement topics, language services, and tools such as the MyAus App to help new arrivals navigate life in Australia.",
+      "structured_data": {
+        "page_title": "Settle in Australia",
+        "overview": {
+          "description": "Australia has a long tradition of resettling migrants, refugees, and vulnerable people in humanitarian need. Refugees seeking protection often come from situations of extreme conflict and trauma. With proper support, migrants and refugees can contribute significantly to society.",
+          "purpose": "To highlight ways to help new arrivals build their lives in Australia."
+        },
+        "key_settlement_topics": {
+          "description": "Relevant information for all new arrivals, including skilled migrants, family migrants, refugees, and humanitarian entrants, covering a range of topics aimed at helping them settle in Australia.",
+          "topics": [
+            "Employment",
+            "Education and training",
+            "Health and Wellbeing",
+            "Managing your finances",
+            "Housing",
+            "Transport",
+            "Civic participation"
+          ]
+        },
+        "language_services": {
+          "description": "Language services are designed to ensure that people with limited or no English proficiency can access essential services and programs.",
+          "services": [
+            "Free Interpreting Service",
+            "Free Translating Service",
+            "TIS National",
+            "National Interpreter symbol"
+          ]
+        },
+        "my_aus_app": {
+          "description": "Useful information about settling in Australia is available through the MyAus App.",
+          "features": [
+            "Available in multiple languages",
+            "Designed to assist migrants and the broader community to navigate systems and services in Australia"
+          ]
+        }
+      },
+      "parent_url": "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview",
+      "depth": 1
+    },
+    {
+      "url": "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview#top",
+      "title": "Settle in AustraliaSettle in Australia",
+      "content_type": "general_information",
+      "summary": "This page provides an overview of support services and resources available to help migrants, refugees, and humanitarian entrants settle in Australia. It highlights language services, key settlement topics, and the MyAus App as tools to assist new arrivals in navigating life in Australia.",
+      "structured_data": {
+        "page_title": "Settle in Australia",
+        "purpose": "To provide information and resources to support migrants and refugees as they build their lives in Australia.",
+        "overview": "Australia has a long tradition of resettling migrants, refugees, and people in humanitarian need. With appropriate support, these individuals can contribute significantly to society.",
+        "key_settlement_topics": {
+          "description": "Information for new arrivals, including skilled migrants, family migrants, refugees, and humanitarian entrants, to assist with settlement in Australia.",
+          "topics": [
+            "Employment",
+            "Education and training",
+            "Health and wellbeing",
+            "Managing your finances",
+            "Housing",
+            "Transport",
+            "Civic participation"
+          ]
+        },
+        "language_services": {
+          "description": "Services designed to help individuals with limited or no English proficiency access essential programs and services.",
+          "services": [
+            "Free Interpreting Service",
+            "Free Translating Service",
+            "TIS National",
+            "National Interpreter symbol"
+          ]
+        },
+        "my_aus_app": {
+          "description": "Provides useful information about settling in Australia.",
+          "features": [
+            "Available in multiple languages",
+            "Designed to help migrants and the broader community navigate Australian systems and services"
+          ]
+        }
+      },
+      "parent_url": "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview",
+      "depth": 1
+    }
+  ],
+  "structured_data": {
+    "page_title": "Settle in Australia",
+    "purpose": "To provide information, resources, and support to help migrants, refugees, and humanitarian entrants build their lives in Australia.",
+    "overview": {
+      "description": "Australia has a long tradition of resettling migrants, refugees, and people in humanitarian need. Many refugees come from situations involving conflict and trauma. With appropriate support, new arrivals can successfully settle and contribute significantly to Australian society."
+    },
+    "key_settlement_topics": {
+      "description": "Information relevant to skilled migrants, family migrants, refugees, and humanitarian entrants to help them settle in Australia.",
+      "topics": [
+        "Employment",
+        "Education and training",
+        "Health and wellbeing",
+        "Managing your finances",
+        "Housing",
+        "Transport",
+        "Civic participation"
+      ]
+    },
+    "language_services": {
+      "description": "Language services ensure people with limited or no English proficiency can access essential services and programs.",
+      "services": [
+        "Free Interpreting Service",
+        "Free Translating Service",
+        "TIS National",
+        "National Interpreter symbol"
+      ]
+    },
+    "my_aus_app": {
+      "description": "A multilingual mobile app that provides useful information to assist migrants and the broader community in navigating Australian systems and services.",
+      "features": [
+        "Available in multiple languages",
+        "Supports understanding of essential services and settlement processes"
+      ]
+    },
+    "source_urls": [
+      "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview",
+      "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview#contentBox",
+      "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview#top"
+    ]
+  },
+  "crawled_at": "2026-01-05T16:20:41.886357"
+}

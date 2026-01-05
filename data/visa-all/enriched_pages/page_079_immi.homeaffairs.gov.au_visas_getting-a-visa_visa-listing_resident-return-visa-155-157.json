@@ -1,0 +1,103 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/resident-return-visa-155-157",
+  "title": "Resident Return visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Resident Return Visa (RRV), subclasses 155 and 157, which allows eligible people to re-enter Australia as permanent residents. It explains eligibility, costs, travel facility duration, application requirements, and important conditions for maintaining permanent resident travel rights.",
+  "structured_data": {
+    "visa_name": "Resident Return visa",
+    "visa_subclasses": [
+      "155",
+      "157"
+    ],
+    "purpose": "Allows permanent residents, former permanent residents, or former citizens to return to Australia as permanent residents.",
+    "key_points": [
+      "If your travel facility expires while you are outside Australia, you cannot return as a permanent resident without an RRV.",
+      "Unlimited number of RRVs can be applied for.",
+      "Australian citizens are not eligible to apply.",
+      "Cannot extend or postpone an RRV travel facility.",
+      "Travel facility expiry reminders are sent for Subclass 155 holders unless an application is pending."
+    ],
+    "eligibility": {
+      "who_can_apply": [
+        "Australian permanent residents",
+        "Former Australian permanent residents whose last permanent visa was not cancelled",
+        "Former Australian citizens who lost or renounced citizenship"
+      ],
+      "who_cannot_apply": [
+        "Australian citizens"
+      ],
+      "notes": [
+        "If already in Australia as a permanent resident and not travelling, you do not need an RRV.",
+        "Applicants with substantial ties may be eligible even without meeting residence requirements."
+      ]
+    },
+    "with_this_visa_you_can": [
+      "Travel to and from Australia as a permanent resident until the travel facility expires",
+      "Hold a travel facility of up to 5 years depending on personal circumstances"
+    ],
+    "costs": {
+      "application_fee_online": "AUD490.00 per applicant",
+      "application_fee_paper": "AUD570.00 per applicant (only if authorised)",
+      "other_possible_costs": [
+        "health checks",
+        "police certificates",
+        "biometrics"
+      ],
+      "refund_policy": [
+        "Refunds generally not given if application is refused",
+        "Refunds not given if travel facility on previous visa is lost after RRV grant",
+        "Refunds not given if travel facility is unused",
+        "If the department caused the applicant to lodge an RRV in error, a refund may be considered with evidence"
+      ]
+    },
+    "travel_facility_duration": {
+      "five_year_travel_facility": "Given if applicant was in Australia for at least 2 years in the last 5 years as a permanent resident or Australian citizen",
+      "twelve_month_travel_facility": [
+        "For applicants who have substantial ties of benefit to Australia but do not meet residence requirements",
+        "For family members applying as part of a family unit with a person who qualifies"
+      ],
+      "three_month_travel_facility_subclass_157": "Given if compelling and compassionate reasons for departure exist and applicant has not been absent from Australia in the 5 years before lodging",
+      "rules": [
+        "Remaining travel facility does not carry over to a new RRV",
+        "No extensions allowed",
+        "Cannot postpone visa grant once criteria are met"
+      ]
+    },
+    "include_family": {
+      "can_include_family": false,
+      "processing_together": "Separate family applications can be processed together if declared",
+      "information_required": "Immediate family members who are Australian citizens or permanent residents should be listed to demonstrate substantial ties"
+    },
+    "apply_from": {
+      "location": "You can be in or outside Australia but not in immigration clearance",
+      "paper_application": "Only allowed if authorised; instructions must be followed",
+      "applications_in_person": false,
+      "urgent_travel": "If travel is needed urgently and visa is not yet granted, applicants are directed to contact the department"
+    },
+    "processing_times": {
+      "note": "Processing time guide tool gives indicative times based on recent applications; not specific to individual applications",
+      "additional_details": "Content truncated, but it states that applications meeting residence requirements are generally processed faster"
+    },
+    "obligations_and_conditions": {
+      "check_travel_facility": "Applicants should verify the travel facility expiry on VEVO",
+      "consequences_of_returning_without_valid_travel_facility": [
+        "May impact permanent resident entitlements",
+        "May affect ability to meet permanent residence requirements for citizenship or future RRVs"
+      ],
+      "when_not_to_apply": [
+        "If in Australia, travel facility expired, and no travel is planned"
+      ]
+    },
+    "related_links": [
+      "Visa processing time guide tool",
+      "Information on who can help with visa application",
+      "Visa Pricing Estimator",
+      "Overseas travel as a permanent resident",
+      "VEVO",
+      "Travel Facility Expiry Reminder (TFER)",
+      "Withdrawing a visa application"
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

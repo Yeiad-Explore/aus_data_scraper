@@ -1,0 +1,126 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-work-400",
+  "title": "Temporary Work (Short Stay Specialist) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Temporary Work (Short Stay Specialist) visa, Subclass 400. It outlines who is eligible, how long the visa allows you to stay, costs, requirements, obligations, and work limitations. It also explains application steps, entry rules, and conditions for including family members.",
+  "structured_data": {
+    "visa_name": "Temporary Work (Short Stay Specialist) visa",
+    "subclass": "400",
+    "stream": "Highly Specialised Work stream",
+    "description": "A temporary visa that allows short-term, highly specialised, non-ongoing work in Australia when the required skills are not reasonably available in Australia.",
+    "key_features": {
+      "highly_specialised_work": true,
+      "non_ongoing_work": true,
+      "cannot_apply_in_australia": true,
+      "cannot_extend_visa": true
+    },
+    "stay_information": {
+      "maximum_stay_period": "up to 6 months (depending on circumstances)",
+      "requirement_for_over_3_months": "strong business case must be provided",
+      "stay_commences_on_arrival": true,
+      "stay_does_not_restart_on_reentry": true,
+      "must_arrive_within": "6 months of visa grant date or shorter period specified by the Minister",
+      "visa_entry_types": {
+        "single_entry": "Holder may enter Australia once; must apply for a new visa to return.",
+        "multiple_entry": "Holder may re-enter multiple times but stay period does not restart."
+      }
+    },
+    "costs": {
+      "application_fee_main_applicant": "AUD430.00",
+      "exceptions": [
+        "Applicants coming to Australia as a representative of a foreign government listed in a legislative instrument"
+      ],
+      "additional_costs": [
+        "Charges for each family member applying",
+        "Costs for health checks",
+        "Costs for police certificates",
+        "Costs for biometrics"
+      ],
+      "pricing_tool": "Visa Pricing Estimator (does not include additional costs)"
+    },
+    "processing_times": {
+      "processing_time_guide": "Use visa processing time guide tool for recent decision times. Not specific to individual cases.",
+      "delays_possible_if": [
+        "application not filled correctly",
+        "missing documents",
+        "need more information",
+        "verification takes time",
+        "incorrect visa application charge paid"
+      ]
+    },
+    "work_rights": {
+      "permitted_work": "short-term, highly specialised, non-ongoing work",
+      "conditions": [
+        "Work must match the purpose for which the visa was granted"
+      ],
+      "not_allowed_work": [
+        "perform as an entertainer in Australia",
+        "support an entertainer or group performing in Australia",
+        "direct or produce work for entertainment shown in Australia (unless meeting exemptions)"
+      ],
+      "allowed_entertainment_activities_with_conditions": [
+        "directing, producing, or roles in a production not shown in Australia (requires distribution contract or evidence)",
+        "promotional activities (e.g., actor at premiere, band on promotional tour with no performances)"
+      ]
+    },
+    "eligibility": {
+      "highly_specialised_skills_requirement": {
+        "must_have": [
+          "skills, knowledge or experience that can assist Australian business",
+          "skills not reasonably available in the Australian labour market",
+          "work that is non-ongoing (completed within 6 months or less)"
+        ],
+        "evidence_examples": [
+          "resume",
+          "licenses or qualifications",
+          "letter from overseas employer explaining position and duties"
+        ],
+        "employer_requirements": "Australian business or overseas employer may need to show they attempted to hire Australians first"
+      },
+      "work_requirements": {
+        "must_provide_proof_of_work": true,
+        "reference_section": "Step by Step, Gather documents"
+      }
+    },
+    "application_requirements": {
+      "must_be_outside_australia_to_apply": true,
+      "must_be_outside_australia_when_decision_made": true,
+      "documents_required": [
+        "proof of work",
+        "evidence of specialised skills",
+        "health requirements",
+        "character requirements"
+      ]
+    },
+    "family_members": {
+      "can_include_family_unit": true,
+      "requirements_for_family": [
+        "must meet health requirements",
+        "must meet character requirements",
+        "not permitted to work or study (except language training)"
+      ],
+      "financial_requirements": "Applicant must show enough means to support themselves and family"
+    },
+    "obligations": {
+      "must_comply_with_visa_conditions": true,
+      "must_comply_with_australian_laws": true
+    },
+    "health_insurance": {
+      "recommendation": "Take out health insurance for unforeseen medical treatment",
+      "personal_liability": "You are responsible for all healthcare costs in Australia",
+      "insurance_benefit": "Helps limit financial liability",
+      "reciprocal_healthcare_agreements": "Some countries have agreements; see Services Australia"
+    },
+    "travel": {
+      "first_entry_requirement": "Must enter within 6 months of visa grant unless a shorter period specified",
+      "stay_period_start": "Starts on first arrival",
+      "time_outside_australia": "Does not extend visa"
+    },
+    "visa_label": {
+      "linked_digitally": true,
+      "no_passport_label": true
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,64 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/investor-subclass-891-visa",
+  "title": "Investor (subclass 891) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides official information about the Investor (subclass 891) visa, which is a permanent visa that closed to new applications on 22 March 2025. It explains what the visa allows, how long it lasts, travel facility conditions, and obligations for visa holders.",
+  "structured_data": {
+    "visa_information": {
+      "visa_name": "Investor visa",
+      "subclass": "891",
+      "status": "Closed to new applications",
+      "closure_date": "22 March 2025",
+      "visa_type": "Permanent visa",
+      "description": "A permanent visa allowing holders to stay in Australia indefinitely and travel for 5 years from the grant date."
+    },
+    "entitlements": {
+      "permanent_stay": true,
+      "travel_facility_duration": "5 years from visa grant date",
+      "travel_notes": [
+        "Allows unlimited travel to and from Australia for 5 years as long as the travel facility is valid.",
+        "After the initial 5-year travel facility ends, visa holders must apply for a Resident Return visa to re-enter Australia as a permanent resident."
+      ],
+      "vevo_information": "Visa holders can use Visa Entitlement Verification Online (VEVO) for free to check visa details and entitlements."
+    },
+    "citizenship_information": {
+      "option_to_apply": true,
+      "notes": [
+        "Becoming an Australian citizen removes the need for a visa to enter Australia.",
+        "Australian citizens must apply for and use an Australian passport when leaving or re-entering Australia."
+      ]
+    },
+    "what_this_visa_lets_you_do": {
+      "allowed_activities": [
+        "Stay in Australia permanently",
+        "Work and study in Australia",
+        "Carry out business and investment activity in Australia",
+        "Enrol in Australia’s public health care scheme, Medicare",
+        "Sponsor relatives to come to Australia",
+        "Travel to and from Australia for 5 years",
+        "Apply for Australian citizenship, if eligible"
+      ]
+    },
+    "obligations": {
+      "general_obligations": [
+        "Meet all visa conditions",
+        "Obey Australian laws"
+      ]
+    },
+    "change_notification_requirements": {
+      "required_notifications": [
+        "Changes to phone number, email, address, or passport",
+        "Changes to relationship status",
+        "Birth of a child"
+      ],
+      "consequence_of_not_updating_passport": "May experience significant delays at the airport and may be denied permission to board a plane."
+    },
+    "important_links_referenced": {
+      "vevo": "Visa Entitlement Verification Online (VEVO)",
+      "citizenship_information": "See more about eligibility requirements and current processing times for Australian citizenship",
+      "change_of_details": "See how to let us know if there is a change in your situation"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

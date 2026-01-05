@@ -1,0 +1,161 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/religious-worker-visa-subclass-428",
+  "title": "Religious Worker visa (subclass 428)",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Religious Worker visa (subclass 428), which is closed to new applications. It outlines the rights and obligations of existing visa holders as well as the responsibilities of approved sponsors. It also explains conditions, sponsorship rules, record‑keeping, and requirements for both visa holders and sponsoring organizations.",
+  "structured_data": {
+    "visa_info": {
+      "visa_name": "Religious Worker visa",
+      "subclass": "428",
+      "status": "closed_to_new_applications",
+      "description": "A visa for religious workers allowing temporary stay and sponsored employment in Australia.",
+      "application_availability": "Applicants cannot apply for this visa.",
+      "alternative_option": "Use the visa finder tool to search for an appropriate visa."
+    },
+    "current_visa_holders": {
+      "rights_and_obligations_info": "Information applies only to individuals already granted a Religious Worker visa (subclass 428).",
+      "vevo_access": "Visa holders can use VEVO for free to check visa details and entitlements.",
+      "visa_validity": {
+        "typical_validity": "Valid for the period of the nominated position",
+        "maximum_validity": "2 years"
+      },
+      "visa_allows": [
+        "Work full‑time as a religious worker for the sponsoring religious institution",
+        "Stay in Australia for the period of the nominated position (maximum 2 years)",
+        "Bring family members (who can work and study)",
+        "Leave and re-enter Australia multiple times while the visa is valid"
+      ],
+      "holder_obligations": [
+        "Comply with all visa conditions and Australian laws",
+        "Maintain adequate health insurance arrangements",
+        "Not be involved in disruptive or violent activities threatening harm to the Australian community or groups within it"
+      ],
+      "work_conditions": {
+        "prohibited_actions": [
+          "Stopping work for the sponsoring employer",
+          "Engaging in work inconsistent with the nominated position",
+          "Working for another person or for oneself while employed by the sponsor"
+        ]
+      },
+      "if_stop_working_for_sponsor": [
+        "Be sponsored by another organisation to stay in Australia",
+        "Apply for another visa",
+        "Leave Australia before visa expiry"
+      ],
+      "changing_sponsor": {
+        "requirements": [
+          "No need for a new visa unless it is close to expiry",
+          "Must be nominated by a proposed new sponsor",
+          "Nomination must be approved before starting the position"
+        ],
+        "if_visa_close_to_expiry": "Use the visa finder tool to identify an appropriate visa."
+      },
+      "family_obligations": {
+        "entry_conditions": "Family cannot enter Australia before the primary visa holder.",
+        "departure_conditions": "Family must leave Australia when the visa ends.",
+        "ongoing_obligations": [
+          "Remain a member of the family unit",
+          "Maintain adequate health insurance"
+        ],
+        "permitted_activities": [
+          "Family members can work or study while the visa is valid"
+        ]
+      },
+      "mandatory_notifications": {
+        "changes_to_report": [
+          "Changes to phone number, email, address, or passport",
+          "Changes to relationship status",
+          "Birth of a child"
+        ],
+        "consequences_of_not_providing_passport_details": "Significant delays at the airport and possible denial of permission to board a plane."
+      }
+    },
+    "sponsor_information": {
+      "eligible_sponsors": "Approved sponsors of Religious Worker visa (subclass 428) holders only.",
+      "new_sponsorship_applications": "Not permitted, as the visa is closed to new applications.",
+      "vevo_for_organisations": "Sponsors can use VEVO for Organisations to check visa details of sponsored individuals.",
+      "sponsorship_validity": {
+        "maximum_duration": "3 years",
+        "allowed_activity_during_validity": "Sponsor religious workers for a Temporary Activity visa (subclass 408)"
+      },
+      "post_sponsorship_expiry": [
+        "Must apply to be approved as a long stay activity sponsor to sponsor applicants for the Temporary Activity visa (subclass 408)"
+      ],
+      "sponsoring_existing_428_visa_holder": "Possible for the remainder of the visa’s validity.",
+      "nominations": {
+        "nomination_ceases_on": [
+          "The day the department receives written withdrawal of the nomination",
+          "12 months after nomination approval",
+          "3 months after sponsor approval ceases (if nomination was granted after sponsor approval)",
+          "Day the sponsor approval is cancelled (if nomination approval was given afterward)",
+          "Day on which the visa was granted based on the nomination"
+        ]
+      },
+      "sponsor_obligations": {
+        "obligation_list": [
+          "Cooperate with inspectors",
+          "Notify the department when certain events occur",
+          "Keep required records",
+          "Provide records and information to the Minister upon request",
+          "Not recover, transfer, or charge certain costs to another person",
+          "Pay costs to locate and remove an unlawful non‑citizen",
+          "Ensure the visa holder works in the nominated occupation, program, or activity",
+          "Secure reasonable accommodation for the visa holder",
+          "Pay travel costs for visa holders to leave Australia"
+        ],
+        "responsibility_note": "Sponsors are responsible for all obligations even if another party (e.g., a migration agent) acts on their behalf."
+      },
+      "cooperating_with_inspectors": {
+        "inspector_roles": [
+          "Investigate compliance with sponsorship obligations",
+          "Investigate employment of illegal workers",
+          "Investigate circumstances permitting administrative action"
+        ],
+        "obligation_period": {
+          "starts": "On the day the sponsorship is approved or work agreement commences",
+          "ends": "Five years after the approved sponsorship or work agreement ceases"
+        },
+        "required_actions": [
+          "Provide access to premises",
+          "Produce documents within requested timeframe",
+          "Not prevent access to individuals with custody of relevant documents",
+          "Provide officers access to interview any person on the premises"
+        ]
+      },
+      "record_keeping": {
+        "requirements": [
+          "Keep records that show compliance with obligations",
+          "Records must be reproducible",
+          "Some records must be independently verifiable"
+        ],
+        "specific_records": [
+          "Written requests for payment of outward travel costs (including date received)",
+          "Details of how outward travel costs were paid, amounts, for whom, and payment dates"
+        ]
+      },
+      "providing_records_to_minister": {
+        "when_required": [
+          "When determining compliance with sponsorship obligations",
+          "When assessing circumstances that could lead to administrative action"
+        ],
+        "must_provide_if": [
+          "Record is required under Commonwealth, state, or territory law",
+          "Record is required to be kept as part of sponsor obligations"
+        ],
+        "obligation_period": {
+          "starts": "When sponsorship is approved or work agreement begins",
+          "ends": "Two years after sponsorship or work agreement ceases and the sponsor no longer has a sponsored visa holder"
+        }
+      },
+      "notification_requirements": {
+        "method": [
+          "Registered post",
+          "Electronic mail"
+        ],
+        "events_to_notify": "Content truncated; not fully provided in the source text."
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

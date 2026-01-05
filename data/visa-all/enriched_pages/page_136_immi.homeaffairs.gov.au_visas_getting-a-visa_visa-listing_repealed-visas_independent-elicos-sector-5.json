@@ -1,0 +1,124 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/independent-elicos-sector-570",
+  "title": "Independent ELICOS Sector visa (subclass 570)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for existing holders of the Independent ELICOS Sector visa (subclass 570), which closed to new applications on 1 July 2016. It explains visa validity, work rights, obligations, rules for changing education providers, and requirements for students under 18 and accompanying family members.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Independent ELICOS Sector visa",
+      "subclass": "570",
+      "status": "closed to new applications",
+      "closure_date": "1 July 2016",
+      "alternative_visa_for_extensions": {
+        "visa_name": "Student Visa",
+        "subclass": "500",
+        "applicable_from": "1 July 2016"
+      }
+    },
+    "applicability": {
+      "eligible_individuals": [
+        "People who already hold a subclass 570 visa",
+        "People who applied on or before 30 June 2016 and have not yet received a decision"
+      ],
+      "purpose": "Explains rights and obligations of current or pending visa holders"
+    },
+    "visa_verification": {
+      "service_name": "Visa Entitlement Verification Online (VEVO)",
+      "usage": "Check visa details and conditions"
+    },
+    "visa_validity": {
+      "valid_until": "Original expiry date specified at time of visa grant"
+    },
+    "visa_rights": {
+      "study_in_australia": true,
+      "dependents_may_accompany": true,
+      "work_rights": {
+        "primary_holder": {
+          "conditions": [
+            "Up to 40 hours per fortnight while course is in session",
+            "Unlimited hours during scheduled course breaks",
+            "Must comply with State and Territory workplace laws"
+          ]
+        },
+        "family_members": {
+          "conditions": [
+            "Up to 40 hours per fortnight once the student has commenced their course"
+          ]
+        }
+      },
+      "family_member_study_rights": {
+        "age_requirement": "18 or older",
+        "study_limit": "Up to 3 months",
+        "study_over_3_months": "Requires separate student visa (can be applied for in Australia)"
+      }
+    },
+    "obligations": {
+      "student_obligations": [
+        "Must comply with visa conditions",
+        "Must comply with Australian laws",
+        "Must apply for a new Student Visa (subclass 500) when changing to a course in a different education sector"
+      ],
+      "streamlined_visa_processing_svp_conditions": {
+        "requirement": "Must continue to satisfy SVP requirements",
+        "risk_of_cancellation": "If transferring to a provider not eligible for SVP (prior to 1 July 2016)",
+        "risk_conditions": [
+          "Within first 12 months of visa grant",
+          "Student is not from a country that was Assessment Level 1 before 1 July 2016"
+        ]
+      },
+      "check_conditions": "Check visa conditions through VEVO or visa grant letter"
+    },
+    "changing_education_provider": {
+      "requirements": [
+        "Must comply with visa conditions",
+        "Must comply with ESOS National Code requirements"
+      ],
+      "principal_course_requirement": "Must complete six months of principal course unless special circumstances apply",
+      "transfer_permission": "Usually required from current education provider",
+      "provider_responsibilities": "Education provider must assess transfer request and have documented transfer procedures",
+      "student_responsibilities": [
+        "Understand education provider's transfer policy",
+        "Follow written agreement terms"
+      ],
+      "appeal_process": {
+        "internal": "Use education provider's internal appeal process",
+        "external": "Can appeal to State/Territory Ombudsman or Overseas Student Ombudsman"
+      }
+    },
+    "students_under_18": {
+      "requirements": [
+        "Must maintain adequate accommodation, support, and general welfare arrangements",
+        "Cannot travel to Australia until welfare arrangements commence if approved by provider"
+      ],
+      "welfare_start_date": "Date nominated by education provider on CAAW letter",
+      "guardian_absence_requirement": "Must arrange alternate welfare arrangements approved by the department before guardian leaves Australia",
+      "risk_of_cancellation": "If welfare arrangements are not approved before guardian departure"
+    },
+    "no_further_stay_condition": {
+      "description": "Some visas include this condition",
+      "effect": "Cannot apply to stay in Australia beyond visa date except in certain circumstances"
+    },
+    "change_of_circumstances": {
+      "must_notify_changes": [
+        "Phone number",
+        "Email",
+        "Address",
+        "Passport",
+        "Relationship status",
+        "Birth of a child"
+      ]
+    },
+    "family_member_obligations": {
+      "general_requirements": [
+        "Remain a family member during their stay",
+        "Have adequate financial support",
+        "Maintain adequate health cover",
+        "Work no more than 40 hours per fortnight and only after student commences course",
+        "Attend school if school-aged"
+      ],
+      "consequence_of_noncompliance": "May result in cancellation of the primary visa holder's visa"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

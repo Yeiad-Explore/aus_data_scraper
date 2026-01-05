@@ -1,0 +1,55 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/skilled-sponsored-visa-subclass-176",
+  "title": "Skilled — Sponsored visa (subclass 176)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Skilled — Sponsored visa (subclass 176), which is closed to new applications. It explains the cap and cease arrangements, rights and obligations for existing visa holders, and the obligations of eligible relative sponsors.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Skilled — Sponsored visa",
+      "subclass": "176",
+      "status": "closed_to_new_applications",
+      "closure_details": {
+        "cap_and_cease_applied": true,
+        "cap_and_cease_effective_date": "22 September 2015",
+        "applications_not_decided_before_effective_date": "taken_not_to_have_been_made",
+        "more_information_link_text": "Cap and cease"
+      },
+      "description": "The Skilled-Sponsored visa (subclass 176) is closed to new applications and was subject to the cap and cease arrangement."
+    },
+    "visa_holders_information": {
+      "purpose": "Information for people who have been granted a Skilled - Sponsored visa (subclass 176), including their rights and obligations."
+    },
+    "rights_and_obligations": {
+      "general_obligations": [
+        "You and your family must comply with all visa conditions and Australian laws."
+      ],
+      "state_or_territory_requirements": [
+        "Living in the nominating state or territory for a specified minimum time",
+        "Telling the state or territory your address both before and after you arrive in Australia",
+        "Completing surveys and providing other information requested after arrival"
+      ]
+    },
+    "change_notification_requirements": {
+      "things_to_notify": [
+        "Changes to your phone number, email, address or passport",
+        "Changes to your relationship status",
+        "The birth of a child"
+      ],
+      "how_to_notify_link_text": "See how to tell us if your situation changes"
+    },
+    "sponsor_obligations": {
+      "sponsor_type": "eligible_relative_sponsor",
+      "requirements": {
+        "must_sign_sponsorship_undertaking": true,
+        "must_agree_to_provide": [
+          "Adequate accommodation and financial assistance as required to meet the relative's living needs during their first two years in Australia",
+          "Other support, such as childcare, to enable the relative to attend English language classes",
+          "Information and advice, including information about employment in Australia, to help the relative settle in Australia"
+        ],
+        "two_year_period_starts": "date_relative_enters_Australia"
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

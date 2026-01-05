@@ -1,0 +1,72 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/employer-nomination-scheme-121",
+  "title": "Employer Nomination Scheme visa (subclasses 121 and 856)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Employer Nomination Scheme visa (subclasses 121 and 856), which closed to new applications on 1 July 2012. It describes who can still be added to an existing application, what the visa allows, associated costs, and the obligations of visa holders and employers.",
+  "structured_data": {
+    "visa_name": "Employer Nomination Scheme visa",
+    "subclasses": [
+      "121",
+      "856"
+    ],
+    "application_status": {
+      "is_open": false,
+      "closed_to_new_applications_date": "1 July 2012",
+      "notes": "Applicants could lodge only on or before 30 June 2012. You can still add a partner or dependent child if the application has not yet been decided."
+    },
+    "description": "The Employer Nomination Scheme allowed Australian employers to sponsor foreign nationals for a permanent visa to work in Australia. The visa is for applicants who were in Australia and lodged a visa application on or before 30 June 2012.",
+    "visa_type": "permanent",
+    "what_the_visa_allows": [
+      "stay in Australia indefinitely",
+      "work and study in Australia",
+      "enrol in Medicare",
+      "take out private health insurance",
+      "access certain social security payments",
+      "become eligible for Australian citizenship (if meeting requirements)",
+      "sponsor eligible family members for permanent residence",
+      "travel to and from Australia for five years from the date the visa is granted (after that, a resident return visa or other visa is needed)"
+    ],
+    "costs": {
+      "subclass_121": {
+        "additional_applicant_18_and_over": "AUD 1,050",
+        "additional_applicant_under_18": "AUD 525"
+      },
+      "subclass_856": {
+        "additional_applicant_18_and_over": "AUD 1,555",
+        "additional_applicant_under_18": "AUD 775"
+      },
+      "subclass_856_extension": {
+        "additional_applicant_18_and_over": "AUD 140",
+        "additional_applicant_under_18": "AUD 70"
+      }
+    },
+    "visa_holders_information": {
+      "applicable_to": "Employer Nomination visa (subclass 121)",
+      "rights_and_obligations_summary": "Explains the rights and obligations of visa holders.",
+      "vevo_availability": "Visa holders can use Visa Entitlement Verification Online (VEVO) for free to check visa details and entitlements."
+    },
+    "obligations": {
+      "visa_holder_obligations": [
+        "comply with all visa conditions",
+        "comply with all Australian laws"
+      ],
+      "employer_obligations": [
+        "comply with all relevant Australian standards",
+        "comply with workplace legislation for wages and working conditions"
+      ]
+    },
+    "notify_changes_requirements": {
+      "changes_to_notify": [
+        "phone number",
+        "email",
+        "address",
+        "passport",
+        "relationship status",
+        "birth of a child"
+      ],
+      "notes": "Failure to provide new passport details may cause significant delays at the airport and possible denial of boarding."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

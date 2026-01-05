@@ -1,0 +1,161 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/training-and-research-visa-subclass-402",
+  "title": "Training and Research visa (subclass 402)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for holders and former sponsors of the now-closed Training and Research visa (subclass 402). It explains visa validity, rights, obligations, and sponsor requirements. It also outlines alternative visas available since the closure of subclass 402.",
+  "structured_data": {
+    "visa_info": {
+      "visa_name": "Training and Research visa",
+      "subclass": "402",
+      "status": "Closed to new applications",
+      "closure_date": "19 November 2016",
+      "alternative_visas": [
+        {
+          "visa_name": "Training visa",
+          "subclass": "407",
+          "suggested_if": [
+            "undertake occupational training",
+            "participate in classroom based professional development programme"
+          ]
+        },
+        {
+          "visa_name": "Temporary Activity visa",
+          "subclass": "408",
+          "suggested_if": [
+            "academic invited to collaborate in a research project by an Australian tertiary or research institution",
+            "student or recent graduate undertaking research related to field of study at an Australian tertiary or research institution",
+            "elite sportsperson participating in high level sports training"
+          ]
+        }
+      ]
+    },
+    "visa_holders": {
+      "purpose": "Information for people already granted a Training and Research visa (subclass 402)",
+      "tools": [
+        "Visa Entitlement Verification Online (VEVO)"
+      ]
+    },
+    "visa_validity": {
+      "occupational_trainee_stream": "up to 2 years",
+      "professional_development_stream": "up to 18 months",
+      "research_stream": "up to 12 months"
+    },
+    "renewing_visa": {
+      "occupational_trainee_and_research_streams": {
+        "requirement": "must lodge a new application from within Australia",
+        "must_provide": [
+          "all relevant documents",
+          "visa application charge"
+        ],
+        "additional_notes": "Occupational trainee stream applicants might need to explain why they could not complete training within the initial period"
+      },
+      "professional_development_stream": {
+        "restriction": "cannot apply or reapply for this visa while in Australia"
+      }
+    },
+    "visa_rights": {
+      "general": [
+        "enter Australia at any time after visa grant if outside Australia",
+        "stay in Australia for nominated duration",
+        "undertake specified training or activity",
+        "travel to and from Australia multiple times until the program ends or visa expires"
+      ],
+      "family_members": {
+        "conditions": [
+          "might need to enter or leave Australia with you",
+          "must remain members of your family unit"
+        ],
+        "work_rights": {
+          "occupational_trainee_stream": "up to 40 hours per fortnight",
+          "research_stream": "might have unrestricted work rights"
+        }
+      }
+    },
+    "visa_holder_obligations": {
+      "general": [
+        "comply with visa conditions and Australian laws",
+        "maintain adequate health insurance",
+        "continue to meet stream requirements",
+        "leave Australia before visa ends"
+      ]
+    },
+    "stream_specific_obligations": {
+      "occupational_trainee_stream": {
+        "must": [
+          "participate fully in occupational training",
+          "not perform work other than approved training",
+          "not become unemployed or work a second job",
+          "not undertake activities affecting participation in training",
+          "inform sponsor if personal circumstances change or concerns arise"
+        ],
+        "changing_organisation": "new organisation must lodge a nomination; once approved, training can continue without new visa",
+        "if_sponsor_ceases_training": "must notify the department and find a new sponsor",
+        "family_work_rights": "family members cannot work more than 40 hours per fortnight"
+      },
+      "research_stream": {
+        "must": [
+          "continue in the position for which visa was granted",
+          "not work outside approved research duties",
+          "engage only in activities specified in application",
+          "conduct research only for sponsoring employer",
+          "not become unemployed or work elsewhere",
+          "not receive a salary"
+        ],
+        "if_sponsor_ceases_employment": "must notify department and find another sponsor"
+      },
+      "professional_development_stream": {
+        "must": [
+          "participate fully in professional development program",
+          "not pay participant costs that sponsor is liable for"
+        ]
+      }
+    },
+    "change_notification_requirements": {
+      "must_notify": [
+        "changes to phone number, email, address or passport",
+        "changes to relationship status",
+        "birth of a child"
+      ]
+    },
+    "sponsor_information": {
+      "purpose": "Information for approved sponsors of subclass 402 visa holders",
+      "tools": [
+        "VEVO for Organisations"
+      ],
+      "sponsorship_status": {
+        "new_sponsorship": "cannot apply to sponsor new applicants because visa is closed",
+        "nominations": "cannot nominate new subclass 402 applicants"
+      },
+      "transitional_arrangements": {
+        "use_existing_approval_for": [
+          "Training visa (subclass 407)",
+          "Temporary Activity visa (subclass 408)"
+        ],
+        "transitional_period_end": "18 May 2017 or when sponsorship approval ceases, whichever is earlier",
+        "from_19_may_2017": "must apply online for approval as a temporary activities sponsor"
+      },
+      "applications_lodged_before_19_november_2016": {
+        "assessment": "assessed under pre-19 November 2016 legislation",
+        "validity": "sponsorship only valid to sponsor new subclass 407 or 408 applications until 18 May 2017"
+      }
+    },
+    "sponsor_obligations": {
+      "general_obligations": [
+        "cooperate with inspectors",
+        "notify department when certain events occur",
+        "keep records",
+        "provide records and information to the Minister",
+        "not recover or transfer certain costs",
+        "pay costs to locate and remove an unlawful non-citizen",
+        "ensure visa holder participates in nominated occupation, program, or activity"
+      ],
+      "stream_based_obligations": [
+        "secure offer of reasonable standard of accommodation",
+        "pay travel costs for sponsored people to leave Australia"
+      ],
+      "responsibility_note": "Sponsor remains responsible even if another person acts on their behalf, including migration agents"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

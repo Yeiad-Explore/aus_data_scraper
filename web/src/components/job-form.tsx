@@ -17,6 +17,7 @@ interface ScrapeRequest {
   depth: number;
   max_pages: number;
   filter: 'same_path' | 'same_domain' | 'all';
+  follow_all_links: boolean;
   save_individual_pages: boolean;
   final_synthesis: boolean;
 }
@@ -36,6 +37,7 @@ export function JobForm() {
     depth: 1,
     max_pages: 10,
     filter: 'same_path',
+    follow_all_links: false,
     save_individual_pages: true,
     final_synthesis: true,
   });
@@ -60,11 +62,18 @@ export function JobForm() {
         body: JSON.stringify(formData),
       });
 
-      const data: ScrapeResponse = await response.json();
-
       if (!response.ok) {
-        throw new Error(data.message || 'Failed to submit job');
+        let errorMessage = 'Failed to submit job';
+        try {
+          const errorData = await response.json();
+          errorMessage = errorData.message || errorData.detail || errorMessage;
+        } catch {
+          errorMessage = `HTTP ${response.status}: ${response.statusText}`;
+        }
+        throw new Error(errorMessage);
       }
+
+      const data: ScrapeResponse = await response.json();
 
       setSuccess(`Job "${data.job_name}" submitted successfully!`);
       setSubmittedJobId(data.job_id);
@@ -76,6 +85,7 @@ export function JobForm() {
         depth: 1,
         max_pages: 10,
         filter: 'same_path',
+        follow_all_links: false,
         save_individual_pages: true,
         final_synthesis: true,
       });
@@ -167,6 +177,19 @@ export function JobForm() {
           </div>
 
           <div className="space-y-4">
+            <div className="flex items-center space-x-2">
+              <Checkbox
+                id="follow_all_links"
+                checked={formData.follow_all_links}
+                onCheckedChange={(checked) =>
+                  setFormData({ ...formData, follow_all_links: checked === true })
+                }
+              />
+              <Label htmlFor="follow_all_links" className="cursor-pointer">
+                Follow all links (not just structural ones like tiles/cards)
+              </Label>
+            </div>
+
             <div className="flex items-center space-x-2">
               <Checkbox
                 id="save_individual_pages"

@@ -1,0 +1,121 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/aged-dependent-relative-838",
+  "title": "Aged Dependent Relative visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Subclass 838 Aged Dependent Relative visa. It explains eligibility requirements, costs, processing times, application conditions, and what applicants can do once they hold this permanent visa. It also includes rules about travel validity, sponsorship, family inclusion, and application processing changes starting 23 July 2025.",
+  "structured_data": {
+    "visa_name": "Aged Dependent Relative visa",
+    "subclass": "838",
+    "visa_type": "permanent",
+    "description": "This visa lets a single older person stay in Australia permanently if they rely on a relative living in Australia for financial support.",
+    "key_updates": {
+      "immiaccount_import_date": "23 July 2025",
+      "applicable_subclasses": [
+        "114",
+        "115",
+        "116",
+        "835",
+        "836",
+        "838"
+      ],
+      "import_limitations": "Some existing applications made outside Australia before 25 June 2020 cannot be imported into ImmiAccount."
+    },
+    "what_you_can_do_with_this_visa": [
+      "Stay in Australia indefinitely",
+      "Work and study in Australia",
+      "Enroll in Medicare",
+      "Sponsor relatives to come to Australia",
+      "Attend free English language classes under the Adult Migrant English Program, if eligible",
+      "Apply for Australian citizenship, if eligible"
+    ],
+    "travel_conditions": {
+      "initial_travel_validity": "5 years from visa grant",
+      "travel_rules": [
+        "Unlimited travel in and out of Australia during validity",
+        "After 5 years, must obtain a Resident Return Visa (RRV) to re-enter Australia as a permanent resident",
+        "Australian citizenship removes the need for a visa to re-enter Australia"
+      ],
+      "checking_travel_validity": "Use VEVO"
+    },
+    "application_conditions": {
+      "apply_from": "Applicant must be in Australia but not in immigration clearance both at application and decision time",
+      "family_members_apply_from": "Family members applying with the applicant must also be in Australia and not in immigration clearance"
+    },
+    "include_family": {
+      "allowed": true,
+      "when": "Anytime before a decision is made",
+      "requirements": [
+        "Must provide details of all family members, whether migrating or not",
+        "Family members must meet health and character requirements"
+      ],
+      "eligible_family_members": [
+        "dependent child",
+        "stepchild"
+      ]
+    },
+    "costs": {
+      "base_cost_aud": 5280.0,
+      "payment_structure": "2 instalments",
+      "additional_costs": [
+        "Extra charge for each family member applying",
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "tools": [
+        "Visa Pricing Estimator (does not include second instalment or other costs)"
+      ]
+    },
+    "processing_times": {
+      "information_source": "visa processing time guide tool",
+      "notes": [
+        "Demand exceeds yearly available places",
+        "Processing can be lengthy",
+        "Times shown are for recently decided applications and are not specific to individual applications"
+      ],
+      "factors_that_cause_delays": [
+        "Incorrect application completion",
+        "Missing documents",
+        "Additional information required",
+        "Longer-than-usual verification time",
+        "Incorrect visa application charge payment"
+      ],
+      "queue_information": "Applications are subject to capping and queueing"
+    },
+    "visa_label": {
+      "label_provided": false,
+      "linking_method": "Visa is digitally linked to passport"
+    },
+    "eligibility": {
+      "sponsor_requirement": {
+        "must_be_sponsored": true,
+        "details": "Must be sponsored by an eligible relative or the relative's partner; sponsorship must be approved"
+      },
+      "age_requirement": "Must be old enough to receive the age pension in Australia",
+      "dependency_requirement": {
+        "description": "Must have been dependent on the relative in Australia for basic needs such as food, shelter, and clothing for at least the last 3 years",
+        "alternative": "Dependency may be due to disability preventing work"
+      },
+      "partner_requirement": "Applicant must have no partner",
+      "no_further_stay_condition": {
+        "must_not_have": true,
+        "check_in": "VEVO"
+      },
+      "assurance_of_support": {
+        "required": true,
+        "details": "Assures the government the applicant will not rely on public assistance; applies to the applicant and any migrating family members",
+        "notification": "The department will inform the applicant when to obtain the assurance"
+      },
+      "health_requirement": "Applicant and any applying family members must meet the health requirement"
+    },
+    "help_with_visa": {
+      "advice": "Read information on who can help with your visa application before paying someone"
+    },
+    "additional_notes": {
+      "reports_reference": "Reports on Migration Programs provide details on outcomes against planning levels",
+      "related_updates_link": "Update to ImmiAccount – new online services for paper-based Child, Other Family, Former Residents, and New Zealand Citizen Family Relationship visa applications"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

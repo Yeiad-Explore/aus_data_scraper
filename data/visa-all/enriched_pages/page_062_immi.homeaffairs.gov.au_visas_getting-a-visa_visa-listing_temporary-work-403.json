@@ -1,0 +1,84 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-work-403",
+  "title": "Temporary Work (International Relations) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Temporary Work (International Relations) visa (subclass 403) and its multiple streams. It outlines each stream's purpose, eligibility, stay periods, costs, and key conditions. The visa supports international relations through various work arrangements under formal agreements, government agency roles, diplomatic domestic work, privileges and immunities, labour mobility, and the MATES program.",
+  "structured_data": {
+    "visa_name": "Temporary Work (International Relations) visa",
+    "subclass": "403",
+    "description": "A temporary visa to work in specific circumstances that improve Australia’s international relations.",
+    "basic_eligibility": "Each stream has specific eligibility requirements.",
+    "streams": [
+      {
+        "stream_name": "Government Agreement stream",
+        "purpose": "Allows a person to work in Australia under the terms and conditions of a bilateral agreement between the Australian Government or a state/territory government and a government of another country.",
+        "stay": "You can stay until the time specified in the visa grant notice, up to 4 years.",
+        "cost": "From AUD375.00",
+        "processing_time": "Use the visa processing time guide tool for recent application decisions. It is a guide only and not specific to your application.",
+        "eligibility_requirements": [
+          "Be employed or engaged under the terms and conditions of a bilateral agreement between the Australian Government or a state/territory government and another country",
+          "Stay in Australia for up to 4 years",
+          "Apply for the visa in or outside Australia"
+        ]
+      },
+      {
+        "stream_name": "Foreign Government Agency stream",
+        "purpose": "Allows a person to come to Australia for specific activities, including working as a representative of a foreign government agency or as a foreign language teacher employed by a foreign government in an Australian school.",
+        "stay": "You can stay until the time specified in your visa grant notice, which may be up to 4 years.",
+        "cost": "From AUD375.00",
+        "processing_time": "Use the visa processing time guide tool for recent application decisions. It is a guide only and not specific to your application.",
+        "eligibility_requirements": [
+          "You can work as a representative of a foreign government agency that does not enjoy official status in Australia (provided that you would not, as a representative, enjoy official status in Australia)",
+          "You can work as a foreign language teacher employed by a foreign government in an Australian school",
+          "You can apply for the visa in or outside Australia, but not from immigration clearance"
+        ]
+      },
+      {
+        "stream_name": "Domestic Worker (Diplomatic or Consular) stream",
+        "purpose": "Allows a person aged 18 years or older to do temporary full-time domestic work in Australia in the household of someone who holds a Diplomatic (Temporary) visa (subclass 995).",
+        "stay": "Up to 12 months on the first visa. A further Domestic Worker stream visa allows stay for the time specified in the DFAT support letter.",
+        "cost": "From AUD375.00",
+        "processing_time": "Use the visa processing time guide tool for recent application decisions. It is a guide only and not specific to your application.",
+        "eligibility_requirements": [
+          "Do full-time domestic work in the household of someone who holds a Diplomatic (Temporary) visa (subclass 995)",
+          "Must be outside Australia the first time you apply and when the application is decided"
+        ]
+      },
+      {
+        "stream_name": "Privileges and Immunities stream",
+        "purpose": "Allows a person to come to Australia if they have, or expect to have, privileges and immunities under relevant legislation.",
+        "stay": "Stay for the time specified in the visa grant letter, usually the time you are an international representative with DFAT support.",
+        "cost": "Free",
+        "processing_time": "Use the visa processing time guide tool for recent application decisions. It is a guide only and not specific to your application.",
+        "eligibility_requirements": [
+          "You can stay in Australia while working as an international representative",
+          "Position must have, or expect to have, privileges and immunities under relevant legislation",
+          "A letter of support from DFAT is required"
+        ]
+      },
+      {
+        "stream_name": "Pacific Australia Labour Mobility (PALM) stream",
+        "purpose": "Allows a person to come to Australia to participate in the Pacific Australia Labour Mobility (PALM) scheme.",
+        "stay": "Stay until the time specified in the visa grant notice, which may be up to 4 years.",
+        "cost": "From AUD355.00",
+        "processing_time": "Use the visa processing time guide tool for recent application decisions. It is a guide only and not specific to your application.",
+        "eligibility_requirements": [
+          "Be a citizen and resident of a participating PALM scheme country",
+          "Be sponsored by a temporary activities sponsor approved by the Department of Employment and Workplace Relations (DEWR) as a PALM scheme employer",
+          "Work under the PALM scheme for up to 9 months under a short-term work contract",
+          "Work under the PALM scheme for up to 4 years under a long-term work contract"
+        ]
+      },
+      {
+        "stream_name": "Mobility Arrangement for Talented Early-professionals Scheme (MATES)",
+        "purpose": "Allows Indian graduates and early career professionals to live and work in Australia for up to 2 years. Applicants must be selected in a ballot to apply.",
+        "stay": "You can stay in Australia for up to 2 years.",
+        "cost": "From AUD375.00",
+        "processing_time": "Use the visa processing time guide tool for recent application decisions. It is a guide only and not specific to your application.",
+        "eligibility_requirements": []
+      }
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

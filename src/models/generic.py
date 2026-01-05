@@ -17,6 +17,10 @@ class CrawlConfig(BaseModel):
         default="same_path",
         description="How to filter discovered links"
     )
+    follow_all_links: bool = Field(
+        default=False,
+        description="Follow ALL links on the page, not just structural ones (tiles/cards/tabs)"
+    )
     follow_external: bool = Field(default=False, description="Whether to follow external links")
     expand_accordions: bool = Field(default=True, description="Expand interactive elements")
     accordion_selectors: List[str] = Field(
@@ -76,7 +80,8 @@ class GenericPageData(BaseModel):
 
     url: str = Field(..., description="Page URL")
     title: str = Field(..., description="Page title")
-    main_content: str = Field(..., description="Main content text")
+    raw_text: str = Field(default="", description="Full plain text content of the page")
+    main_content: str = Field(default="", description="Main content text (structured)")
     interactive_sections: List[InteractiveSection] = Field(
         default_factory=list,
         description="Interactive sections that were expanded"

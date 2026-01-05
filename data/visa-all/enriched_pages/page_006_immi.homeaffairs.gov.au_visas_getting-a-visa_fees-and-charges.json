@@ -1,0 +1,65 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges",
+  "title": "Fees and charges for visasFees and charges for visa",
+  "content_type": "fees_and_charges_information",
+  "summary": "This page provides detailed information about visa fees and related charges for Australian visa applications. It explains how visa costs are determined, circumstances that may affect charges, surcharge information, and links to resources such as the Visa Pricing Estimator and the Current Visa Pricing Table.",
+  "structured_data": {
+    "overview": {
+      "description": "The cost of visas changes over time. The visa charge applied is based on the date the application is received. If pricing increases between lodging and receipt of the application, the new charge must be paid.",
+      "payment_requirements": [
+        "Applicants must ensure their daily limit and available funds can cover applicable surcharges.",
+        "The visa application charge is the amount payable in AUD for a visa application.",
+        "In some cases, the visa application charge may be nil."
+      ]
+    },
+    "visa_pricing_estimator": {
+      "description": "A tool to estimate the cost of a visa.",
+      "link_text": "Visa pricing estimator"
+    },
+    "surcharges": {
+      "description": "A surcharge may apply when paying visa application charges, sponsorship fees, or nomination fees using credit card or PayPal.",
+      "link_text": "See details"
+    },
+    "current_pricing_table": {
+      "description": "The Visa Pricing Table helps applicants determine visa cost. It is divided into categories based on the applicant's intended activity in Australia.",
+      "categories": [
+        "visit",
+        "study",
+        "work",
+        "live",
+        "other",
+        "repealed or closed visas"
+      ],
+      "link_text": "See the current pricing table"
+    },
+    "application_charge_components": {
+      "components_list": [
+        "Visa application charge instalments",
+        "Base application charge",
+        "Additional applicant charge",
+        "Non-internet application charge",
+        "Subsequent temporary application charge",
+        "Calculating the visa application charge",
+        "What happens if the correct amount has not been paid?",
+        "Refunds"
+      ]
+    },
+    "fees_and_other_services": {
+      "services": [
+        "Assurance of support",
+        "Review of decisions",
+        "Related costs",
+        "APEC business travel card costs"
+      ]
+    },
+    "page_structure_labels_found": [
+      "Overview",
+      "Current pricing",
+      "Repealed or closed visas",
+      "Explanation of application charges",
+      "Fees and charges for other services"
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

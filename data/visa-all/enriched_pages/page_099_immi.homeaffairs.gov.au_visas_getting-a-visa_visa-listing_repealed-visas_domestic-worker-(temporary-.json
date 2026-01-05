@@ -1,0 +1,147 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/domestic-worker-(temporary-executive-visa)-(subclass-427)",
+  "title": "Domestic Worker (Temporary) Executive visa (subclass 427)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Domestic Worker (Temporary) Executive visa (subclass 427), which is closed to new applications. It explains the rights and obligations of existing visa holders and sponsors. It also outlines work conditions, family obligations, sponsorship rules, and sponsor compliance requirements.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Domestic Worker (Temporary) Executive visa",
+      "subclass": "427",
+      "status": "closed_to_new_applications",
+      "description": "This visa allows domestic workers to work in Australia in the household of an executive holding a Business (Long Stay) visa (subclass 457).",
+      "application_availability": "You cannot apply for this visa.",
+      "visa_finder_reference": true
+    },
+    "visa_holders_information": {
+      "purpose": "Information for people already granted this visa, including rights and obligations.",
+      "vevo_available": true,
+      "visa_validity": {
+        "duration": "valid for the period of the nominated position",
+        "maximum_duration": "2 years"
+      },
+      "permissions": [
+        "work in Australia as a domestic worker in the household of a Business (Long Stay) visa (subclass 457) holder",
+        "stay in Australia for the period of the nominated position (maximum two years)",
+        "bring family members (family can work and study)",
+        "travel in and out of Australia while the visa is valid"
+      ],
+      "visa_holder_obligations": [
+        "comply with all visa conditions and Australian laws",
+        "maintain adequate health insurance while in Australia"
+      ],
+      "work_conditions": {
+        "must": [
+          "not stop working for the employer who sponsored the visa",
+          "not engage in work inconsistent with the nominated position",
+          "not stay in Australia after the permanent departure of the employer",
+          "work only in the household of the sponsoring employer"
+        ]
+      },
+      "if_stop_working_for_sponsor": [
+        "apply for a different visa",
+        "leave Australia before visa expiry"
+      ],
+      "changing_sponsor": "Changing employers is not permitted on this visa. Visa finder can be used to search for another visa."
+    },
+    "family_obligations": {
+      "entry_and_departure": [
+        "family cannot enter Australia before the primary visa holder",
+        "family must leave Australia when the primary visa holder's visa ends"
+      ],
+      "requirements": [
+        "must intend to remain part of the family unit",
+        "must maintain adequate health insurance"
+      ],
+      "permissions": [
+        "family can work or study while their visa is valid"
+      ]
+    },
+    "change_notification_requirements": {
+      "changes_to_report": [
+        "changes to phone number, email, address or passport",
+        "changes to relationship status",
+        "birth of a child"
+      ],
+      "consequence_of_not_reporting_passport_changes": "significant delays at the airport and possible denial of boarding"
+    },
+    "sponsor_information": {
+      "sponsorship_status": "cannot apply to sponsor new applicants (visa closed)",
+      "vevo_for_organisations_available": true,
+      "sponsorship_validity": "cannot be used to sponsor domestic workers anymore"
+    },
+    "nominations": {
+      "nomination_end_conditions": [
+        "day written withdrawal notification is received",
+        "12 months after nomination approval date",
+        "3 months after sponsor approval ceases (if nomination approval was given to the sponsor)",
+        "day sponsor approval is cancelled (if nomination approval was given to the sponsor)",
+        "day on which visa was granted on the basis of the nomination"
+      ]
+    },
+    "sponsor_obligations": {
+      "overview": "Sponsors must comply with several obligations, even if someone else acts on their behalf.",
+      "obligations": [
+        "cooperate with inspectors",
+        "notify authorities when certain events occur",
+        "keep records",
+        "provide records and information when requested",
+        "not recover, transfer, or charge certain costs to another person",
+        "pay costs to locate and remove an unlawful non-citizen",
+        "ensure visa holder works in the nominated occupation or activity",
+        "pay travel costs for sponsored people to leave Australia",
+        "secure reasonable accommodation for the visa holder"
+      ],
+      "cooperate_with_inspectors": {
+        "inspection_purpose": [
+          "determine if sponsorship obligations are complied with",
+          "determine if illegal workers are employed",
+          "determine if administrative action is required"
+        ],
+        "obligation_period": {
+          "start": "day sponsorship is approved or work agreement begins",
+          "end": "5 years after sponsorship or work agreement ceases"
+        },
+        "examples_of_cooperation": [
+          "providing access to premises",
+          "producing documents within requested timeframe",
+          "not preventing access to individuals or documents",
+          "allowing interviews with any person on the premises"
+        ]
+      },
+      "record_keeping": {
+        "requirements": [
+          "must keep records that show compliance with obligations",
+          "records must be reproducible and independently verifiable",
+          "must keep copies of all required notifications, including dates, methods, and locations"
+        ],
+        "obligation_period": {
+          "start": "day sponsorship is approved",
+          "end": "two years after sponsor is no longer approved AND no longer sponsoring anyone",
+          "maximum_record_duration": "5 years"
+        }
+      },
+      "provide_records_to_minister": {
+        "requirements": [
+          "must provide requested records or information within the specified timeframe",
+          "must provide records required under Commonwealth, state or territory law",
+          "must provide records required as a sponsor"
+        ],
+        "obligation_period": {
+          "start": "day sponsorship is approved or work agreement commences",
+          "end": "two years after sponsorship or work agreement ceases and no sponsored visa holders remain"
+        }
+      },
+      "notify_events": {
+        "notification_method": [
+          "written notice sent by registered post or email to a specified address"
+        ],
+        "events_to_report": [
+          "cessation or expected cessation of primary visa holder’s employment",
+          "changes to sponsor address or contact details"
+        ]
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,106 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/carer-116",
+  "title": "Carer visa",
+  "content_type": "visa_information",
+  "summary": "This page provides comprehensive information about the Carer visa (subclass 116), a permanent visa allowing individuals to move to Australia to provide long-term care for an eligible relative who has no reasonable access to care in Australia. It includes eligibility criteria, costs, processing details, obligations, travel rights, and application requirements.",
+  "structured_data": {
+    "visa_name": "Carer visa",
+    "subclass": "116",
+    "visa_type": "Permanent",
+    "description": "This visa allows a person to move to Australia to provide ongoing, substantial care for an Australian relative or a relative’s family member with a long-term medical condition who has no reasonable access to care options in Australia.",
+    "important_updates": {
+      "immiaccount_import_start_date": "23 July 2025",
+      "applicable_subclasses": [
+        "114",
+        "115",
+        "116",
+        "835",
+        "836",
+        "838"
+      ],
+      "import_limitations": "Some existing applications made outside Australia before 25 June 2020 cannot be imported into ImmiAccount."
+    },
+    "stay_and_travel_rights": {
+      "stay_duration": "Indefinite",
+      "travel_facility_duration": "5 years from visa grant",
+      "post_5_year_travel_requirements": [
+        "Resident Return Visa (RRV) to re-enter as a permanent resident",
+        "Consider Australian citizenship (requires Australian passport for re-entry)"
+      ]
+    },
+    "benefits": [
+      "Stay in Australia indefinitely",
+      "Work and study in Australia",
+      "Enrol in Medicare",
+      "Sponsor relatives",
+      "Travel to and from Australia for 5 years",
+      "Attend free English classes under the Adult Migrant English Program (if eligible)",
+      "Apply for Australian citizenship (if eligible)"
+    ],
+    "application_requirements": {
+      "apply_from": "Outside Australia",
+      "must_be_outside_australia_at_decision": true,
+      "sponsorship": "You must be sponsored by your relative or their partner for your first 2 years in Australia.",
+      "care_requirements": "You must provide ongoing substantial care for an Australian relative or their family member who lives with them and has no reasonable access to care options in Australia."
+    },
+    "eligibility": {
+      "be_a_carer": "You must be willing and able to provide ongoing substantial care and support for the person needing care.",
+      "understand_care_needs": "Applicant must understand the sponsor’s medical condition and care requirements.",
+      "have_a_sponsor": "You must be sponsored by an eligible sponsor.",
+      "location_requirement": "Must be outside Australia when applying and when a decision is made."
+    },
+    "family": {
+      "can_include_family": true,
+      "requirements_for_family_members": [
+        "Must meet health requirements",
+        "Must meet character requirements"
+      ]
+    },
+    "costs": {
+      "main_applicant_fee_from": "AUD 2,175.00",
+      "payment_structure": "Two instalments",
+      "first_instalment": "Paid at time of application",
+      "second_instalment": "Paid when requested",
+      "possible_fee_reductions": "Second instalment may be reduced to nil if applicant can show severe financial hardship affecting themselves or the person receiving care. Not applicable to secondary applicants.",
+      "additional_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "visa_pricing_estimator_note": "Does not include second instalment or additional costs."
+    },
+    "processing_times": {
+      "general_info": "Demand exceeds places available each year; processing can be lengthy.",
+      "guide_tool": "Visa processing time guide tool provides indicative processing times.",
+      "delays_caused_by": [
+        "Incorrect application",
+        "Missing documents",
+        "Need for additional verification",
+        "Incorrect payment amount"
+      ],
+      "capping_and_queueing": true,
+      "related_resources": [
+        "Other Family Visa Queue",
+        "Migration Program outcome reports"
+      ]
+    },
+    "obligations": {
+      "first_entry_requirement": "Must enter Australia before the date specified in the grant letter (typically within 12 months of visa grant).",
+      "general_obligations": "Must meet all visa conditions and obey Australian laws.",
+      "visa_conditions_info": "See visa conditions page."
+    },
+    "travel": {
+      "travel_rights": "Unlimited travel to and from Australia for 5 years from grant date.",
+      "post_5_year_requirement": "RRV subclass 155 or 157 required to re-enter as a permanent resident.",
+      "visa_label": "No physical label; visa is digitally linked to passport."
+    },
+    "related_links": [
+      "Update to ImmiAccount — new online services for paper-based Child, Other Family, Former Residents, and New Zealand Citizen Family Relationship visa applications",
+      "Visa processing time guide tool",
+      "Other Family Visa Queue",
+      "VEVO"
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

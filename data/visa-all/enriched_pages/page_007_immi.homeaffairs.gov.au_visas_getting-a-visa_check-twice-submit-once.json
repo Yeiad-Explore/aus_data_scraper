@@ -1,0 +1,88 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/check-twice-submit-once",
+  "title": "​​​Check twice, submit once​",
+  "content_type": "general_visa_guidance",
+  "summary": "This page provides guidance on how to submit a complete, 'decision ready' visa application to ensure faster processing. It outlines common requirements, document preparation tips, and steps for using ImmiAccount for online visa applications.",
+  "structured_data": {
+    "page_title": "Check twice, submit once",
+    "key_messages": [
+      "Get your visa application right the first time for faster processing.",
+      "Ensure all required documents and correct information are included at the time of application.",
+      "Submit applications well ahead of travel plans."
+    ],
+    "visa_application_categories": [
+      {
+        "category": "visitor_visa",
+        "message": "Get here sooner, not later."
+      },
+      {
+        "category": "student_visa",
+        "message": "Don't miss your deadline."
+      },
+      {
+        "category": "skilled_visa",
+        "message": "New opportunities await."
+      },
+      {
+        "category": "family_visa",
+        "message": "Join your family sooner than expected."
+      }
+    ],
+    "decision_ready_application_tips": {
+      "document_requirements": [
+        "Ensure all required documents and correct information are included when applying.",
+        "Translate all non-English documents into English.",
+        "If in Australia, include the translator's NAATI practitioner number.",
+        "If outside Australia, include the translator’s full name, address, phone number, and qualifications in the translated language.",
+        "Check that your name is spelled correctly and matches the passport used for the application.",
+        "Check for autocorrect issues and list all names you have previously been known by."
+      ],
+      "under_18_requirements": [
+        "Submit a copy of your passport.",
+        "Submit your birth certificate.",
+        "Submit copies of each parent’s passport."
+      ],
+      "police_certificates": {
+        "requirement": "Get police certificates before applying.",
+        "validity": "Certificates must have been issued within the 12 months before applying."
+      },
+      "health_checks": {
+        "requirement": "Most visa applications require a health check.",
+        "option": "Applicants may be able to get their health check before applying using the My Health Declarations Service.",
+        "access": "Accessible through 'Check when to have health examinations'."
+      },
+      "immiaccount_monitoring": [
+        "Check your ImmiAccount inbox regularly for updates and requests.",
+        "Respond quickly to requests for information to avoid delays.",
+        "If you cannot provide requested information, notify the department and explain why."
+      ],
+      "biometric_data": "Get biometric data collected promptly once requested.",
+      "submission_timing": [
+        "Submit applications well ahead of intended travel.",
+        "Book flights only after visa grant."
+      ]
+    },
+    "steps_to_find_visa_document_requirements": [
+      "Visit Department of Home Affairs website.",
+      "Enter the visa subclass number into the search bar (e.g., Visitor subclass 600).",
+      "Select the webpage for the chosen visa subclass.",
+      "Click the 'step by step' tab.",
+      "Navigate to 'gather your documents', click 'show steps', then click through the 'see how' options."
+    ],
+    "immiaccount_information": {
+      "description": "ImmiAccount is the required platform for applying for most Australian visas.",
+      "setup_tip": "Choose to receive electronic communication when creating an account.",
+      "functions": [
+        "Track the progress of an application.",
+        "See requests for additional information.",
+        "Add more information or documents.",
+        "Update contact details."
+      ],
+      "related_links": [
+        "Learn how to create an ImmiAccount or login."
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

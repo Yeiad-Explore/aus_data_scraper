@@ -1,0 +1,131 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190",
+  "title": "Skilled Nominated visa",
+  "content_type": "visa_information",
+  "summary": "This page provides official information about the Skilled Nominated Visa (Subclass 190), a permanent residency visa for skilled workers nominated by an Australian state or territory. It outlines visa benefits, eligibility criteria, costs, application requirements, and conditions after grant.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Skilled Nominated visa",
+      "subclass": "190",
+      "description": "This visa lets nominated skilled workers live and work in Australia as permanent residents.",
+      "stay_type": "Permanent",
+      "cost_from": "AUD 4,910.00",
+      "travel_validity": "5 years from the date of visa grant",
+      "permanent_residency_effective_date": {
+        "if_in_australia": "Date the visa is granted",
+        "if_outside_australia": "Date of first entry into Australia with this visa"
+      }
+    },
+    "what_you_can_do": [
+      "Live and stay in Australia permanently",
+      "Work and study anywhere in Australia",
+      "Attend free English language classes through the Adult Migrant English Program (if eligible)",
+      "Enrol in Medicare",
+      "Sponsor eligible relatives for permanent residency",
+      "Travel to and from Australia for 5 years",
+      "Become an Australian citizen if eligible"
+    ],
+    "conditions_and_limitations": {
+      "waiting_period_for_benefits": "Newly arrived residents may need to wait before accessing certain Australian Government payments and benefits."
+    },
+    "eligibility": {
+      "occupation_requirement": "Must have an occupation on the relevant skilled list",
+      "skills_assessment": {
+        "requirement": "Must have a suitable skills assessment for the nominated occupation",
+        "validity_note": "Skills assessment obtained within the 60‑day invitation period is accepted (Thapa decision)",
+        "medical_and_legal_exemptions": [
+          "Full, unconditional, or general medical registration with AHPRA",
+          "Conditional specialist registration with AHPRA (must allow practice without supervision)",
+          "Admission to practice law in the relevant state or territory"
+        ]
+      },
+      "invitation_requirement": "Must be invited to apply",
+      "points_test": "Must satisfy the points test",
+      "nomination": {
+        "requirement": "Must be nominated by an Australian state or territory government agency",
+        "process": "Submit an Expression of Interest (EOI) through SkillSelect",
+        "state_territory_links": [
+          "Australian Capital Territory",
+          "New South Wales",
+          "Northern Territory",
+          "Queensland",
+          "South Australia",
+          "Tasmania",
+          "Victoria",
+          "Western Australia"
+        ],
+        "note_on_withdrawn_nomination": "If the nominating state or territory withdraws your nomination after application, your application becomes invalid."
+      },
+      "visa_status_if_applying_in_australia": [
+        "A substantive visa",
+        "Bridging visa A (subclass 010)",
+        "Bridging visa B (subclass 020)",
+        "Bridging visa C (subclass 030)"
+      ],
+      "special_conditions_for_previous_visas": {
+        "applies_if_last_or_current_visa": [
+          "Skilled Work Regional (Provisional) (subclass 491)",
+          "Skilled Employer Sponsored Regional (Provisional) (subclass 494)"
+        ],
+        "requirement": "Must have held that visa for at least 3 years at the time of application"
+      }
+    },
+    "including_family": {
+      "can_include_family": true,
+      "when_to_include": [
+        "At time of application",
+        "After lodging the application but before a decision is made"
+      ],
+      "requirements": {
+        "health_requirements": "All family members applying must meet health requirements; non-accompanying family may also need to meet them",
+        "character_requirements": "All family members applying must meet character requirements"
+      },
+      "note": "If partner or dependent children are not included, you must provide a reason."
+    },
+    "costs": {
+      "base_application_fee_main_applicant": "AUD 4,910.00",
+      "family_member_fee": "Varies per family member",
+      "second_instalment_charge": {
+        "applies_to": "Applicants aged 18 or over with less than functional English",
+        "amount": "AUD 4,885",
+        "when_paid": "Only when requested and only if the visa is going to be granted"
+      },
+      "other_possible_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "tools": {
+        "visa_pricing_estimator_note": "Does not include second instalment or other additional costs"
+      }
+    },
+    "apply_from": {
+      "location": "You can be inside or outside Australia when applying and when the visa is decided",
+      "cannot_be_in": "Immigration clearance",
+      "additional_requirements_if_in_australia": "Must hold a substantive visa or eligible Bridging visa (A, B, or C)"
+    },
+    "processing_times": {
+      "tool": "Visa processing time guide tool",
+      "disclaimer": "Processing times are indicative only and not specific to individual applications",
+      "case_by_case_factors": [
+        "Completeness of the application and documentation",
+        "How quickly additional information is provided",
+        "Time required for background checks",
+        "Time to receive information from external agencies (health, character, national security)",
+        "Number of places available in the migration program"
+      ]
+    },
+    "travel": {
+      "travel_rights": "Unlimited travel in and out of Australia for 5 years from visa grant",
+      "after_5_years": "Need Resident Return Visa (subclass 155 or 157) to re-enter as a permanent resident"
+    },
+    "visa_label": {
+      "note": "Visa is digitally linked to passport; no physical label provided"
+    },
+    "support": {
+      "getting_help_with_visa": "Read the information on who can help with your visa application before you pay someone."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

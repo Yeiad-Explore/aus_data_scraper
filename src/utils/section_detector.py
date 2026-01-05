@@ -72,16 +72,18 @@ class SectionDetector:
         "a[href='#']",
     ]
 
-    def __init__(self, base_url: str, link_filter: str = "same_path"):
+    def __init__(self, base_url: str, link_filter: str = "same_path", follow_all_links: bool = False):
         """
         Initialize section detector.
 
         Args:
             base_url: The base URL being scraped
             link_filter: "same_path", "same_domain", or "all"
+            follow_all_links: If True, treat ALL links as structural (follow them all)
         """
         self.base_url = base_url
         self.link_filter = link_filter
+        self.follow_all_links = follow_all_links
         self.base_parsed = urlparse(base_url)
 
     def get_expandable_elements(self, soup: BeautifulSoup) -> List[Tuple[Tag, str]]:
@@ -142,8 +144,9 @@ class SectionDetector:
         if any(pattern in href for pattern in ['/section/', '/category/', '/topic/']):
             return True
 
-        # Check for anchor links (same-page sections)
-        if href.startswith('#') and len(href) > 1:
+        # Check for anchor links (same-page sections) - but ONLY if not follow_all_links mode
+        # In follow_all_links mode, we want to prioritize actual page links over anchors
+        if not self.follow_all_links and href.startswith('#') and len(href) > 1:
             return True
 
         return False
@@ -285,7 +288,13 @@ class SectionDetector:
                 continue
 
             # Determine if structural or reference
-            if self.is_structural_link(link):
+            # In follow_all_links mode, ALL links are treated as structural
+            if self.follow_all_links or self.is_structural_link(link):
+                # Skip anchor-only links in follow_all_links mode (they're same-page references)
+                parsed_url = urlparse(absolute_url)
+                if self.follow_all_links and parsed_url.fragment and not parsed_url.path:
+                    # This is a same-page anchor like #section - skip it
+                    continue
                 structural_links.append(absolute_url)
                 logger.debug(f"Structural link: {absolute_url}")
             else:

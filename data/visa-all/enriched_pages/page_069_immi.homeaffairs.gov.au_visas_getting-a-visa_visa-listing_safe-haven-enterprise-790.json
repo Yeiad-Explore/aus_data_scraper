@@ -1,0 +1,125 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/safe-haven-enterprise-790",
+  "title": "Safe Haven Enterprise visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Safe Haven Enterprise visa (subclass 790), a temporary protection visa for people who arrived in Australia without a visa and are seeking asylum. It outlines eligibility, visa conditions, permitted activities, obligations, processing details, family inclusion rules, and travel restrictions.",
+  "structured_data": {
+    "visa_name": "Safe Haven Enterprise visa",
+    "subclass": "790",
+    "description": "A temporary visa for people who arrived in Australia without a visa and want to seek asylum. Allows temporary stay if Australia’s protection obligations are engaged and other requirements are met.",
+    "stay_duration": "5 years",
+    "cost": "Not specified",
+    "processing_times": {
+      "availability": "Unavailable",
+      "notes": "Applications are complex and may take time. Timeliness depends on providing complete and accurate information."
+    },
+    "with_this_visa_you_can": [
+      "Stay in Australia temporarily for 5 years",
+      "Live, work and study in Australia",
+      "Access government services such as Workforce Australia, Medicare, and Centrelink",
+      "Access short-term counselling for torture and trauma when required",
+      "Attend free English language classes if eligible",
+      "Travel overseas to countries other than your home country with written approval for compassionate or compelling reasons"
+    ],
+    "eligibility": {
+      "protection_obligations": "Must engage Australia’s protection obligations or be a member of the same family unit of someone who does",
+      "additional_requirements": [
+        "Meet health, character, identity and security requirements",
+        "Sign a declaration stating intention to work or study in regional Australia"
+      ],
+      "arrival_conditions": "Must have arrived in Australia without a valid visa or without being immigration cleared"
+    },
+    "application_rules": {
+      "apply_from": "Applicants and included family members must be in Australia when applying.",
+      "family_inclusion": {
+        "allowed": true,
+        "requirements": [
+          "Family members must be in Australia",
+          "Family members must be eligible to apply for this visa"
+        ],
+        "members_of_same_family_unit": {
+          "categories": [
+            "Spouse or de facto partner of the family head",
+            "Dependent child or step-child of the family head",
+            "Dependent child or step-child of the family head's partner",
+            "Other dependent relatives of the family head"
+          ],
+          "dependent_child_definition": {
+            "age_requirements": "Under 18, or 18+ if incapacitated for work or substantially reliant on parent/step-parent",
+            "exclusions": "Children of any age who are married, engaged, or in a de facto relationship"
+          },
+          "other_dependent_relatives_definition": {
+            "possible_relatives": [
+              "Parent",
+              "Brother/sister",
+              "Grandparent/grandchild",
+              "Aunt/uncle",
+              "Cousin",
+              "Niece/nephew",
+              "Step-equivalents"
+            ],
+            "dependency_criteria": [
+              "Must not have a spouse or de facto partner",
+              "Must usually live with the family head",
+              "Must be wholly or substantially reliant for financial, psychological, or physical support"
+            ]
+          },
+          "requirements_for_all_family_members": [
+            "Must meet health requirements",
+            "Must meet character requirements",
+            "Must meet security requirements"
+          ]
+        },
+        "newborn_child_rules": {
+          "automatic_inclusion": "Child born after application lodgement and before decision is automatically included in application",
+          "notification_requirements": [
+            "Complete Form 1022 Notification of change of circumstances",
+            "Provide clear colour copy of birth certificate",
+            "Upload in ImmiAccount or send certified copy by post if posting"
+          ],
+          "citizenship_note": "Child born in Australia receives same visa as parents unless one parent is an Australian citizen or permanent resident, in which case the child may be an Australian citizen by birth"
+        }
+      }
+    },
+    "stay_longer_information": {
+      "rules_after_14_feb_2023": "Must apply for a subsequent SHEV or TPV before the current visa expires if still needing protection and not barred.",
+      "rules_before_14_feb_2023": "Eligible TPV/SHEV holders or former holders may apply for the permanent Resolution of Status (RoS) visa (subclass 851)."
+    },
+    "review_rights": {
+      "review_body": "Administrative Review Tribunal (ART)",
+      "conditions": "If SHEV application is refused",
+      "notes": "Refusal letter includes details and timeframes for review rights"
+    },
+    "obligations": [
+      "Must meet all visa conditions",
+      "Must obey Australian laws"
+    ],
+    "travel_conditions": {
+      "before_application_decision": "Leaving Australia before decision causes bridging visa to expire and prevents re-entry.",
+      "after_grant": {
+        "visa_condition_8570": {
+          "name": "Restricted travel",
+          "restrictions": [
+            "Cannot travel to home country under any circumstances",
+            "Can only enter other countries with written approval for compassionate or compelling reasons",
+            "Travelling without approval may result in cancellation of visa (and family members’ visas)"
+          ]
+        }
+      }
+    },
+    "visa_label": "No physical label. Visa is digitally linked to travel document or ImmiCard.",
+    "withdrawal_rules": {
+      "consequences": [
+        "May be prevented from applying for a SHEV or TPV again",
+        "Bridging visa expires 35 days after withdrawal"
+      ],
+      "requirements_for_withdrawal": [
+        "Request must be in writing",
+        "Must include full name, date of birth, and details of application",
+        "All additional applicants aged 18+ must sign or provide separate withdrawal letters"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

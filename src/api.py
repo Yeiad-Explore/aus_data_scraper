@@ -1,6 +1,8 @@
 """REST API server for the Generic Web Scraper."""
 
 import asyncio
+import uuid
+from datetime import datetime
 from typing import Optional
 
 import structlog
@@ -50,6 +52,10 @@ class ScrapeRequest(BaseModel):
         description="Link filter strategy",
         pattern="^(same_path|same_domain|all)$"
     )
+    follow_all_links: bool = Field(
+        default=False,
+        description="Follow ALL links on the page, not just structural ones (tiles/cards/tabs)"
+    )
     save_individual_pages: bool = Field(
         default=True,
         description="Whether to save individual page extractions"
@@ -62,11 +68,12 @@ class ScrapeRequest(BaseModel):
     class Config:
         json_schema_extra = {
             "example": {
-                "url": "https://immi.homeaffairs.gov.au/entering-and-leaving-australia/entering-australia/overview",
-                "name": "entering_australia",
+                "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+                "name": "visa_listing",
                 "depth": 1,
-                "max_pages": 10,
-                "filter": "same_path",
+                "max_pages": 150,
+                "filter": "same_domain",
+                "follow_all_links": True,
                 "save_individual_pages": True,
                 "final_synthesis": True
             }
@@ -105,7 +112,8 @@ async def run_scraper(job_id: str, request: ScrapeRequest):
         crawl_config = CrawlConfig(
             depth=request.depth,
             max_pages=request.max_pages,
-            link_filter=request.filter
+            link_filter=request.filter,
+            follow_all_links=request.follow_all_links
         )
 
         job_config = JobConfig(
@@ -181,7 +189,6 @@ async def scrape(request: ScrapeRequest, background_tasks: BackgroundTasks):
         ScrapeResponse with job details
     """
     # Generate job ID
-    import uuid
     job_id = str(uuid.uuid4())
 
     # Store job info
@@ -190,14 +197,10 @@ async def scrape(request: ScrapeRequest, background_tasks: BackgroundTasks):
         "job_name": request.name,
         "url": str(request.url),
         "status": "queued",
-        "created_at": None,
+        "created_at": datetime.utcnow().isoformat(),
         "result": None,
         "error": None
     }
-
-    # Add import for datetime
-    from datetime import datetime
-    scraping_jobs[job_id]["created_at"] = datetime.utcnow().isoformat()
 
     # Add scraping task to background
     background_tasks.add_task(run_scraper, job_id, request)

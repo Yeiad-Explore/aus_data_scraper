@@ -1,0 +1,59 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/partner-onshore",
+  "title": "Partner visas (apply in Australia)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about Partner visas (subclasses 820 and 801) for applicants applying within Australia. It explains eligibility criteria, visa descriptions, costs, and processing details for both the temporary (820) and permanent (801) stages. Applicants apply for both visas together but receive the permanent visa only after meeting eligibility requirements.",
+  "structured_data": {
+    "visa_program": {
+      "title": "Partner visas (apply in Australia)",
+      "subclasses": [
+        "820",
+        "801"
+      ],
+      "description": "Allows the partner or spouse of an Australian citizen, Australian permanent resident or eligible New Zealand citizen to live in Australia. Applicants apply for the temporary and permanent partner visas together."
+    },
+    "basic_eligibility": {
+      "must_be": "spouse (married) or de facto partner",
+      "partner_types": [
+        "Australian citizen",
+        "Australian permanent resident",
+        "eligible New Zealand citizen"
+      ]
+    },
+    "subclass_820_temporary": {
+      "visa_name": "Partner visa (Temporary)",
+      "description": "This visa lets the de facto partner or spouse of an Australian citizen, Australian permanent resident or eligible New Zealand citizen live in Australia temporarily. It is the first step toward a permanent Partner visa (subclass 801).",
+      "key_points": [
+        "This is a temporary visa",
+        "This leads directly to the permanent Partner visa",
+        "You must be in Australia when you apply"
+      ],
+      "stay": "Temporarily until the permanent Partner visa (subclass 801) application is finalised or the applicant withdraws the application.",
+      "cost": {
+        "most_applicants": "AUD 9,365.00",
+        "prospective_marriage_visa_holders_subclass_300": "AUD 1,560.00"
+      },
+      "processing_time": {
+        "notes": "Processing times are available via the visa processing time guide tool. They are indicative only and not specific to individual applications."
+      }
+    },
+    "subclass_801_permanent": {
+      "visa_name": "Partner visa (Permanent)",
+      "description": "This visa lets the de facto partner or spouse of an Australian citizen, Australian permanent resident or eligible New Zealand citizen live in Australia permanently. It is usually only for people who currently hold a temporary Partner visa (subclass 820).",
+      "key_points": [
+        "This is a permanent visa",
+        "You must hold a temporary Partner visa (subclass 820)"
+      ],
+      "stay": "Permanently",
+      "cost": {
+        "notes": "The cost is paid when applying for the temporary and permanent Partner visas together."
+      },
+      "processing_time": {
+        "notes": "Processing times are available via the visa processing time guide tool. They are indicative only and not specific to individual applications.",
+        "processing_time_starts": "From the date of eligibility, which is 2 years after the applicant applied for the temporary and permanent Partner visas."
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

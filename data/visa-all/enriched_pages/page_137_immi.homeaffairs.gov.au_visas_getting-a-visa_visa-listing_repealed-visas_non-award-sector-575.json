@@ -1,0 +1,132 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/non-award-sector-575",
+  "title": "Non Award Sector visa (subclass 575)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for existing holders or pending applicants of the closed Non Award Sector visa (subclass 575). It explains what the visa allows, how long it lasts, and the obligations of students and their dependent family members. It also details rules about education provider changes, welfare requirements for minors, and reporting responsibilities.",
+  "structured_data": {
+    "visa_name": "Non Award Sector visa",
+    "subclass": "575",
+    "application_status": {
+      "is_open": false,
+      "closed_to_new_applications_on": "1 July 2016",
+      "alternate_visa_for_extensions": "Student Visa (subclass 500)"
+    },
+    "applicable_audience": [
+      "People who already hold a Non Award Sector visa (subclass 575)",
+      "People who applied for the visa on or before 30 June 2016 and are awaiting a decision"
+    ],
+    "visa_entitlement_verification": {
+      "service_name": "Visa Entitlement Verification Online (VEVO)",
+      "purpose": "Check visa details and conditions",
+      "cost": "Free"
+    },
+    "visa_validity": {
+      "valid_until": "Expiry date provided at time of grant"
+    },
+    "visa_rights": {
+      "study_rights": [
+        "Visa holder can study in Australia",
+        "Family members aged 18 or older can study up to 3 months; must apply for their own student visa for study exceeding 3 months (can apply in Australia)"
+      ],
+      "work_rights": {
+        "visa_holder": [
+          "Work up to 40 hours per fortnight once course has commenced",
+          "Work unlimited hours during scheduled course breaks",
+          "Must comply with State and Territory workplace laws"
+        ],
+        "family_members": [
+          "Work up to 40 hours per fortnight after the visa holder has commenced their course"
+        ]
+      },
+      "family_members": [
+        "Eligible dependent family members can accompany the student to Australia"
+      ]
+    },
+    "obligations": {
+      "general_student_obligations": [
+        "Comply with visa conditions or risk visa cancellation",
+        "Comply with Australian laws"
+      ],
+      "course_change_requirements": [
+        "If changing to a course in a different education sector, must apply for Student Visa (subclass 500)",
+        "Visa subclass 575 is not appropriate for different education sectors"
+      ],
+      "streamlined_visa_processing_obligations": {
+        "applies_if": [
+          "Visa was granted under streamlined visa processing (SVP)"
+        ],
+        "requirements": [
+          "Must continue to satisfy requirements for grant of visa",
+          "Visa may be cancelled if transferring to a non-eligible education provider (before 1 July 2016)"
+        ],
+        "additional_risk_conditions": [
+          "Within first 12 months of visa grant",
+          "Applicant is not from a country that was Assessment Level 1 before 1 July 2016"
+        ]
+      }
+    },
+    "changing_education_provider": {
+      "requirements_under_esos_national_code": [
+        "If less than six months of principal course completed, transfer may be restricted",
+        "Permission from existing education provider usually required unless special circumstances apply"
+      ],
+      "obligations_of_education_providers": [
+        "Must assess or consider transfer request",
+        "Must have documented transfer policy"
+      ],
+      "student_guidance": [
+        "Understand the provider's transfer policy",
+        "Review written agreement before attempting enrolment with a new provider"
+      ],
+      "appeals_process": {
+        "steps": [
+          "Access internal appeal process with current education provider",
+          "If unsatisfied, appeal to external complaints handling body"
+        ],
+        "external_bodies": [
+          "State or Territory Ombudsman",
+          "Overseas Student Ombudsman"
+        ]
+      }
+    },
+    "students_under_18": {
+      "welfare_requirements": [
+        "Must maintain adequate accommodation, support, and general welfare arrangements until visa expiry or turning 18"
+      ],
+      "welfare_arrangements_with_provider": [
+        "Cannot travel to Australia until welfare arrangements commence",
+        "Provider-nominated welfare start date is listed on the CAAW (Confirmation of Appropriate Accommodation/Welfare Arrangements) letter"
+      ],
+      "guardian_travel_requirements": [
+        "If a guardian must leave Australia without the student, alternative welfare arrangements must be approved beforehand or visa may be cancelled"
+      ]
+    },
+    "no_further_stay_condition": {
+      "description": "Some visas include this condition",
+      "meaning": "Cannot apply to stay in Australia beyond the specified date except in certain circumstances"
+    },
+    "change_notification_requirements": {
+      "must_notify": [
+        "Changes to phone number, email, address, or passport",
+        "Changes to relationship status",
+        "Birth of a child"
+      ]
+    },
+    "family_member_obligations": {
+      "general_requirements": [
+        "Must maintain visa conditions",
+        "Breaches may result in cancellation of the main visa holder’s visa"
+      ],
+      "specific_conditions": [
+        "Remain a dependent family member for the duration of stay",
+        "Have adequate financial support",
+        "Maintain adequate health cover",
+        "Work no more than 40 hours per fortnight and only after the main visa holder has commenced study",
+        "Attend school if of school age"
+      ],
+      "responsibility_note": "Main visa holder is responsible for ensuring family members comply"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

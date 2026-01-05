@@ -1,0 +1,66 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/domestic-worker-temporary-diplomatic-consular-426",
+  "title": "Domestic Worker (Temporary) Diplomatic and Consular visa (subclass 426)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for current holders of the Domestic Worker (Temporary) Diplomatic and Consular visa (subclass 426), which closed to new applications on 24 November 2012. It explains visa validity, rights, obligations, and responsibilities for both visa holders and sponsors. It also outlines what changes must be reported to authorities.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Domestic Worker (Temporary) Diplomatic and Consular visa",
+      "subclass": "426",
+      "status": "closed to new applications",
+      "closure_date": "24 November 2012",
+      "alternative_visa_option": {
+        "visa_name": "Temporary Work (International Relations) visa",
+        "subclass": "403"
+      },
+      "applicability": "Information provided is for people already granted this visa."
+    },
+    "visa_entitlements": {
+      "what_visa_lets_you_do": [
+        "enter Australia temporarily",
+        "work in domestic duties in the household of a Diplomatic (Temporary) visa (subclass 995) holder",
+        "enter and leave Australia while the visa is valid"
+      ]
+    },
+    "visa_duration": {
+      "duration_description": "Visa length depends on the circumstances of the visa holder and employer.",
+      "maximum_duration_limit": "Cannot exceed length of employer’s diplomatic posting."
+    },
+    "visa_holder_obligations": {
+      "general_obligations": [
+        "comply with all visa conditions and Australian laws",
+        "maintain adequate health insurance",
+        "continue to meet requirements of the granted visa stream",
+        "meet Australian taxation obligations if working in Australia"
+      ],
+      "specific_restrictions": [
+        "work only in the household of the employer",
+        "work only performing domestic duties",
+        "not work for another person or for yourself",
+        "not stay in Australia if the employer leaves permanently unless approved by the Department of Foreign Affairs and Trade",
+        "seek agreement from the Department of Foreign Affairs and Trade to transfer employment and enter a new employment agreement in another diplomatic household"
+      ]
+    },
+    "sponsor_obligations": {
+      "description": "Sponsor is the employer.",
+      "requirements": [
+        "provide at least minimum standards for wages and working conditions under Australian law",
+        "ensure the visa holder leaves Australia when the visa ends or the job finishes",
+        "pay the cost of travel for the visa holder to return to their home country"
+      ]
+    },
+    "notification_requirements": {
+      "must_notify_changes": [
+        "change to phone number, email, address, or passport",
+        "change to relationship status",
+        "birth of a child"
+      ],
+      "consequences_of_not_reporting_passport_changes": "May experience significant delays at the airport and may be denied permission to board a plane."
+    },
+    "additional_information": {
+      "vevo_availability": "Visa Entitlement Verification Online (VEVO) can be used for free to check visa details and entitlements."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

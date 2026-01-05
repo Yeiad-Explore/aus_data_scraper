@@ -1,0 +1,46 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/bridging-visa-e-050-051",
+  "title": "Bridging visa E (BVE)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Bridging visa E (BVE) subclasses 050 and 051. It explains what each visa is used for, eligibility criteria, costs, and processing time guidance. Both visas allow applicants to stay lawfully in Australia under specific circumstances while immigration matters are resolved.",
+  "structured_data": {
+    "visa_name": "Bridging visa E",
+    "visa_subclasses": [
+      {
+        "subclass": "050",
+        "description": "This visa lets you stay lawfully in Australia while you make arrangements to leave, finalise your immigration matter or wait for an immigration decision.",
+        "cost": "There is no fee for a BVE application.",
+        "eligibility": [
+          "Comply with all Australian laws",
+          "Be in Australia when the application is decided (this also applies to anyone included in the application)"
+        ],
+        "notes": [
+          "Free to apply for",
+          "Used to rectify immigration status, generally if currently unlawful, the holder of a BVE 050, or the holder of a BVD 041"
+        ],
+        "stay_period": "Temporarily",
+        "processing_time": "Processing times can be checked using the visa processing time guide tool; it is only an indicative guide."
+      },
+      {
+        "subclass": "051",
+        "description": "This visa lets you stay in Australia while your Protection visa application is being processed.",
+        "cost": "There is no fee for a BVE application.",
+        "eligibility_notes": [
+          "Used in limited situations for eligible non-citizens (as specified by the Regulations)",
+          "Applicant must not be stopped from making a bridging visa application under the Migration Act or Regulations"
+        ],
+        "stay_period": "Temporarily",
+        "processing_time": "Processing times can be checked using the visa processing time guide tool; it is only an indicative guide."
+      }
+    ],
+    "general_eligibility": [
+      "Comply with all Australian laws",
+      "Be in Australia when the application is decided (applies to all people included in the application)"
+    ],
+    "related_information": {
+      "processing_time_tool": "visa processing time guide tool"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

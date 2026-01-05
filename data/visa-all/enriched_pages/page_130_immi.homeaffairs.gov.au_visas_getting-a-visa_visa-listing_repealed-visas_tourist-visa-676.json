@@ -1,0 +1,63 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/tourist-visa-676",
+  "title": "Tourist visa (subclass 676)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for individuals who already hold a Tourist visa (subclass 676), which is now closed to new applications. It explains visa validity, conditions, rights, obligations, and options for extending stay through a Visitor visa (subclass 600).",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Tourist visa",
+      "subclass": "676",
+      "status": "closed_to_new_applications",
+      "replacement_visa_option": "Visitor visa (subclass 600)",
+      "description": "Allows single or multiple entries to Australia for a period determined by the Department."
+    },
+    "holder_information": {
+      "audience": "People already granted a Tourist visa (subclass 676)",
+      "purpose": "Explains rights and obligations",
+      "vevo_availability": "Visa Entitlement Verification Online (VEVO) can be used for free to check visa details and entitlements"
+    },
+    "visa_validity": {
+      "stay_period": "Specified at time of grant",
+      "entry_rules": [
+        "Some visas allow only a single entry; a new visa is required to return after leaving",
+        "Some visas allow multiple entries while valid, but total time in Australia cannot exceed the granted stay period"
+      ]
+    },
+    "obligations": {
+      "general_obligations": [
+        "Comply with all visa conditions",
+        "Comply with Australian laws"
+      ]
+    },
+    "visa_conditions": {
+      "work_conditions": [
+        "Must not work unless granted a visa that specifically allows work",
+        "Volunteer work allowed only if the work is not otherwise paid to an Australian resident; reimbursement allowed for out-of-pocket expenses"
+      ],
+      "study_conditions": "Must not study for more than 3 months while in Australia",
+      "health_insurance": "May be required to maintain adequate health insurance"
+    },
+    "extending_stay": {
+      "eligible_visa": "Visitor visa (subclass 600)",
+      "when_to_apply": "At least 2 weeks before current visa expires",
+      "eligibility_criteria": [
+        "Substantially complied with conditions of previous visa",
+        "Meet all eligibility criteria for Visitor visa (subclass 600)",
+        "Do not have Condition 8503 ('No further stay')"
+      ],
+      "no_further_stay_condition": {
+        "condition_code": "8503",
+        "effect": "Holders cannot apply for a Visitor visa (subclass 600)"
+      },
+      "stay_limits": {
+        "visitor_and_working_holiday_holders": "Can extend stay only up to a total of 12 months unless exceptional circumstances apply",
+        "instruction_for_12_month_stay_holders": "Must contact nearest Australian visa office before applying for another visa"
+      },
+      "visa_effects": "Grant of another visa will cease any current visa or ETA and attached entitlements",
+      "pending_application_rule": "If application is undecided before original visa expires, holder may stay until finalisation",
+      "refusal_obligation": "Must leave Australia before authorised stay period expires if refused another visa"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,74 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/",
+  "title": "Temporary Graduate visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Temporary Graduate visa (subclass 485), including available streams, eligibility criteria, stay periods, costs and conditions. It outlines three different streams and what international graduates must meet to qualify.",
+  "structured_data": {
+    "visa_name": "Temporary Graduate visa",
+    "subclass": "485",
+    "description": "A temporary visa that allows international students to live, study and work in Australia after finishing their studies.",
+    "basic_eligibility": {
+      "requirements": [
+        "Be aged 35 years or under when applying (exceptions apply)",
+        "Hold an eligible visa",
+        "Have held a Student visa in the last 6 months",
+        "Have a recent qualification in a CRICOS-registered course",
+        "Apply for an eligible stream (stream cannot be changed after applying)",
+        "Attach required evidence when applying"
+      ],
+      "notes": [
+        "Information available for employers looking to hire a Temporary Graduate visa holder",
+        "English language testing requirements changed from 7 August 2025"
+      ],
+      "related_links": [
+        "Explore options for employers",
+        "English language requirements for Australian visa purposes have changed"
+      ]
+    },
+    "streams": [
+      {
+        "stream_name": "Post-Vocational Education Work",
+        "description": "For international students who recently graduated with an associate degree, diploma or trade qualification relevant to an occupation Australia needs.",
+        "benefits": [
+          "You can work in Australia",
+          "You can bring your family with you"
+        ],
+        "requirements": [
+          "Must hold a qualification relevant to your nominated occupation on the skilled occupation list",
+          "Qualification must be an associate degree, diploma or trade qualification meeting the Temporary Graduate visa study requirement"
+        ],
+        "stay": "Up to 18 months. Hong Kong and British National Overseas passport holders may stay for 5 years.",
+        "cost": "From AUD 2,300.00",
+        "processing_time": "Use the visa processing time guide tool for indicative processing times (not specific to your application)."
+      },
+      {
+        "stream_name": "Post-Higher Education Work",
+        "description": "For international students who recently graduated with a degree from an Australian institution.",
+        "benefits": [
+          "You can work in Australia",
+          "You can bring your family with you"
+        ],
+        "requirements": [
+          "Need a recent degree in a CRICOS-registered course",
+          "Must meet the Temporary Graduate visa study requirement with a degree-level qualification or higher"
+        ],
+        "stay": "Usually between 2 and 3 years, depending on qualification. Hong Kong and British National Overseas passport holders may stay for 5 years.",
+        "cost": "From AUD 2,300.00",
+        "processing_time": "Use the visa processing time guide tool for indicative processing times (not specific to your application)."
+      },
+      {
+        "stream_name": "Second Post-Higher Education Work",
+        "description": "For Temporary Graduates holding a Post-Higher Education Work, Post-Study Work or Replacement visa with a degree from an Australian institution located in a regional area.",
+        "benefits": [
+          "You can work in Australia",
+          "You can bring your family with you"
+        ],
+        "stay": "Between 1 and 2 years depending on: the regional location of the educational institution that issued the qualification for the first Temporary Graduate visa and the regional area the applicant lives in while holding the qualifying visa.",
+        "cost": "From AUD 905.00",
+        "processing_time": "Use the visa processing time guide tool for indicative processing times (not specific to your application)."
+      }
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/regional-sponsor-migration-scheme-187",
+  "title": "Regional Sponsored Migration Scheme visa",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Regional Sponsored Migration Scheme visa (subclass 187), including its streams, eligibility requirements, costs and processing guidance. The Direct Entry stream is closed to new applications, while the Temporary Residence Transition stream remains available for eligible transitional workers.",
+  "structured_data": {
+    "visa_name": "Regional Sponsored Migration Scheme visa",
+    "visa_subclass": "187",
+    "description": "This visa allows skilled workers who are nominated by their employer in regional Australia to live and work in Australia permanently.",
+    "general_eligibility": [
+      "Be nominated by an approved Australian employer for a job in regional Australia",
+      "Be under 45 years of age",
+      "Meet the skills, qualifications and English language requirements"
+    ],
+    "income_threshold_note": "Skilled visa income thresholds are increasing in line with changes to annual Average Weekly Ordinary Time Earnings.",
+    "income_threshold_reference": "Annual indexation of skilled visa income thresholds from 1 July 2025",
+    "streams": [
+      {
+        "stream_name": "Direct Entry stream",
+        "status": "Closed to new applications",
+        "stay": "Permanently",
+        "cost": "N/A",
+        "processing_time_note": "For an indication of processing times for this visa, use the visa processing time guide tool. This will show processing times for recently decided applications and is a guide only, not specific to an individual application."
+      },
+      {
+        "stream_name": "Temporary Residence Transition stream",
+        "description": "This visa allows skilled workers, who are nominated by their employer in regional Australia, to live and work in Australia permanently.",
+        "eligibility": [
+          "Must be a transitional subclass 457 or subclass 482 worker",
+          "Usually must have worked for the employer full-time for at least 2 years",
+          "Must be nominated by the employer"
+        ],
+        "stay": "Permanently",
+        "cost": "From AUD4,910.00",
+        "processing_time_note": "For an indication of processing times for this visa, use the visa processing time guide tool. This will show processing times for recently decided applications and is a guide only, not specific to an individual application."
+      }
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

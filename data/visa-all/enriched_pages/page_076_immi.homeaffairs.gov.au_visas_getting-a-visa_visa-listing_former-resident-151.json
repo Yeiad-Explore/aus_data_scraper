@@ -1,0 +1,134 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/former-resident-151",
+  "title": "Former Resident visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Former Resident visa (subclass 151). It explains who is eligible, what the visa allows, application requirements, costs, obligations, and travel rules. The visa is intended for former Australian permanent residents and certain former members of the Australian Defence Force.",
+  "structured_data": {
+    "visa_name": "Former Resident visa",
+    "subclass": "151",
+    "visa_type": "Permanent",
+    "description": "This permanent visa allows former permanent residents and certain people who served in the Australian Defence Force to live in Australia.",
+    "benefits": [
+      "Stay in Australia permanently",
+      "Work and study in Australia",
+      "Enrol in Australia's public health care scheme, Medicare",
+      "Sponsor relatives to come to Australia",
+      "Travel to and from Australia for up to 5 years from date of grant while travel facility remains valid",
+      "Apply for Australian citizenship if eligible"
+    ],
+    "duration": {
+      "stay_length": "Indefinite",
+      "permanent_residency_start": [
+        "Date of visa grant if applicant is in Australia",
+        "Date of entry into Australia on this visa if applicant is outside Australia at time of grant"
+      ]
+    },
+    "eligibility": {
+      "long_residence_requirement": {
+        "criteria": [
+          "If 18 years or older: spent at least 9 years in Australia as a permanent resident before turning 18",
+          "If under 18: spent at least half of life in Australia as a permanent resident",
+          "Younger than 45 years of age at time of application",
+          "Never been an Australian citizen",
+          "Maintained close business, cultural, or personal ties with Australia after ceasing to be a permanent resident"
+        ]
+      },
+      "defence_service_requirement": {
+        "criteria": [
+          "Completed at least 3 months of continuous Australian defence service",
+          "Discharged from Australian Defence Force before 3 months of service due to being medically unfit because of defence service"
+        ],
+        "age_requirement": "No age requirement for defence services pathway"
+      },
+      "health_requirement": {
+        "applies_to": "All applicants and family members applying with the main applicant",
+        "notes": [
+          "Family members applying from outside Australia who are not migrating may also need to meet the requirement"
+        ]
+      },
+      "character_requirement": {
+        "applies_to": "All applicants aged 16 or over",
+        "notes": [
+          "Family members applying from outside Australia who are not migrating may also need to meet the requirement"
+        ]
+      },
+      "assurance_of_support": "May be requested",
+      "debt_to_government": "All debts to the Australian Government must be repaid or arrangements made",
+      "visa_history_conditions": [
+        "Past visa cancellations or refusals may affect eligibility",
+        "Some exceptions apply for applying from inside or outside Australia"
+      ]
+    },
+    "family_inclusion": {
+      "can_include_family": true,
+      "when_to_include": "Any time before application decision",
+      "requirements": [
+        "Family members must meet health and character requirements",
+        "Family outside Australia not migrating may also need to meet requirements"
+      ],
+      "newborn_child": "Special instructions apply for children born after application submission"
+    },
+    "costs": {
+      "main_applicant_cost": "Not specified in text",
+      "family_member_cost": "Additional fee per family member applies",
+      "other_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "visa_pricing_estimator_note": "Does not include additional costs"
+    },
+    "apply_from": {
+      "location_options": [
+        "In Australia",
+        "Outside Australia"
+      ],
+      "restrictions": [
+        "Cannot apply in immigration clearance",
+        "If applying in Australia, applicant must be in Australia at time of decision",
+        "If applying outside Australia, applicant must be outside Australia at time of decision"
+      ]
+    },
+    "processing_times": {
+      "tool": "Visa processing time guide tool",
+      "notes": [
+        "Processing times are indicative only",
+        "Application may take longer if incomplete, missing documents, or if verification takes time",
+        "Incorrect fee payment prevents processing"
+      ]
+    },
+    "obligations": [
+      "Applicant and family members must obey all Australian laws"
+    ],
+    "travel": {
+      "initial_travel_facility": "5 years from date of visa grant",
+      "travel_rules": [
+        "Unlimited travel during the 5-year travel validity",
+        "After validity expires, an RRV is required to return to Australia as a permanent resident",
+        "Australian citizenship removes need for visa to return"
+      ],
+      "important_notes": [
+        "If outside Australia when travel validity expires, cannot return without RRV",
+        "Maximum RRV travel period for those not meeting residence requirement is 12 months by law",
+        "Permanent residents in Australia do not need RRV unless they wish to travel"
+      ],
+      "tools_and_links": [
+        "Resident Return visa (RRV)",
+        "VEVO for checking travel validity"
+      ]
+    },
+    "visa_label": {
+      "label_issued": false,
+      "details": "Visa is digitally linked to passport"
+    },
+    "related_links": [
+      "Visa processing time guide tool",
+      "Who can help with your visa application",
+      "Australian citizenship eligibility",
+      "Resident Return visa (RRV)",
+      "VEVO"
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/dependent-child-445",
+  "title": "Dependent Child visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Dependent Child visa (subclass 445), a temporary visa that allows a child to stay in Australia while their parent's permanent Partner visa application is processed. It outlines eligibility, costs, processing times, obligations, and visa conditions. It also explains sponsorship rules, health requirements, travel rights, and how long the child may stay.",
+  "structured_data": {
+    "visa_name": "Dependent Child visa",
+    "visa_subclass": "445",
+    "visa_type": "temporary",
+    "description": "This visa allows a child to stay in Australia temporarily while the parent’s permanent Partner visa application is being processed.",
+    "important_updates": {
+      "immiaccount_import_available_from": "23 July 2025",
+      "applicable_subclasses": [
+        "101",
+        "102",
+        "802",
+        "445",
+        "117",
+        "837"
+      ],
+      "import_exceptions": "Some applications made outside Australia before 1 April 2020 cannot be imported into ImmiAccount."
+    },
+    "what_the_child_can_do": [
+      "Move to or stay in Australia until the parent’s permanent Partner visa application is decided",
+      "Travel to and from Australia",
+      "Work and study in Australia",
+      "Attend free English language classes under the Adult Migrant English Program if eligible"
+    ],
+    "stay_conditions": {
+      "visa_start": "Starts on visa grant date",
+      "allowed_stay_duration": "Until parent's permanent Partner visa application is decided or withdrawn",
+      "extensions": "Cannot extend this visa"
+    },
+    "medicare_eligibility": "Once granted the visa and added to the parent's permanent Partner visa application, the child can enrol in Medicare.",
+    "including_family_members": {
+      "siblings": "Each sibling must apply for their own subclass 445 visa.",
+      "dependent_children": "Can be included in the child’s application when applying or before a decision is made.",
+      "health_requirement": "All dependent children and possibly non-migrating family members must meet health requirements.",
+      "newborn_children": "Specific steps apply if a child is born after lodging the application."
+    },
+    "costs": {
+      "main_applicant_fee": "AUD 3,235.00",
+      "dependent_child_fee": "Additional charge applies",
+      "other_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "pricing_tool": "Visa Pricing Estimator (does not include additional costs)"
+    },
+    "apply_from": {
+      "location": "Child may be in or outside Australia when the application is submitted"
+    },
+    "processing_times": {
+      "guide_tool": "Visa processing time guide tool",
+      "notes": [
+        "Times are indicative only and not specific to individual applications",
+        "Applications may take longer if incorrectly completed, missing documents, verification required, or incomplete payment"
+      ],
+      "payment_requirement": "Application cannot be processed without full correct payment",
+      "acknowledgement_timeline": "Approx. 1 month after lodgement",
+      "communication": [
+        "Department will contact if more information is needed",
+        "Final outcome will be communicated via authorised contact method"
+      ]
+    },
+    "child_obligations": {
+      "first_entry_date": "Usually 12 months from visa grant",
+      "laws_and_conditions": "Must meet visa conditions and obey Australian laws",
+      "application_requirement": "Must apply to be added to parent’s permanent Partner visa application after visa grant"
+    },
+    "travel": {
+      "travel_rights": "Unlimited travel to/from Australia while visa is valid",
+      "note": "Time outside Australia does not extend visa validity"
+    },
+    "visa_label": "Visa is digitally linked to the child's passport; no physical label issued.",
+    "eligibility": {
+      "dependent_on_parent": {
+        "required_parent_visas": [
+          "Partner (Provisional) visa (subclass 309)",
+          "Partner visa (subclass 820)",
+          "Dependent Child visa (subclass 445)"
+        ],
+        "no_further_stay_condition": "Child cannot hold a visa with a 'No further stay' condition if applying inside Australia"
+      },
+      "citizenship_by_descent_option": {
+        "conditions": [
+          "Child was born outside Australia",
+          "One parent was an Australian citizen at the time of the child's birth"
+        ]
+      },
+      "sponsor_requirements": {
+        "sponsor_identity": "Must be the same person who sponsored/nominated the parent’s permanent Partner visa",
+        "approval_requirement": "Sponsorship must be approved before the visa can be granted",
+        "registrable_offence_rules": {
+          "pending_charge": "Sponsorship and visa will be refused",
+          "conviction": "Sponsorship can only be approved in limited circumstances"
+        }
+      },
+      "age_requirements": {
+        "options": [
+          "Under 18 years old",
+          "Over 18 and financially dependent on the parent holding a temporary Partner or Dependent Child visa"
+        ]
+      },
+      "health_requirements": "Must meet health requirements (details truncated in the provided text)"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

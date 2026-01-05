@@ -1,0 +1,125 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/new-zealand-citizen-family-relationship-temporary-461",
+  "title": "New Zealand Citizen Family Relationship visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the New Zealand Citizen Family Relationship visa (Subclass 461), a temporary 5‑year visa for non‑New Zealand citizens who are family members of New Zealand citizens. It outlines visa conditions, eligibility criteria, costs, processing times, obligations, and how to apply.",
+  "structured_data": {
+    "visa_name": "New Zealand Citizen Family Relationship visa",
+    "subclass": "461",
+    "description": "A temporary visa for individuals who are not New Zealand citizens but are members of the family unit of a New Zealand citizen, allowing them to live, work, and study in Australia for five years.",
+    "key_updates": [
+      {
+        "date": "23 July 2025",
+        "details": "Applicants can import their paper application into ImmiAccount."
+      }
+    ],
+    "stay": {
+      "type": "temporary",
+      "duration": "5 years",
+      "multiple_entry": true,
+      "travel_rights": "Unlimited travel to and from Australia during the 5-year visa period."
+    },
+    "cost": {
+      "main_applicant": "AUD445.00",
+      "family_member_over_18": "AUD225.00",
+      "family_member_under_18": "AUD110.00",
+      "additional_costs": [
+        "health examinations",
+        "police certificates",
+        "biometrics"
+      ],
+      "tools": [
+        {
+          "name": "Visa Pricing Estimator",
+          "note": "Does not include additional costs."
+        }
+      ]
+    },
+    "processing_times": {
+      "notes": [
+        "Use the visa processing time guide tool for an indication of recent processing times.",
+        "Processing times are not specific to individual applications."
+      ],
+      "factors_that_delay_processing": [
+        "Incorrectly filled forms",
+        "Missing documents or additional information requests",
+        "Longer verification times",
+        "Incorrect application fee payment"
+      ]
+    },
+    "with_this_visa": [
+      "Live in Australia for 5 years",
+      "Work and study in Australia",
+      "Travel to and from Australia multiple times"
+    ],
+    "eligibility": {
+      "general_requirements": [
+        "Applicant must not be a New Zealand citizen at time of application.",
+        "Applicant must meet health and character requirements.",
+        "Applicant must not be an Australian citizen."
+      ],
+      "citizenship_conditions": {
+        "not_an_australian_citizen": "You cannot be granted this visa if you are an Australian citizen.",
+        "not_a_new_zealand_citizen": "You cannot be granted this visa if you are a New Zealand citizen.",
+        "if_become_nz_citizen_during_processing": "You may continue the application or withdraw it and apply for a Subclass 444 visa.",
+        "note_on_nz_citizenship": "Certain persons may not be eligible for New Zealand citizenship by descent; see New Zealand government website."
+      },
+      "relationship_requirements": {
+        "categories": [
+          "You must be a member of the family unit of a New Zealand citizen who is not an eligible New Zealand citizen and who is either in Australia as the holder of a Subclass 444 visa or will travel with you and be granted a Subclass 444 visa on entry."
+        ],
+        "notes": [
+          "New Zealand family member must have or be eligible for a Subclass 444 visa.",
+          "New Zealand citizens are not automatically granted a Subclass 444 visa."
+        ]
+      }
+    },
+    "including_family": {
+      "can_include_family": true,
+      "conditions": [
+        "Family members must meet health and character requirements.",
+        "Family members must be included at the time of application; no additions after lodgement.",
+        "All applicants are assessed individually."
+      ],
+      "newborn_children": {
+        "note": "A child born to a New Zealand citizen parent in Australia may not be eligible for New Zealand citizenship by descent.",
+        "reference": "See New Zealand government website."
+      }
+    },
+    "stay_longer": {
+      "notes": [
+        "You cannot stay in Australia after your visa expires unless you hold another visa.",
+        "You can apply for a further Subclass 461 visa if eligible."
+      ]
+    },
+    "apply_from": {
+      "location_rules": [
+        "You can be in or outside Australia when applying, but not in immigration clearance.",
+        "If applying as an offshore applicant, you should lodge and remain outside Australia until the acknowledgment letter is issued."
+      ],
+      "additional_notes": [
+        "You can only enter Australia if holding a visa that is in effect.",
+        "See Step-by-Step section for application process.",
+        "See Visa outcome section for details on required location at grant time."
+      ]
+    },
+    "your_obligations": {
+      "requirements": [
+        "Meet all visa conditions.",
+        "Follow all Australian laws."
+      ]
+    },
+    "travel": {
+      "rights": "You may travel outside Australia and return as many times as you want during the 5‑year visa period."
+    },
+    "visa_label": {
+      "information": "Visa is digitally linked to passport; no physical label is issued."
+    },
+    "administrative_recommendations": [
+      "Complete health examinations and character checks before lodging.",
+      "Submit a complete application for faster processing."
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

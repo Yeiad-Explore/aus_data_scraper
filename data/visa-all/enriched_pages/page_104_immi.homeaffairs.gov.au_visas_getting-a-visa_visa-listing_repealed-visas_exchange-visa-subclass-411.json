@@ -1,0 +1,163 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/exchange-visa-subclass-411",
+  "title": "Exchange visa (subclass 411)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for existing holders and sponsors of the Exchange visa (subclass 411), which closed to new applications on 24 November 2012. It outlines visa conditions, obligations, sponsorship rules, and procedures for changing sponsors or circumstances. The page also includes detailed sponsor obligations and compliance requirements under the Migration Act 1958.",
+  "structured_data": {
+    "visa_name": "Exchange visa",
+    "subclass": "411",
+    "status": "Closed to new applications",
+    "closure_date": "24 November 2012",
+    "applicability": "Information applies only to people already holding an Exchange visa (subclass 411) and their sponsors.",
+    "visa_holder_information": {
+      "rights_and_entitlements": {
+        "check_visa_status": "Visa Entitlement Verification Online (VEVO)"
+      },
+      "visa_validity": {
+        "general_validity": "Valid for the period of the nominated position",
+        "maximum_duration": "2 years"
+      },
+      "what_visa_lets_you_do": [
+        "Come to Australia temporarily to broaden work experience and skills",
+        "Stay in Australia for the period of the nominated position (max 2 years)",
+        "Bring family members (they can work and study)",
+        "Leave and re-enter Australia unlimited times while the visa is valid"
+      ],
+      "visa_holder_obligations": [
+        "Comply with all visa conditions and Australian laws",
+        "Maintain adequate health insurance while in Australia"
+      ],
+      "work_conditions": {
+        "prohibited_actions": [
+          "Stop working for the sponsoring employer",
+          "Engage in work or activities inconsistent with the nominated position",
+          "Work for another person or for yourself while working for your sponsor"
+        ]
+      },
+      "if_holder_stops_working_for_sponsor": {
+        "required_actions": [
+          "Be sponsored by another organisation to stay in Australia",
+          "Apply for another visa",
+          "Leave Australia before the visa expires"
+        ]
+      },
+      "changing_sponsor": {
+        "general_rules": [
+          "No new visa required unless visa is close to expiry",
+          "Nomination by the new sponsor must be approved before commencing work"
+        ],
+        "if_visa_close_to_expiry": [
+          "Be sponsored by the new organisation",
+          "New organisation must lodge a nomination under subclass 401 Temporary Work (Long Stay Activity)",
+          "Apply for subclass 401 visa",
+          "New organisation may need to apply for approval as a long stay activity sponsor if not already approved"
+        ],
+        "if_visa_not_close_to_expiry": [
+          "Be sponsored by the new organisation",
+          "New organisation must lodge Form 1378 Nomination for a Temporary Position"
+        ]
+      },
+      "family_obligations": {
+        "entry_conditions": [
+          "Family cannot enter Australia before the visa holder"
+        ],
+        "departure_requirements": [
+          "Family must leave Australia when the visa ends with the visa holder"
+        ],
+        "ongoing_obligations": [
+          "Remain members of the visa holder’s family unit",
+          "Maintain adequate health insurance"
+        ],
+        "rights": [
+          "Family can work or study while their visa is valid"
+        ]
+      },
+      "change_notifications": {
+        "events_requiring_notification": [
+          "Changes to phone number, email, address, or passport",
+          "Changes to relationship status",
+          "Birth of a child"
+        ]
+      }
+    },
+    "sponsor_information": {
+      "can_sponsor_new_applicants": "No, sponsorship for subclass 411 is closed",
+      "tools_available": [
+        "Visa finder",
+        "VEVO for Organisations"
+      ],
+      "sponsorship_validity": {
+        "duration": "Up to 3 years",
+        "during_validity": "Can sponsor participants for subclass 401 Temporary Work (Long Stay Activity)",
+        "after_expiry": "Must apply to be approved as a long stay activity sponsor to continue sponsorship"
+      },
+      "sponsoring_existing_411_holders": {
+        "conditions": [
+          "Allowed if the visa is still valid",
+          "Sponsor must lodge Form 1378 Nomination for a Temporary Position"
+        ]
+      },
+      "sponsor_obligations": {
+        "general_responsibility": "Sponsors remain responsible even if using an authorised representative",
+        "obligations_list": [
+          "Cooperate with inspectors",
+          "Notify the department when specific events occur",
+          "Keep required records",
+          "Provide records and information when requested",
+          "Not recover, transfer, or charge certain costs to another person",
+          "Pay costs to locate and remove an unlawful non-citizen",
+          "Provide equivalent opportunities to Australian exchange participants",
+          "Ensure the visa holder participates only in the nominated occupation, program, or activity"
+        ],
+        "cooperate_with_inspectors": {
+          "inspector_purpose": [
+            "Investigate compliance with sponsorship obligations",
+            "Determine if illegal workers have been employed",
+            "Identify other circumstances warranting administrative action"
+          ],
+          "obligation_period": {
+            "starts": "From sponsorship approval or work agreement commencement",
+            "ends": "Five years after sponsorship ends or work agreement ceases"
+          },
+          "cooperation_examples": [
+            "Providing access to premises",
+            "Producing documents within required timeframes",
+            "Not preventing access to records or documents",
+            "Providing access for officers to interview persons on premises"
+          ]
+        },
+        "record_keeping": {
+          "required_records": [
+            "All required notifications",
+            "Date, method, and location of notifications made to the department"
+          ],
+          "obligation_period": {
+            "starts": "When sponsorship is approved",
+            "ends": "Two years after sponsor is no longer approved and no longer sponsoring anyone"
+          },
+          "maximum_retention": "Records need not be kept for more than five years"
+        },
+        "providing_records_to_minister": {
+          "when_required": [
+            "To determine compliance with sponsorship obligations",
+            "To determine if circumstances for administrative action exist"
+          ],
+          "requirements": [
+            "Must provide requested records or information in manner and timeframe specified",
+            "Must comply if records are required under Commonwealth, state or territory law, or under sponsor obligations"
+          ],
+          "obligation_period": {
+            "starts": "When sponsorship is approved or work agreement commences",
+            "ends": "Two years after sponsorship/work agreement ceases AND sponsor no longer has sponsored visa holders"
+          }
+        },
+        "notify_events": {
+          "method": "Registered post or electronic mail",
+          "time_requirement": "Within required timeframes after event occurs"
+        }
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

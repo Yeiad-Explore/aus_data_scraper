@@ -1,0 +1,60 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/state-or-territory-sponsored-business-owner-subclass-892-visa",
+  "title": "State or Territory Sponsored Business Owner (subclass 892) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the State or Territory Sponsored Business Owner (subclass 892) visa, which closed to new applications on 22 March 2025. It describes what the visa allows, how long it lasts, obligations of visa holders, and what changes must be reported to the authorities.",
+  "structured_data": {
+    "visa_name": "State or Territory Sponsored Business Owner visa",
+    "subclass": "892",
+    "status": "Closed to new applications",
+    "closure_date": "22 March 2025",
+    "visa_type": "Permanent visa",
+    "visa_holder_information": {
+      "description": "This is a permanent visa that allows the holder to stay in Australia indefinitely.",
+      "travel_facility": {
+        "validity": "5 years from visa grant",
+        "conditions": "Allows unlimited travel to and from Australia as long as the travel facility remains valid",
+        "checking_travel_facility": "Use VEVO to check travel facility end date"
+      },
+      "post_travel_facility_options": [
+        "Apply for and be granted a Resident Return visa to re-enter Australia as a permanent resident",
+        "Consider becoming an Australian citizen to re-enter Australia without a visa"
+      ],
+      "citizenship_information": {
+        "note": "Australian citizens do not require a visa to enter Australia",
+        "requirement": "Must apply for an Australian passport after gaining citizenship"
+      }
+    },
+    "entitlements": {
+      "description": "This visa allows the holder and their dependent family members who also hold a subclass 892 visa to:",
+      "activities_permitted": [
+        "Stay in Australia permanently",
+        "Work and study in Australia",
+        "Carry out business activity in Australia",
+        "Enroll in Medicare (Australia’s public health care scheme)",
+        "Sponsor relatives to come to Australia",
+        "Travel to and from Australia for 5 years",
+        "Apply for Australian citizenship, if eligible"
+      ]
+    },
+    "obligations": {
+      "holder_obligations": [
+        "Meet all visa conditions",
+        "Obey Australian laws"
+      ]
+    },
+    "notification_requirements": {
+      "changes_to_report": [
+        "Changes to phone number, email, address, or passport",
+        "Changes to relationship status",
+        "Birth of a child"
+      ],
+      "consequence_of_not_reporting": "May experience significant delays at the airport and may be denied permission to board a plane if new passport details are not provided"
+    },
+    "tools_and_services": {
+      "vevo": "Visa holders can use Visa Entitlement Verification Online (VEVO) for free to check visa details and entitlements"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

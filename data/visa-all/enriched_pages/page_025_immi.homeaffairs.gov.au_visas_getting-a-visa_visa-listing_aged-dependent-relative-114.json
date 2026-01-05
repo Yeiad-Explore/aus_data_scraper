@@ -1,0 +1,144 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/aged-dependent-relative-114",
+  "title": "Aged Dependent Relative visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Subclass 114 Aged Dependent Relative visa, a permanent visa for older, single individuals who rely financially on a relative in Australia. It outlines the visa's benefits, eligibility requirements, costs, processing conditions, and obligations for applicants and sponsors.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Aged Dependent Relative visa",
+      "subclass": "114",
+      "visa_type": "permanent",
+      "description": "This permanent visa lets a single older person, who relies on a relative living in Australia for financial support, move to Australia permanently.",
+      "stay_length": "Indefinite",
+      "travel_rights": {
+        "travel_validity": "5 years from visa grant",
+        "notes": [
+          "Unlimited travel to and from Australia within first 5 years",
+          "After 5 years, must apply for a Resident Return Visa (RRV) to re-enter as a permanent resident",
+          "Australian citizenship removes need for a visa; an Australian passport is required for travel"
+        ]
+      },
+      "benefits": [
+        "Stay in Australia indefinitely",
+        "Work and study in Australia",
+        "Enrol in Medicare (Australia's public healthcare scheme)",
+        "Sponsor relatives to come to Australia",
+        "Attend free English language classes through the Adult Migrant English Program (if eligible)",
+        "Apply for Australian citizenship (if eligible)"
+      ]
+    },
+    "eligibility": {
+      "location_requirements": [
+        "Applicant must be outside Australia when applying",
+        "Applicant must be outside Australia when the application is decided"
+      ],
+      "sponsor_requirements": [
+        "Must be sponsored by an eligible relative or the relative's partner",
+        "Sponsorship must be approved"
+      ],
+      "age_requirement": "Must be old enough to receive the age pension in Australia",
+      "dependence_requirement": [
+        "Must have been financially dependent on an Australian relative for basic needs (food, shelter, clothing) for at least 3 years before applying",
+        "Dependency may be due to disability preventing work"
+      ],
+      "partner_requirement": "Applicant must have no partner",
+      "assurance_of_support": {
+        "required": true,
+        "description": "Assures the government the applicant will not rely on government assistance",
+        "applies_to": "Applicant and any accompanying family members"
+      },
+      "health_requirements": {
+        "applies_to": [
+          "Applicant",
+          "Family members included in application",
+          "Possibly non-migrating family members if requested"
+        ]
+      },
+      "character_requirements": {
+        "applies_to": [
+          "Applicant",
+          "Family members included in application",
+          "Possibly non-migrating family members if requested"
+        ]
+      },
+      "debt_requirement": "All debts to the Australian Government must be repaid or have an approved repayment plan",
+      "visa_history": "Applications may be refused if the applicant has had prior visas cancelled or refused; some exceptions apply for offshore applicants",
+      "best_interests_of_child": "The visa will not be granted if it is not in the best interests of an applicant under 18"
+    },
+    "family_inclusion": {
+      "can_include_family": true,
+      "when_to_include": [
+        "At time of application",
+        "Any time before a decision is made"
+      ],
+      "required_information": "Must provide details of all family members, whether migrating or not",
+      "eligible_family_members": [
+        "Dependent child",
+        "Stepchild"
+      ],
+      "requirements_for_family_members": [
+        "Must meet health requirements",
+        "May need to meet character requirements"
+      ]
+    },
+    "costs": {
+      "visa_application_charge": "Not specified in text",
+      "payment_structure": [
+        "First instalment payable at time of application",
+        "Second instalment payable when requested"
+      ],
+      "additional_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "tools": [
+        "Visa Pricing Estimator (does not include second instalment or additional costs)"
+      ]
+    },
+    "application_process": {
+      "apply_from": "All applicants must be outside Australia when applying and when the decision is made",
+      "processing_times": {
+        "notes": [
+          "Demand for Other Family visas is high and places are limited",
+          "Processing times can be lengthy",
+          "Visa processing time guide tool gives estimates based on recent applications"
+        ],
+        "factors_that_increase_processing_time": [
+          "Application not correctly completed",
+          "Missing documents",
+          "Need for further information",
+          "Delays in verification of information"
+        ],
+        "payment_requirement": "Application cannot be processed if the correct visa application charge is not paid",
+        "queueing": "Applications are subject to capping and queueing"
+      },
+      "related_reports": [
+        "Reports on Migration Programs (outcomes for each migration year)"
+      ]
+    },
+    "obligations": {
+      "entry_requirement": "Must enter Australia before the date specified in the grant letter (usually 12 months from grant)",
+      "legal_obligations": [
+        "Must meet all visa conditions",
+        "Must obey Australian laws"
+      ]
+    },
+    "visa_label": {
+      "digital_visa": true,
+      "notes": "Visa is digitally linked to passport; no physical label provided"
+    },
+    "help_and_support": {
+      "visa_assistance": "Applicants should review information on who can legally assist with visa applications before paying anyone"
+    },
+    "related_links": {
+      "processing_time_tool": "Referenced but URL not provided",
+      "visa_pricing_estimator": "Referenced but URL not provided",
+      "Australian_citizenship_information": "Referenced but URL not provided",
+      "VEVO": "Referenced to check travel validity",
+      "other_family_visa_queue_information": "Referenced but URL not provided"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

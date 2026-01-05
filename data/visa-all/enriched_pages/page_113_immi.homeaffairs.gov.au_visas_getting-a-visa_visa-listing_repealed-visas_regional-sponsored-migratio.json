@@ -1,0 +1,70 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/regional-sponsored-migration-scheme-(subclasses-119-and-857)",
+  "title": "Regional Sponsored Migration Scheme (subclasses 119 and 857)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Regional Sponsored Migration Scheme visa (subclasses 119 and 857), which closed to new applications on 1 July 2012. It explains rules for applicants who applied before the closure, details on adding family members, visa benefits, holder obligations, and employer obligations.",
+  "structured_data": {
+    "visa_name": "Regional Sponsored Migration Scheme",
+    "visa_subclasses": [
+      "119",
+      "857"
+    ],
+    "application_status": "closed_to_new_applications",
+    "closure_date": "1 July 2012",
+    "applicant_information": {
+      "adding_family_members": {
+        "allowed_until": "visa_decision_made",
+        "who_can_be_added": [
+          "partner",
+          "child/step-child",
+          "partner’s child/step-child"
+        ],
+        "conditions": [
+          "must notify the department in writing",
+          "family members must be nominated by the employer",
+          "family members must meet health and character requirements"
+        ],
+        "reference": "including family members in your application"
+      }
+    },
+    "visa_holder_information": {
+      "visa_duration": "permanent_residence_visa",
+      "benefits": [
+        "stay in Australia indefinitely",
+        "work and study in Australia",
+        "enrol in Medicare",
+        "take out private health insurance",
+        "access certain social security payments",
+        "apply for Australian citizenship if eligible",
+        "sponsor eligible relatives for permanent residence",
+        "travel to and from Australia for five years from visa grant date (resident return visa required after)"
+      ],
+      "holder_obligations": {
+        "possible_cancellation_conditions": [
+          "not starting employment with the relevant employer within six months of arriving in Australia and failing to satisfy the Minister that a genuine effort was made",
+          "employment terminating within two years of commencement and failing to satisfy the Minister that a genuine effort was made to remain employed for the required period"
+        ]
+      },
+      "notification_requirements": {
+        "changes_to_report": [
+          "changes to phone number, email, address, or passport",
+          "changes to relationship status",
+          "birth of a child"
+        ],
+        "reference": "how to let us know if there is a change in your situation"
+      }
+    },
+    "family_member_information": {
+      "family_members_of_visa_holders": "can apply separately for a visa",
+      "application_location": "inside or outside Australia"
+    },
+    "employer_obligations": {
+      "requirements": [
+        "ensure all relevant workplace laws are met",
+        "ensure all award conditions are met"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,96 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/transit-771",
+  "title": "Transit visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Australian Transit Visa (Subclass 771). It explains who needs the visa, eligibility criteria, conditions, costs, obligations, and requirements for both regular travelers and Maritime Crew Visa holders. It also outlines when travelers may not need a Transit visa and provides guidance on application steps and conditions after arrival.",
+  "structured_data": {
+    "visa_name": "Transit visa",
+    "subclass": "771",
+    "description": "Allows up to 72 hours in Australia for travelers transiting to another country or for Maritime Crew Visa holders entering Australia to join an eligible ship.",
+    "notes": [
+      "If granted a Transit visa, most other Australian visas held will cease.",
+      "Travelers staying in Australia for less than 8 hours and not leaving the airport may not require a visa.",
+      "Individuals should first check VEVO or ImmiAccount to confirm whether they need a Transit visa."
+    ],
+    "stay_conditions": {
+      "standard_travelers": "No longer than 72 hours",
+      "maritime_crew_visa_holders": "Must join the eligible ship within 5 days of arrival by air"
+    },
+    "cost": "Free",
+    "processing_times": {
+      "note": "Processing times can be checked using the visa processing time guide tool. Times shown are indicative only."
+    },
+    "what_you_can_do": [
+      "Transit through Australia for no longer than 72 hours",
+      "Enter Australia by air before joining the crew of an eligible ship as a Maritime Crew visa (subclass 988) holder within 5 days of arrival"
+    ],
+    "eligibility": {
+      "general_requirements": [
+        "Must be outside Australia to apply",
+        "Must be transiting Australia",
+        "Must have a confirmed booking to travel to another country within 72 hours of arrival in Australia",
+        "Must hold correct documents to enter the next destination country"
+      ],
+      "maritime_crew_requirements": [
+        "Must hold a Maritime Crew visa (MCV)",
+        "Must have necessary crew documents",
+        "Must sign onto the eligible ship within 5 days of arrival"
+      ],
+      "health_requirement": "Must meet Australia's health requirement",
+      "character_requirement": "Must meet Australia's character requirement",
+      "biometrics_requirement": "Must provide biometrics if required",
+      "health_insurance": {
+        "requirement": "May be required to have adequate health cover for the entire stay",
+        "notes": [
+          "Applicant is liable for all healthcare costs while in Australia",
+          "Insurance should cover medically necessary treatment including transport"
+        ]
+      },
+      "reciprocal_healthcare": "Some countries have agreements with Australia; see Services Australia for details",
+      "debt_to_government": "Any outstanding debts to the Australian Government must be paid or arrangements made for repayment",
+      "australian_values_statement": "Applicants aged 18 or older must acknowledge the Australian Values Statement",
+      "best_interests_of_child": "Visa might not be granted if not in the best interests of an applicant under 18"
+    },
+    "who_may_not_need_visa": {
+      "conditions": [
+        "Travelers staying less than 8 hours and not leaving the airport",
+        "Those who already hold a valid Australian temporary or permanent visa that allows transit"
+      ],
+      "visa_holders_who_may_not_need_transit_visa": [
+        "NZ passport holders eligible for Special Category Visa (subclass 444)",
+        "Electronic Travel Authority (ETA) eligible travelers",
+        "Visitor visa eligible travelers",
+        "eVisitor visa eligible travelers",
+        "APEC Business Travel Card holders"
+      ],
+      "notes": [
+        "Applying for and being granted a Transit visa may end any existing Australian visa.",
+        "Some visas have limited validity periods starting after first arrival.",
+        "Some visas are single-entry only."
+      ]
+    },
+    "maritime_crew_details": {
+      "mcv_conditions": [
+        "Have 5 days from arrival by air to sign onto an eligible ship",
+        "MCV ceases if not signed on within 5 days",
+        "Must apply for a new Transit visa each time entering Australia by air to join a ship"
+      ]
+    },
+    "family": {
+      "include_family": "Not allowed",
+      "notes": "Each person, including babies on a parent's passport, must apply separately"
+    },
+    "application_conditions": {
+      "apply_from": "Must be outside Australia when applying and when visa is decided"
+    },
+    "obligations": [
+      "Must comply with visa conditions",
+      "Must obey Australian laws"
+    ],
+    "step_by_step": {
+      "step_1": "Check if you need a Transit visa by reviewing eligibility, especially if transiting for less than 8 hours without leaving the airport"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

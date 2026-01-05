@@ -1,0 +1,118 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/temporary-work-(long-stay-activity)-visa-(sublass-401)",
+  "title": "Temporary Work (Long Stay Activity) visa (subclass 401)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for existing holders and approved sponsors of the Temporary Work (Long Stay Activity) visa (subclass 401), which closed to new applications on 19 November 2016. It explains visa rights, obligations for visa holders and sponsors, and the transition to the Temporary Activity visa (subclass 408). The content includes details on visa duration, permitted activities, family rules, required notifications, and sponsorship obligations.",
+  "structured_data": {
+    "visa_overview": {
+      "visa_name": "Temporary Work (Long Stay Activity) visa",
+      "subclass": "401",
+      "status": "Closed to new applications",
+      "closure_date": "19 November 2016",
+      "replacement_visa": "Temporary Activity visa (subclass 408)",
+      "applicable_audience": [
+        "Current holders of a subclass 401 visa",
+        "Approved sponsors of subclass 401 visa holders"
+      ]
+    },
+    "visa_holder_information": {
+      "rights_and_obligations_reference": "Visa Entitlement Verification Online (VEVO)",
+      "visa_validity": {
+        "general_duration": "Duration of the nominated position, or up to two years (whichever is earlier)",
+        "sport_stream_condition": "Stay usually permitted only for the duration of the sporting season"
+      },
+      "what_the_visa_allows": [
+        "Stay in Australia for the period of the nominated position (maximum two years)",
+        "Perform the work or activity specified in the nomination",
+        "Bring eligible family members",
+        "Enter and leave Australia multiple times while the visa is valid"
+      ],
+      "visa_holder_obligations": {
+        "general_obligations": [
+          "Comply with all visa conditions and Australian laws",
+          "Maintain adequate health insurance",
+          "Continue to meet requirements of the visa stream",
+          "Leave Australia when the visa ends unless granted another visa",
+          "Only work or engage in activities for the employer identified in the nomination",
+          "Only engage in work or activities consistent with the nominated position"
+        ],
+        "if_employment_ceases": [
+          "Find another employer willing to sponsor/support and apply for a new visa (subclass 401 closed; may consider subclass 408)",
+          "Leave Australia within 28 days or sooner if the visa ends earlier"
+        ]
+      },
+      "family_member_rules": {
+        "entry_conditions": "Family cannot enter Australia before the main visa holder",
+        "must_leave_with_holder": true,
+        "family_requirements": [
+          "Remain members of the family unit",
+          "Maintain adequate health insurance"
+        ],
+        "family_entitlements": [
+          "Can work or study while their visa is valid"
+        ]
+      },
+      "notification_requirements": {
+        "must_notify_changes": [
+          "Changes to phone number, email, address, or passport",
+          "Changes to relationship status",
+          "Birth of a child"
+        ]
+      }
+    },
+    "sponsor_information": {
+      "sponsorship_status": {
+        "can_apply_new_sponsors": false,
+        "note": "Cannot apply to sponsor new subclass 401 applicants",
+        "transition_requirement": "From 19 May 2017, apply online for approval as a temporary activities sponsor for subclass 408 applicants"
+      },
+      "vevo_access": "Visa Entitlement Verification Online (VEVO for Organisations)",
+      "sponsor_obligations": {
+        "general_obligations": [
+          "Cooperate with inspectors",
+          "Notify the department when certain events occur",
+          "Keep required records",
+          "Provide records and information to the Minister when requested",
+          "Not recover, transfer, or charge certain costs to another person",
+          "Pay costs to locate and remove an unlawful non-citizen",
+          "Ensure the visa holder participates in the nominated occupation, program, or activity"
+        ],
+        "stream_specific_obligations": [
+          "Secure an offer of reasonable standard accommodation",
+          "Pay travel costs for sponsored people to leave Australia",
+          "Make the same position available to Australian exchange participants"
+        ]
+      },
+      "record_keeping_obligations": {
+        "exchange_sport_domestic_worker_streams": {
+          "requirements": [
+            "Keep records demonstrating compliance",
+            "All records must be reproducible and verifiable",
+            "Keep records of all notifications made to the department including date, method, and location"
+          ],
+          "obligation_start": "Day sponsorship is approved",
+          "obligation_end": "Two years after no longer an approved sponsor and no longer sponsoring anyone",
+          "maximum_record_retention": "Five years"
+        },
+        "religious_worker_stream": {
+          "requirements": [
+            "Keep all compliance records in reproducible and verifiable format",
+            "Keep written requests for outward travel costs for sponsored visa holders or family",
+            "Keep records of how travel costs were paid, amounts, recipients, and dates"
+          ]
+        }
+      },
+      "providing_records_and_information": {
+        "obligation": "Must provide requested records/information to departmental officers",
+        "conditions": [
+          "Requests must relate to sponsorship obligations or administrative actions",
+          "Must provide any record required under Australian law or as part of sponsorship obligations"
+        ],
+        "obligation_start": "Day sponsorship is approved",
+        "obligation_end": "Two years after sponsorship ceases and no sponsored visa holders remain"
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

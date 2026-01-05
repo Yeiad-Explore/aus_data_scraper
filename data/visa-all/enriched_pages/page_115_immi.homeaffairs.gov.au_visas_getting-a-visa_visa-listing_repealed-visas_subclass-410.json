@@ -1,0 +1,132 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/subclass-410",
+  "title": "Retirement visa (subclass 410)",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Retirement visa (subclass 410), which is closed to new applicants and only available to specific existing or former holders. It outlines what the visa allows, eligibility rules, costs, health and character requirements, and other important considerations for renewing or maintaining this visa.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Retirement visa",
+      "subclass": "410",
+      "status": "Closed to new applicants",
+      "availability": [
+        "Existing Retirement visa (subclass 410) holders and their partners",
+        "Former Retirement visa (subclass 410) holders and their partners who have not held another substantive visa since last entering Australia"
+      ],
+      "not_eligible": [
+        "Former Retirement visa holders and partners who have been granted any other substantive visa (including Visitor visas and Electronic Travel Authorities)"
+      ],
+      "description": "A temporary visa for retirees and their partners who want to spend retirement years in Australia. Does not lead to permanent residence or citizenship.",
+      "visa_validity_period": "10 years from date of grant",
+      "restrictions": [],
+      "work_rights": "No restrictions on work hours",
+      "study_rights": "Allowed to study in Australia",
+      "travel_rights": "Can leave and re-enter Australia at any time"
+    },
+    "permanent_residence_pathway": {
+      "start_date": "17 November 2018",
+      "description": "Pathway to permanent residence for retirement visa holders announced in the 2018-19 Budget."
+    },
+    "passport_requirements": {
+      "valid_passports_required": true,
+      "notes": [
+        "Notify the Department if passport changes after visa grant",
+        "Failure to provide updated passport details may cause airport delays or denial of boarding"
+      ]
+    },
+    "government_benefits": {
+      "financial_assistance": "Generally not eligible",
+      "medicare_eligibility": "Generally not eligible, including under Reciprocal Health Care Agreements"
+    },
+    "definitions": {
+      "rollover": "To renew a Retirement visa to allow further stay",
+      "partner": "Spouse or de facto partner (including same-sex partners)",
+      "substantive_visa": [
+        "Any visa except a bridging visa",
+        "A criminal justice visa",
+        "An enforcement visa"
+      ]
+    },
+    "health_insurance_requirements": {
+      "must_maintain": true,
+      "adequate_coverage_definition": [
+        "Fully comprehensive",
+        "Equivalent to Medicare",
+        "Covers at least 85% of costs for hospital, emergency and GP services",
+        "Provides pharmaceutical coverage"
+      ],
+      "preferred_provider": "Australian insurer",
+      "overseas_insurer_policy": "Accepted but requires detailed examination and may cause delays",
+      "consequence_of_failure": "Possible refusal of future visa applications"
+    },
+    "costs": {
+      "application_charge": {
+        "base_application_charge": "AUD 500.00",
+        "additional_applicant_over_18": "AUD 250.00",
+        "additional_applicant_under_18": "AUD 125.00"
+      },
+      "payment_methods": [
+        "Credit card",
+        "Bank cheque payable to the Department of Home Affairs",
+        "Money order payable to the Department of Home Affairs"
+      ],
+      "disallowed_payment_methods": [
+        "Cash",
+        "Travellers' cheques",
+        "Personal cheques"
+      ],
+      "other_costs": [
+        "Health assessments",
+        "Police checks and certificates",
+        "Other required certificates",
+        "Document translation costs"
+      ]
+    },
+    "compelling_and_compassionate_circumstances": {
+      "amendment_date": "1 July 2017",
+      "description": "Alternative criteria may apply to applicants in Australia who cannot meet certain visa criteria due to hardship.",
+      "examples": [
+        "Ailments associated with ageing",
+        "Difficulties following the death of a partner"
+      ],
+      "process": "Department may request additional information after application"
+    },
+    "eligibility": {
+      "who_can_apply": [
+        "Existing Retirement visa holders and their partners",
+        "Former Retirement visa holders and their partners who have not held another substantive visa since last entering Australia"
+      ]
+    },
+    "health_requirements": {
+      "examination_required": "Only if applicant has travelled for 3 months or more to a high-risk tuberculosis country",
+      "if_tb_identified": "Medical treatment likely, rather than visa refusal"
+    },
+    "character_requirements": {
+      "must_be_of_good_character": true,
+      "required_documents": [
+        "Updated Australian Federal Police clearance",
+        "Overseas penal clearance for every country lived in for at least 12 months since last Retirement visa grant"
+      ],
+      "timing_notes": [
+        "Clearances preferred at time of application",
+        "If current visa is about to expire, proof of application for clearances may be submitted instead"
+      ],
+      "processing_note": "Providing clearances later may delay processing",
+      "bridging_visa_provided_if_applicable": "Bridging visa A (BVA)"
+    },
+    "financial_requirements": {
+      "self_supporting_required": true
+    },
+    "values_statement": {
+      "age_requirement": "18 years or over",
+      "declaration_required": true,
+      "included_in_application_form": true,
+      "life_in_australia_book_required": false
+    },
+    "family_inclusion": {
+      "can_include_partner": true,
+      "cannot_bring_dependents": true
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,130 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/temporary-work-skilled-457",
+  "title": "Temporary Work (Skilled) visa (subclass 457)",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the now‑closed Temporary Work (Skilled) visa (subclass 457). It explains the visa’s purpose, validity periods, requirements, legislative instruments, applicant obligations, and processes for those who previously held or applied for this visa.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Temporary Work (Skilled) visa",
+      "subclass": "457",
+      "status": "Closed to new applications",
+      "description": "Allowed skilled workers to come to Australia and work for an approved business.",
+      "validity_periods": {
+        "on_mltssl": "4 years after grant",
+        "not_on_mltssl": "2 years after grant",
+        "start_up_business_or_less_than_12_months_trading": "18 months",
+        "labour_agreement": "4 years unless specified otherwise"
+      },
+      "requirements_summary": [
+        "Applicant must have been sponsored by an approved business.",
+        "Work only in nominated occupation and for sponsoring employer.",
+        "Comply with mandatory visa conditions."
+      ]
+    },
+    "announcements": {
+      "abolition_date_announcement": "18 April 2017",
+      "announced_by": [
+        "Hon Malcolm Turnbull MP, Prime Minister of Australia",
+        "Hon Peter Dutton MP, Minister for Immigration and Border Protection"
+      ],
+      "replacement_visa": "Temporary Skill Shortage (TSS) visa"
+    },
+    "legislative_instruments": {
+      "eligible_occupations": [
+        {
+          "applicable_period": "Nominations lodged on or after 17 January 2018",
+          "instrument": "IMMI 18/004"
+        },
+        {
+          "applicable_period": "Nominations lodged before 17 January 2018",
+          "instrument": "IMMI 17/060"
+        }
+      ],
+      "regional_postcodes": "IMMI 17/059",
+      "english_language_requirements": "IMMI 17/057",
+      "training_benchmarks": "IMMI 17/045",
+      "market_salary_rates_and_tsmit": [
+        {
+          "instrument": "IMMI 13/028",
+          "description": "TSMIT and market rates exemption level"
+        },
+        {
+          "instrument": "IMMI 09/113",
+          "description": "Method for determining terms and conditions where no equivalent Australian worker exists"
+        }
+      ],
+      "work_directly_for_sponsor_exemptions": "IMMI 13/067",
+      "labour_market_testing": {
+        "testing_period_specification": "IMMI 13/136",
+        "exempt_occupations": "IMMI 13/137",
+        "international_trade_obligations": "IMMI 17/109"
+      }
+    },
+    "applicants": {
+      "status": "This visa is now closed to new applications",
+      "including_family_members": {
+        "requirements": [
+          "Family must have same levels of financial support as the primary applicant.",
+          "Sponsor must agree in writing to include family as secondary sponsored persons."
+        ],
+        "how_to_include": [
+          "Sponsor includes family details in nomination application, or",
+          "Sponsor provides a letter attached to the visa application."
+        ]
+      },
+      "after_you_apply": {
+        "application_management": "Track and manage application using ImmiAccount",
+        "providing_more_information": {
+          "methods": [
+            "Provide more information anytime until a decision is made.",
+            "Use Form 1023 to correct incorrect answers.",
+            "Upload documents via ImmiAccount."
+          ],
+          "if_other_information_is_received": "Applicant will generally be given an opportunity to comment.",
+          "interviews": "Bring passport/ID and requested documents."
+        },
+        "information_to_include_when_contacting": [
+          "Name and date of birth",
+          "Transaction reference number (TRN)"
+        ],
+        "reporting_changes": "Applicants can report changes or withdraw applications."
+      }
+    },
+    "visa_holders": {
+      "how_long_visa_lasts": {
+        "on_mltssl": "Up to 4 years",
+        "not_on_mltssl": "Up to 2 years",
+        "start_up_business_or_less_than_12_months_trading": "18 months",
+        "labour_agreement": "4 years unless specified otherwise",
+        "note": "Check visa grant letter for exact expiry date; use VEVO if letter unavailable."
+      },
+      "what_this_visa_lets_you_do": [
+        "Work in Australia for an approved sponsor for the life of the visa",
+        "Bring family to work or study",
+        "Travel in and out of Australia freely"
+      ],
+      "obligations": {
+        "mandatory_conditions": [
+          "Condition 8107: work only in nominated occupation",
+          "Work only for sponsoring employer (or associated entity if applicable)"
+        ],
+        "employment_end_flexibility": {
+          "single_period_limit": "Up to 180 days",
+          "total_limit": "Up to 365 days across visa period",
+          "start_date_of_limits": "1 July (year unspecified)"
+        }
+      }
+    },
+    "forms_and_links": {
+      "form_1023": "Notification of incorrect answer(s) (168KB PDF)",
+      "vevo": "Check visa status and details"
+    },
+    "key_points": [
+      "Subclass 457 visa program is abolished.",
+      "Legislative instruments govern occupation lists, English tests, training benchmarks, and labour market testing.",
+      "Visa holders must comply with strict work and sponsorship conditions."
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

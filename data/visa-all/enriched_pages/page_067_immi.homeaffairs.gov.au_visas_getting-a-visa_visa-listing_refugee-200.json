@@ -1,0 +1,128 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/refugee-200",
+  "title": "Refugee category visas",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about Australia’s Refugee category visas (subclass 200, 201, 203, 204). It explains eligibility, application requirements, processing times, obligations, and what visa holders can do once in Australia. It also outlines family inclusion rules, travel rights, and Assisted Passage support services.",
+  "structured_data": {
+    "visa_category": "Refugee category visas",
+    "visa_subclasses": [
+      "Refugee (subclass 200)",
+      "In-country Special Humanitarian (subclass 201)",
+      "Emergency Rescue (subclass 203)",
+      "Woman at Risk (subclass 204)"
+    ],
+    "key_dates": {
+      "immiaccount_required_from": "29 November 2025",
+      "immiaccount_exception": "Community Support Program applicants"
+    },
+    "stay_permissions": {
+      "type": "permanent",
+      "permanent_residency_start": "day of entry into Australia"
+    },
+    "cost": {
+      "visa_application_charge": "0"
+    },
+    "processing_times": {
+      "general_timeline": "many months or years",
+      "factors_affecting_times": [
+        "particular circumstances",
+        "location",
+        "ability to travel",
+        "ability to provide documents",
+        "access to Australian government officials"
+      ],
+      "delays_caused_by": [
+        "form not filled in correctly",
+        "missing documents",
+        "need for additional information",
+        "time needed to verify information",
+        "health conditions requiring testing or treatment"
+      ],
+      "acknowledgement": "applications generally acknowledged in writing"
+    },
+    "priority_processing": {
+      "criteria": [
+        "assessed as a refugee by UNHCR and referred to Australia",
+        "proposed by immediate family member holding a Class XB visa (subclass 200, 201, 202, 203, 204)",
+        "proposed by close family member holding a refugee category visa (subclass 200, 201, 203, 204)",
+        "members of identified minority groups (women and girls, ethnic minorities, LGBTQI+) referred by UNHCR or proposed by a family member in Australia"
+      ],
+      "note": "applications accepted only in most compelling circumstances due to limited places"
+    },
+    "what_you_can_do_with_this_visa": [
+      "stay in Australia permanently",
+      "work and study in Australia",
+      "enrol in Medicare",
+      "propose family members for permanent residence",
+      "travel to and from Australia for 5 years",
+      "become an Australian citizen if eligible",
+      "attend free English classes under the Adult Migrant English Program"
+    ],
+    "eligibility": {
+      "must_apply_outside_australia": true,
+      "must_be_granted_outside_australia": true,
+      "face_persecution": true,
+      "work_permission": true,
+      "health_requirements": {
+        "applicants_must_meet": true,
+        "non_migrating_family_may_need_to_meet": true,
+        "possible_waiver": "may be waived for compassionate and compelling circumstances"
+      },
+      "character_requirements": {
+        "applicants_must_meet": true,
+        "non_migrating_family_may_need_to_meet": true
+      }
+    },
+    "family_inclusion": {
+      "when_family_can_be_added": "any time before application decision",
+      "eligible_family_members": [
+        "partner",
+        "dependent children",
+        "partner’s dependent children",
+        "other dependent relatives"
+      ],
+      "non_dependent_children": "must apply for their own visa",
+      "requirements": [
+        "family members applying must meet health and character requirements",
+        "non-migrating family may also need to meet health requirements"
+      ],
+      "declaration_warning": "undeclared family members may not be eligible for humanitarian visa proposals later"
+    },
+    "application_requirements": {
+      "must_use_immiaccount_from": "29 November 2025",
+      "exception": "Community Support Program applications"
+    },
+    "assisted_passage": {
+      "program_description": "supports the Offshore Humanitarian Program by providing health screening, travel and medical services",
+      "service_provider": "Toll Remote Logistics Pty Ltd",
+      "services_provided": [
+        "assistance attending health appointments",
+        "travel arrangements to Australia after visa grant"
+      ]
+    },
+    "obligations": [
+      "enter Australia before the initial arrival date",
+      "comply with any signed health undertaking",
+      "obey all Australian laws"
+    ],
+    "travel": {
+      "travel_arranged_by_department": true,
+      "cost": "no cost to applicant",
+      "travel_facilitation_letter": "may be issued if initial arrival date has passed",
+      "medical_exam_may_be_required": true,
+      "travel_rights": "travel to and from Australia for 5 years from visa grant",
+      "after_5_years": "must obtain Resident Return Visa (subclass 155 or 157)"
+    },
+    "additional_information": {
+      "demand_exceeds_places": true,
+      "assessment_against_all_subclasses": true,
+      "more_info_link_label": "Refugee visas (offshore)"
+    },
+    "legal_requirements": {
+      "must_enter_by_date_on_visa": true,
+      "must_obey_australian_laws": true
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

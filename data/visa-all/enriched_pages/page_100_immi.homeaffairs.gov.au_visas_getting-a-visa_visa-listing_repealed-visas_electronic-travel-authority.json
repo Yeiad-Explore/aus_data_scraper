@@ -1,0 +1,87 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/electronic-travel-authority-business-entrant-subclass-956-and-977",
+  "title": "Electronic Travel Authority (Business Entrant) (subclass 956 and 977)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for holders of the now‑closed Electronic Travel Authority (Business Entrant) visas, subclasses 956 and 977. It explains validity periods, permitted activities, obligations, and requirements for notifying changes in circumstances.",
+  "structured_data": {
+    "visa_name": "Electronic Travel Authority (Business Entrant)",
+    "subclasses": [
+      {
+        "subclass_number": "956",
+        "description": "Electronic Travel Authority (Business Entrant – long validity)",
+        "status": "Closed to new applications since 22 March 2013"
+      },
+      {
+        "subclass_number": "977",
+        "description": "Electronic Travel Authority (Business Entrant – short validity)",
+        "status": "Closed to new applications since 22 March 2013"
+      }
+    ],
+    "application_status": {
+      "closed_to_new_applications": true,
+      "closure_date": "22 March 2013",
+      "alternative_visa_option": "Electronic Travel Authority (subclass 601)"
+    },
+    "who_this_information_is_for": [
+      "Holders of Electronic Travel Authority (Business Entrant – long validity) subclass 956",
+      "Holders of Electronic Travel Authority (Business Entrant – short validity) subclass 977"
+    ],
+    "general_notes": {
+      "vevo_availability": "Eligible holders can check their ETA status and entitlements using Visa Entitlement Verification Online (VEVO) for free."
+    },
+    "visa_validity": {
+      "subclass_956": {
+        "stay_duration": "Up to 3 months on each visit",
+        "overall_validity": "Life of the passport"
+      },
+      "subclass_977": {
+        "stay_duration": "Up to 3 months on each visit",
+        "overall_validity": [
+          "12-month period from date of grant",
+          "Life of passport if it expires in less than 12 months"
+        ]
+      },
+      "extension_policy": "Electronic travel authorities cannot be extended.",
+      "stay_extension_in_australia": "To extend stay after arrival, a different visa must be applied for at least two weeks before the authority expires."
+    },
+    "permissions": {
+      "allowed_activities": [
+        "Educational or business-related meetings",
+        "Seminars",
+        "Conventions",
+        "Conferences",
+        "Networking",
+        "Informal studies or training"
+      ],
+      "prohibited_activities": [
+        "Working in Australia",
+        "Entering Australia for the main purpose of work"
+      ]
+    },
+    "obligations": {
+      "general_obligations": [
+        "Comply with all electronic travel authority conditions",
+        "Comply with Australian laws"
+      ],
+      "specific_obligations": [
+        "Be free from tuberculosis when entering Australia",
+        "Not perform work that an Australian citizen or permanent resident could do",
+        "Not study or train for more than three months",
+        "Not have any criminal convictions resulting in a total of 12 months or more imprisonment (regardless of time actually served)"
+      ]
+    },
+    "change_notification_requirements": {
+      "changes_to_report": [
+        "Changes to phone number",
+        "Changes to email",
+        "Changes to address",
+        "Changes to passport",
+        "Changes to relationship status",
+        "Birth of a child"
+      ],
+      "consequences_of_not_reporting_new_passport": "May experience significant delays at the airport and may be denied permission to board the plane."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,128 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/child-101",
+  "title": "Child visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Child Visa (Subclass 101), a permanent visa allowing eligible children outside Australia to live with their Australian parent. It outlines eligibility requirements, costs, processing times, obligations, and conditions for adopted children, stepchildren, and dependent children.",
+  "structured_data": {
+    "visa_name": "Child visa",
+    "subclass": "101",
+    "description": "This visa lets a child outside Australia move to Australia to live with their parents.",
+    "stay": "Permanently",
+    "travel_facility": {
+      "duration": "5 years from visa grant",
+      "details": [
+        "Unlimited travel to and from Australia while travel facility is valid",
+        "After 5 years, child must apply for and be granted an RRV to re-enter as a permanent resident",
+        "Child may consider Australian citizenship to avoid needing a visa for re-entry"
+      ],
+      "check_travel_facility": "Use VEVO"
+    },
+    "what_child_can_do": [
+      "Stay in Australia indefinitely",
+      "Work and study in Australia",
+      "Enrol in Medicare",
+      "Sponsor relatives to come to Australia",
+      "Attend free English language classes via the Adult Migrant English Program (if eligible)",
+      "Apply for Australian citizenship (if eligible)"
+    ],
+    "eligibility": {
+      "dependency_requirements": {
+        "must_be_dependent_on_parent_who_is": [
+          "Australian citizen",
+          "Eligible New Zealand citizen",
+          "Australian permanent visa holder"
+        ],
+        "eligible_child_types": [
+          "Biological child",
+          "Adopted child",
+          "Stepchild (only from a former partner)"
+        ],
+        "dependency_exclusion": "A child does not meet dependency requirement if the stepparent is the current spouse/de facto of the child's biological or adopted parent."
+      },
+      "adopted_children": {
+        "requirements": [
+          "Must have been adopted before turning 18",
+          "Adopted by a parent who was NOT an Australian citizen, permanent resident, or eligible New Zealand citizen at the time of adoption"
+        ],
+        "alternative_visa": "Adoption visa (subclass 102) may apply if the adoptive parent was already an Australian citizen, permanent resident, or eligible New Zealand citizen at the time of adoption"
+      },
+      "stepchildren": {
+        "requirements": [
+          "Must be child of the step-parent’s former partner",
+          "Must be under 18 years old"
+        ],
+        "step_parent_must_have": [
+          "An Australian parenting order stating the child is to live with and be cared for by them, OR",
+          "Guardianship or custody under Australian or foreign law"
+        ]
+      },
+      "age_requirements": [
+        "Under 18 years old, OR",
+        "Over 18 and under 25 years old and studying full time, OR",
+        "Over 18 years old with a disability"
+      ],
+      "relationship_status_requirement": "Child must be single and dependent on the parent",
+      "location_requirement": "Child must be outside Australia when the application is lodged",
+      "covid_concessions": "Child may be eligible for COVID-19 visa concessions"
+    },
+    "sponsorship": {
+      "requirements": [
+        "Child must be sponsored by an eligible parent or their parent's spouse or de facto partner",
+        "Sponsorship must be approved before visa grant"
+      ],
+      "restrictions": [
+        "If sponsor or their partner has a pending registrable offence charge, sponsorship and visa will be refused",
+        "If sponsor or their partner has a registrable offence conviction, sponsorship can only be approved in limited circumstances"
+      ],
+      "notes": "Measures for child protection apply"
+    },
+    "citizenship_by_descent_option": {
+      "child_may_apply_if": [
+        "Child was born outside Australia",
+        "One parent was an Australian citizen at the child's birth"
+      ]
+    },
+    "including_other_children": {
+      "siblings": "Separate applications required for each sibling",
+      "dependent_children": "Can be included at time of application or any time before decision",
+      "health_requirements": [
+        "Dependent children must meet health requirement",
+        "Non-migrating family members may also need to meet health requirement"
+      ]
+    },
+    "costs": {
+      "visa_application_charge": "Main applicant pays visa cost",
+      "dependent_children_charge": "Additional charges apply",
+      "other_costs": [
+        "Health examinations",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "pricing_tool": "Visa Pricing Estimator (does not include additional costs)"
+    },
+    "apply_from": "Child must be outside Australia when the application is submitted",
+    "processing_times": {
+      "guide": "Use visa processing time guide tool",
+      "notes": "Times shown are not specific to individual applications",
+      "may_take_longer_if": [
+        "Application is incomplete or incorrect",
+        "Missing documents or need for more information",
+        "Information verification delays",
+        "Incorrect or unpaid visa application charge"
+      ],
+      "acknowledgement_time": "Approximately 1 month after lodgement",
+      "communication_process": "Department contacts applicant if more information is needed or when outcome is ready"
+    },
+    "obligations": {
+      "entry_requirement": "Child must enter Australia before the date in the grant letter (generally 12 months from grant date)",
+      "legal_requirements": [
+        "Must meet all visa conditions",
+        "Must obey Australian laws"
+      ],
+      "conditions_reference": "See visa conditions page"
+    },
+    "visa_label": "Visa is digitally linked to passport; no physical label"
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

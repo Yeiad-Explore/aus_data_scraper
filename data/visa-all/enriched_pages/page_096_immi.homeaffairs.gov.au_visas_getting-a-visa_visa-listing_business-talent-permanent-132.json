@@ -1,0 +1,49 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/business-talent-permanent-132",
+  "title": "Business Talent (Permanent) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Business Talent (Permanent) visa (subclass 132), which allowed individuals to establish or develop a business in Australia. It includes eligibility requirements, details for two visa streams, costs, processing time guidance, and important closure and refund notes.",
+  "structured_data": {
+    "visa_name": "Business Talent (Permanent) visa",
+    "subclass": "132",
+    "status": {
+      "closed_to_new_applications": true,
+      "closure_date": "2021-07-01",
+      "biip_closure_date": "2024-07-31",
+      "refund_information": "Applicants for Significant Business History or Venture Capital Entrepreneur stream may be entitled to a refund if they withdrew their application on or after 31 July 2024.",
+      "related_link": "BIIP closure and refunds"
+    },
+    "description": "This visa allows you to establish a new or develop an existing business in Australia.",
+    "basic_eligibility": [
+      "be nominated by an Australian state or territory government agency",
+      "be invited to apply for the visa",
+      "have the required funding or assets"
+    ],
+    "streams": [
+      {
+        "stream_name": "Significant Business History stream",
+        "description": "For experienced business owners to operate a new or existing business in Australia.",
+        "requirements": {
+          "net_value": "at least AUD 1.5 million (lawfully acquired)",
+          "annual_business_turnover": "at least AUD 3 million for at least 2 of the 4 fiscal years immediately before invitation",
+          "total_net_assets_in_businesses": "at least AUD 400,000 as ownership interest in one or more qualifying businesses for at least 2 of the 4 fiscal years immediately before invitation"
+        },
+        "stay": "Permanently",
+        "cost": "From AUD 7,855.00",
+        "processing_time_note": "Processing times available using the visa processing time guide tool; indicative only and not specific to individual applications."
+      },
+      {
+        "stream_name": "Venture Capital Entrepreneur stream",
+        "description": "For people who have sourced venture capital funding from a member of the Australian Investment Council (AIC), formerly Australian Private Equity and Venture Capital Association Limited (AVCAL).",
+        "requirements": {
+          "venture_capital_funding": "at least AUD 1 million from an Australian venture capital firm"
+        },
+        "stay": "Permanently",
+        "cost": "From AUD 0.00",
+        "processing_time_note": "Processing times available using the visa processing time guide tool; indicative only and not specific to individual applications."
+      }
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

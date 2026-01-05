@@ -1,0 +1,538 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing#content-index-1",
+  "title": "Visa list",
+  "content_type": "visa_information",
+  "summary": "This page provides a comprehensive list of Australian visas, organised into major categories such as visitor, study, family, work, humanitarian, other, and repealed visas. The page functions as a directory and does not include eligibility, requirements, fees, or processing times. It serves as a reference list for all current and repealed visa subclasses.",
+  "structured_data": {
+    "visa_categories": {
+      "visitor_visas": [
+        {
+          "name": "Electronic Travel Authority",
+          "subclass": "601"
+        },
+        {
+          "name": "eVisitor",
+          "subclass": "651"
+        },
+        {
+          "name": "Transit visa",
+          "subclass": "771"
+        },
+        {
+          "name": "Visitor",
+          "subclass": "600"
+        },
+        {
+          "name": "Work and Holiday visa",
+          "subclass": "462"
+        },
+        {
+          "name": "Working Holiday visa",
+          "subclass": "417"
+        }
+      ],
+      "studying_and_training_visas": [
+        {
+          "name": "Student visa",
+          "subclass": "500"
+        },
+        {
+          "name": "Student Guardian visa",
+          "subclass": "590"
+        },
+        {
+          "name": "Training visa",
+          "subclass": "407"
+        }
+      ],
+      "family_and_partner_visas": [
+        {
+          "name": "Adoption visa",
+          "subclass": "102"
+        },
+        {
+          "name": "Aged Dependent Relative visa",
+          "subclass": "114"
+        },
+        {
+          "name": "Aged Dependent Relative visa",
+          "subclass": "838"
+        },
+        {
+          "name": "Aged Parent visa",
+          "subclass": "804"
+        },
+        {
+          "name": "Carer visa",
+          "subclass": "836"
+        },
+        {
+          "name": "Carer visa",
+          "subclass": "116"
+        },
+        {
+          "name": "Child visa",
+          "subclass": "101"
+        },
+        {
+          "name": "Child visa",
+          "subclass": "802"
+        },
+        {
+          "name": "Contributory Aged Parent (Temporary) visa",
+          "subclass": "884"
+        },
+        {
+          "name": "Contributory Aged Parent visa",
+          "subclass": "864"
+        },
+        {
+          "name": "Contributory Parent (Temporary) visa",
+          "subclass": "173"
+        },
+        {
+          "name": "Contributory Parent visa",
+          "subclass": "143"
+        },
+        {
+          "name": "Dependent Child visa",
+          "subclass": "445"
+        },
+        {
+          "name": "New Zealand Citizen Family Relationship (temporary) visa",
+          "subclass": "461"
+        },
+        {
+          "name": "Orphan Relative visa",
+          "subclass": "117"
+        },
+        {
+          "name": "Orphan Relative visa",
+          "subclass": "837"
+        },
+        {
+          "name": "Parent visa",
+          "subclass": "103"
+        },
+        {
+          "name": "Partner (Provisional and Migrant) visa",
+          "subclass": "309 100"
+        },
+        {
+          "name": "Partner visa",
+          "subclass": "820 801"
+        },
+        {
+          "name": "Prospective Marriage visa",
+          "subclass": "300"
+        },
+        {
+          "name": "Remaining Relative visa",
+          "subclass": "115"
+        },
+        {
+          "name": "Remaining Relative visa",
+          "subclass": "835"
+        },
+        {
+          "name": "Sponsored Parent (Temporary) visa",
+          "subclass": "870"
+        }
+      ],
+      "working_and_skilled_visas": [
+        {
+          "name": "Business Innovation and Investment (permanent) visa",
+          "subclass": "888"
+        },
+        {
+          "name": "Business Innovation and Investment (provisional) visa",
+          "subclass": "188"
+        },
+        {
+          "name": "National Innovation visa",
+          "subclass": "858"
+        },
+        {
+          "name": "Employer Nomination Scheme",
+          "subclass": "186"
+        },
+        {
+          "name": "Permanent Residence (Skilled Regional) visa",
+          "subclass": "191"
+        },
+        {
+          "name": "Pacific Engagement Visa",
+          "subclass": "192"
+        },
+        {
+          "name": "Regional Sponsored Migration Scheme",
+          "subclass": "187"
+        },
+        {
+          "name": "Skilled Employer Sponsored Regional (provisional) visa",
+          "subclass": "494"
+        },
+        {
+          "name": "Skilled Independent visa",
+          "subclass": "189"
+        },
+        {
+          "name": "Skilled Nominated visa",
+          "subclass": "190"
+        },
+        {
+          "name": "Skilled Regional (provisional) visa",
+          "subclass": "489"
+        },
+        {
+          "name": "Skilled Regional visa",
+          "subclass": "887"
+        },
+        {
+          "name": "Skilled Work Regional (Provisional) visa",
+          "subclass": "491"
+        },
+        {
+          "name": "Temporary Activity visa",
+          "subclass": "408"
+        },
+        {
+          "name": "Temporary Graduate visa",
+          "subclass": "485"
+        },
+        {
+          "name": "Temporary Work (International Relations) visa",
+          "subclass": "403"
+        },
+        {
+          "name": "Temporary Work (Short Stay Specialist) visa",
+          "subclass": "400"
+        },
+        {
+          "name": "Skills in Demand",
+          "subclass": "482"
+        }
+      ],
+      "refugee_and_humanitarian_visas": [
+        {
+          "name": "Global Special Humanitarian",
+          "subclass": "202"
+        },
+        {
+          "name": "Protection visa",
+          "subclass": "866"
+        },
+        {
+          "name": "Refugee visas",
+          "subclass": "200, 201, 203, 204"
+        },
+        {
+          "name": "Temporary Protection visa",
+          "subclass": "785"
+        },
+        {
+          "name": "Safe Haven Enterprise visa",
+          "subclass": "790"
+        },
+        {
+          "name": "Resolution of Status visa",
+          "subclass": "851"
+        }
+      ],
+      "other_visas": [
+        {
+          "name": "Bridging visa A – BVA",
+          "subclass": "010"
+        },
+        {
+          "name": "Bridging visa B – BVB",
+          "subclass": "020"
+        },
+        {
+          "name": "Bridging visa C – BVC",
+          "subclass": "030"
+        },
+        {
+          "name": "Bridging visa E – BVE",
+          "subclass": "050 and 051"
+        },
+        {
+          "name": "Crew Travel Authority visa",
+          "subclass": "942"
+        },
+        {
+          "name": "Former Resident visa",
+          "subclass": "151"
+        },
+        {
+          "name": "Maritime Crew visa",
+          "subclass": "988"
+        },
+        {
+          "name": "Medical Treatment visa",
+          "subclass": "602"
+        },
+        {
+          "name": "Resident Return visa",
+          "subclass": "155 157"
+        },
+        {
+          "name": "Special Category visa",
+          "subclass": "444"
+        },
+        {
+          "name": "Special Purpose visa",
+          "subclass": null
+        },
+        {
+          "name": "Special Purpose Travel Authority",
+          "subclass": "945"
+        },
+        {
+          "name": "Investor Retirement visa",
+          "subclass": "405"
+        }
+      ],
+      "repealed_visas": [
+        {
+          "name": "Business Owner visa",
+          "subclass": "890"
+        },
+        {
+          "name": "Investor visa",
+          "subclass": "891"
+        },
+        {
+          "name": "State or Territory Sponsored Business Owner visa",
+          "subclass": "892"
+        },
+        {
+          "name": "State or Territory Sponsored Investor visa",
+          "subclass": "893"
+        },
+        {
+          "name": "Confirmatory (Residence) visa",
+          "subclass": "808"
+        },
+        {
+          "name": "Temporary Activity visa - Australian Government endorsed events (COVID-19 Pandemic event)",
+          "subclass": "408"
+        },
+        {
+          "name": "Temporary Skill Shortage (Short-term) visa",
+          "subclass": "482"
+        },
+        {
+          "name": "Temporary Skill Shortage (Medium-term) visa",
+          "subclass": "482"
+        },
+        {
+          "name": "Temporary Skill Shortage (Labour agreement) visa",
+          "subclass": "482"
+        },
+        {
+          "name": "Temporary Graduate (Replacement stream) visa",
+          "subclass": "485"
+        },
+        {
+          "name": "Skilled-Recognised Graduate visa",
+          "subclass": "476"
+        },
+        {
+          "name": "Business (Short Stay) visa",
+          "subclass": "456"
+        },
+        {
+          "name": "Business Skills (Provisional) visa",
+          "subclass": "160 and 165"
+        },
+        {
+          "name": "Business Talent (Permanent) visa",
+          "subclass": "132"
+        },
+        {
+          "name": "Distinguished Talent visa",
+          "subclass": "124"
+        },
+        {
+          "name": "Domestic Worker (Temporary) Diplomatic and Consular visa",
+          "subclass": "426"
+        },
+        {
+          "name": "Domestic Worker (Temporary) Executive visa",
+          "subclass": "427"
+        },
+        {
+          "name": "Electronic Travel Authority (Business Entrant) visa",
+          "subclass": "956 and 977"
+        },
+        {
+          "name": "Electronic Travel Authority (Visitor) visa",
+          "subclass": "976"
+        },
+        {
+          "name": "Employer Nomination Scheme",
+          "subclass": "121 and 856"
+        },
+        {
+          "name": "Established Business in Australia visa",
+          "subclass": "845"
+        },
+        {
+          "name": "Exchange visa",
+          "subclass": "411"
+        },
+        {
+          "name": "Foreign Government Agency visa",
+          "subclass": "415"
+        },
+        {
+          "name": "Government Agreement visa",
+          "subclass": "406"
+        },
+        {
+          "name": "Labour Agreement visa",
+          "subclass": "120"
+        },
+        {
+          "name": "Labour Agreement visa",
+          "subclass": "855"
+        },
+        {
+          "name": "Media and Film Staff visa",
+          "subclass": "423"
+        },
+        {
+          "name": "Medical Practitioner visa",
+          "subclass": "422"
+        },
+        {
+          "name": "Medical Treatment (Short Stay) visa",
+          "subclass": "675"
+        },
+        {
+          "name": "Medical Treatment Long Stay visa",
+          "subclass": "685"
+        },
+        {
+          "name": "Regional Sponsor Migration Scheme",
+          "subclass": "119 and 857"
+        },
+        {
+          "name": "Religious Worker visa",
+          "subclass": "428"
+        },
+        {
+          "name": "Retirement visa",
+          "subclass": "410"
+        },
+        {
+          "name": "Skilled Designated Area Sponsored visa",
+          "subclass": "496"
+        },
+        {
+          "name": "Skilled Independent Regional (Provisional) visa",
+          "subclass": "495"
+        },
+        {
+          "name": "Skilled Independent visa",
+          "subclass": "175"
+        },
+        {
+          "name": "Skilled Independent visa",
+          "subclass": "885"
+        },
+        {
+          "name": "Skilled Regional Sponsored visa",
+          "subclass": "475"
+        },
+        {
+          "name": "Skilled Regional Sponsored",
+          "subclass": "487"
+        },
+        {
+          "name": "Skilled Sponsored visa",
+          "subclass": "176"
+        },
+        {
+          "name": "Special Program visa",
+          "subclass": "416"
+        },
+        {
+          "name": "Sponsored visa",
+          "subclass": "886"
+        },
+        {
+          "name": "Sport visa",
+          "subclass": "421"
+        },
+        {
+          "name": "Superyacht Crew visa",
+          "subclass": "488"
+        },
+        {
+          "name": "State or Territory Sponsored Regional Established Business in Australia visa",
+          "subclass": "846"
+        },
+        {
+          "name": "Temporary Work (Entertainment) visa",
+          "subclass": "420"
+        },
+        {
+          "name": "Temporary Work (Skilled) visa",
+          "subclass": "457"
+        },
+        {
+          "name": "Tourist visa",
+          "subclass": "676"
+        },
+        {
+          "name": "Temporary Work (long Stay Activity) visa",
+          "subclass": "401"
+        },
+        {
+          "name": "Training and Research visa",
+          "subclass": "402"
+        },
+        {
+          "name": "Visiting Academic visa",
+          "subclass": "419"
+        },
+        {
+          "name": "Foreign Affairs or Defence sector visa",
+          "subclass": "576"
+        },
+        {
+          "name": "Higher Education Sector visa",
+          "subclass": "573"
+        },
+        {
+          "name": "Independent ELICOS Sector visa",
+          "subclass": "570"
+        },
+        {
+          "name": "Non Award Sector visa",
+          "subclass": "575"
+        },
+        {
+          "name": "Postgraduate Research Sector visa",
+          "subclass": "574"
+        },
+        {
+          "name": "School Sector visa",
+          "subclass": "571"
+        },
+        {
+          "name": "Student Guardian visa",
+          "subclass": "580"
+        },
+        {
+          "name": "Vocational Education and Training Sector visa",
+          "subclass": "572"
+        }
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

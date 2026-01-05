@@ -1,0 +1,118 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/carer-836",
+  "title": "Carer visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Subclass 836 Carer visa, a permanent visa for individuals in Australia who need to care for an Australian relative with a long-term medical condition and no reasonable access to care. It outlines eligibility criteria, costs, how to apply, processing times, conditions, obligations, and travel rights.",
+  "structured_data": {
+    "visa_name": "Carer visa",
+    "subclass": "836",
+    "visa_type": "Permanent",
+    "description": "This visa lets you stay in Australia to provide care to someone with a long-term medical condition who does not have reasonable access to care options in Australia.",
+    "key_updates": [
+      {
+        "effective_date": "23 July 2025",
+        "details": "Applicants for Other Family subclasses 114, 115, 116, 835, 836 and 838 can import their paper application into ImmiAccount.",
+        "exceptions": "Some existing applications made outside of Australia before 25 June 2020 cannot be imported into ImmiAccount."
+      }
+    ],
+    "benefits": [
+      "Stay in Australia indefinitely",
+      "Work and study in Australia",
+      "Enrol in Medicare",
+      "Sponsor relatives to come to Australia",
+      "Travel to and from Australia for 5 years",
+      "Attend free English classes (if eligible)",
+      "Apply for Australian citizenship (if eligible)"
+    ],
+    "travel_facility": {
+      "validity": "5 years from date of visa grant",
+      "notes": [
+        "Unlimited travel while the travel facility is valid",
+        "After 5 years, applicants must apply for a Resident Return Visa (RRV) to re‑enter Australia as a permanent resident",
+        "Australian citizenship removes the need for a visa for re-entry"
+      ],
+      "check_travel_facility": "Available through VEVO"
+    },
+    "eligibility": {
+      "location_requirements": [
+        "Must be in Australia when applying",
+        "Must be in Australia when the decision is made"
+      ],
+      "carer_requirements": [
+        "Must be willing and able to provide ongoing substantial care and support",
+        "Must understand the medical condition and care needs of the person requiring care",
+        "The person being cared for must be an Australian relative or their family member living with them"
+      ],
+      "sponsor_requirements": [
+        "Must be sponsored by an eligible sponsor",
+        "Sponsorship must be approved"
+      ],
+      "visa_status_requirements": [
+        "Must hold any substantive visa except Transit visa (subclass 771)",
+        "Or have held any substantive visa except subclass 771 and made a valid Subclass 836 application within a required timeframe"
+      ],
+      "health_requirement": "Applicant and included family members must meet the health requirement",
+      "character_requirement": "Applicant and included family members must meet the character requirement"
+    },
+    "family_inclusion": {
+      "allowed": true,
+      "requirements": [
+        "Family members included must meet health and character requirements"
+      ]
+    },
+    "cost": {
+      "base_cost_main_applicant": "From AUD 2,175.00",
+      "additional_charges": [
+        "Second instalment (amount varies)",
+        "Costs for health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "payment_structure": [
+        "First instalment paid at time of application",
+        "Second instalment paid when requested"
+      ],
+      "second_instalment_reduction": {
+        "possible": true,
+        "conditions": "May be reduced to nil if paying the instalment would cause severe financial hardship to the applicant or the person needing care",
+        "exclusions": "Second instalment cannot be reduced for accompanying family members",
+        "procedure": "Must submit request in writing"
+      },
+      "cost_estimator": "Visa Pricing Estimator does not include second instalment or additional costs"
+    },
+    "application_process": {
+      "apply_from_location": "Must apply in Australia",
+      "decision_location": "Must be in Australia when decision is made"
+    },
+    "processing_times": {
+      "notes": [
+        "Demand for Other Family visas exceeds available places each year",
+        "Applications may be subject to long processing times",
+        "Subject to capping and queueing"
+      ],
+      "processing_time_guidance": "Visa processing time guide tool provides recent decision timeframes",
+      "delays_caused_by": [
+        "Incorrectly completed applications",
+        "Missing documents or need for further information",
+        "Long verification times",
+        "Incorrect payment of visa application charge"
+      ],
+      "additional_resources": [
+        "Other Family Visa queues and processing priorities",
+        "Reports on Migration Programs"
+      ]
+    },
+    "obligations": [
+      "You and any family members must obey all Australian laws"
+    ],
+    "visa_label": {
+      "label_issued": false,
+      "details": "Visa is digitally linked to the passport"
+    },
+    "help_with_visa": {
+      "advice": "Before paying someone for assistance, review information on Who can help with your visa application"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

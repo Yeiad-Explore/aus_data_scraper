@@ -1,0 +1,146 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/crew-travel-authority-942",
+  "title": "Crew Travel Authority",
+  "content_type": "visa_information",
+  "summary": "This page provides full details about the Crew Travel Authority (CTA), an electronic immigration record that allows international airline crew, positioning crew, and aircraft safety inspectors to enter Australia. It explains eligibility, conditions of stay, obligations, costs, and the step‑by‑step process for registration.",
+  "structured_data": {
+    "visa_name": "Crew Travel Authority",
+    "subclass": "942",
+    "description": "An electronic immigration record for international airline crew, airline positioning crew, and aircraft safety inspectors who travel to and from Australia as part of their work.",
+    "validity": {
+      "registration_validity": "Valid for the life of the passport based on the passport expiry date",
+      "digital_link": "Digitally linked to passport; no visa label provided"
+    },
+    "who_does_not_need_cta": [
+      "Crew members with Australian passports",
+      "Crew members with New Zealand passports"
+    ],
+    "eligibility": {
+      "general_requirements": [
+        "Must be registered as crew by your air carrier",
+        "Must be travelling on an eligible international airline flight (commercial passenger, chartered passenger, freight or cargo)"
+      ],
+      "eligible_applicant_types": {
+        "airline_crew_member": {
+          "requirements": [
+            "Employed by an international air carrier as aircrew",
+            "Travels to Australia as part of job as aircrew",
+            "Will leave Australia by air as part of job or as a passenger"
+          ]
+        },
+        "airline_positioning_crew_member": {
+          "requirements": [
+            "Employed by an international air carrier as aircrew",
+            "Travels to Australia as a passenger as part of job",
+            "Will leave Australia as aircrew"
+          ]
+        },
+        "aircraft_safety_inspector": {
+          "requirements": [
+            "Employed by a foreign government to inspect international air carriers or aircraft safety",
+            "Travels to Australia by air as part of job",
+            "Will leave Australia by air as part of job or as a passenger"
+          ],
+          "accepted_identity_documents": [
+            "Valid government identity document showing employment by a foreign government",
+            "ICAO Safety Inspector Certificate"
+          ]
+        }
+      },
+      "flight_requirements": [
+        "Commercial passenger flights",
+        "Chartered passenger flights",
+        "Freight or cargo flights"
+      ],
+      "private_flight_restrictions": "Private flight operators cannot register for or use a CTA; flight must be commercial or chartered carrying passengers or cargo."
+    },
+    "allowed_activities": [
+      "Travel to Australia as part of work as international airline crew or safety inspector",
+      "Stay in Australia for permitted duration based on crew role",
+      "Arrive as passenger when acting as airline positioning crew",
+      "Enter Australia as an aircraft safety inspector with valid identity documentation"
+    ],
+    "stay_conditions": {
+      "international_airline_crew_or_safety_inspector": "Up to 30 days",
+      "airline_positioning_crew_member": "Up to 5 days",
+      "special_purpose_visa_note": "All CTA entrants are granted a Special Purpose visa upon arrival",
+      "stay_extension": "You must apply for another visa if you want to stay longer; cannot extend Special Purpose visa"
+    },
+    "new_zealand_passport_holders": {
+      "cta_requirement": "NZ passport holders do not need a CTA",
+      "staying_longer_instructions": [
+        "Do not enter via SmartGate if needing to stay longer than CTA periods",
+        "Approach a border clearance officer",
+        "Apply for Special Category Visa (SCV subclass 444)"
+      ],
+      "scv_rights": [
+        "Live, work, visit and study in Australia",
+        "SCV ends upon leaving Australia; must apply again upon next arrival"
+      ],
+      "potential_impacts": "Entering on a Special Purpose visa instead of SCV may affect social security residency status"
+    },
+    "cost": {
+      "application_cost": "Free"
+    },
+    "processing_times": {
+      "processing_time_available": "No processing times available"
+    },
+    "obligations": {
+      "must": [
+        "Obey Australian laws"
+      ],
+      "cannot": [
+        "Use CTA to travel as a passenger to Australia unless an airline positioning crew member",
+        "Work more than one domestic leg in Australia unless it is part of an international arrival or departure"
+      ]
+    },
+    "travel_conditions": {
+      "multiple_entry": "Unlimited travel outside and return to Australia while CTA is valid",
+      "time_outside_australia": "Does not extend duration of CTA"
+    },
+    "visa_label": {
+      "label_provided": false,
+      "details": "Visa is digitally linked to passport"
+    },
+    "family_inclusion": {
+      "can_include_family": false
+    },
+    "how_to_apply": {
+      "registration_process": "Air carriers typically register crew members for CTAs",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Before you apply",
+          "details": [
+            "Air carriers register crew members",
+            "Renew passport before carrier registers for CTA",
+            "CTA is linked to passport; must use same passport to travel"
+          ]
+        },
+        {
+          "step": 2,
+          "title": "Gather your documents",
+          "documents_needed": [
+            "Valid passport or travel document",
+            "Valid Airline Identity Card or ICAO Safety Inspector Certificate"
+          ],
+          "arrival_requirements": [
+            "Must prove identity",
+            "Must provide true information"
+          ]
+        }
+      ]
+    },
+    "special_rules": {
+      "aircraft_safety_inspectors": [
+        "Granted Special Purpose visa for 30 days from disembarkation",
+        "Must hold valid passport",
+        "Must hold valid government identity document or ICAO certificate",
+        "Must be included in crew list provided by or for the carrier"
+      ],
+      "air_crew_documents": "Airline crew members granted Special Purpose visa for 30 days (content truncated)"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

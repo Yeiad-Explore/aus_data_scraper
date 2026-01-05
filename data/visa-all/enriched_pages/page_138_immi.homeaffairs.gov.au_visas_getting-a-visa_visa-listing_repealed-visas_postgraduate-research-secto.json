@@ -1,0 +1,96 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/postgraduate-research-sector-574",
+  "title": "Postgraduate Research Sector visa (subclass 574)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for existing holders or pending applicants of the Postgraduate Research Sector visa (subclass 574), which closed to new applications on 1 July 2016. It outlines visa validity, rights, obligations, work conditions, education provider transfer rules, and requirements for family members and students under 18.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Postgraduate Research Sector visa",
+      "subclass": "574",
+      "status": "Closed to new applications",
+      "closure_date": "1 July 2016",
+      "who_this_applies_to": [
+        "People already granted a Postgraduate Research Sector visa (subclass 574)",
+        "People who applied for the visa on or before 30 June 2016 and have not yet received a decision"
+      ],
+      "post_closure_instructions": "If you need to extend your stay in Australia from 1 July 2016, you must apply for a Student Visa (subclass 500)."
+    },
+    "visa_validation_and_duration": {
+      "how_long_visa_lasts": "Valid until the expiry date given when the visa was granted"
+    },
+    "rights_and_permissions": {
+      "study_rights": "You can study in Australia.",
+      "family_members": {
+        "can_accompany": true,
+        "work_rights": "Family members can work unlimited hours once you have commenced your masters by research or doctorate course.",
+        "study_rights": [
+          "Your partner can study in Australia for up to three months.",
+          "Family members aged 18 or older who want to study for more than three months must apply for their own student visa."
+        ]
+      },
+      "work_rights": {
+        "student": "You can work unlimited hours once you have commenced your masters or doctorate course.",
+        "restrictions_before_commencement": "If you have commenced a preliminary course (such as ELICOS), you and your family members are restricted to working 40 hours per fortnight until you start your masters or doctorate course."
+      }
+    },
+    "obligations": {
+      "general_obligations": [
+        "You must comply with your visa conditions while studying and living in Australia.",
+        "You must comply with Australian laws."
+      ],
+      "changing_course_sector": "If you change to a course in a different education sector (e.g., from high school to a Diploma), you must apply for a new Student Visa (subclass 500).",
+      "svm_requirements_for_svp_holders": {
+        "description": "If granted under SVP (streamlined visa processing), you must continue to satisfy SVP requirements.",
+        "possible_consequence": "Your visa could be cancelled if you transfer to an ineligible education provider (before 1 July 2016).",
+        "risk_conditions": [
+          "If within the first 12 months of your visa being granted",
+          "If you are not from a country that was Assessment Level 1 before 1 July 2016"
+        ]
+      },
+      "checking_conditions": "Visa conditions can be checked using Visa Entitlement Verification Online (VEVO) or the visa grant letter."
+    },
+    "changing_education_provider": {
+      "rules": [
+        "If you have not completed six months of your principal course, ESOS National Code requirements apply.",
+        "Generally, you need permission from your current education provider before transferring.",
+        "Education providers must have documented transfer policies, which you should understand before attempting to enrol elsewhere."
+      ],
+      "appeals_process": {
+        "steps": [
+          "If refused permission to transfer, first access the internal appeal process with your education provider.",
+          "If still not satisfied, you may appeal to an external complaints body such as a State or Territory Ombudsman or the Overseas Student Ombudsman."
+        ]
+      }
+    },
+    "students_under_18": {
+      "requirements": [
+        "Must maintain adequate accommodation, support, and welfare arrangements for the duration of the visa or until turning 18.",
+        "Cannot travel to Australia until welfare arrangements commence as per the CAAW letter."
+      ],
+      "guardian_travel_rules": "If a student guardian must leave Australia without the student, alternative welfare arrangements must be approved first or the visa could be cancelled."
+    },
+    "no_further_stay_condition": {
+      "description": "Some visas include a 'no further stay' condition that prevents applying for another visa in Australia, except in limited circumstances."
+    },
+    "notification_requirements": {
+      "you_must_notify_us_of": [
+        "Changes to your phone number, email, address, or passport",
+        "Changes to your relationship status",
+        "Birth of a child"
+      ],
+      "instructions": "See ‘how to let us know if there is a change in your situation’."
+    },
+    "family_members": {
+      "requirements": [
+        "Must remain a member of your family for the duration of their stay",
+        "Must have adequate financial support",
+        "Must maintain adequate health cover",
+        "May only work unlimited hours once the student starts their main course",
+        "Must attend school if of school age"
+      ],
+      "consequence_of_breach": "A breach of these conditions may result in your visa being cancelled and you may have to leave Australia."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

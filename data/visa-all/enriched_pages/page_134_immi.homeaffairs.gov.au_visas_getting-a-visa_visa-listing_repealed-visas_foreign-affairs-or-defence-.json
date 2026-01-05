@@ -1,0 +1,80 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/foreign-affairs-or-defence-sector-visa-subclass-576",
+  "title": "Foreign Affairs or Defence Sector visa (subclass 576)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for current or pending holders of the Foreign Affairs or Defence Sector visa (subclass 576), which closed to new applications on 1 July 2016. It explains visa validity, rights, obligations, work conditions, and requirements for students and their dependent family members.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Foreign Affairs or Defence Sector visa",
+      "subclass": "576",
+      "status": "closed_to_new_applications",
+      "closure_date": "1 July 2016",
+      "who_this_applies_to": [
+        "people already granted a subclass 576 visa",
+        "people who applied for the visa on or before 30 June 2016 and have not yet received a decision"
+      ],
+      "post_closure_instructions": "From 1 July 2016, extensions must be made by applying for a Student Visa (subclass 500).",
+      "visa_verification": "Visa Entitlement Verification Online (VEVO) can be used to check visa details and conditions."
+    },
+    "visa_validity": {
+      "valid_until": "expiry date given at time of grant"
+    },
+    "visa_rights_and_permissions": {
+      "study_rights": [
+        "visa holder can study in Australia",
+        "eligible dependent family members aged 18 or older can study for up to three months; longer study requires their own student visa"
+      ],
+      "work_rights": {
+        "visa_holder": [
+          "up to 40 hours per fortnight while course is in session",
+          "unlimited hours during scheduled course breaks",
+          "unlimited hours if the visa holder has commenced a masters or doctorate course",
+          "must comply with State and Territory workplace laws"
+        ],
+        "family_members": [
+          "up to 40 hours per fortnight after the visa holder has commenced their course",
+          "unlimited hours if the visa holder has commenced a masters or doctorate course"
+        ]
+      },
+      "family_members": [
+        "eligible dependent family members can accompany the visa holder to Australia"
+      ]
+    },
+    "obligations": {
+      "student_obligations": [
+        "must comply with visa conditions",
+        "must comply with Australian laws",
+        "must check conditions via VEVO or visa grant letter"
+      ],
+      "students_under_18": [
+        "must maintain accommodation, support, and welfare arrangements for the duration of the visa or until turning 18"
+      ],
+      "changing_education_provider": {
+        "requirement": "must have a letter of support from DFAT or Department of Defence approving the transfer"
+      },
+      "no_further_stay_condition": {
+        "description": "Some visas include a condition preventing applications to stay longer in Australia, except in certain circumstances."
+      },
+      "change_notification_requirements": {
+        "must_notify_if": [
+          "change of phone number, email, address, or passport",
+          "change in relationship status",
+          "birth of a child"
+        ]
+      }
+    },
+    "family_member_obligations": {
+      "requirements": [
+        "must remain a member of the visa holder’s family during their stay",
+        "must have adequate financial support",
+        "must maintain adequate health cover",
+        "must work no more than 40 hours per fortnight (unless unlimited hours permitted due to visa holder studying a masters or doctorate)",
+        "cannot begin work until the visa holder has commenced their course",
+        "must attend school if of school age"
+      ],
+      "consequences_of_breach": "breach may result in cancellation of the visa holder’s visa and possible requirement to leave Australia"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

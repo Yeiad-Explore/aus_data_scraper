@@ -1,0 +1,120 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/special-category-visa-subclass-444",
+  "title": "Special Category visa (SCV)",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Subclass 444 Special Category visa (SCV) for New Zealand citizens. It explains what the visa allows, eligibility requirements, application steps, obligations, costs, and related conditions. It also includes travel rules, health guidance, and details on behaviour and health concern assessments.",
+  "structured_data": {
+    "visa_name": "Special Category visa",
+    "subclass": "444",
+    "visa_type": "temporary",
+    "description": "This visa allows eligible New Zealand citizens to visit, study, stay, and work in Australia. It is usually applied for each time the holder enters Australia.",
+    "stay_duration": {
+      "validity": "From grant until the holder leaves Australia",
+      "visa_ceases_when": [
+        "The visa holder leaves Australia",
+        "A permanent visa is granted",
+        "The holder becomes an Australian citizen",
+        "The visa is cancelled"
+      ],
+      "reapplication_note": "A new SCV is required each time the New Zealand citizen re-enters Australia."
+    },
+    "cost": {
+      "application_charge": "Free"
+    },
+    "processing_times": {
+      "on_arrival": "Processed at the airport or seaport",
+      "onshore_application": "May take longer depending on individual circumstances"
+    },
+    "what_you_can_do": [
+      "Enter and stay in Australia as long as you remain a New Zealand citizen",
+      "Visit, work, and study in Australia",
+      "Apply for a permanent visa if eligible"
+    ],
+    "eligibility": {
+      "general_requirements": [
+        "Must remain a New Zealand citizen",
+        "Must continue to meet character requirements"
+      ],
+      "passport_requirement": "Must have a valid New Zealand passport",
+      "behaviour_concern_non_citizen": {
+        "description": "You may be refused an SCV or refused entry into Australia if assessed as a BCNC.",
+        "criteria": [
+          "Convicted of a crime with a sentence of death or at least one year imprisonment",
+          "Convicted of two or more crimes resulting in total imprisonment of at least one year",
+          "Charged with and found guilty of a crime while of unsound mind (including being found not guilty due to unsound mind)",
+          "Previously removed or deported from Australia",
+          "Previously removed, deported, or excluded from another country"
+        ],
+        "notes": "Imprisonment includes confinement in a corrective institution.",
+        "pre‑travel_check": "Travellers may check eligibility via the online webform: Enquiry Form – New Zealand passport holders travelling with a criminal conviction"
+      },
+      "health_concern_non_citizen": {
+        "description": "You may be assessed as a health concern non-citizen if you declare tuberculosis (TB) on entry.",
+        "requirements": "If TB is declared, additional information will be requested."
+      },
+      "no_further_stay_condition": "You cannot apply for this visa if your current visa includes a 'no further stay' condition."
+    },
+    "include_family": {
+      "requirement": "Each family member must make their own SCV application.",
+      "how_to_apply": [
+        "Show a valid New Zealand passport",
+        "Submit a completed incoming passenger card",
+        "Answer health and character questions at SmartGate if applicable"
+      ],
+      "non_nz_citizen_family": "Family members who are not New Zealand citizens must apply for a different visa."
+    },
+    "application_process": {
+      "typical_process": "Usually applied for on entry to Australia.",
+      "onshore_application_possible_if": [
+        "The person became a New Zealand citizen and passport holder after entering Australia",
+        "The person entered on a passport that is not a New Zealand passport",
+        "The person entered on another temporary visa",
+        "A New Zealand citizen baby was born in Australia"
+      ],
+      "onshore_application_method": "Apply via the provided online form.",
+      "grant_date_note": "If granted onshore, the grant date is the date of decision and cannot be backdated.",
+      "child_birth_scenarios": {
+        "child_born_on_or_before_30_june_2022": {
+          "requirement": "Child must be registered as a New Zealand citizen and receive a citizenship certificate and/or passport.",
+          "application_note": "After obtaining NZ documents, submit an onshore SCV application via the Onshore visa application form."
+        },
+        "child_born_on_or_after_1_july_2022": {
+          "note": "Child may automatically acquire Australian citizenship by law at birth.",
+          "next_step": "Child can apply for proof of citizenship."
+        }
+      },
+      "check_existing_visa": "Use VEVO to check if you already hold a visa.",
+      "vevo_access_requirement": "A reference number is required to access VEVO."
+    },
+    "obligations": {
+      "citizenship_requirement": "You must remain a New Zealand citizen. The SCV will cease if citizenship changes.",
+      "lawful_status_requirement": "If the SCV ceases, you must apply for and be granted another visa to remain lawful.",
+      "legal_obligations": "You must obey Australian laws.",
+      "character_requirements": "All visa holders must continue to meet character requirements; failure may result in cancellation."
+    },
+    "health_insurance": {
+      "recommendation": "It is recommended to take out health insurance to cover unforeseen medical treatment.",
+      "financial_liability_note": "You may be responsible for your own healthcare costs.",
+      "additional_information": [
+        "Learn what is considered adequate health insurance",
+        "Learn about health insurance for overseas visitors",
+        "Learn about Medicare for New Zealand citizens"
+      ],
+      "reciprocal_healthcare": "Some countries have reciprocal healthcare agreements with Australia; see Services Australia for details."
+    },
+    "travel": {
+      "travel_limitation": "You cannot leave Australia and return on this visa; the visa ceases upon departure.",
+      "reentry_note": "A new SCV must be applied for upon return to Australia.",
+      "permanent_visa_holders": {
+        "manual_processing": "Entry may be manually processed.",
+        "instruction": "If holding a permanent visa with a valid travel facility, inform authorities if you do not want an SCV.",
+        "risk": "Being granted an SCV unintentionally may affect eligibility for a Resident Return visa."
+      }
+    },
+    "visa_label": {
+      "note": "The visa is digitally linked to the passport; no physical label is provided."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

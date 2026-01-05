@@ -1,0 +1,138 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-activity-408",
+  "title": "Temporary Activity visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Temporary Activity visa (subclass 408), including its various streams, eligibility, costs, stay periods, and purpose. Each stream supports short‑term, activity‑based entry into Australia for work, cultural, research, entertainment and other specialised programs.",
+  "structured_data": {
+    "visa_name": "Temporary Activity visa",
+    "subclass": "408",
+    "general_description": "This visa allows you to come to Australia to do specific types of work on a short-term, temporary basis.",
+    "basic_eligibility": [
+      "You must have the skills to undertake the activity to be carried out in Australia.",
+      "You must be supported or sponsored.",
+      "You must meet additional requirements of the relevant stream."
+    ],
+    "streams": [
+      {
+        "stream_name": "Australian Government Endorsed Events",
+        "description": "This temporary visa lets you come to Australia to participate in events endorsed by the Australian Government.",
+        "stay": "Duration of the event or up to 4 years depending on circumstances",
+        "cost": "From AUD430.00 (Free for participants of the Asian Football Confederation (AFC) Women's Asian Cup 2026 event)",
+        "processing_time_note": "Processing time information available via the visa processing time guide tool; guide only, not specific to each application.",
+        "key_points": [
+          "Only for participation in certain events endorsed by the Australian Government",
+          "Stay is for the event duration or up to 4 years"
+        ]
+      },
+      {
+        "stream_name": "Special Program",
+        "description": "This visa lets you stay in Australia to take part in an approved special program, including youth exchange, cultural enrichment, community programs, school language assistants or gap year school volunteering.",
+        "stay": "Up to 12 months",
+        "cost": "From AUD430.00",
+        "processing_time_note": "Processing time information available via the visa processing time guide tool.",
+        "key_points": [
+          "Take part in a special program to exchange culture, knowledge and social experiences",
+          "Stay for usually up to 12 months with family members",
+          "Apply inside or outside Australia, but not in immigration clearance"
+        ]
+      },
+      {
+        "stream_name": "Religious Work",
+        "description": "This visa lets you do full-time religious work for a religious institution in Australia.",
+        "stay": "Up to 2 years",
+        "cost": "From AUD430.00",
+        "processing_time_note": "Processing time information available via the visa processing time guide tool.",
+        "key_points": [
+          "Do full-time religious work to serve a religious institution",
+          "Stay up to 2 years with family members",
+          "Apply inside or outside Australia, but not in immigration clearance"
+        ]
+      },
+      {
+        "stream_name": "Research Activities",
+        "description": "This visa lets you observe or take part in a research project at a research or tertiary institution in Australia.",
+        "stay": "Up to 2 years",
+        "cost": "From AUD430.00",
+        "processing_time_note": "Processing time information available via the visa processing time guide tool.",
+        "key_points": [
+          "Observe or take part in an Australian research project",
+          "Stay up to 2 years with family members",
+          "Apply inside or outside Australia, but not in immigration clearance"
+        ]
+      },
+      {
+        "stream_name": "Invited for Other Social and Cultural Activity (Invited Participant)",
+        "description": "This visa lets you come to Australia if you are invited to participate in a community-based event, including sporting events.",
+        "stay": "Up to 3 months",
+        "cost": "From AUD430.00",
+        "processing_time_note": "Processing time information available via the visa processing time guide tool.",
+        "key_points": [
+          "Must have been invited to take part in a community-based event",
+          "Stay up to 3 months with family members",
+          "Apply in or outside Australia, but not in immigration clearance"
+        ]
+      },
+      {
+        "stream_name": "Sporting Activities",
+        "description": "This visa allows you to play, coach, instruct or adjudicate for an Australian team, or do high level sports training with a sporting organisation.",
+        "stay": "Up to 2 years",
+        "cost": "From AUD430.00",
+        "processing_time_note": "Processing time information available via the visa processing time guide tool.",
+        "key_points": [
+          "Play, coach, instruct or adjudicate for a team, or do high-level sports training",
+          "Stay up to 2 years with family members",
+          "Apply in or outside Australia, but not in immigration clearance"
+        ]
+      },
+      {
+        "stream_name": "Entertainment Activities",
+        "description": "This temporary visa lets you come to Australia to work in the entertainment industry on film, television or live productions as a performer, production or support staff.",
+        "stay": "Up to 2 years",
+        "cost": "From AUD430.00",
+        "processing_time_note": "Processing time information available via the visa processing time guide tool.",
+        "key_points": [
+          "Work on film, television or live productions",
+          "Stay up to 2 years with family members",
+          "Apply in or outside Australia, but not in immigration clearance"
+        ]
+      },
+      {
+        "stream_name": "Superyacht Crew",
+        "description": "This visa lets you work in Australia as a crew member of a superyacht.",
+        "stay": "Up to 12 months",
+        "cost": "AUD430.00",
+        "processing_time_note": "Processing time information available via the visa processing time guide tool.",
+        "key_points": [
+          "Work as a superyacht crew member",
+          "Stay up to 12 months",
+          "Apply in or outside Australia, but not in immigration clearance"
+        ]
+      },
+      {
+        "stream_name": "Exchange Arrangements",
+        "description": "This visa lets you come to Australia as part of a staff exchange with an Australian organisation.",
+        "stay": "Up to 2 years",
+        "cost": "From AUD430.00",
+        "processing_time_note": "Processing time information available via the visa processing time guide tool.",
+        "key_points": [
+          "Participate in a staff exchange program",
+          "Stay up to 2 years with family members",
+          "Apply in or outside Australia, but not in immigration clearance"
+        ]
+      },
+      {
+        "stream_name": "Domestic Work for Executives",
+        "description": "This visa lets you come to Australia to do full-time domestic work in the household of certain senior foreign executives.",
+        "stay": "Up to the duration permitted (information truncated)",
+        "cost": "Not fully provided in the text",
+        "processing_time_note": "Processing time information available via the visa processing time guide tool.",
+        "key_points": [
+          "Do full-time domestic work for senior foreign executives",
+          "Stay permitted for you and family members (full details truncated)"
+        ]
+      }
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

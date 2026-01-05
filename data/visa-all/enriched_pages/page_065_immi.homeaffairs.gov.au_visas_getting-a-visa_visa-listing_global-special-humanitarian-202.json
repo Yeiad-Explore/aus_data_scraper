@@ -1,0 +1,121 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/global-special-humanitarian-202",
+  "title": "Global Special Humanitarian visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Subclass 202 Global Special Humanitarian visa, which allows eligible individuals facing human rights abuses to resettle permanently in Australia. It explains eligibility, costs, processing priorities, obligations, family inclusion rules, and the application process (including mandatory use of ImmiAccount from 1 July 2025).",
+  "structured_data": {
+    "visa_name": "Global Special Humanitarian visa",
+    "subclass": "202",
+    "description": "A permanent visa for people facing substantial human rights violations and who have a connection to Australia or are joining an immediate family member.",
+    "from_1_july_2025_changes": {
+      "immiaccount_required": true,
+      "process": "Proposer must complete the proposal first and provide the transaction reference number (TRN). Applicant must use the TRN within 60 days to apply in ImmiAccount."
+    },
+    "key_features": [
+      "Stay in Australia permanently",
+      "Work and study in Australia",
+      "Enrol in Medicare",
+      "Propose certain family members for permanent residence",
+      "Travel to and from Australia for 5 years",
+      "If eligible, become an Australian citizen",
+      "Attend free English classes through the Adult Migrant English Program"
+    ],
+    "eligibility": {
+      "general_requirements": [
+        "Must have a proposer",
+        "Must enter Australia by the date on the visa",
+        "You and accompanying family must obey Australian laws"
+      ]
+    },
+    "how_long_you_can_stay": {
+      "type": "permanent",
+      "details": "You become a permanent resident on the day you enter Australia on this visa."
+    },
+    "include_family": {
+      "allowed_family_members": [
+        "Partner",
+        "Dependent children",
+        "Partner’s dependent children",
+        "Other dependent relatives (parent, grandparent, sibling, grandchild, aunt, uncle, niece, nephew, cousin)"
+      ],
+      "requirements": [
+        "Family members who apply must meet health and character requirements",
+        "Non-migrating family members may need to meet health requirements",
+        "All family members must be declared",
+        "Undeclared family members may not be eligible for later humanitarian sponsorship"
+      ]
+    },
+    "cost": {
+      "visa_application_charge": "No charge",
+      "exception": "A fee applies if proposed under the Community Support Program by an Approved Proposing Organisation"
+    },
+    "apply_from": "You must be outside Australia and outside your country of origin.",
+    "processing_times": {
+      "important_notes": [
+        "More applications are received each year than available places",
+        "Processing may take many years",
+        "Most applications will be unsuccessful",
+        "No processing updates are provided"
+      ],
+      "processing_can_be_delayed_if": [
+        "Application form is incomplete",
+        "Documents are missing or additional information is required",
+        "Information verification takes additional time"
+      ]
+    },
+    "priority_groups": {
+      "note": "SHP applications are processed in order of priority group.",
+      "groups": [
+        {
+          "priority": 1,
+          "description": "Proposer is an immediate family member who holds or held a Protection or Resolution of Status visa or a Class XB visa, and the applicant meets split-family criteria."
+        },
+        {
+          "priority": 2,
+          "description": "Proposer is a close family member and does not hold a Protection or Resolution of Status visa."
+        },
+        {
+          "priority": 3,
+          "description": "Proposer is an extended family member and does not hold a Protection or Resolution of Status visa."
+        },
+        {
+          "priority": 4,
+          "description": "Proposer is a distant relative, friend, or community organisation and does not hold a Protection or Resolution of Status visa."
+        },
+        {
+          "priority": 5,
+          "description": "Proposer holds a Protection or Resolution of Status visa."
+        }
+      ],
+      "split_family_criteria": [
+        "Proposer was an immediate family member when they were granted their visa",
+        "Relationship was declared before their visa grant",
+        "Visa application is proposed within 5 years of the proposer’s visa grant"
+      ],
+      "proposer_restrictions": [
+        "Unauthorised maritime arrivals (UMA) who arrived on or after 13 August 2012 cannot propose family members"
+      ],
+      "additional_policy_priorities": [
+        "UNHCR-referred refugees",
+        "Applicants proposed by an immediate family member holding a Class XB visa",
+        "Members of minority groups such as women and girls, ethnic minorities, LGBTQI+, referred by UNHCR or proposed by family in Australia"
+      ]
+    },
+    "your_obligations": [
+      "Enter Australia by the initial arrival date listed on the visa grant letter",
+      "Comply with any signed health undertaking",
+      "Obey all Australian laws"
+    ],
+    "assisted_passage": {
+      "program_purpose": "Supports the delivery of Australia’s Offshore Humanitarian Program with health screening and travel assistance.",
+      "service_provider": "Toll Remote Logistics Pty Ltd",
+      "services": [
+        "Assist with attending health appointments",
+        "Assist with travel to Australia after visa grant"
+      ],
+      "additional_travel_support": "Assistance may also be available through the International Organization for Migration (IOM) under the prepaid migration travel program."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,120 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/orphan-relative-117",
+  "title": "Orphan Relative visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Orphan Relative visa (Subclass 117), a permanent visa that allows an eligible child to live in Australia with a relative when their parents are deceased, unable to care for them, or cannot be found. It outlines eligibility requirements, costs, obligations, processing times, travel rights, and sponsorship criteria. The page also includes updates regarding the ability to import paper applications into ImmiAccount from 23 July 2025.",
+  "structured_data": {
+    "visa_name": "Orphan Relative visa",
+    "subclass": "117",
+    "visa_type": "Permanent",
+    "description": "This visa lets a single child come to Australia to live with a relative if their parents are deceased, permanently unable to care for them, or cannot be found.",
+    "important_updates": {
+      "paper_application_import_available_from": "23 July 2025",
+      "applicable_subclasses": [
+        "101",
+        "102",
+        "802",
+        "445",
+        "117",
+        "837"
+      ],
+      "exceptions": "Some existing applications made outside Australia before 1 April 2020 cannot be imported into ImmiAccount.",
+      "reference": "Update to ImmiAccount — new online services for paper-based Child, Other Family, Former Residents, and New Zealand Citizen Family Relationship visa applications"
+    },
+    "what_the_visa_allows": [
+      "Stay in Australia indefinitely",
+      "Work and study in Australia in line with Australian law",
+      "Enrol in Medicare",
+      "Sponsor relatives to come to Australia",
+      "Attend free English language classes (if eligible) through the Adult Migrant English Program",
+      "Apply for Australian citizenship (if eligible)",
+      "Travel to and from Australia for 5 years (while the travel facility is valid)"
+    ],
+    "travel_facility": {
+      "travel_period": "5 years from date of visa grant",
+      "post_travel_facility_requirements": [
+        "Apply for a Resident Return Visa (RRV) to re-enter Australia as a permanent resident",
+        "Consider applying for Australian citizenship (if eligible)"
+      ],
+      "note": "Australian citizens must use an Australian passport to enter and leave Australia."
+    },
+    "child_stay_details": {
+      "visa_type": "Permanent",
+      "citizenship_residency_date": "Child becomes a permanent resident on the day they enter Australia on the visa"
+    },
+    "including_other_children": {
+      "siblings": "A separate application must be made for each sibling.",
+      "dependent_children": "Dependent children can be included at application time or before a decision is made.",
+      "health_requirements": [
+        "Dependent children applying must meet the health requirement",
+        "Family members not coming to Australia might also have to meet health requirements"
+      ]
+    },
+    "costs": {
+      "main_applicant_fee": "AUD 1,980.00",
+      "additional_charges": [
+        "Fee for each dependent child included",
+        "Costs for health checks",
+        "Costs for police certificates",
+        "Costs for biometrics"
+      ],
+      "visa_pricing_estimator_note": "The estimator does not include additional costs."
+    },
+    "apply_from": "The child must be outside Australia when the application is lodged and when a decision is made.",
+    "processing_times": {
+      "guide": "Use the visa processing time guide tool for indicative processing times.",
+      "note": "Processing times are not specific to individual applications.",
+      "may_take_longer_if": [
+        "Application is incomplete or incorrect",
+        "Documents are missing or more information is required",
+        "Information verification takes additional time",
+        "Full payment is not made at lodgement"
+      ],
+      "acknowledgement_time": "Approximately 1 month after lodgement",
+      "communication_method": "Applicants will be contacted via their authorised communication method"
+    },
+    "child_obligations": {
+      "first_entry_date": "Within 12 months from the date of visa grant, unless otherwise specified",
+      "requirements": [
+        "Meet all visa conditions",
+        "Obey Australian laws"
+      ]
+    },
+    "visa_label": {
+      "label_policy": "No physical label will be placed in the passport.",
+      "digital_linking": "Visa is digitally linked to the child's passport.",
+      "grant_letter": "A visa grant notification letter will include the visa grant number."
+    },
+    "eligibility": {
+      "age_requirement": "Child must be under 18 years old when applying",
+      "relationship_and_care_requirement": {
+        "no_parent_able_to_care": "Both parents must either be deceased, permanently unable to care for the child, or cannot be found.",
+        "note": "Visa will not be granted if parents are capable of care but unwilling."
+      },
+      "child_status": [
+        "Must be single",
+        "Must have no parent capable of caring for them"
+      ],
+      "location_requirement": "Child must be outside Australia at application and decision time",
+      "sponsorship": {
+        "eligible_sponsors": [
+          "Sibling or step-sibling",
+          "Grandparent or step-grandparent",
+          "Aunt or uncle",
+          "Step-aunt or step-uncle"
+        ],
+        "approval_required": "Sponsorship must be approved before visa grant.",
+        "registrable_offence_rules": {
+          "pending_charge": "Sponsorship and visa will be refused.",
+          "conviction": "Sponsorship can only be approved in limited circumstances."
+        },
+        "protection_reference": "Measures for the protection of children apply."
+      }
+    },
+    "help_with_visa": {
+      "note": "Applicants should read information about who can help with a visa application before paying anyone."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

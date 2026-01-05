@@ -224,9 +224,10 @@ async def _enrich_all(file_manager: FileManager):
 @click.option("--depth", "-d", type=int, default=1, help="Maximum crawl depth (default: 1)")
 @click.option("--max-pages", "-m", type=int, default=50, help="Maximum pages to scrape (default: 50)")
 @click.option("--filter", "-f", type=click.Choice(["same_path", "same_domain", "all"]), default="same_path", help="Link filter strategy")
+@click.option("--follow-all-links", is_flag=True, help="Follow ALL links on page, not just structural ones (tiles/cards)")
 @click.option("--no-synthesis", is_flag=True, help="Skip final LLM synthesis")
 @click.option("--no-individual", is_flag=True, help="Don't save individual page extractions")
-def scrape_generic(url: str, name: str, depth: int, max_pages: int, filter: str, no_synthesis: bool, no_individual: bool):
+def scrape_generic(url: str, name: str, depth: int, max_pages: int, filter: str, follow_all_links: bool, no_synthesis: bool, no_individual: bool):
     """Scrape any website with intelligent content extraction.
 
     This command scrapes a website starting from URL, intelligently discovers
@@ -234,10 +235,10 @@ def scrape_generic(url: str, name: str, depth: int, max_pages: int, filter: str,
 
     Example:
       python -m src.main scrape-generic \\
-        "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times" \\
-        --name processing_times --depth 1
+        "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing" \\
+        --name visa-full --depth 1 --max-pages 150 --filter same_domain --follow-all-links
     """
-    asyncio.run(_scrape_generic(url, name, depth, max_pages, filter, no_synthesis, no_individual))
+    asyncio.run(_scrape_generic(url, name, depth, max_pages, filter, follow_all_links, no_synthesis, no_individual))
 
 
 async def _scrape_generic(
@@ -246,6 +247,7 @@ async def _scrape_generic(
     depth: int,
     max_pages: int,
     filter: str,
+    follow_all_links: bool,
     no_synthesis: bool,
     no_individual: bool
 ):
@@ -257,6 +259,7 @@ async def _scrape_generic(
         depth: Maximum crawl depth
         max_pages: Maximum pages to scrape
         filter: Link filter strategy
+        follow_all_links: Follow all links, not just structural ones
         no_synthesis: Skip final synthesis
         no_individual: Don't save individual pages
     """
@@ -269,14 +272,16 @@ async def _scrape_generic(
         name=name,
         depth=depth,
         max_pages=max_pages,
-        filter=filter
+        filter=filter,
+        follow_all_links=follow_all_links
     )
 
     # Create job configuration
     crawl_config = CrawlConfig(
         depth=depth,
         max_pages=max_pages,
-        link_filter=filter
+        link_filter=filter,
+        follow_all_links=follow_all_links
     )
 
     job_config = JobConfig(

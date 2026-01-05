@@ -1,0 +1,55 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/skilled-independent-regional-provisional-visa-subclass-495",
+  "title": "Skilled — Independent Regional (Provisional) visa (subclass 495)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Skilled — Independent Regional (Provisional) visa (subclass 495), which is now closed to new applications. It explains what the visa allows, its duration, relevant obligations, and options available to family members of current visa holders.",
+  "structured_data": {
+    "visa_name": "Skilled — Independent Regional (Provisional) visa",
+    "subclass": "495",
+    "status": "closed_to_new_applications",
+    "closure_date": "1 September 2007",
+    "related_visas": {
+      "alternative_visa_for_new_applicants": "Skilled – Regional (Provisional) visa (subclass 489)",
+      "visa_for_family_members": {
+        "description": "Members of the visa holder's family unit might be able to get the Skilled – Regional (Provisional) visa (subclass 489) if they want to join the holder in Australia.",
+        "subclass": "489"
+      }
+    },
+    "visa_validity": {
+      "duration": "4 years",
+      "validity_begins": "after first entry to Australia"
+    },
+    "entitlement_verification": {
+      "service": "Visa Entitlement Verification Online (VEVO)",
+      "cost": "free"
+    },
+    "visa_permissions": {
+      "allows_holder_to": [
+        "live in Australia",
+        "work in Australia",
+        "study in Australia",
+        "become eligible to apply for permanent residence",
+        "travel in and out of Australia any number of times while the visa is valid"
+      ],
+      "restrictions": [
+        "cannot access Medicare",
+        "cannot access family assistance",
+        "cannot access social security benefits"
+      ]
+    },
+    "visa_holder_obligations": [
+      "comply with all visa conditions",
+      "comply with Australian laws"
+    ],
+    "change_notification_requirements": {
+      "events_to_report": [
+        "changes to phone number, email, address, or passport",
+        "changes to relationship status",
+        "birth of a child"
+      ],
+      "consequence_of_not_reporting_passport_change": "significant delays at the airport and possible denial of permission to board a plane"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

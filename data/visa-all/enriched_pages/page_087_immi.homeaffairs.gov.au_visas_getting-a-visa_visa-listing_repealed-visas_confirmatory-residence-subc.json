@@ -1,0 +1,92 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/confirmatory-residence-subclass-808",
+  "title": "Confirmatory (Residence) visa (subclass 808)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for existing holders of the Confirmatory (Residence) visa (subclass 808), which closed to new applications on 6 February 2025. It explains visa rights, travel conditions, obligations, and guidance for permanent residents, including information on citizenship and sponsoring family members.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Confirmatory (Residence) visa",
+      "subclass": "808",
+      "status": "closed to new applications",
+      "closure_date": "6 February 2025",
+      "description": "A permanent residence visa available only to existing holders, no longer open for new applicants."
+    },
+    "visa_rights": {
+      "what_this_visa_lets_you_do": [
+        "Stay in Australia indefinitely as a permanent resident",
+        "Work and study in Australia",
+        "Enrol in Australia’s public health care scheme",
+        "Sponsor relatives to come to Australia",
+        "Travel to and from Australia while the travel facility on the visa is valid",
+        "Apply for Australian citizenship, if eligible"
+      ]
+    },
+    "visa_duration_and_travel": {
+      "permanent_residency": "Indefinite stay in Australia",
+      "travel_facility_validity": "5 years from the visa grant date",
+      "travel_after_expiry_requirements": [
+        "Apply for and be granted a Resident Return Visa (RRV) to re-enter Australia as a permanent resident",
+        "Consider applying for Australian citizenship, which removes the need for a visa to enter Australia and allows use of an Australian passport"
+      ],
+      "additional_information_links": [
+        "Learn how to become an Australian citizen",
+        "Information about travelling overseas as a permanent resident"
+      ]
+    },
+    "new_zealand_passport_holders": {
+      "instructions": [
+        "Inform the immigration officer that you have a permanent Australian visa",
+        "State that you do not want a Special Category visa (subclass 444)"
+      ],
+      "consequences_if_not_informed": [
+        "A subclass 444 visa may be granted automatically",
+        "This may override the permanent visa",
+        "This may affect eligibility for another permanent visa and/or Australian citizenship"
+      ]
+    },
+    "obligations": {
+      "general_obligations": [
+        "You must obey all Australian laws"
+      ]
+    },
+    "change_of_details": {
+      "items_to_report": [
+        "Changes to phone number",
+        "Changes to email",
+        "Changes to residential address",
+        "Birth of a child",
+        "Issuance of a new passport"
+      ],
+      "notes": [
+        "Failure to provide updated passport details may result in significant delays at the airport"
+      ],
+      "how_to_notify_link": "See how to let us know if there is a change in your situation"
+    },
+    "proving_visa_status": {
+      "method": "Visa Entitlement Verification Online (VEVO)",
+      "use_cases": [
+        "Sending proof of visa conditions to employers",
+        "Sending proof to landlords",
+        "Sending proof to foreign governments for travel purposes"
+      ]
+    },
+    "work_information": {
+      "statement": "You are protected by Australian workplace law",
+      "link": "See your workplace rights and entitlements"
+    },
+    "bringing_family_members": {
+      "information": "Permanent residents may be able to sponsor eligible family members to come to Australia",
+      "link": "Explore visa options"
+    },
+    "citizenship_information": {
+      "eligibility_note": "After a certain time, you may be eligible for Australian citizenship",
+      "link": "Learn more about becoming an Australian citizen",
+      "permanent_residency_start_definition": {
+        "if_in_australia_on_grant": "Permanent residency starts on the date the visa was granted",
+        "if_outside_australia_on_grant": "Permanent residency starts on the date of first entry to Australia on this visa after it was granted"
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

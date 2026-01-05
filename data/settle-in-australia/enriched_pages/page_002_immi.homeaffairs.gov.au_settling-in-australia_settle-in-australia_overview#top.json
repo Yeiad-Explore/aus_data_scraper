@@ -1,0 +1,41 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview#top",
+  "title": "Settle in AustraliaSettle in Australia",
+  "content_type": "general_information",
+  "summary": "This page provides an overview of support services and resources available to help migrants, refugees, and humanitarian entrants settle in Australia. It highlights language services, key settlement topics, and the MyAus App as tools to assist new arrivals in navigating life in Australia.",
+  "structured_data": {
+    "page_title": "Settle in Australia",
+    "purpose": "To provide information and resources to support migrants and refugees as they build their lives in Australia.",
+    "overview": "Australia has a long tradition of resettling migrants, refugees, and people in humanitarian need. With appropriate support, these individuals can contribute significantly to society.",
+    "key_settlement_topics": {
+      "description": "Information for new arrivals, including skilled migrants, family migrants, refugees, and humanitarian entrants, to assist with settlement in Australia.",
+      "topics": [
+        "Employment",
+        "Education and training",
+        "Health and wellbeing",
+        "Managing your finances",
+        "Housing",
+        "Transport",
+        "Civic participation"
+      ]
+    },
+    "language_services": {
+      "description": "Services designed to help individuals with limited or no English proficiency access essential programs and services.",
+      "services": [
+        "Free Interpreting Service",
+        "Free Translating Service",
+        "TIS National",
+        "National Interpreter symbol"
+      ]
+    },
+    "my_aus_app": {
+      "description": "Provides useful information about settling in Australia.",
+      "features": [
+        "Available in multiple languages",
+        "Designed to help migrants and the broader community navigate Australian systems and services"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/settling-in-australia/settle-in-australia/overview",
+  "depth": 1
+}

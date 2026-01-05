@@ -1,0 +1,155 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/skilled-sponsored-visa-subclass-886",
+  "title": "Skilled — Sponsored visa (subclass 886)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for applicants, visa holders, and sponsors involved with the Skilled — Sponsored visa (subclass 886), which closed to new applications on 1 January 2013. It explains post‑lodgement processes, obligations, decision outcomes, and visa holder entitlements.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Skilled — Sponsored visa",
+      "subclass": "886",
+      "status": "closed_to_new_applications",
+      "closure_date": "1 January 2013",
+      "onshore_requirement_for_grant": true,
+      "description": "A permanent residence visa for skilled applicants sponsored by an eligible relative or state/territory government agency."
+    },
+    "applicants_information": {
+      "applicable_to": "people who have already applied for the Skilled — Sponsored visa (subclass 886)",
+      "application_assessment_basis": "assessed against requirements outlined in the page"
+    },
+    "after_applying": {
+      "acknowledgement": "Acknowledge receipt of application and documents",
+      "case_officer_assignment": "A case officer is assigned to review the application",
+      "case_officer_actions": [
+        "request an interview",
+        "request more information",
+        "make a decision"
+      ]
+    },
+    "waiting_for_decision": {
+      "factors_causing_delays": [
+        "character checks",
+        "health checks including chest x-rays",
+        "requests for additional information",
+        "incomplete application"
+      ],
+      "bridging_visas": {
+        "bridging_visa_a": "Allows lawful stay in Australia while application is processed",
+        "bridging_visa_b": "Can be applied for if travel outside Australia is required during processing"
+      }
+    },
+    "health_and_character_requirements": {
+      "process": "Department will contact the applicant when health or character documents are needed"
+    },
+    "debts_to_government": {
+      "requirement": "Applicant must have no outstanding debts to the Australian Government or must have made arrangements to repay them before the visa can be granted"
+    },
+    "providing_more_information": {
+      "can_provide_any_time_before_decision": true,
+      "form_to_correct_information": {
+        "form_name": "Form 1023 - Notification of incorrect answer(s)",
+        "file_size": "168KB",
+        "file_type": "PDF"
+      },
+      "department_requests": {
+        "response_requirement": "Must provide information by the specified date",
+        "consequence_of_non_response": "Decision may be made based on available information"
+      },
+      "third_party_information": {
+        "notification": "Applicant is usually given the opportunity to comment on information that could lead to a refusal"
+      },
+      "interviews": {
+        "possible": true,
+        "requirements_for_in_person_interview": [
+          "passport or other identification",
+          "requested documents"
+        ]
+      }
+    },
+    "withdrawing_application": {
+      "allowed": true,
+      "method": "Submit letter or email requesting withdrawal",
+      "information_required": [
+        "full name",
+        "date of birth",
+        "file reference number, client ID, or Transaction Reference Number"
+      ],
+      "signature_requirement": "All applicants aged 18 or older must sign the withdrawal request"
+    },
+    "change_of_circumstances": {
+      "must_notify_changes_in": [
+        "phone number",
+        "email",
+        "address",
+        "passport",
+        "relationship status",
+        "birth of a child"
+      ],
+      "link_reference": "See how to tell us if your situation changes"
+    },
+    "visa_decision": {
+      "if_granted": {
+        "information_provided": [
+          "when the visa can be used",
+          "visa grant number",
+          "any conditions attached to the visa"
+        ]
+      },
+      "if_refused": {
+        "information_provided": [
+          "reason for refusal",
+          "review rights (if any)",
+          "time limit for lodging an appeal"
+        ],
+        "sponsor_review_rights": "Where applicable, sponsor can apply for review"
+      }
+    },
+    "contact_information": {
+      "processing_centre": "Adelaide General Skilled Migration (GSM) processing centre"
+    },
+    "visa_holders_information": {
+      "applicable_to": "people already granted the Skilled — Sponsored visa (subclass 886)",
+      "checking_entitlements": "Visa Entitlement Verification Online (VEVO) available for free"
+    },
+    "visa_holder_rights_and_entitlements": {
+      "visa_type": "permanent residence",
+      "entitlements": [
+        "stay in Australia indefinitely",
+        "work and study in Australia",
+        "enrol in Medicare",
+        "apply for Australian citizenship if eligible",
+        "sponsor eligible relatives for permanent residence",
+        "travel to and from Australia for five years from visa grant date (after which a resident return visa or another visa is needed)"
+      ]
+    },
+    "visa_holder_obligations": {
+      "general_obligations": [
+        "comply with all visa conditions",
+        "comply with Australian laws"
+      ],
+      "state_or_territory_nomination_requirements": [
+        "live in nominating state or territory for a specified minimum time",
+        "inform state or territory of address before and after arrival",
+        "complete surveys and provide post-arrival information when asked"
+      ]
+    },
+    "sponsor_information": {
+      "applicable_to": "people who applied to sponsor a relative for this visa",
+      "visa_status": "visa closed to new applications",
+      "checking_entitlements": "VEVO available for free"
+    },
+    "sponsorship_duration": {
+      "duration": "2 years after visa grant"
+    },
+    "sponsor_obligations": {
+      "must_sign_sponsorship_undertaking": true,
+      "support_required_for_two_years": [
+        "accommodation",
+        "financial assistance as required",
+        "support to help children attend English classes if needed",
+        "information and advice including employment-related information to help settlement"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

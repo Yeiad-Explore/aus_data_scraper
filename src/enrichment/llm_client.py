@@ -340,48 +340,55 @@ Section Type:"""
 
         Args:
             page_title: Page title
-            content: Page content
+            content: Page content (plain text)
 
         Returns:
             Extraction prompt
         """
         # Limit content length to avoid token limits
-        max_content = 6000
+        max_content = 8000
         if len(content) > max_content:
             content = content[:max_content] + "\n...(content truncated)..."
 
-        return f"""You are a web content analyzer. Extract structured information from this webpage.
+        return f"""You are a web content analyzer. Your task is to convert plain text content from a webpage into well-structured JSON data.
 
 **Page Title:** {page_title}
 
-**Content:**
+**Plain Text Content:**
 {content}
 
-**Task:**
-1. Identify the content type (e.g., "requirements", "processing_times", "pricing", "eligibility", "general_information", etc.)
-2. Write a brief summary (2-3 sentences)
-3. Extract key structured data that would be useful (be intelligent about what makes sense for this content type)
+**Your Task:**
+1. Read and understand ALL the plain text content above
+2. Identify what type of content this is (visa information, requirements, eligibility criteria, fees, processing times, etc.)
+3. Extract ALL important information and organize it into a clear, logical JSON structure
+4. Create appropriate nested structures for related information
 
 **Output Format (JSON):**
 ```json
 {{
-  "content_type": "the type of content",
-  "summary": "brief summary of the page",
+  "content_type": "the type of content (e.g., visa_information, requirements, eligibility, fees, processing_times, general_information)",
+  "summary": "A clear 2-3 sentence summary of what this page is about",
   "structured_data": {{
-    // Extract relevant fields based on content
-    // For requirements: eligibility, costs, processing times, etc.
-    // For courses: course_name, duration, fees, entry_requirements, etc.
-    // For pricing: fees, costs, payment options, etc.
-    // Be creative and intelligent about what makes sense
+    // Organize ALL the important information from the page
+    // Use clear, descriptive field names
+    // Create nested objects/arrays where it makes sense
+    // Examples of what to extract:
+    // - For visa pages: visa_name, subclass, description, eligibility, requirements, costs, processing_times, how_to_apply
+    // - For requirements: who_can_apply, documents_needed, criteria, exceptions
+    // - For fees: application_fee, biometrics_fee, total_cost, payment_methods
+    // - For any page: key_points, important_dates, contact_info, related_links
   }}
 }}
 ```
 
-**Important:**
-- Extract only factual information present in the content
-- Use clear, consistent field names
-- Include units for numbers (e.g., "24 months", "$7,000 AUD")
-- Return ONLY the JSON, no other text
+**Critical Instructions:**
+- Extract EVERY piece of important factual information from the text
+- Preserve all specific details (numbers, dates, names, amounts)
+- Include units for all numbers (e.g., "AUD 710", "85 days", "12 months")
+- Create logical groupings (use arrays for lists of items)
+- Use snake_case for all field names
+- Do NOT make up or infer information not present in the text
+- Return ONLY valid JSON, no explanations or other text
 
 JSON Output:"""
 

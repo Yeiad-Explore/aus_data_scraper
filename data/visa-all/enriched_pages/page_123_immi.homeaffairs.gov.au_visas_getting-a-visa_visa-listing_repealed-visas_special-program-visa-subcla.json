@@ -1,0 +1,152 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/special-program-visa-subclass-416",
+  "title": "Special Program visa (subclass 416)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Special Program visa (subclass 416), which has been closed to new applications since 19 November 2016. It explains the rights and obligations of existing visa holders and outlines sponsorship obligations for approved sponsors.",
+  "structured_data": {
+    "visa_info": {
+      "visa_name": "Special Program visa",
+      "subclass": "416",
+      "status": "Closed to new applications",
+      "closed_since": "19 November 2016",
+      "alternative_visas": [
+        "Temporary Work (International Relations) visa (subclass 403)",
+        "Temporary Activity visa (subclass 408)"
+      ],
+      "description": "Information for people who have already been granted a Special Program visa (subclass 416)."
+    },
+    "visa_holders": {
+      "purpose": "Explains rights and obligations for current visa holders.",
+      "vevo_usage": "Visa holders can use Visa Entitlement Verification Online (VEVO) for free to check visa details and entitlements."
+    },
+    "visa_validity": {
+      "validity_period": "Specified in the special programme agreement",
+      "typical_duration": "3 to 12 months",
+      "notes": "Validity includes arrival and departure arrangements."
+    },
+    "visa_permissions": {
+      "allowed_activities": [
+        "Take part in an approved special programme",
+        "Work or study in Australia if part of the approved programme",
+        "Bring eligible family members"
+      ]
+    },
+    "visa_obligations": {
+      "general_obligations": [
+        "Comply with all visa conditions and Australian laws",
+        "Perform only activities listed in the visa application",
+        "Maintain adequate health insurance arrangements"
+      ],
+      "new_application_required_if": [
+        "Participating in different activities than those listed in the original application",
+        "Undertaking activities for an organisation not identified in the application"
+      ]
+    },
+    "change_notification_requirements": {
+      "must_notify_changes_in": [
+        "Phone number",
+        "Email",
+        "Address",
+        "Passport details",
+        "Relationship status",
+        "Birth of a child"
+      ]
+    },
+    "sponsor_information": {
+      "audience": "Approved sponsors of Special Program visa holders",
+      "sponsorship_duration": "Up to 3 years"
+    },
+    "sponsor_obligations": {
+      "obligations": [
+        "Cooperate with inspectors",
+        "Notify the department when certain events occur",
+        "Keep records",
+        "Provide records and information",
+        "Not recover, transfer, or charge certain costs to another person",
+        "Pay costs to locate and remove an unlawful non-citizen",
+        "Secure an offer of reasonable accommodation",
+        "Pay travel costs for sponsored persons to leave Australia"
+      ],
+      "applicant_definitions": {
+        "primary_sponsored_applicant": "Person the organisation intends to employ or engage in a specified occupation, program, or activity",
+        "secondary_sponsored_applicant": "Family member of the primary sponsored applicant"
+      }
+    },
+    "cooperate_with_inspectors": {
+      "inspection_purpose": [
+        "Investigate compliance with sponsorship obligations",
+        "Determine whether an illegal worker has been hired",
+        "Explore circumstances for possible administrative action"
+      ],
+      "obligation_period": {
+        "start": "Day sponsorship is approved or work agreement commences",
+        "end": "Five years after approved sponsorship ends or work agreement ceases"
+      },
+      "cooperation_examples": [
+        "Providing access to premises",
+        "Producing and providing requested documents within required timeframes",
+        "Not preventing access to a person with custody of records",
+        "Allowing officers to interview any person on premises"
+      ]
+    },
+    "notify_events": {
+      "description": "Sponsors must notify the department in writing when certain events occur.",
+      "events_requiring_notification": [
+        "Primary sponsored person is unable to meet programme requirements",
+        "Primary sponsored person is unable to participate in the programme",
+        "Primary sponsored person ceases participation before program end",
+        "Primary sponsored person fails to attend a programme"
+      ],
+      "notification_period": {
+        "start": "When standard business sponsorship is approved or work agreement commences",
+        "end": "Two years after sponsorship or agreement ends AND sponsor is no longer sponsoring anyone"
+      },
+      "notification_methods": {
+        "email_preferred": "sponsor.notifications@homeaffairs.gov.au",
+        "postal_addresses": {
+          "ACT": "GPO Box 717 Canberra ACT 2601",
+          "NSW": "GPO Box 9984 Sydney NSW 2001",
+          "QLD": "GPO Box 9984 Brisbane Qld 4001",
+          "NT": "GPO Box 864 Darwin NT 0801",
+          "SA": "GPO Box 2399 Adelaide SA 5001",
+          "TAS": "GPO Box 794 Hobart Tas. 7001",
+          "VIC": "GPO Box 241 Melbourne Vic. 3001",
+          "WA": "Locked Bag 7 Northbridge WA 6865"
+        }
+      }
+    },
+    "record_keeping": {
+      "requirements": [
+        "Keep records showing compliance with sponsorship obligations",
+        "Records must be reproducible",
+        "Some records must be independently verifiable",
+        "Maintain written requests for outward travel cost payments"
+      ],
+      "required_travel_cost_record_details": [
+        "Date request was received",
+        "How costs were paid",
+        "Amount paid",
+        "For whom the costs were paid",
+        "Date payment was made"
+      ],
+      "obligation_period": {
+        "start": "Day sponsorship is approved",
+        "end": "Two years after sponsor is no longer approved AND no longer sponsoring anyone",
+        "maximum_record_duration": "Five years"
+      }
+    },
+    "provide_records_and_information": {
+      "requirement": "Sponsors must provide records or information requested by the department.",
+      "purpose": [
+        "Determine compliance with sponsorship obligations",
+        "Assess other circumstances allowing administrative action by the Minister"
+      ],
+      "conditions": [
+        "Must provide records the sponsor is required to keep",
+        "Must provide records legally required to be provided to other agencies"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462",
+  "title": "Work and Holiday",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Australian Work and Holiday visa (subclass 462), including the first, second, and third visa options. It outlines eligibility requirements, work conditions, stay periods, costs, processing guidance, and important conditions that may affect applicants' visa status. The content is intended for young adults aged 18 to 30 from eligible countries seeking extended holidays in Australia while working to fund their stay.",
+  "structured_data": {
+    "visa_program": {
+      "name": "Work and Holiday Visa",
+      "subclass": "462",
+      "age_requirement": "18 to 30 years old (inclusive)",
+      "general_eligibility": [
+        "Must have a passport from an eligible country",
+        "Must not be accompanied by dependent children",
+        "Must declare current location correctly on visa application form"
+      ],
+      "important_notices": [
+        "If holding a Working Holiday Maker visa (subclass 417 or 462) and another visa is granted, the WHM visa will end.",
+        "Visas such as eVisitor (subclass 651) or Transit (subclass 771) will cause WHM visas to cease on the grant date.",
+        "Ending a WHM visa may stop applicants from working in Australia.",
+        "Incorrect location information may prevent visa approval.",
+        "Applicants should not arrange travel to Australia until receiving written visa grant confirmation."
+      ],
+      "ballot_requirement": {
+        "required_for_countries": [
+          "China",
+          "India",
+          "Vietnam"
+        ],
+        "description": "Applicants must participate in a visa pre-application ballot and be randomly selected before applying for the first Work and Holiday visa."
+      }
+    },
+    "visa_variants": [
+      {
+        "type": "First Work and Holiday visa",
+        "subclass": "462",
+        "description": "Allows eligible individuals aged 18 to 30 to have an extended holiday in Australia and work to help fund their trip.",
+        "requirements": [
+          "Must have a passport from an eligible country"
+        ],
+        "permissions": [
+          "Can work while in Australia",
+          "Can apply for a second Work and Holiday visa if eligibility criteria are met"
+        ],
+        "stay_period": "12 months",
+        "cost": "AUD 670.00",
+        "processing_time_note": "Processing times vary; use the visa processing time guide tool for recently decided applications. Times are indicative only and may be longer due to application volume."
+      },
+      {
+        "type": "Second Work and Holiday visa",
+        "subclass": "462",
+        "description": "Allows individuals who currently hold or have previously held a Work and Holiday visa to have a second working holiday in Australia.",
+        "requirements": [
+          "Must have a passport from an eligible country",
+          "Must have completed 3 months of specified subclass 462 work",
+          "If in Australia, must hold a substantive visa or have had last substantive visa expire less than 28 days ago"
+        ],
+        "permissions": [
+          "Can do any kind of work while in Australia",
+          "Can apply for a third Work and Holiday visa if conditions are met"
+        ],
+        "stay_period": "12 months",
+        "cost": "AUD 670.00",
+        "processing_time_note": "Processing times vary; use the visa processing time guide tool for recently decided applications. Times are indicative only and may be longer due to application volume."
+      },
+      {
+        "type": "Third Work and Holiday visa",
+        "subclass": "462",
+        "description": "Allows individuals who currently hold or have held a second Work and Holiday (subclass 462) visa to have a third working holiday in Australia.",
+        "requirements": [
+          "Must have a passport from an eligible country",
+          "Must have completed 6 months of specified subclass 462 work",
+          "If in Australia, must hold a substantive visa or have had last substantive visa expire less than 28 days ago"
+        ],
+        "permissions": [
+          "Can do any kind of work while in Australia"
+        ],
+        "stay_period": "12 months",
+        "cost": "AUD 670.00",
+        "processing_time_note": "Processing times vary; use the visa processing time guide tool for recently decided applications. Times are indicative only and may be longer due to application volume."
+      }
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

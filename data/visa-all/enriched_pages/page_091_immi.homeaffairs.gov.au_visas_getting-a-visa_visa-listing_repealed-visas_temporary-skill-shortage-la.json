@@ -1,0 +1,87 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/temporary-skill-shortage-labour-agreement-visa-subclass-482",
+  "title": "Temporary Skill Shortage (Labour agreement) visa (subclass 482)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for existing or pending applicants of the Temporary Skill Shortage (Labour Agreement) visa (subclass 482), which is now closed to new applications. It explains visa validity, rights, obligations, and what current holders or pre‑December 7, 2024 applicants need to know following the introduction of the Skills in Demand visa.",
+  "structured_data": {
+    "visa_name": "Temporary Skill Shortage (Labour Agreement) visa",
+    "subclass": "482",
+    "application_status": "closed_to_new_applications",
+    "replacement_visa": {
+      "name": "Skills in Demand (SID) visa",
+      "replacement_date": "7 December 2024",
+      "notes": [
+        "SID visa replaced the Temporary Skills Shortage (TSS) visa on 7 December 2024.",
+        "TSS nominations and visa applications lodged before implementation will be processed under requirements in force at time of lodgement.",
+        "If a TSS nomination was lodged but the associated visa application was not lodged before 7 December 2024, and the nomination is approved, it becomes a SID nomination and the applicant can lodge a SID visa application."
+      ]
+    },
+    "about_this_visa": {
+      "description": "For skilled workers nominated by employers who have a Labour Agreement, allowing temporary residence and work in Australia.",
+      "labour_agreement_requirement": "Employer must have an active labour agreement with the Australian Government.",
+      "length_of_stay": {
+        "standard": "up to 4 years",
+        "hong_kong_passport_holders": "up to 5 years"
+      }
+    },
+    "visa_holders": {
+      "applicable_to": [
+        "People already granted a Temporary Skill Shortage (Labour Agreement stream) visa (subclass 482)",
+        "People who applied for the visa on or before 6 December 2024 and have not yet received a decision"
+      ],
+      "notes": [
+        "Information explains rights and obligations of visa holders.",
+        "Visa details and entitlements can be checked using VEVO."
+      ]
+    },
+    "visa_validity": {
+      "validity_for_existing_holders": "Visa remains valid until the expiry date granted at time of approval."
+    },
+    "permissions": {
+      "allowed_activities": [
+        "Live temporarily in Australia",
+        "Work in Australia",
+        "Study in Australia",
+        "Have eligible dependant family members apply to join the holder in Australia"
+      ]
+    },
+    "obligations": {
+      "general_obligations": [
+        "Comply with all visa conditions and Australian laws"
+      ],
+      "during_stay_requirements": [
+        "Maintain adequate health insurance while in Australia",
+        "Continue to meet requirements of the visa stream under which the visa was granted",
+        "Leave Australia when visa ends unless granted another visa"
+      ]
+    },
+    "family_members": {
+      "subsequent_entrants": "Eligible dependant family members may apply to join the visa holder from inside or outside Australia while the visa remains valid.",
+      "requirement_to_leave": "Family members must leave Australia when the primary applicant's visa ends.",
+      "family_obligations": [
+        "Intend to remain members of the family unit",
+        "Maintain adequate health insurance while in Australia"
+      ],
+      "family_rights": [
+        "Live in Australia",
+        "Travel in Australia",
+        "Work in Australia",
+        "Study in Australia"
+      ],
+      "conditions_notification": "Additional conditions, if any, will be communicated at the time the visa is granted."
+    },
+    "reporting_requirements": {
+      "report_changes": "Visa holders must report changes in circumstances.",
+      "examples_of_changes": [
+        "New residential address",
+        "New passport",
+        "Pregnancy",
+        "Birth in the family",
+        "Death in the family"
+      ],
+      "reference_link_text": "Changes in your situation"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

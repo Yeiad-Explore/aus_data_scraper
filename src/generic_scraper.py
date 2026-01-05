@@ -187,7 +187,11 @@ class GenericScraper:
                     )
 
                     # Parse the page
-                    parser = GenericParser(url, job_config.crawl_config.link_filter)
+                    parser = GenericParser(
+                        url,
+                        job_config.crawl_config.link_filter,
+                        job_config.crawl_config.follow_all_links
+                    )
                     page_data = parser.parse(
                         html,
                         parent_url=None if depth == 0 else str(job_config.start_url),

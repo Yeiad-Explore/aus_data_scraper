@@ -1,0 +1,82 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/moving-between-visas",
+  "title": "Changing visas",
+  "content_type": "general_information",
+  "summary": "This page provides guidance for people in Australia who want to apply for a new visa, including the rules around visa conditions, bridging visas, Expressions of Interest, and work rights. It explains when bridging visas are granted, how to remain lawful, and when work permissions may or may not be available.",
+  "structured_data": {
+    "overview": {
+      "key_points": [
+        "Apply for another visa before your current visa expires if you want to stay in Australia.",
+        "Information provided on staying lawful, visa conditions, bridging visas, Expressions of Interest, and work rights."
+      ]
+    },
+    "visa_conditions": {
+      "restrictions": [
+        "You cannot apply for a new visa in Australia if your current visa includes a 'no further stay' condition."
+      ],
+      "how_to_check_conditions": "You can check your visa conditions in VEVO.",
+      "waivers": "In some situations, you can ask for the 'no further stay' condition to be waived."
+    },
+    "bridging_visas": {
+      "when_granted": [
+        "If you apply for a new visa before your current substantive visa expires."
+      ],
+      "types": [
+        "Bridging Visa A (BVA)",
+        "Alternative bridging visa (if applicable)"
+      ],
+      "automatic_application": "In most cases, the bridging visa application is automatically included when applying for a new visa.",
+      "purpose": [
+        "Allows you to stay in Australia when your substantive visa expires and while a decision is pending on your new visa."
+      ],
+      "activation_conditions": [
+        "The bridging visa comes into effect only once the current substantive visa expires."
+      ],
+      "compliance_requirements": [
+        "You must comply with the conditions of your current substantive visa until the bridging visa comes into effect."
+      ],
+      "cancellation_consequences": [
+        "Cancelling your current visa will not activate your bridging visa.",
+        "Cancelling your current visa will cancel your bridging visa.",
+        "You would become unlawful in Australia if the bridging visa is cancelled."
+      ]
+    },
+    "expression_of_interest": {
+      "applicability": "Required for some skilled visas.",
+      "key_facts": [
+        "An Expression of Interest (EOI) is not a visa application.",
+        "Submitting an EOI does not result in the grant of a bridging visa.",
+        "Eligibility for a bridging visa is assessed only after a valid visa application is lodged."
+      ],
+      "expiry_scenarios": [
+        "If your current visa is about to expire before you are invited to apply for a skilled visa, you must apply for another visa to remain in Australia.",
+        "If you do not meet requirements for another visa, you must depart Australia before your visa expires."
+      ]
+    },
+    "working_on_a_bridging_visa": {
+      "work_rights": [
+        "Work rights depend on conditions attached to the Bridging Visa A (BVA)."
+      ],
+      "how_to_check": "Work conditions can be confirmed in VEVO.",
+      "changing_work_rights": {
+        "possibility": "You can apply for another BVA that allows work.",
+        "requirements": [
+          "You usually must demonstrate financial hardship.",
+          "Circumstances will be assessed in relation to your claim for work rights."
+        ],
+        "outcomes": [
+          "If you do not meet requirements for work rights but are still eligible for a BVA, a new BVA will be granted with the same work restrictions as your previous BVA."
+        ]
+      },
+      "work_rights_exceptions": {
+        "cannot_be_granted_work_rights_if": [
+          "Your current BVA prevents or restricts work AND your BVA was granted because you applied for judicial review of your substantive visa application decision.",
+          "You have applied for a protection visa and are seeking a bridging visa based on judicial review."
+        ],
+        "special_note": "Protection visa applicants applying for a bridging visa on the basis of judicial review who currently hold condition 8101 cannot apply for work rights."
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,151 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/distinguished-talent-124",
+  "title": "Distinguished Talent visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Distinguished Talent visa (subclass 124), a permanent visa for individuals with exceptional and outstanding achievements in eligible fields. The visa is closed to new applications, directing applicants to the Global Talent visa (subclass 858). The page outlines visa benefits, eligibility requirements, costs, obligations, and related conditions.",
+  "structured_data": {
+    "visa_name": "Distinguished Talent visa",
+    "subclass": "124",
+    "status": "Closed to new applications",
+    "replacement_visa": "Global Talent visa (subclass 858)",
+    "description": "A permanent visa for people with an internationally recognised record of exceptional and outstanding achievement in an eligible field.",
+    "stay": "Permanently",
+    "cost": {
+      "main_applicant_fee_aud": 4110,
+      "second_instalment_aud": 4890,
+      "notes": [
+        "Additional charges apply for each family member.",
+        "Applicants 18 or older without functional English must pay the second instalment.",
+        "Other costs may apply for health checks, police certificates, and biometrics."
+      ]
+    },
+    "processing_times": {
+      "method": "Visa processing time guide tool",
+      "notes": [
+        "Processing times vary case-by-case.",
+        "Factors include completeness of application, response times, required checks, external agency processing, and migration program capacity."
+      ]
+    },
+    "benefits_with_visa": [
+      "Work and study in Australia",
+      "Stay in Australia permanently",
+      "Sponsor eligible relatives for permanent residence",
+      "Apply for Australian citizenship if eligible",
+      "Travel to and from Australia for 5 years",
+      "Enroll in Medicare"
+    ],
+    "application_conditions": {
+      "apply_from": "You can be in or outside Australia when applying, but not in immigration clearance.",
+      "grant_condition": "You must be outside Australia when the visa is granted.",
+      "notes": [
+        "If already in Australia on an eligible visa, applicants should consider eligibility for subclass 858."
+      ]
+    },
+    "include_family": {
+      "allowed": true,
+      "description": "You can include members of the family unit when applying or anytime before a decision is made.",
+      "extra_rules_for_under_18": [
+        "Can include a parent",
+        "Can include members of the family unit of that parent"
+      ],
+      "requirements": [
+        "Family members must meet health and character requirements."
+      ]
+    },
+    "travel_rights": {
+      "travel_period": "5 years from visa grant date",
+      "after_5_years": "Requires Resident Return visa (subclass 155 or 157)",
+      "tool": "VEVO to check travel facility expiry"
+    },
+    "visa_label": "Visa is digitally linked to passport; no physical label provided.",
+    "eligibility": {
+      "visa_status": "Closed to new applications",
+      "main_criteria": [
+        "Must be outside Australia when visa is granted",
+        "Must have internationally recognised record of exceptional and outstanding achievement",
+        "Must be prominent in field",
+        "Must be nominated by eligible individual or organisation"
+      ],
+      "eligible_fields": [
+        "A profession",
+        "A sport",
+        "The arts",
+        "Academia and research"
+      ],
+      "detailed_requirements": {
+        "benefit_to_community": {
+          "description": "Applicant must contribute to Australia as a whole.",
+          "types_of_contribution": [
+            "Economic",
+            "Social",
+            "Cultural",
+            "Raising Australia's academic standing",
+            "Raising Australia's artistic standing",
+            "Raising Australia's sports standing internationally"
+          ]
+        },
+        "ability_to_establish_in_australia": {
+          "description": "Must be able to find work in field or be independently established in field.",
+          "restriction": "Cannot include income from work outside field."
+        },
+        "international_recognition": {
+          "must_have": [
+            "Current prominence in field",
+            "Superior abilities to others in the field",
+            "International acclaim as exceptional",
+            "Record of sustained achievement unlikely to diminish",
+            "Participation in a field recognised and accepted in Australia with international standing",
+            "Prominence in the field within the past 2 years"
+          ]
+        },
+        "nomination": {
+          "requirements": [
+            "Must be nominated to apply",
+            "Nominator must be Australian citizen, permanent resident, eligible New Zealand citizen, or Australian organisation",
+            "Nominator must have national reputation in the applicant’s field",
+            "Nomination should come from peak Australian body where appropriate"
+          ]
+        },
+        "age": {
+          "age_limit": "No age limit",
+          "special_conditions": [
+            "Applicants under 18 must be of exceptional benefit to Australia",
+            "Applicants 55 or older must be of exceptional benefit to Australia"
+          ]
+        },
+        "english_requirement": {
+          "functional_english_required": true,
+          "second_instalment_if_not_met": true
+        },
+        "health_requirement": {
+          "applies_to": [
+            "Applicant",
+            "Family members applying",
+            "Possibly non-migrating family members"
+          ]
+        },
+        "character_requirement": {
+          "applies_to": [
+            "Applicant",
+            "Family members aged 16 or over applying",
+            "Possibly non-migrating family members"
+          ]
+        },
+        "debt_to_government": {
+          "requirement": "All debts owed by applicant or family members must be repaid or arrangements made."
+        }
+      }
+    },
+    "obligations": [
+      "Obey all Australian laws",
+      "Contribute to Australia in field of expertise"
+    ],
+    "related_links": {
+      "global_talent_visa": "Subclass 858",
+      "visa_processing_time_guide": "Available online",
+      "visa_pricing_estimator": "Available online"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

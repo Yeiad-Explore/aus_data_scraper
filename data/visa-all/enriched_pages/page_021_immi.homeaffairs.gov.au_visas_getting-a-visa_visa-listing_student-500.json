@@ -1,0 +1,121 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+  "title": "Student visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Australian Student Visa (Subclass 500). It outlines eligibility, costs, processing rules, what the visa allows, and special conditions such as COVID‑19 fee waivers and reduced costs for eligible Pacific Island and Timor-Leste citizens.",
+  "structured_data": {
+    "visa_name": "Student visa",
+    "subclass": "500",
+    "description": "Visit Australia to participate in an eligible course of study.",
+    "stay_duration": {
+      "general": "Up to 6 years, in line with enrolment.",
+      "primary_school_years_1_to_4": "Maximum of 3 years",
+      "type_notes": "Length determined by type and length of course."
+    },
+    "ministerial_directions": {
+      "applications_lodged_before_14_nov_2025": "Ministerial Direction 111",
+      "applications_lodged_on_or_after_14_nov_2025": "Ministerial Direction 115"
+    },
+    "processing_times": {
+      "notes": "Use the visa processing time guide tool for indicative processing times. Times vary and are not specific to individual applications.",
+      "additional_info": "Processing priorities differ for applications lodged outside Australia under Ministerial Directions 111 or 115."
+    },
+    "what_you_can_do_with_this_visa": [
+      "Participate in an eligible course of study in Australia",
+      "Travel in and out of Australia",
+      "Work up to 48 hours per fortnight when course is in session",
+      "Unlimited work hours for masters by research or doctoral degree students and their families"
+    ],
+    "eligibility": {
+      "general_requirements": [
+        "Apply online in or outside Australia",
+        "Be enrolled in a course of study and hold a valid Confirmation of Enrolment (CoE) at time of decision",
+        "Hold Overseas Student Health Cover (OSHC) or be exempt",
+        "Be at least 6 years old",
+        "Provide welfare arrangements if under 18",
+        "If applying in Australia, hold an eligible substantive visa"
+      ],
+      "important_notes": [
+        "A CoE is invalid if cancelled or if the course is completed.",
+        "A substantive visa ceases once another substantive visa is granted.",
+        "Applications are received in AEST or AEDST depending on time of year."
+      ]
+    },
+    "cost": {
+      "base_cost": "From AUD2,000.00 for the main applicant (unless exempt)",
+      "additional_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "pricing_estimator_note": "Visa Pricing Estimator does not include additional costs."
+    },
+    "cost_exemption_pacific_and_timor_leste": {
+      "effective_date": "22 March 2025",
+      "description": "Lower visa cost applies to eligible Pacific Island and Timor-Leste citizens for Student and Student Guardian visa applications.",
+      "eligibility_basis": "Recognised via valid passport from eligible countries at time of application.",
+      "family_members_eligibility": "Family members also eligible; assessment based on primary applicant’s passport.",
+      "eligible_passport_countries": [
+        "Federated States of Micronesia",
+        "Fiji",
+        "Kiribati",
+        "Nauru",
+        "Palau",
+        "Papua New Guinea",
+        "Republic of the Marshall Islands",
+        "Samoa",
+        "Solomon Islands",
+        "Timor-Leste",
+        "Tonga",
+        "Tuvalu",
+        "Vanuatu"
+      ]
+    },
+    "covid_19_impacted_students_fee_waiver": {
+      "eligibility_conditions": [
+        "Held a Student visa on or after 1 February 2020",
+        "Deferred study due to travel restrictions",
+        "Forced to reduce to part‑time study",
+        "Unable to complete work-based training or placements"
+      ],
+      "not_eligible_if": [
+        "Failed a course or unit",
+        "Deferred for personal reasons",
+        "Voluntarily reduced study load"
+      ],
+      "requirements": [
+        "Must apply for a new Student visa for fee waiver consideration",
+        "Must attach Form 1545 COVID-19 Impacted Student completed by education provider"
+      ],
+      "bridging_visa_note": "If applying in Australia, a Bridging visa will not be issued automatically until fee exemption is checked.",
+      "waiver_scope": "Applies only to the visa application charge."
+    },
+    "include_family": {
+      "family_definitions": [
+        "Partner",
+        "Dependent child of applicant or partner who is unmarried and under 18"
+      ],
+      "important_notes": [
+        "A child who is 18 or older when the visa is finalised cannot be granted this visa.",
+        "All family members must be declared in the application even if not travelling."
+      ]
+    },
+    "how_to_stay_longer": {
+      "options": [
+        "Apply for a new Student visa to continue studying",
+        "If visa expires before graduation, may apply for Visitor visa (subclass 600) with graduation date letter",
+        "If eligible after completing specific qualifications, apply for Temporary Graduate visa (subclass 485)",
+        "Apply for a different visa suited to circumstances if remaining in Australia for other reasons"
+      ]
+    },
+    "help_with_your_visa": {
+      "advice": "Read information on who can help before paying someone to assist with the application."
+    },
+    "other_notes": {
+      "visa_label": "No physical label; recorded electronically",
+      "travel": "Multiple entries allowed"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

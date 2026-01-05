@@ -1,0 +1,172 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/established-business-in-australia-visa-subclass-845",
+  "title": "Established Business in Australia visa (subclass 845)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for applicants who previously applied for the Established Business in Australia visa (subclass 845), which closed to new applications on 1 July 2012. It explains application procedures for existing applicants, family member additions, requirements, costs, and post‑lodgement processes. It also outlines documentation needed and decision outcomes.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Established Business in Australia visa",
+      "subclass": "845",
+      "status": "Closed to new applications",
+      "closure_date": "1 July 2012",
+      "application_availability": "You cannot apply for this visa.",
+      "alternative_options": "Other business visa options available via SkillSelect."
+    },
+    "applicant_information": {
+      "who_this_is_for": "Applicants who already lodged a subclass 845 visa application and are awaiting a decision."
+    },
+    "family_members": {
+      "adding_family_members": {
+        "policy": "You can add members of your family unit at any time until the visa is decided.",
+        "eligible_family_members": [
+          "Spouse",
+          "Defacto partner",
+          "Dependent children"
+        ],
+        "requirements": [
+          "Must meet requirements for including family members",
+          "Must provide documentary evidence of relationship",
+          "Must meet health and character requirements",
+          "Might need to take IELTS test"
+        ],
+        "forms_required": [
+          {
+            "form_name": "Form 47BT",
+            "description": "Application for a Business Skills (provisional) visa",
+            "file_size": "579KB PDF",
+            "purpose": "Used to add dependent children or other family members"
+          }
+        ]
+      }
+    },
+    "health_requirements": {
+      "general": "Applicants must meet certain health requirements.",
+      "notes": [
+        "Most applicants will not be required to complete additional health examinations.",
+        "Applicants should not arrange a health examination until instructed."
+      ]
+    },
+    "character_requirements": {
+      "general": "Applicants must meet certain character requirements.",
+      "police_certificate_requirement": "Provide a police certificate from each country lived in for 12 months or more during the past 10 years after turning 16."
+    },
+    "debts_to_government": {
+      "requirement": "Applicants must have no outstanding debts to the Australian Government or have arrangements in place to repay them."
+    },
+    "costs": {
+      "additional_applicant_charge_18_and_over": "AUD 3,015",
+      "additional_applicant_charge_under_18": "AUD 1,510",
+      "other_costs": [
+        "Health assessments",
+        "Police certificates",
+        "Other certificates or tests"
+      ],
+      "notes": "Applicants are responsible for arranging and paying for other costs."
+    },
+    "lodging_application": {
+      "instructions": "Lodge completed forms and documents in person or by registered post, courier or fax.",
+      "location": "Adelaide office, South Australia",
+      "attention": "Client Services, Adelaide Business Skills Processing Centre",
+      "payment_methods": [
+        "Credit card",
+        "Money order",
+        "Bank cheque"
+      ],
+      "document_checklist_required": true
+    },
+    "after_applying": {
+      "acknowledgement": "The department will acknowledge receipt of the application.",
+      "waiting_for_decision": {
+        "outside_australia": [
+          "Do not make travel arrangements until advised in writing that the visa is granted.",
+          "Wait for a decision before leaving job, selling home, or booking travel."
+        ],
+        "in_australia": [
+          "Applicant may be eligible for a Bridging visa.",
+          "If granted a Bridging visa A, applicant can apply for a Bridging visa B to travel outside Australia."
+        ]
+      }
+    },
+    "providing_more_information": {
+      "policy": "Applicants can provide more information at any time until a decision is made.",
+      "corrections": {
+        "form": "Form 1023 - Notification of incorrect answer(s)",
+        "file_size": "168KB PDF"
+      },
+      "department_requests": "The department may request more information with a set response date.",
+      "third_party_information": "Applicants are usually given an opportunity to comment if adverse information is received.",
+      "interviews": {
+        "may_be_required": true,
+        "documents_to_bring": [
+          "Passport or ID",
+          "Requested documents"
+        ]
+      }
+    },
+    "change_notifications": {
+      "changes_to_report": [
+        "Changes to phone number, email, address, or passport",
+        "Changes to relationship status",
+        "Birth of a child"
+      ],
+      "how_to_report": "Contact case officer.",
+      "required_information_when_reporting": [
+        "Business name",
+        "ABN (or other business identifier for businesses outside Australia)",
+        "Transaction Reference Number (TRN)"
+      ]
+    },
+    "visa_decision": {
+      "if_granted": [
+        "When you can use the visa",
+        "Visa grant number",
+        "Conditions attached to the visa"
+      ],
+      "if_refused": [
+        "Reason for refusal",
+        "Review rights (if any)",
+        "Time limit for lodging an appeal"
+      ],
+      "sponsor_rights": "Where applicable, sponsor may apply for review."
+    },
+    "document_checklist": {
+      "notes": [
+        "Provide certified copies of original documents.",
+        "Do not include original documents unless specifically requested.",
+        "Police certificates must be original.",
+        "Documents not in English must include accredited English translations."
+      ],
+      "forms": [
+        {
+          "form_name": "Form 47BU",
+          "description": "Application for a Business Skills (permanent) visa",
+          "file_size": "707KB PDF"
+        },
+        {
+          "form_name": "Form 47a",
+          "description": "Details of child or other dependent family member aged 18 years or over",
+          "file_size": "307KB PDF",
+          "applicable_to": "Family members aged 18 or older (not partner)"
+        },
+        {
+          "form_name": "Form 80",
+          "description": "Personal particulars for assessment including character assessment",
+          "file_size": "596KB PDF",
+          "applicable_to": "Family members aged 16 or older"
+        }
+      ],
+      "identity_documents": [
+        "Certified copies of biographical passport pages for all applicants",
+        "Two recent passport-sized photos (45mm x 35mm) for each applicant (head and shoulders only, plain background, name written on back)",
+        "Certified evidence of name change if applicable"
+      ],
+      "family_documents": [
+        "Certified copies of birth certificates or family book showing both parents' names for dependent children",
+        "Certified adoption papers for adopted dependent children",
+        "If bringing a child under 18 and the other parent is not included: documentary evidence of legal right to bring the child to Australia"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

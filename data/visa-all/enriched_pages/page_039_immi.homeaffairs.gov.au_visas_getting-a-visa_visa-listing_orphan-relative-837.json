@@ -1,0 +1,116 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/orphan-relative-837",
+  "title": "Orphan Relative visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Orphan Relative visa (Subclass 837), a permanent visa that allows a child in Australia without parental care to stay with an eligible relative. It explains eligibility, costs, application requirements, sponsorship conditions, travel rights, obligations, and updates about importing paper applications into ImmiAccount. It also outlines processing times, health requirements, and rules around dependent children.",
+  "structured_data": {
+    "visa_name": "Orphan Relative visa",
+    "visa_subclass": "837",
+    "visa_description": "This visa lets a child who is single and already in Australia stay with a relative if their parents are deceased, cannot care for them, or cannot be found.",
+    "applicability": {
+      "location_requirement": "Child must be in Australia but not in immigration clearance when the application is made and when a decision is made.",
+      "age_requirement": "Child must be under 18 years old.",
+      "marital_status": "Child must be single.",
+      "parental_care_status": [
+        "Both parents are deceased",
+        "Both parents are permanently incapable of caring for the child",
+        "Both parents cannot be found"
+      ],
+      "parental_care_restriction": "Visa will not be granted if the child's parents are capable of caring for them but choose not to.",
+      "sponsor_requirement": {
+        "eligible_relatives": [
+          "Sibling or step-sibling",
+          "Grandparent or step-grandparent",
+          "Aunt or uncle",
+          "Step-aunt or step-uncle"
+        ],
+        "approval_requirement": "Sponsorship must be approved before the visa can be granted.",
+        "registrable_offence_rules": {
+          "pending_charge": "Sponsorship and visa application will be refused.",
+          "conviction": "Sponsorship can only be approved in very limited circumstances."
+        }
+      }
+    },
+    "important_updates": {
+      "immiaccount_import_update_effective": "23 July 2025",
+      "applicable_visa_subclasses": [
+        101,
+        102,
+        802,
+        445,
+        117,
+        837
+      ],
+      "import_limitations": "Some applications made outside Australia before 1 April 2020 cannot be imported."
+    },
+    "rights_and_benefits": {
+      "stay": "Stay in Australia indefinitely",
+      "work_and_study": "Work and study in Australia in line with Australian law",
+      "healthcare": "Access Medicare",
+      "sponsor_relatives": true,
+      "english_classes": "Attend free English classes through the Adult Migrant English Program, if eligible",
+      "citizenship_eligibility": "Eligible to apply for Australian citizenship, if they meet requirements",
+      "travel_facility": {
+        "duration": "5 years from visa grant",
+        "conditions_after_5_years": [
+          "Must apply for a Resident Return visa to re-enter as a permanent resident",
+          "May consider applying for Australian citizenship"
+        ]
+      }
+    },
+    "stay_information": {
+      "type": "Permanent visa",
+      "permanent_resident_status_date": "Date the visa is granted"
+    },
+    "including_family_members": {
+      "sibling_application": "Each sibling must lodge a separate application.",
+      "dependent_children": {
+        "can_be_included": true,
+        "timing": "At application time or before a decision is made",
+        "health_requirement": "Must meet health requirements"
+      },
+      "non-migrating_family_members_health_requirement": true
+    },
+    "costs": {
+      "main_applicant_fee": "AUD 1,980.00",
+      "dependent_children_fee": "Additional charge per dependent child (not specified)",
+      "other_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "pricing_tool": "Visa Pricing Estimator does not include other costs"
+    },
+    "apply_from": {
+      "location": "Child must be in Australia at lodgement and decision.",
+      "no_further_stay_condition": "If on a visa with a no further stay condition, the child cannot apply."
+    },
+    "processing_times": {
+      "guide_tool": "Processing time guide tool provides estimates only.",
+      "delays_possible_if": [
+        "Application is not filled in correctly",
+        "Incomplete documents or additional information required",
+        "Time needed to verify information",
+        "Full payment not made at lodgement"
+      ],
+      "acknowledgement_timeframe": "Approximately 1 month after lodgement",
+      "communication_method": "Department will contact via authorised method"
+    },
+    "obligations": {
+      "legal_obligations": "Child and dependants must obey all Australian laws."
+    },
+    "visa_label": {
+      "digital_linking": "Visa is digitally linked to the child's passport.",
+      "physical_label": "No label provided.",
+      "grant_notification": "Grant notification letter will include visa grant number."
+    },
+    "eligibility_summary": {
+      "sponsor": "Must have an eligible sponsor; sponsorship must be approved.",
+      "age": "Child must be under 18 years old.",
+      "parental_care": "Child must have no parent capable of caring for them.",
+      "consent_to_migrate": "Child must have appropriate consent (content truncated in provided text)."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

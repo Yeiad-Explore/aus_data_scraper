@@ -1,0 +1,20 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-regional-191",
+  "title": "Permanent Residence (Skilled Regional) visa",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Subclass 191 Permanent Residence (Skilled Regional) visa. It briefly describes what the visa allows and indicates that eligibility depends on holding an eligible visa and meeting an income requirement.",
+  "structured_data": {
+    "visa_name": "Permanent Residence (Skilled Regional) visa",
+    "subclass": "191",
+    "description": "This visa allows workers who hold an eligible visa and meet an income requirement to live and work in Australia permanently.",
+    "eligibility": {
+      "basic_eligibility_statement": "See the relevant stream",
+      "requirements": [
+        "Must hold an eligible visa",
+        "Must meet an income requirement"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

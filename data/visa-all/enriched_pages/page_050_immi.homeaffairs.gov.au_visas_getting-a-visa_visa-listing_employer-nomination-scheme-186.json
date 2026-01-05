@@ -1,0 +1,72 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186",
+  "title": "Employer Nomination Scheme visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Employer Nomination Scheme (ENS) visa, subclass 186, which allows skilled workers nominated by an employer to live and work permanently in Australia. It outlines eligibility criteria, priority processing rules, visa streams, costs, and indicative processing guidance.",
+  "structured_data": {
+    "visa_name": "Employer Nomination Scheme visa",
+    "subclass": "186",
+    "description": "This visa lets skilled workers, who are nominated by their employer, live and work in Australia permanently.",
+    "basic_eligibility": [
+      "You must have the necessary skills for the job",
+      "You must be nominated by an Australian employer",
+      "You must meet health and character requirements"
+    ],
+    "program_information": {
+      "ministerial_direction": "Ministerial Direction No. 105",
+      "priority_order": [
+        "Applicants working in occupations carried out in a designated regional area",
+        "Applicants working in a healthcare or teaching occupation",
+        "Applicants nominated by an accredited sponsor"
+      ],
+      "migration_program_planning_levels_2025_26": "44,000 places for ENS visas (primary and secondary visa grants)"
+    },
+    "processing_allocation_guidance": {
+      "applications_allocated_past_month": {
+        "designated_regional_area": "April 2025",
+        "healthcare_or_teaching_occupation": "April 2025",
+        "accredited_sponsor": "November 2024",
+        "all_other_applications": "April 2024"
+      },
+      "note": "Timeframe not definitive; provided only as a guide."
+    },
+    "streams": [
+      {
+        "stream_name": "Direct Entry stream",
+        "description": "This visa lets skilled workers, who are nominated by an employer, live and work in Australia permanently.",
+        "eligibility": [
+          "You must be nominated by an Australian employer",
+          "Your occupation must be on the relevant list of eligible skilled occupations",
+          "You must have at least Competent English"
+        ],
+        "stay": "Permanently",
+        "cost_from": "AUD 4,910.00",
+        "processing_time_note": "Use the visa processing time guide tool for recent decisions; guide only."
+      },
+      {
+        "stream_name": "Labour Agreement stream",
+        "description": "This visa lets skilled workers who are nominated by their employer live and work in Australia permanently. This stream is for workers employed by an employer who is party to a labour agreement.",
+        "eligibility": [
+          "The employer must have a labour agreement"
+        ],
+        "stay": "Permanently",
+        "cost_from": "AUD 4,910.00",
+        "processing_time_note": "Use the visa processing time guide tool for recent decisions; guide only."
+      },
+      {
+        "stream_name": "Temporary Residence Transition stream",
+        "description": "This visa lets skilled workers, who are nominated by their current employer, live and work in Australia permanently.",
+        "eligibility": [
+          "You must hold a subclass 457, 482 or eligible bridging visa",
+          "Usually, you must have worked in eligible sponsored employment on a full-time basis for at least two years",
+          "You must be nominated by your employer"
+        ],
+        "stay": "Permanently",
+        "cost_from": "AUD 4,910.00",
+        "processing_time_note": "Use the visa processing time guide tool for recent decisions; guide only."
+      }
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

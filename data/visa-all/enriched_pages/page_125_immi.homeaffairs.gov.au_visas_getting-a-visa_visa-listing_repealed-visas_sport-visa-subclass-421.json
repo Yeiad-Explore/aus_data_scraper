@@ -1,0 +1,153 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/sport-visa-subclass-421",
+  "title": "Sport visa (subclass 421)",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Sport visa (subclass 421), which is now closed to new applications. It explains visa holder rights, obligations, work conditions, and family requirements, as well as sponsorship duties for existing approved sponsors. It also outlines what to do if employment or sponsorship changes.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Sport visa",
+      "subclass": "421",
+      "status": "closed_to_new_applications",
+      "alternative_visas": [
+        "Temporary Activity visa (subclass 408)"
+      ],
+      "purpose": "To allow participation in high-level competition or training with Australian residents."
+    },
+    "visa_holders": {
+      "who_this_applies_to": "People who have already been granted a Sport visa (subclass 421).",
+      "rights_and_obligations": {
+        "entitlement_check": "You can use Visa Entitlement Verification Online (VEVO) to check your visa details and entitlements.",
+        "visa_validity": "Usually valid for the period of the nominated position, with a maximum period of two years."
+      },
+      "what_this_visa_lets_you_do": [
+        "Participate in high-level competition or training with Australian residents.",
+        "Stay in Australia for the period of the nominated position (maximum two years).",
+        "Bring your family members (they can work and study).",
+        "Leave and enter Australia multiple times while the visa is valid."
+      ],
+      "obligations": {
+        "primary_holder_obligations": [
+          "Comply with all visa conditions and Australian laws.",
+          "Maintain adequate health insurance while in Australia."
+        ],
+        "work_conditions": {
+          "you_must_not": [
+            "Stop working for the employer who sponsored you.",
+            "Engage in work or activity inconsistent with your nominated position.",
+            "Work for another person or for yourself while also working for your sponsor."
+          ]
+        },
+        "if_you_stop_working_for_your_sponsor": [
+          "Be sponsored by another organisation to stay in Australia.",
+          "Apply for another visa.",
+          "Leave Australia before your visa expires."
+        ],
+        "changing_your_sponsor": "If your visa is close to expiry you can search the visa finder tool for an appropriate visa."
+      },
+      "family_obligations": {
+        "entry_conditions": "Family cannot enter Australia before you.",
+        "departure_conditions": "Family must leave Australia with you when your visa ends.",
+        "ongoing_obligations": [
+          "Must remain members of your family unit.",
+          "Maintain adequate health insurance while in Australia."
+        ],
+        "entitlements": [
+          "Family can work or study in Australia while their visa is valid."
+        ]
+      },
+      "notify_changes": {
+        "you_must_notify_changes_to": [
+          "Phone number",
+          "Email",
+          "Address",
+          "Passport",
+          "Relationship status",
+          "Birth of a child"
+        ],
+        "reference_link": "See how to let us know if there is a change in your situation."
+      }
+    },
+    "sponsors": {
+      "who_this_applies_to": "Approved sponsors of people on a Sport visa (subclass 421).",
+      "new_sponsorship_status": "You cannot apply to sponsor new applicants because this visa is closed to new applications.",
+      "alternative_visa_direction": "Use the visa finder tool for sponsoring a sports person under another visa.",
+      "vevo_access": "Sponsors can use Visa Entitlement Verification Online (VEVO for Organisations).",
+      "sponsorship_validity": "Up to three years.",
+      "nomination_validity": {
+        "nomination_approval_ceases_on": [
+          "The day written notification of nomination withdrawal is received.",
+          "12 months after nomination approval.",
+          "3 months after sponsor approval ceases (if nomination approval was given to the sponsor).",
+          "The day the visa was granted based on the nomination.",
+          "The day sponsorship approval is cancelled (if nomination approval was given to the sponsor)."
+        ]
+      },
+      "sponsor_obligations": {
+        "obligation_list": [
+          "Cooperate with inspectors.",
+          "Notify the department when certain events occur.",
+          "Keep records.",
+          "Provide records and information to the Minister.",
+          "Not recover, transfer, or charge certain costs to another person.",
+          "Pay costs to locate and remove an unlawful non-citizen.",
+          "Ensure the visa holder participates in the nominated occupation, program, or activity.",
+          "Secure an offer of reasonable standard accommodation."
+        ],
+        "responsibility_note": "Sponsors remain responsible for obligations even if represented by an authorised person or migration agent."
+      },
+      "cooperate_with_inspectors": {
+        "purpose_of_inspections": [
+          "Investigating compliance with sponsorship obligations.",
+          "Checking for illegal workers.",
+          "Other circumstances requiring administrative action."
+        ],
+        "obligation_start": "Starts on the day sponsorship is approved or work agreement commences.",
+        "obligation_end": "Ends five years after sponsorship ends or work agreement ceases.",
+        "examples_of_cooperation": [
+          "Providing access to premises.",
+          "Producing and providing documents within requested timeframe.",
+          "Not preventing access to a person with custody of documents.",
+          "Providing officers access to interview any person on the premises."
+        ]
+      },
+      "record_keeping": {
+        "requirements": [
+          "Keep records showing compliance with obligations.",
+          "Records must be reproducible.",
+          "Some records must be independently verifiable.",
+          "Keep record of any required notifications, including date, method, and location of notification."
+        ],
+        "obligation_start": "On the day sponsorship is approved.",
+        "obligation_end": "Two years after no longer being an approved sponsor AND no longer sponsoring anyone.",
+        "maximum_record_retention": "No need to keep records for more than five years."
+      },
+      "provide_records_to_minister": {
+        "requirements": [
+          "Provide requested records or information for assessing compliance or administrative action.",
+          "Provide information in the manner and timeframe requested."
+        ],
+        "obligation_start": "From day sponsorship is approved or work agreement commences.",
+        "obligation_end": "Two years after sponsorship ceases and no sponsored visa holders remain.",
+        "must_provide_if": [
+          "Record is required under Commonwealth, state, or territory law.",
+          "Record is required to be kept as a sponsor."
+        ]
+      },
+      "notify_events": {
+        "requirements": [
+          "Notify the department in writing.",
+          "Send notification by registered post or electronic mail.",
+          "Provide notice within required timeframes."
+        ],
+        "events_requiring_notification": [
+          "Primary sponsored person fails to participate in the nominated activity.",
+          "Change to sponsor's address or contact details.",
+          "Change to formal arrangement for a player, coach, instructor, or participant in a sports training program.",
+          "Early cessation of a player, coach, instructor, or participant before the formal agreement’s nominated end date."
+        ]
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

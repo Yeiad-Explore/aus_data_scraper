@@ -1,0 +1,109 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600",
+  "title": "Visitor visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Australian Visitor visa (subclass 600) and its various streams. It outlines eligibility, stay periods, costs, conditions, and application requirements for each visa stream. It also includes notes about processing times, location requirements, and special conditions for certain nationalities.",
+  "structured_data": {
+    "visa_name": "Visitor visa",
+    "subclass": "600",
+    "general_description": "For tourists, business visitors, or to visit family for 3, 6 or 12 months.",
+    "basic_eligibility": [
+      "Be a genuine visitor",
+      "Have enough funds to support your stay and leave"
+    ],
+    "general_notes": [
+      "Australian citizens are ineligible to apply for an eVisitor visa.",
+      "Visitor visa holders need to be aware of new laws restricting visa hopping to the Student visa program.",
+      "Applicants can use the visa processing time guide tool for estimated processing times."
+    ],
+    "streams": [
+      {
+        "stream_name": "Tourist stream (apply outside Australia)",
+        "description": "Lets you visit Australia as a tourist, to go on a cruise or to visit family and friends.",
+        "stay": "Up to 12 months; may be granted 3, 6 or 12 months",
+        "cost": "From AUD200.00",
+        "processing_time_info": "Use the visa processing time guide tool; times are indicative only.",
+        "conditions": [
+          "Must be outside Australia when applying and when the visa is decided.",
+          "Visit friends and family, cruise or have a holiday."
+        ]
+      },
+      {
+        "stream_name": "Tourist stream (apply in Australia)",
+        "description": "Lets you visit Australia as a tourist, to visit family and friends or for purposes other than business or medical treatment.",
+        "stay": "Up to 12 months",
+        "cost": "From AUD500.00",
+        "processing_time_info": "Use the visa processing time guide tool; times are indicative only.",
+        "conditions": [
+          "Must be in Australia when applying and when the visa is decided.",
+          "Visit friends and family, cruise or have a holiday.",
+          "Suitable for those holding another visa that is expiring and wanting to stay longer."
+        ]
+      },
+      {
+        "stream_name": "Business visitor stream",
+        "description": "Lets you visit Australia for business reasons.",
+        "stay": "Up to 3 months",
+        "cost": "AUD200.00",
+        "processing_time_info": "Use the visa processing time guide tool; times are indicative only.",
+        "conditions": [
+          "Can make a short visit for business visitor reasons.",
+          "Cannot work or sell goods or services.",
+          "May allow single or multiple entries.",
+          "Must be outside Australia when applying and when the visa is decided."
+        ]
+      },
+      {
+        "stream_name": "Approved Destination Status stream",
+        "description": "For citizens from certain areas of China visiting Australia on a tour organised by an approved travel agent.",
+        "stay": "For the period or until the date specified in the grant letter",
+        "cost": "AUD200.00",
+        "processing_time_info": "Use the visa processing time guide tool; processing times influenced by backlog from border closures.",
+        "conditions": [
+          "For citizens of the People's Republic of China (excluding SARs).",
+          "Must visit Australia with an organised tour group.",
+          "Must remain with the organised tour group."
+        ]
+      },
+      {
+        "stream_name": "Frequent traveller stream",
+        "description": "For frequent travellers from eligible countries visiting Australia for tourism or business visitor activities.",
+        "eligible_nationalities": [
+          "People's Republic of China",
+          "Brunei",
+          "Cambodia",
+          "Philippines",
+          "Laos",
+          "Indonesia",
+          "Malaysia",
+          "Singapore",
+          "Thailand",
+          "Vietnam",
+          "Timor Leste"
+        ],
+        "stay": "Visa valid up to 10 years; stay up to 3 months per entry",
+        "cost": "AUD1,480.00",
+        "processing_time_info": "Processing times unavailable.",
+        "conditions": [
+          "Visit for tourism and/or business visitor activities.",
+          "Must be outside Australia when applying and when the visa is decided."
+        ]
+      },
+      {
+        "stream_name": "Sponsored family stream",
+        "description": "For people who are sponsored, usually by a family member, to visit their family members in Australia.",
+        "stay": "Up to 12 months",
+        "cost": "AUD200.00",
+        "additional_cost_notes": "Sponsor may be asked to pay a security bond.",
+        "processing_time_info": "Use the visa processing time guide tool; times are indicative only.",
+        "conditions": [
+          "Must be sponsored by an eligible family member who is an Australian citizen or permanent resident.",
+          "Sponsor may be required to pay a security bond.",
+          "Must be outside Australia when applying and when the visa is decided."
+        ]
+      }
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

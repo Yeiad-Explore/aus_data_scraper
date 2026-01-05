@@ -1,0 +1,76 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times",
+  "title": "Visa processing timesVisa processing times",
+  "content_type": "processing_times",
+  "summary": "This page provides median visa processing times for key Australian visa categories as of October 2025. It explains factors that cause variations in processing times and outlines how users can view detailed processing information for their specific visa applications.",
+  "structured_data": {
+    "overview": "The Department aims to improve visa processing times while maintaining program integrity. Processing times can vary significantly based on application completeness, external checks, program place availability, and other factors.",
+    "reasons_for_processing_time_variation": [
+      "Whether applications include all necessary supporting documents",
+      "Whether applications are lodged online or on paper; online applications help streamline processing",
+      "How quickly applicants respond to requests for further information",
+      "Time required to obtain information from external agencies, particularly for health, character, and national security checks",
+      "For permanent visas, the number of places available in the migration program",
+      "Complexity of the visa application",
+      "Fluctuations in the number of visa applications",
+      "Changes to Ministerial Directions",
+      "Deciding older applications increases processing times"
+    ],
+    "median_processing_times": {
+      "permanent_visa_program": {
+        "skilled_permanent": {
+          "month": "October 2025",
+          "processing_time": "13 months",
+          "comments": "Focus on reducing processing times across all permanent visas. Processing both new and older applications may cause monthly fluctuations as the oldest cases are progressed."
+        },
+        "partner_provisional_temporary": {
+          "month": "October 2025",
+          "processing_time": "16 months",
+          "comments": "Efforts are focused on reducing times for Partner visas, particularly older and complex cases. This will affect monthly processing statistics as the oldest applications are finalised."
+        }
+      },
+      "temporary_visa_program": {
+        "skilled_temporary": {
+          "month": "October 2025",
+          "processing_time": "123 days",
+          "comments": "Processing time reductions are a priority. Incomplete applications requiring additional information cause delays. Simultaneous lodgement of nomination and visa applications is encouraged. Focus also includes older and complex applications, affecting monthly averages."
+        },
+        "student": {
+          "month": "October 2025",
+          "processing_time": "41 days",
+          "comments": "Applications lodged outside Australia are processed according to Ministerial Directions. Lodged before 14 November 2025: Ministerial Direction 111. Lodged on or after 14 November 2025: Ministerial Direction 115. Applicants should lodge well ahead of course commencement with complete documentation."
+        },
+        "visitor": {
+          "month": "October 2025",
+          "processing_time": "Less than 1 day",
+          "comments": "Includes subclasses 600, 601, and 651. For subclass-specific times, refer to the global processing times guide."
+        },
+        "working_holiday_maker": {
+          "month": "October 2025",
+          "processing_time": "Less than 1 day",
+          "comments": "N/A"
+        }
+      }
+    },
+    "ministerial_directions_for_student_visas": {
+      "before_14_november_2025": "Ministerial Direction 111 (10MB PDF)",
+      "on_or_after_14_november_2025": "Ministerial Direction 115 (851KB PDF)",
+      "notes": "Student visa applications lodged outside Australia follow these directions."
+    },
+    "how_to_view_processing_times": {
+      "instructions": "Applicants can view processing time information using the visa processing times guide.",
+      "update_frequency": "Processing times are updated regularly as new data becomes available.",
+      "exceptions": [
+        "Visas that are closed to new applications",
+        "Family visas that are capped and queued",
+        "Visas with too few decisions in the month to provide reliable processing time indicators"
+      ]
+    },
+    "recommendations_for_faster_processing": [
+      "Submit all necessary supporting documents at the time of application",
+      "Where possible, lodge nomination and visa applications simultaneously (for relevant visa types)"
+    ]
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

@@ -1,0 +1,84 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/temporary-skill-shortage-medium-term-visa-subclass-482",
+  "title": "Temporary Skill Shortage (Medium-term) visa (subclass 482)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the Temporary Skill Shortage (Medium‑term) visa (subclass 482), which is now closed to new applications. It explains transitional arrangements following the introduction of the Skills in Demand (SID) visa on 7 December 2024 and provides guidance for existing 482 visa holders. It outlines rights, obligations, family member rules, and what the visa allows holders to do.",
+  "structured_data": {
+    "visa_name": "Temporary Skill Shortage (Medium-term) visa",
+    "subclass": "482",
+    "status": "Closed to new applications",
+    "replacement_visa": {
+      "visa_name": "Skills in Demand (SID) visa",
+      "replacement_date": "7 December 2024",
+      "details": [
+        "Replaced the Temporary Skills Shortage (TSS) visa on 7 December 2024.",
+        "TSS nominations and visa applications lodged before 7 December 2024 will be processed under the requirements in effect at the time of lodgement.",
+        "If a TSS nomination was lodged but the associated visa application was not lodged before 7 December 2024, an approved nomination will be deemed a SID nomination and applicants may lodge a SID visa application."
+      ]
+    },
+    "about_this_visa": {
+      "purpose": "Enables employers to address labour shortages by bringing in skilled workers when suitably skilled Australian workers are not available.",
+      "stay_duration": [
+        "Up to 4 years for most applicants.",
+        "Up to 5 years for Hong Kong passport holders."
+      ],
+      "occupation_requirements": [
+        "Occupation must be on the Medium and Long-term Strategic Skills List (MLTSSL) or",
+        "Occupation must be on the Regional Occupation List (ROL)"
+      ]
+    },
+    "visa_holders_information": {
+      "applicability": "For current holders of the Temporary Skill Shortage (Medium-term stream) visa (subclass 482) or applicants who lodged their application on or before 6 December 2024 and have not yet received a decision.",
+      "entitlement_check": "Visa Entitlement Verification Online (VEVO) is available for free to check visa details and entitlements."
+    },
+    "visa_validity": {
+      "current_holders": "Visa remains valid until the expiry date provided when it was granted."
+    },
+    "what_this_visa_lets_you_do": {
+      "permissions": [
+        "Live in Australia temporarily.",
+        "Study in Australia.",
+        "Work in Australia.",
+        "Have eligible dependant family members apply to join you in Australia."
+      ]
+    },
+    "holder_obligations": {
+      "general_requirements": [
+        "Comply with all visa conditions and Australian laws."
+      ],
+      "specific_requirements": [
+        "Maintain adequate health insurance while in Australia.",
+        "Continue to meet the requirements of the visa stream under which the visa was granted.",
+        "Leave Australia when the visa ends unless granted another visa."
+      ]
+    },
+    "family_members": {
+      "subsequent_entrants": "Dependent family members who were not included in the original application may apply as subsequent entrants from inside or outside Australia while the primary visa remains valid.",
+      "requirements": [
+        "Family must leave Australia when the visa ends.",
+        "Family members must intend to remain members of the family unit.",
+        "Family members must maintain adequate health insurance while in Australia."
+      ],
+      "entitlements": [
+        "Live in Australia.",
+        "Travel in and out of Australia.",
+        "Work in Australia.",
+        "Study in Australia."
+      ],
+      "additional_conditions": "Any other applicable conditions will be advised at the time the visa is granted."
+    },
+    "reporting_changes": {
+      "instruction": "Holders must report any changes in circumstances.",
+      "examples_of_changes": [
+        "New residential address",
+        "New passport",
+        "Pregnancy",
+        "Birth",
+        "Death in the family"
+      ],
+      "reference": "Visit 'Changes in your situation' for further information."
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

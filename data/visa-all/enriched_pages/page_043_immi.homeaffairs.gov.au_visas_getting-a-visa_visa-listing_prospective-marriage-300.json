@@ -1,0 +1,121 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/prospective-marriage-300",
+  "title": "Prospective Marriage visa",
+  "content_type": "visa_information",
+  "summary": "This page provides detailed information about the Prospective Marriage visa (Subclass 300), which allows applicants to travel to Australia to marry their prospective spouse and later apply for a Partner visa. It includes eligibility requirements, costs, conditions, obligations, and application procedures.",
+  "structured_data": {
+    "visa_name": "Prospective Marriage visa",
+    "subclass": "300",
+    "description": "This temporary visa lets applicants come to Australia to marry their prospective spouse and then apply for a Partner visa.",
+    "stay_duration": "9 to 15 months from date of visa grant",
+    "cost": {
+      "main_applicant_fee": "AUD 9,365.00",
+      "additional_family_member_fees": "Additional fees apply for each family member included",
+      "note": "Correct visa application charge must be paid or application cannot be processed",
+      "other_possible_costs": [
+        "Health checks",
+        "Police certificates",
+        "Biometrics"
+      ],
+      "pricing_tools": {
+        "visa_pricing_estimator": "Available online; does not include health checks, police certificates, or biometrics"
+      },
+      "partner_visa_cost_note": "Applicants pay less for Partner visa (subclasses 820 and 801) if they marry before the Prospective Marriage visa ends"
+    },
+    "processing_times": {
+      "note": "Use the visa processing time guide tool for recent processing times; these are indicative only",
+      "prioritization": "Aged, compassionate and compelling applications"
+    },
+    "with_this_visa_you_can": [
+      "Stay in Australia for 9 to 15 months from visa grant date",
+      "Work and study in Australia",
+      "Travel to and from Australia multiple times while visa is valid",
+      "Apply for a Partner visa after marriage and before this visa expires"
+    ],
+    "eligibility": {
+      "age": "Applicants and sponsors must be 18 years or older",
+      "location_requirements": {
+        "when_applying": "Applicant and family members must be outside Australia",
+        "when_decided": "Applicant can be inside or outside Australia"
+      },
+      "sponsor_requirements": {
+        "who_can_sponsor": [
+          "Australian citizen",
+          "Australian permanent resident",
+          "Eligible New Zealand citizen"
+        ],
+        "conditions": [
+          "Sponsor must be the prospective spouse",
+          "Both must have met in person as adults since turning 18",
+          "Must be personally known to each other at time of application",
+          "Sponsor must be approved by the Department"
+        ]
+      },
+      "relationship_requirements": {
+        "must_intend_to_marry": "Applicant must intend to marry prospective spouse before visa expires",
+        "marriage_validity": "Marriage can occur in any country but must be valid under Australian law"
+      },
+      "health_requirements": {
+        "applicants_and_family": "Must meet health requirement",
+        "non_travelling_family": "May also need to meet health requirement"
+      },
+      "character_requirements": {
+        "applicants_aged_16_and_over": "Must meet character requirement",
+        "non_travelling_family": "Character information may also be required"
+      },
+      "visa_history": {
+        "cancellation_or_refusal": "Previous visa cancellations or refusals may affect eligibility"
+      }
+    },
+    "family_members": {
+      "can_include": "Family members can be included when lodging the application or added as dependent children before visa decision",
+      "conditions": [
+        "Must be members of the family unit",
+        "Must meet health and character requirements",
+        "Must be outside Australia"
+      ],
+      "non_travelling_family": "May be asked to meet health and character requirements",
+      "newborn_children": "See 'You had a baby' for instructions"
+    },
+    "application_information": {
+      "location_requirement": "Applicant and family must be outside Australia when applying",
+      "how_to_apply": "Sponsor should apply as soon as possible after visa application"
+    },
+    "obligations": {
+      "general": [
+        "Must meet all visa conditions",
+        "Must obey Australian laws"
+      ],
+      "marriage_requirements": [
+        "Must enter Australia before the date specified on grant letter",
+        "Must marry prospective spouse before visa expires"
+      ],
+      "forced_marriage_warning": {
+        "description": "Forced marriage is a crime in Australia",
+        "definition": "Marriage without full and free consent, possibly involving threat, pressure, or lack of capacity",
+        "help_information": "Information available at Attorney-General's Department"
+      }
+    },
+    "health_insurance": {
+      "recommendation": "Applicants are advised to get adequate health insurance",
+      "liability_note": "Applicants are personally liable for all healthcare costs",
+      "links": [
+        "Adequate health insurance requirements",
+        "Health insurance for overseas visitors"
+      ],
+      "reciprocal_healthcare_agreements": "Some countries have agreements with Australia"
+    },
+    "travel_information": {
+      "travel_flexibility": "Unlimited travel to and from Australia during visa validity",
+      "first_entry_arrival_date": "If outside Australia at grant, must enter before date specified in grant letter"
+    },
+    "visa_label": {
+      "note": "Visa is digitally linked to passport; no physical label is provided"
+    },
+    "faqs": {
+      "link": "Partner Program Frequently Asked Questions (FAQs)"
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

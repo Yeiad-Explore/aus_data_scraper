@@ -1,0 +1,111 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/medical-practitioner-visa-subclass-422",
+  "title": "Medical Practitioner visa (subclass 422)",
+  "content_type": "visa_information",
+  "summary": "This page provides information about the now-closed Medical Practitioner visa (subclass 422). It outlines what current visa holders and their sponsors need to know, including visa conditions, work requirements, health insurance obligations, taxation rules, and how to notify authorities of changes in circumstances.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Medical Practitioner visa",
+      "subclass": "422",
+      "status": "closed_to_new_applications",
+      "application_availability": "You cannot apply for this visa.",
+      "duration": "up to four years",
+      "holder_rights": [
+        "work in Australia for up to four years",
+        "bring family members to Australia, who can work and study",
+        "travel in and out of Australia any number of times while the visa is valid"
+      ]
+    },
+    "visa_holder_obligations": {
+      "general_obligations": [
+        "comply with all visa conditions",
+        "comply with Australian laws"
+      ],
+      "work_requirements": {
+        "must_not": [
+          "stop being employed by the sponsoring employer",
+          "work in a position or occupation inconsistent with the one for which the visa was granted"
+        ],
+        "if_employment_ends": [
+          "find another employer willing to sponsor another appropriate visa (not a subclass 422)",
+          "apply for another type of visa",
+          "leave Australia before the visa ends"
+        ]
+      },
+      "private_health_insurance": {
+        "requirements": [
+          "visa holders are responsible for their own health costs while in Australia",
+          "visa holders and family members must have adequate private medical and hospital insurance unless covered by a reciprocal health care agreement and enrolled with Medicare"
+        ],
+        "insurance_providers": "Can be Australian or international companies"
+      },
+      "taxation_requirements": {
+        "must_comply_with": "Australia’s taxation law",
+        "more_information": "Available on the Australian Taxation Office website"
+      },
+      "notify_changes": {
+        "changes_to_report": [
+          "phone number, email, address, or passport changes",
+          "changes to relationship status",
+          "birth of a child"
+        ],
+        "consequences_of_not_reporting_new_passport": "Significant delays at the airport and possible denial of boarding"
+      },
+      "adding_a_dependent": {
+        "instructions": "Contact the responsible processing centre",
+        "processing_centres": {
+          "melbourne_cbd": {
+            "responsible_for_states": [
+              "Northern Territory",
+              "South Australia",
+              "Tasmania",
+              "Victoria"
+            ]
+          },
+          "perth": {
+            "responsible_for_states": [
+              "Western Australia"
+            ]
+          },
+          "sydney_cbd": {
+            "responsible_for_states": [
+              "New South Wales",
+              "South Australia",
+              "Australian Capital Territory"
+            ]
+          }
+        }
+      }
+    },
+    "sponsor_information": {
+      "sponsorship_duration": "lasts for the duration of the visa holder’s visa",
+      "updating_sponsorship_information": {
+        "contact_instructions": "Contact the responsible processing centre",
+        "processing_centres": {
+          "melbourne_cbd": {
+            "responsible_for_states": [
+              "Northern Territory",
+              "South Australia",
+              "Tasmania",
+              "Victoria"
+            ]
+          },
+          "perth": {
+            "responsible_for_states": [
+              "Western Australia"
+            ]
+          },
+          "sydney_cbd": {
+            "responsible_for_states": [
+              "New South Wales",
+              "South Australia",
+              "Australian Capital Territory"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

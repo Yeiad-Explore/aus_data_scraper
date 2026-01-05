@@ -1,0 +1,52 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/labour-agreement-visa-subclass-855",
+  "title": "Labour Agreement visa (subclass 855)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for holders of the Labour Agreement visa (subclass 855), which closed to new applications on 1 July 2012. It explains the rights and obligations of visa holders and their employers, as well as what the visa allows holders to do.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Labour Agreement visa",
+      "subclass": "855",
+      "status": "closed_to_new_applications",
+      "closure_date": "1 July 2012",
+      "availability": "You cannot get this visa.",
+      "possible_alternative_visas": [
+        {
+          "visa_name": "Employer Nomination Scheme",
+          "subclass": "186"
+        }
+      ],
+      "intended_audience": "People who have been granted a Labour Agreement visa (subclass 855)",
+      "description": "Information explaining the rights and obligations of current visa holders."
+    },
+    "visa_entitlements": {
+      "general": "This is a permanent residence visa.",
+      "allows_holder_and_family_to": [
+        "stay in Australia indefinitely",
+        "work and study in Australia",
+        "enrol in Medicare, Australia's scheme for health-related care and expenses",
+        "apply for Australian citizenship (if eligible)",
+        "sponsor eligible relatives for permanent residence",
+        "travel to and from Australia for five years from the date the visa is granted (after five years, a resident return visa or other visa is required for re-entry)"
+      ]
+    },
+    "verification": {
+      "service_name": "Visa Entitlement Verification Online (VEVO)",
+      "cost": "free",
+      "purpose": "Check visa details and entitlements"
+    },
+    "visa_holder_obligations": {
+      "work_requirements": "Visa holders do not have to work for the employer who nominated them.",
+      "legal_compliance": "Visa holders must comply with obligations under employment contracts or industrial laws, including providing appropriate notice before ceasing employment."
+    },
+    "employer_obligations": {
+      "must": [
+        "provide a full-time position",
+        "meet any additional requirements of the Labour Agreement",
+        "comply with all relevant Australian standards and workplace legislation for wages and working conditions"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}

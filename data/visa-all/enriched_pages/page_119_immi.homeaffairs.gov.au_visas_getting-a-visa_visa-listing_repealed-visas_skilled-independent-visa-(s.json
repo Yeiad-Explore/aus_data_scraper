@@ -1,0 +1,118 @@
+{
+  "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/skilled-independent-visa-(subclass-885)",
+  "title": "Skilled — Independent visa (subclass 885)",
+  "content_type": "visa_information",
+  "summary": "This page provides information for people who have already applied for or been granted the Skilled – Independent visa (subclass 885), which is now closed to new applications. It outlines post‑lodgement processes, obligations, decision outcomes, and rights for visa holders. It also includes requirements such as health, character, and updating personal details.",
+  "structured_data": {
+    "visa_details": {
+      "visa_name": "Skilled – Independent visa",
+      "subclass": "885",
+      "status": "closed_to_new_applications",
+      "closure_date": "1 January 2013",
+      "description": "A permanent residence visa for skilled workers.",
+      "location_requirement_for_grant": "Must be in Australia when the visa is granted."
+    },
+    "applicants_information": {
+      "who_this_is_for": "People who applied for a Skilled – Independent visa (subclass 885) before it closed.",
+      "new_applications_allowed": false,
+      "family_unit_combined_application": "If no decision has been made, members of the family unit can lodge a combined application."
+    },
+    "after_applying": {
+      "acknowledgement": "Department will acknowledge receipt of application and documents.",
+      "case_officer_assignment": "A case officer will be assigned to review the application, request more information, request interviews, and make a decision."
+    },
+    "waiting_for_decision": {
+      "factors_that_delay_processing": [
+        "Need for character checks",
+        "Need for health checks or chest x-rays",
+        "Need to provide more information",
+        "Incomplete application"
+      ],
+      "bridging_visas": {
+        "eligibility": "Available if applying for this visa in Australia.",
+        "bridging_visa_a": "Allows lawful stay while application is processed.",
+        "bridging_visa_b": "Can be applied for to travel outside Australia while waiting for a decision."
+      }
+    },
+    "health_and_character_requirements": {
+      "department_contact": "Department will contact applicants when health or character documents are required."
+    },
+    "debts_to_australian_government": {
+      "requirement": "Applicants must have no outstanding debts or must have arranged repayment before visa grant."
+    },
+    "providing_more_information": {
+      "additional_information_allowed": "Applicants can provide more information at any time until a decision is made.",
+      "corrections_form": {
+        "form_name": "Notification of incorrect answer(s)",
+        "form_number": "Form 1023",
+        "file_size": "168KB PDF"
+      },
+      "requests_for_information": "The department may ask for more information and applicants must respond by a set date.",
+      "interviews": {
+        "possible": true,
+        "requirements_if_attending": [
+          "Passport or other identification",
+          "Any requested documents"
+        ]
+      },
+      "third_party_information": "If another person provides information that may affect the application, applicants are usually given an opportunity to comment."
+    },
+    "change_of_circumstances": {
+      "must_notify_changes": [
+        "Phone number",
+        "Email",
+        "Address",
+        "Passport",
+        "Relationship status",
+        "Birth of a child"
+      ],
+      "consequences_of_not_updating_passport": "Delays at the airport and potential denial of permission to board a plane."
+    },
+    "withdrawing_application": {
+      "allowed": true,
+      "requirements": {
+        "method": "Send a letter or email requesting withdrawal.",
+        "information_required": [
+          "Full name",
+          "Date of birth",
+          "File reference number or client ID or Transaction Reference Number"
+        ],
+        "signatures_required": "All applicants aged 18 years or older must sign the withdrawal request."
+      }
+    },
+    "visa_decision": {
+      "notification_includes": [
+        "When the visa can be used",
+        "Visa grant number",
+        "Any visa conditions"
+      ]
+    },
+    "contact_information": {
+      "processing_centre": "Adelaide General Skilled Migration (GSM) processing centre"
+    },
+    "visa_holders_information": {
+      "applicability": "For people already granted a Skilled – Independent visa (subclass 885).",
+      "rights_and_obligations": "Explains visa holder rights and obligations.",
+      "vevo": "Visa holders can use VEVO for free to check visa details."
+    },
+    "visa_holder_entitlements": {
+      "visa_type": "Permanent residence visa",
+      "entitlements": [
+        "Stay in Australia indefinitely",
+        "Work and study in Australia",
+        "Enrol in Medicare",
+        "Apply for Australian citizenship if eligible",
+        "Sponsor eligible relatives for permanent residence",
+        "Travel to and from Australia for five years from date of grant (resident return visa required after that)"
+      ]
+    },
+    "visa_holder_obligations": {
+      "requirements": [
+        "Comply with all visa conditions",
+        "Comply with Australian laws"
+      ]
+    }
+  },
+  "parent_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing",
+  "depth": 1
+}
